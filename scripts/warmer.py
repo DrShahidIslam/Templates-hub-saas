@@ -20,7 +20,7 @@ import requests
 
 # ── Configuration ──────────────────────────────────────────────────────────
 
-BASE_URL = os.environ.get("BASE_URL", "https://your-production-domain.com").rstrip("/")
+BASE_URL = os.environ.get("BASE_URL", "https://templates-hub-beta.vercel.app/templates").rstrip("/")
 CSV_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "seo_keywords.csv")
 REQUEST_DELAY = 6  # seconds between requests to respect API rate limits
 
@@ -55,7 +55,7 @@ def main():
             print(f"  [{i}/{total}] ⚠️  Skipped empty slug for: '{keyword}'")
             continue
 
-        url = f"{BASE_URL}/templates/{slug}"
+        url = f"{BASE_URL}/{slug}"
 
         try:
             response = requests.get(url, timeout=60)
