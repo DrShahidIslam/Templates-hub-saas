@@ -103,53 +103,6 @@ export default async function TemplatePage({
 
   return (
     <>
-      {/* ── NAVIGATION ── */}
-      <nav
-        className="sticky top-0 z-50 bg-white/80 backdrop-blur-lg border-b border-border"
-        aria-label="Main navigation"
-      >
-        <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-2.5 group" id="nav-logo">
-            <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-accent to-purple-600 flex items-center justify-center">
-              <Layers className="w-4 h-4 text-white" />
-            </div>
-            <span className="font-semibold text-lg tracking-tight">
-              Template<span className="gradient-text">Registry</span>
-            </span>
-          </Link>
-          <div className="hidden md:flex items-center gap-8 text-sm text-muted-foreground">
-            <Link
-              href="/templates"
-              className="hover:text-foreground transition-colors"
-              id="nav-templates"
-            >
-              Templates
-            </Link>
-            <Link
-              href="/categories"
-              className="hover:text-foreground transition-colors"
-              id="nav-categories"
-            >
-              Categories
-            </Link>
-            <Link
-              href="/blog"
-              className="hover:text-foreground transition-colors"
-              id="nav-blog"
-            >
-              Blog
-            </Link>
-            <Link
-              href="/pricing"
-              className="px-4 py-2 bg-foreground text-white rounded-lg text-sm font-medium hover:bg-foreground/90 transition-colors"
-              id="nav-pricing"
-            >
-              Go Pro
-            </Link>
-          </div>
-        </div>
-      </nav>
-
       {/* ── BREADCRUMB ── */}
       <div className="max-w-7xl mx-auto px-6 pt-6">
         <nav
