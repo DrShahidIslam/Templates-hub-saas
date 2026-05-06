@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       base_url:
-        description: "Production URL to warm (e.g. https://your-domain.com)"
+        description: "Production URL to warm (e.g. https://your-domain.com/templates)"
         required: false
-        default: "https://your-production-domain.com"
+        default: "https://templates-hub-beta.vercel.app/templates"
 
 jobs:
   warm-cache:
