@@ -43,24 +43,29 @@ export default function PdfDownloadButton({ title }: { title: string }) {
 
     try {
       setIsGenerating(true);
-      // Dynamically import html2pdf.js to avoid SSR errors
-      const html2pdf = (await import("html2pdf.js")).default;
-      const element = document.getElementById("pdf-content");
+      console.log("1. Starting PDF generation...");
 
+      const element = document.getElementById('pdf-content');
       if (!element) {
-        console.error("PDF content element not found");
-        return;
+        throw new Error("Target element '#pdf-content' not found on the page.");
       }
+      console.log("2. Target element found.");
+
+      // Dynamically import to avoid Next.js window is not defined errors
+      const html2pdf = (await import('html2pdf.js')).default;
+      console.log("3. Library imported successfully.");
 
       const opt = {
-        margin: 15,
-        filename: `${title}.pdf`,
-        image: { type: "jpeg" as const, quality: 0.98 },
-        html2canvas: { scale: 2, useCORS: true },
-        jsPDF: { unit: "mm" as const, format: "a4" as const, orientation: "portrait" as const },
+        margin:       [0.5, 0.5, 0.5, 0.5] as [number, number, number, number],
+        filename:     `${title}.pdf`,
+        image:        { type: 'jpeg' as const, quality: 0.98 },
+        html2canvas:  { scale: 2, useCORS: true },
+        jsPDF:        { unit: 'in' as const, format: 'letter' as const, orientation: 'portrait' as const }
       };
 
+      console.log("4. Executing html2pdf...");
       await html2pdf().set(opt).from(element).save();
+      console.log("5. PDF successfully downloaded!");
 
       // Increment count on successful download for free users
       if (!isPremium) {
@@ -69,7 +74,8 @@ export default function PdfDownloadButton({ title }: { title: string }) {
         localStorage.setItem("templatehub_downloads", newCount.toString());
       }
     } catch (error) {
-      console.error("Error generating PDF:", error);
+      console.error("PDF Generation FAILED:", error);
+      alert("There was an issue generating the PDF. Please check the console.");
     } finally {
       setIsGenerating(false);
     }
