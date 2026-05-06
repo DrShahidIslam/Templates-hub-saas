@@ -14,6 +14,7 @@ import { injectInternalLinks } from "@/lib/linker";
 import Link from "next/link";
 import PdfDownloadButton from "@/app/components/PdfDownloadButton";
 import NotionExportButton from "@/app/components/NotionExportButton";
+import TemplatePreviewProtection from "@/app/components/TemplatePreviewProtection";
 
 /* ────────────────────────────────────────────
    ISR — cache each page for 24 hours, then revalidate
@@ -181,7 +182,9 @@ export default async function TemplatePage({
                 className="border border-border rounded-2xl p-6 md:p-8 text-[#000000] bg-[#ffffff]"
                 style={{ color: '#000000', backgroundColor: '#ffffff' }}
               >
-                <MarkdownRenderer content={generatedMarkdown} />
+                <TemplatePreviewProtection>
+                  <MarkdownRenderer content={generatedMarkdown} />
+                </TemplatePreviewProtection>
               </div>
             </section>
 

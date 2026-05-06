@@ -73,6 +73,9 @@ export default function PdfDownloadButton({ title }: { title: string }) {
           scale: 2, 
           useCORS: true,
           onclone: (clonedDoc: Document) => {
+            // 0. Remove watermarks and upgrade nudges
+            clonedDoc.querySelectorAll('.no-pdf').forEach(el => el.remove());
+
             // 1. Nuclear scrub of all <style> tags in the head
             const styleTags = clonedDoc.querySelectorAll('style');
             styleTags.forEach(style => {
