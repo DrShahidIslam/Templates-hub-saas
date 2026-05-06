@@ -59,7 +59,32 @@ export default function PdfDownloadButton({ title }: { title: string }) {
         margin:       [0.5, 0.5, 0.5, 0.5] as [number, number, number, number],
         filename:     `${title}.pdf`,
         image:        { type: 'jpeg' as const, quality: 0.98 },
-        html2canvas:  { scale: 2, useCORS: true },
+        html2canvas:  { 
+          scale: 2, 
+          useCORS: true,
+          onclone: (clonedDoc: Document) => {
+            // Find the cloned container
+            const clonedElement = clonedDoc.getElementById('pdf-content');
+            if (clonedElement) {
+              // Force safe colors on the cloned element explicitly for the PDF
+              clonedElement.style.color = '#000000';
+              clonedElement.style.backgroundColor = '#ffffff';
+
+              // Loop through all children to strip 'lab' or 'oklch' variables
+              const allElements = clonedElement.getElementsByTagName('*');
+              for (let i = 0; i < allElements.length; i++) {
+                 const el = allElements[i] as HTMLElement;
+                 const computedStyle = window.getComputedStyle(el);
+                 if (computedStyle.color.includes('lab') || computedStyle.color.includes('oklch')) {
+                    el.style.color = '#000000'; // Fallback text color
+                 }
+                 if (computedStyle.backgroundColor.includes('lab') || computedStyle.backgroundColor.includes('oklch')) {
+                    el.style.backgroundColor = 'transparent'; // Fallback background
+                 }
+              }
+            }
+          }
+        },
         jsPDF:        { unit: 'in' as const, format: 'letter' as const, orientation: 'portrait' as const }
       };
 

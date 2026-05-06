@@ -215,7 +215,11 @@ export default async function TemplatePage({
                 </h2>
               </div>
 
-              <div id="pdf-content" className="border border-border rounded-2xl p-6 md:p-8 bg-white">
+              <div 
+                id="pdf-content" 
+                className="border border-border rounded-2xl p-6 md:p-8 text-[#000000] bg-[#ffffff]"
+                style={{ color: '#000000', backgroundColor: '#ffffff' }}
+              >
                 <MarkdownRenderer content={generatedMarkdown} />
               </div>
             </section>
