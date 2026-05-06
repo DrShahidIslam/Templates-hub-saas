@@ -103,12 +103,22 @@ async function generateWithResilience(keyword: string): Promise<string | null> {
 function syncToGithub(count: number) {
   try {
     console.log(`\n🚀 Syncing batch of ${count} templates to GitHub...`);
+    
+    // Stage and commit locally
     execSync("git add .", { stdio: "inherit" });
     execSync('git commit -m "chore: auto-generated batch of templates [skip ci]"', { stdio: "inherit" });
-    execSync("git push", { stdio: "inherit" });
+
+    // Pull remote changes first to avoid conflicts
+    console.log("📥 Pulling latest changes (rebase)...");
+    execSync("git pull --rebase origin main", { stdio: "inherit" });
+
+    // Push the merged batch
+    execSync("git push origin main", { stdio: "inherit" });
+    
     console.log("✅ Batch synced successfully.\n");
   } catch (error: any) {
     console.error("❌ Git sync failed:", error.message);
+    console.log("⚠️ Continuing generation loop, will retry sync in next batch.");
   }
 }
 
