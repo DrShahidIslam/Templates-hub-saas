@@ -65,7 +65,7 @@ async function generateWithResilience(keyword: string): Promise<string | null> {
 
     try {
       const response = await ai.models.generateContent({
-        model: "gemini-2.5-flash",
+        model: "gemini-1.5-flash",
         contents: prompt,
       });
 
@@ -151,6 +151,9 @@ async function main() {
         syncToGithub(batchCounter);
         batchCounter = 0;
       }
+
+      // 6-second safety delay to stay under 15 RPM (1.5 Flash Free Tier limit)
+      await sleep(6000);
     } else {
       console.error(`⏩ Skipping persistent failure for: ${keyword}`);
     }

@@ -13,6 +13,7 @@ import { generateSOP } from "@/lib/gemini";
 import { injectInternalLinks } from "@/lib/linker";
 import Link from "next/link";
 import PdfDownloadButton from "@/app/components/PdfDownloadButton";
+import NotionExportButton from "@/app/components/NotionExportButton";
 
 /* ────────────────────────────────────────────
    ISR — cache each page for 24 hours, then revalidate
@@ -252,13 +253,7 @@ export default async function TemplatePage({
                 {/* CTA Buttons */}
                 <div className="space-y-3">
                   <PdfDownloadButton title={titleCased} />
-                  <button
-                    id="export-notion-btn"
-                    className="w-full flex items-center justify-center gap-2 px-5 py-3.5 bg-white text-foreground border border-border rounded-xl font-medium text-sm hover:bg-muted hover:border-foreground/20 transition-all duration-200 cursor-pointer"
-                  >
-                    <ExternalLink className="w-4 h-4" />
-                    Export to Notion
-                  </button>
+                  <NotionExportButton markdownContent={generatedMarkdown} />
                 </div>
 
                 {/* Divider */}
