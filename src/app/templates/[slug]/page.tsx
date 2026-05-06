@@ -243,6 +243,7 @@ export default async function TemplatePage({
                   <Link
                     key={index}
                     href={`/templates/${related.slug}`}
+                    prefetch={false}
                     className="card-hover block border border-border rounded-2xl p-5 bg-white group"
                     id={`related-template-${index}`}
                   >

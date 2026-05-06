@@ -65,6 +65,7 @@ export default function TemplatesIndexPage() {
             <Link
               key={entry.slug}
               href={`/templates/${entry.slug}`}
+              prefetch={false}
               className="group border border-border rounded-xl p-5 bg-white hover:border-accent/50 hover:shadow-sm transition-all duration-200 flex flex-col h-full"
             >
               <div className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center mb-4 group-hover:bg-accent-light transition-colors shrink-0">

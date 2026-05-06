@@ -52,7 +52,7 @@ export async function generateSOP(keyword: string): Promise<string> {
     console.error(`[Gemini] Failed to generate SOP for "${keyword}":`, error);
 
     // Return a graceful fallback so the page still renders
-    return getFallbackContent(keyword);
+    return `# Template Generating...\n\nWe are currently experiencing high demand. The AI is queueing this template.\n\n**Please refresh this page in 60 seconds to view and download your customized SOP.**`;
   }
 }
 
