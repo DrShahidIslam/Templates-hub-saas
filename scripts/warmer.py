@@ -22,7 +22,7 @@ import requests
 
 BASE_URL = os.environ.get("BASE_URL", "https://templates-hub-beta.vercel.app/templates").rstrip("/")
 CSV_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "seo_keywords.csv")
-REQUEST_DELAY = 6  # seconds between requests to respect API rate limits
+REQUEST_DELAY = 15  # seconds between requests to respect API rate limits
 
 
 def to_slug(keyword: str) -> str:
@@ -57,20 +57,30 @@ def main():
 
         url = f"{BASE_URL}/{slug}"
 
-        try:
-            response = requests.get(url, timeout=60)
-            status = response.status_code
+        while True:
+            try:
+                response = requests.get(url, timeout=60)
+                status = response.status_code
 
-            if status == 200:
-                print(f"  [{i}/{total}] ✅ {status} — {slug}")
-                success += 1
-            else:
-                print(f"  [{i}/{total}] ⚠️  {status} — {slug}")
+                # Detect Next.js soft-fallback indicating a background Gemini 429 error
+                if "We are currently experiencing high demand" in response.text:
+                    print(f"  [{i}/{total}] ⚠️  Rate limit hit detected on {url}. Pausing for 65 seconds...")
+                    time.sleep(65)
+                    continue  # Retry this exact URL
+
+                if status == 200:
+                    print(f"  [{i}/{total}] ✅ {status} — {slug}")
+                    success += 1
+                else:
+                    print(f"  [{i}/{total}] ⚠️  {status} — {slug}")
+                    failed += 1
+                
+                break # Proceed to next keyword
+
+            except requests.RequestException as e:
+                print(f"  [{i}/{total}] ❌ ERROR — {slug}: {e}")
                 failed += 1
-
-        except requests.RequestException as e:
-            print(f"  [{i}/{total}] ❌ ERROR — {slug}: {e}")
-            failed += 1
+                break # Proceed to next keyword
 
         # Respect API rate limits
         if i < total:
