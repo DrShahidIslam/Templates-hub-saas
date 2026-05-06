@@ -6,7 +6,12 @@ import { useState, useEffect } from "react";
 export default function PdfDownloadButton({ title }: { title: string }) {
   const [isGenerating, setIsGenerating] = useState(false);
   const [downloadCount, setDownloadCount] = useState(0);
-  const [isPremium, setIsPremium] = useState(false);
+  const [isPremium, setIsPremium] = useState(() => {
+    if (typeof window !== "undefined") {
+      return localStorage.getItem("isPremium") === "true" || localStorage.getItem("templatehub_premium") === "true";
+    }
+    return false;
+  });
   const [showPaywallModal, setShowPaywallModal] = useState(false);
   const [mounted, setMounted] = useState(false);
 
@@ -14,28 +19,30 @@ export default function PdfDownloadButton({ title }: { title: string }) {
     setMounted(true);
 
     if (typeof window !== "undefined") {
-      // 1. Check for payment success directly via URLSearchParams 
-      // (avoiding Next.js useSearchParams to prevent static de-opting)
-      const searchParams = new URLSearchParams(window.location.search);
-      const paymentSuccessful = searchParams.get('success') === 'true';
+      let currentPremium = isPremium;
 
-      if (paymentSuccessful) {
+      // A. Greedy check of localStorage
+      const storedPremium = localStorage.getItem("isPremium") === "true" || localStorage.getItem("templatehub_premium") === "true";
+      if (storedPremium) {
         setIsPremium(true);
-        localStorage.setItem("isPremium", "true");
-        
-        // Clean the URL without causing a page reload, stripping all tokens
-        window.history.replaceState({}, "", window.location.pathname);
-      } else {
-        // 2. Load existing state from localStorage
-        // Checking both keys for backwards compatibility with previous sessions
-        const storedPremium = localStorage.getItem("isPremium") === "true" || localStorage.getItem("templatehub_premium") === "true";
-        const storedCount = parseInt(localStorage.getItem("templatehub_downloads") || "0", 10);
-        
-        setIsPremium(storedPremium);
-        setDownloadCount(storedCount);
+        currentPremium = true;
       }
+
+      // B. Greedy check of URL for success redirect
+      const searchParams = new URLSearchParams(window.location.search);
+      if (searchParams.get('success') === 'true') {
+        setIsPremium(true);
+        currentPremium = true;
+        localStorage.setItem("isPremium", "true");
+        window.history.replaceState({}, "", window.location.pathname);
+      }
+
+      const storedCount = parseInt(localStorage.getItem("templatehub_downloads") || "0", 10);
+      setDownloadCount(storedCount);
+
+      console.log("Current Premium Status:", currentPremium);
     }
-  }, []);
+  }, [isPremium]);
 
   const handleDownload = async () => {
     // Check metered paywall limit
