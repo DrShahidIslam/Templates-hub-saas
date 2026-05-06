@@ -102,3 +102,15 @@ export function getKeywordBySlug(slug: string): KeywordEntry | undefined {
 export function getAllSlugs(): string[] {
   return getAllKeywords().map((entry) => entry.slug);
 }
+
+/**
+ * Get a random selection of related keywords, excluding the current slug.
+ */
+export function getRelatedKeywords(currentSlug: string, count: number = 3): KeywordEntry[] {
+  const all = getAllKeywords().filter((entry) => entry.slug !== currentSlug);
+  
+  // Random shuffle
+  const shuffled = all.sort(() => 0.5 - Math.random());
+  
+  return shuffled.slice(0, count);
+}

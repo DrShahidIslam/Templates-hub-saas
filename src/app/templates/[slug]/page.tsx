@@ -9,8 +9,9 @@ import {
   Clock,
 } from "lucide-react";
 import MarkdownRenderer from "@/app/components/MarkdownRenderer";
-import { getKeywordBySlug, toTitleCase } from "@/lib/data";
+import { getKeywordBySlug, toTitleCase, getRelatedKeywords } from "@/lib/data";
 import { generateSOP } from "@/lib/gemini";
+import Link from "next/link";
 
 /* ────────────────────────────────────────────
    ISR — cache each page for 24 hours, then revalidate
@@ -55,33 +56,7 @@ export async function generateMetadata({
   };
 }
 
-/* ────────────────────────────────────────────
-   STATIC DATA
-   ──────────────────────────────────────────── */
 
-const RELATED_TEMPLATES = [
-  {
-    title: "Employee Termination SOP",
-    description:
-      "A step-by-step standard operating procedure to handle employee offboarding with compliance and dignity.",
-    slug: "employee-termination-sop",
-    category: "HR Operations",
-  },
-  {
-    title: "Interview Scorecard",
-    description:
-      "A structured evaluation rubric to standardize candidate assessments and eliminate unconscious hiring bias.",
-    slug: "interview-scorecard",
-    category: "Talent Acquisition",
-  },
-  {
-    title: "90-Day Review Template",
-    description:
-      "A comprehensive performance review framework for evaluating new hires at the critical 90-day milestone.",
-    slug: "90-day-review-template",
-    category: "Performance",
-  },
-];
 
 /* ────────────────────────────────────────────
    DYNAMIC CONTENT GENERATORS
@@ -110,6 +85,8 @@ export default async function TemplatePage({
   // The original keyword (lowercase, natural) and title-cased version
   const keyword = entry?.keyword ?? slug.replace(/-/g, " ");
   const titleCased = toTitleCase(keyword);
+
+  const relatedKeywords = getRelatedKeywords(slug);
 
   // Generate the SOP content via Gemini 2.5 Flash (cached for 24h via ISR)
   const generatedMarkdown = await generateSOP(keyword);
@@ -262,10 +239,10 @@ export default async function TemplatePage({
                 </a>
               </div>
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-                {RELATED_TEMPLATES.map((tpl, index) => (
-                  <a
+                {relatedKeywords.map((related, index) => (
+                  <Link
                     key={index}
-                    href={`/templates/${tpl.slug}`}
+                    href={`/templates/${related.slug}`}
                     className="card-hover block border border-border rounded-2xl p-5 bg-white group"
                     id={`related-template-${index}`}
                   >
@@ -273,19 +250,19 @@ export default async function TemplatePage({
                       <FileText className="w-5 h-5 text-muted-foreground group-hover:text-accent transition-colors" />
                     </div>
                     <span className="text-xs font-medium text-accent mb-2 block">
-                      {tpl.category}
+                      Template
                     </span>
                     <h3 className="font-semibold text-foreground mb-2 text-[15px] group-hover:text-accent transition-colors">
-                      {tpl.title}
+                      {toTitleCase(related.keyword)}
                     </h3>
                     <p className="text-sm text-muted-foreground leading-relaxed line-clamp-2">
-                      {tpl.description}
+                      A comprehensive, step-by-step guide and template for {related.keyword}.
                     </p>
                     <span className="inline-flex items-center gap-1 mt-4 text-xs font-medium text-accent opacity-0 group-hover:opacity-100 transition-opacity">
                       View template
                       <ArrowRight className="w-3 h-3" />
                     </span>
-                  </a>
+                  </Link>
                 ))}
               </div>
             </section>
