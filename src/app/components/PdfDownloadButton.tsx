@@ -14,18 +14,21 @@ export default function PdfDownloadButton({ title }: { title: string }) {
     setMounted(true);
 
     if (typeof window !== "undefined") {
-      // 1. Check for payment success directly via window.location 
-      // (avoiding useSearchParams to prevent static de-opting)
-      const search = window.location.search;
-      if (search.includes("success=true")) {
+      // 1. Check for payment success directly via URLSearchParams 
+      // (avoiding Next.js useSearchParams to prevent static de-opting)
+      const searchParams = new URLSearchParams(window.location.search);
+      const paymentSuccessful = searchParams.get('success') === 'true';
+
+      if (paymentSuccessful) {
         setIsPremium(true);
-        localStorage.setItem("templatehub_premium", "true");
+        localStorage.setItem("isPremium", "true");
         
-        // Clean the URL without causing a page reload
-        window.history.replaceState(null, "", window.location.pathname);
+        // Clean the URL without causing a page reload, stripping all tokens
+        window.history.replaceState({}, "", window.location.pathname);
       } else {
         // 2. Load existing state from localStorage
-        const storedPremium = localStorage.getItem("templatehub_premium") === "true";
+        // Checking both keys for backwards compatibility with previous sessions
+        const storedPremium = localStorage.getItem("isPremium") === "true" || localStorage.getItem("templatehub_premium") === "true";
         const storedCount = parseInt(localStorage.getItem("templatehub_downloads") || "0", 10);
         
         setIsPremium(storedPremium);
