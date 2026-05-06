@@ -63,7 +63,7 @@ async function generateWithResilience(keyword: string): Promise<string | null> {
     
     // Explicitly using the new 3.1 Flash Lite model
     const model = genAI.getGenerativeModel({ 
-      model: "gemini-3.1-flash-lite",
+      model: "gemini-3.1-flash-lite-preview",
     });
 
     try {
