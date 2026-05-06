@@ -77,9 +77,9 @@ const featuredTemplates = [
 const valueProps = [
   {
     icon: Download,
-    title: "Clean PDF Export",
+    title: "Try Before You Buy",
     description:
-      "Download any template as a polished, print-ready PDF with one click. No formatting headaches.",
+      "Export up to 3 complete, watermark-free PDFs absolutely free. No credit card required to start.",
   },
   {
     icon: Shield,
@@ -126,8 +126,8 @@ export default function HomePage() {
 
               <p className="text-lg md:text-xl text-muted-foreground leading-relaxed max-w-2xl mx-auto mb-10">
                 Access 1,800+ professional Standard Operating Procedures,
-                Checklists, and Policies. Stop writing from scratch and scale
-                your business faster.
+                Checklists, and Policies. Get 3 free downloads right now—no
+                credit card required.
               </p>
 
               {/* CTA Buttons */}
@@ -137,7 +137,7 @@ export default function HomePage() {
                   id="hero-browse-cta"
                   className="cta-pulse w-full sm:w-auto inline-flex items-center justify-center gap-2.5 px-8 py-4 bg-accent text-white rounded-xl font-semibold text-base hover:bg-accent-hover transition-all duration-200 shadow-lg shadow-accent/20"
                 >
-                  Browse 1,800+ Templates
+                  Get Your 3 Free Templates
                   <ArrowRight className="w-4.5 h-4.5" />
                 </Link>
                 <a
@@ -255,7 +255,8 @@ export default function HomePage() {
 
                 <ul className="space-y-3 mb-10">
                   {[
-                    "Unlimited PDF downloads",
+                    "3 Free downloads included",
+                    "Unlimited PDF downloads for Pro",
                     "All 1,800+ templates unlocked",
                     "New templates added weekly",
                     "No watermarks or branding",
