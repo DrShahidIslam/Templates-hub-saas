@@ -1,7 +1,11 @@
 import dotenv from "dotenv";
 
-// Load .env.local manually since we're in a script context
-dotenv.config({ path: ".env.local" });
+import path from "path";
+import { fileURLToPath } from "url";
+
+// Fix path to .env.local regardless of where the script is run from
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+dotenv.config({ path: path.join(__dirname, "../.env.local") });
 
 const API_KEY = process.env.GEMINI_API_KEY_1 || process.env.GEMINI_API_KEY;
 
