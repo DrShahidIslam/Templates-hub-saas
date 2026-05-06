@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import {
   FileText,
-  Download,
   ExternalLink,
   ArrowRight,
   Layers,
@@ -103,43 +102,43 @@ export default async function TemplatePage({
         aria-label="Main navigation"
       >
         <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
-          <a href="/" className="flex items-center gap-2.5 group" id="nav-logo">
+          <Link href="/" className="flex items-center gap-2.5 group" id="nav-logo">
             <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-accent to-purple-600 flex items-center justify-center">
               <Layers className="w-4 h-4 text-white" />
             </div>
             <span className="font-semibold text-lg tracking-tight">
               Template<span className="gradient-text">Hub</span>
             </span>
-          </a>
+          </Link>
           <div className="hidden md:flex items-center gap-8 text-sm text-muted-foreground">
-            <a
+            <Link
               href="/templates"
               className="hover:text-foreground transition-colors"
               id="nav-templates"
             >
               Templates
-            </a>
-            <a
+            </Link>
+            <Link
               href="/categories"
               className="hover:text-foreground transition-colors"
               id="nav-categories"
             >
               Categories
-            </a>
-            <a
+            </Link>
+            <Link
               href="/blog"
               className="hover:text-foreground transition-colors"
               id="nav-blog"
             >
               Blog
-            </a>
-            <a
+            </Link>
+            <Link
               href="/pricing"
               className="px-4 py-2 bg-foreground text-white rounded-lg text-sm font-medium hover:bg-foreground/90 transition-colors"
               id="nav-pricing"
             >
               Go Pro
-            </a>
+            </Link>
           </div>
         </div>
       </nav>
@@ -150,21 +149,21 @@ export default async function TemplatePage({
           aria-label="Breadcrumb"
           className="text-sm text-muted-foreground flex items-center gap-2"
         >
-          <a
+          <Link
             href="/"
             className="hover:text-foreground transition-colors"
             id="breadcrumb-home"
           >
             Home
-          </a>
+          </Link>
           <span className="text-border">/</span>
-          <a
+          <Link
             href="/templates"
             className="hover:text-foreground transition-colors"
             id="breadcrumb-templates"
           >
             Templates
-          </a>
+          </Link>
           <span className="text-border">/</span>
           <span className="text-foreground font-medium">{titleCased}</span>
         </nav>
@@ -230,14 +229,14 @@ export default async function TemplatePage({
                 >
                   Related Templates
                 </h2>
-                <a
+                <Link
                   href="/templates"
                   className="text-sm text-accent hover:text-accent-hover transition-colors flex items-center gap-1"
                   id="view-all-templates"
                 >
                   View all
                   <ArrowRight className="w-3.5 h-3.5" />
-                </a>
+                </Link>
               </div>
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
                 {relatedKeywords.map((related, index) => (
