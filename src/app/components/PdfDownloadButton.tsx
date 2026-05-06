@@ -63,26 +63,40 @@ export default function PdfDownloadButton({ title }: { title: string }) {
           scale: 2, 
           useCORS: true,
           onclone: (clonedDoc: Document) => {
-            // Find the cloned container
-            const clonedElement = clonedDoc.getElementById('pdf-content');
-            if (clonedElement) {
-              // Force safe colors on the cloned element explicitly for the PDF
-              clonedElement.style.color = '#000000';
-              clonedElement.style.backgroundColor = '#ffffff';
-
-              // Loop through all children to strip 'lab' or 'oklch' variables
-              const allElements = clonedElement.getElementsByTagName('*');
-              for (let i = 0; i < allElements.length; i++) {
-                 const el = allElements[i] as HTMLElement;
-                 const computedStyle = window.getComputedStyle(el);
-                 if (computedStyle.color.includes('lab') || computedStyle.color.includes('oklch')) {
-                    el.style.color = '#000000'; // Fallback text color
-                 }
-                 if (computedStyle.backgroundColor.includes('lab') || computedStyle.backgroundColor.includes('oklch')) {
-                    el.style.backgroundColor = 'transparent'; // Fallback background
-                 }
+            // 1. Nuclear scrub of all <style> tags in the head
+            const styleTags = clonedDoc.querySelectorAll('style');
+            styleTags.forEach(style => {
+              if (style.innerHTML) {
+                style.innerHTML = style.innerHTML
+                  .replace(/oklch\([^)]+\)/g, '#000000')
+                  .replace(/lab\([^)]+\)/g, '#000000');
               }
-            }
+            });
+
+            // 2. Scrub every single element's inline and computed styles
+            const allElements = clonedDoc.querySelectorAll('*');
+            allElements.forEach(el => {
+              const htmlEl = el as HTMLElement;
+              if (!htmlEl.style) return;
+
+              const computed = window.getComputedStyle(htmlEl) as any;
+              const propsToCheck = [
+                'color', 'backgroundColor', 'borderColor', 'borderTopColor', 
+                'borderRightColor', 'borderBottomColor', 'borderLeftColor', 
+                'textDecorationColor', 'fill', 'stroke'
+              ];
+              
+              propsToCheck.forEach(prop => {
+                const val = computed[prop];
+                if (val && typeof val === 'string' && (val.includes('lab') || val.includes('oklch'))) {
+                  // Fallbacks: Backgrounds become transparent, everything else becomes black
+                  (htmlEl.style as any)[prop] = prop.toLowerCase().includes('background') ? 'transparent' : '#000000';
+                }
+              });
+              
+              // 3. Force override the Tailwind default border
+              htmlEl.style.borderColor = '#e5e7eb'; // Safe hex gray
+            });
           }
         },
         jsPDF:        { unit: 'in' as const, format: 'letter' as const, orientation: 'portrait' as const }
