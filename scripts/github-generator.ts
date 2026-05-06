@@ -2,6 +2,12 @@ import fs from "fs";
 import path from "path";
 import { execSync } from "child_process";
 import { GoogleGenerativeAI } from "@google/generative-ai";
+import dotenv from "dotenv";
+import { fileURLToPath } from "url";
+
+// Load environment variables from .env.local relative to this script
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+dotenv.config({ path: path.join(__dirname, "../.env.local") });
 
 /**
  * scripts/github-generator.ts
