@@ -12,6 +12,7 @@ import MarkdownRenderer from "@/app/components/MarkdownRenderer";
 import { getKeywordBySlug, toTitleCase, getRelatedKeywords } from "@/lib/data";
 import { generateSOP } from "@/lib/gemini";
 import Link from "next/link";
+import PdfDownloadButton from "@/app/components/PdfDownloadButton";
 
 /* ────────────────────────────────────────────
    ISR — cache each page for 24 hours, then revalidate
@@ -215,7 +216,7 @@ export default async function TemplatePage({
                 </h2>
               </div>
 
-              <div className="border border-border rounded-2xl p-6 md:p-8 bg-white">
+              <div id="pdf-content" className="border border-border rounded-2xl p-6 md:p-8 bg-white">
                 <MarkdownRenderer content={generatedMarkdown} />
               </div>
             </section>
@@ -286,13 +287,7 @@ export default async function TemplatePage({
 
                 {/* CTA Buttons */}
                 <div className="space-y-3">
-                  <button
-                    id="download-pdf-btn"
-                    className="cta-pulse w-full flex items-center justify-center gap-2 px-5 py-3.5 bg-accent text-white rounded-xl font-medium text-sm hover:bg-accent-hover transition-all duration-200 cursor-pointer"
-                  >
-                    <Download className="w-4 h-4" />
-                    Download as PDF
-                  </button>
+                  <PdfDownloadButton title={titleCased} />
                   <button
                     id="export-notion-btn"
                     className="w-full flex items-center justify-center gap-2 px-5 py-3.5 bg-white text-foreground border border-border rounded-xl font-medium text-sm hover:bg-muted hover:border-foreground/20 transition-all duration-200 cursor-pointer"
