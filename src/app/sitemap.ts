@@ -2,7 +2,7 @@ import { MetadataRoute } from "next";
 import { getAllSlugs } from "@/lib/data";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = "https://templates-hub-beta.vercel.app";
+  const baseUrl = "https://templateregistry.com";
   const slugs = getAllSlugs();
   const currentDate = new Date();
 

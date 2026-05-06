@@ -4,7 +4,7 @@ import { getAllKeywords, toTitleCase } from "@/lib/data";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "All Templates & Checklists | TemplateHub",
+  title: "All Templates & Checklists | Template Registry",
   description: "Browse our complete directory of expert-reviewed templates, SOPs, and checklists for operations, HR, travel, and more.",
 };
 
@@ -24,7 +24,7 @@ export default function TemplatesIndexPage() {
               <Layers className="w-4 h-4 text-white" />
             </div>
             <span className="font-semibold text-lg tracking-tight">
-              Template<span className="gradient-text">Hub</span>
+              Template<span className="gradient-text">Registry</span>
             </span>
           </Link>
           <div className="hidden md:flex items-center gap-8 text-sm text-muted-foreground">
@@ -92,11 +92,11 @@ export default function TemplatesIndexPage() {
                 <Layers className="w-3.5 h-3.5 text-white" />
               </div>
               <span className="font-semibold text-sm tracking-tight">
-                TemplateHub
+                Template Registry
               </span>
             </div>
             <p className="text-sm text-muted-foreground">
-              © 2026 TemplateHub. Free templates for modern teams.
+              © 2026 Template Registry. Free templates for modern teams.
             </p>
           </div>
         </div>

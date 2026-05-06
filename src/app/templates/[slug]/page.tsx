@@ -8,8 +8,9 @@ import {
   Clock,
 } from "lucide-react";
 import MarkdownRenderer from "@/app/components/MarkdownRenderer";
-import { getKeywordBySlug, toTitleCase, getRelatedKeywords } from "@/lib/data";
+import { getKeywordBySlug, toTitleCase, getRelatedKeywords, getAllKeywords } from "@/lib/data";
 import { generateSOP } from "@/lib/gemini";
+import { injectInternalLinks } from "@/lib/linker";
 import Link from "next/link";
 import PdfDownloadButton from "@/app/components/PdfDownloadButton";
 
@@ -89,7 +90,13 @@ export default async function TemplatePage({
   const relatedKeywords = getRelatedKeywords(slug);
 
   // Generate the SOP content via Gemini 2.5 Flash (cached for 24h via ISR)
-  const generatedMarkdown = await generateSOP(keyword);
+  const rawMarkdown = await generateSOP(keyword);
+
+  // Apply the SEO internal linker
+  const allKeywords = getAllKeywords();
+  // Filter out the current slug so we don't link to ourselves
+  const availableTemplates = allKeywords.filter(k => k.slug !== slug);
+  const generatedMarkdown = injectInternalLinks(rawMarkdown, availableTemplates);
 
   const heroDescription = generateHeroDescription(keyword, titleCased);
   const sidebarDescription = generateSidebarDescription(keyword);
@@ -107,7 +114,7 @@ export default async function TemplatePage({
               <Layers className="w-4 h-4 text-white" />
             </div>
             <span className="font-semibold text-lg tracking-tight">
-              Template<span className="gradient-text">Hub</span>
+              Template<span className="gradient-text">Registry</span>
             </span>
           </Link>
           <div className="hidden md:flex items-center gap-8 text-sm text-muted-foreground">
@@ -364,11 +371,11 @@ export default async function TemplatePage({
                 <Layers className="w-3.5 h-3.5 text-white" />
               </div>
               <span className="font-semibold text-sm tracking-tight">
-                TemplateHub
+                Template Registry
               </span>
             </div>
             <p className="text-sm text-muted-foreground">
-              © 2026 TemplateHub. Free templates for modern teams.
+              © 2026 Template Registry. Free templates for modern teams.
             </p>
           </div>
         </div>

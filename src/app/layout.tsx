@@ -13,9 +13,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://templateregistry.com'),
   title: {
-    default: "TemplateHub — Free HR & Business Templates",
-    template: "%s | TemplateHub",
+    default: "Template Registry — Free HR & Business Templates",
+    template: "%s | Template Registry",
   },
   description:
     "Download free, expertly crafted HR and business templates. Checklists, SOPs, scorecards, and review templates to streamline your workflows.",
@@ -26,11 +27,11 @@ export const metadata: Metadata = {
     "free templates",
     "SOP templates",
   ],
-  authors: [{ name: "TemplateHub" }],
+  authors: [{ name: "Template Registry" }],
   openGraph: {
     type: "website",
     locale: "en_US",
-    siteName: "TemplateHub",
+    siteName: "Template Registry",
   },
 };
 
