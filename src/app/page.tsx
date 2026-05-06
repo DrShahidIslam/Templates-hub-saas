@@ -1,6 +1,8 @@
 import { Metadata } from "next";
 import HomePageClient from "./HomePageClient";
 
+import { getAllKeywords } from "@/lib/data";
+
 export const metadata: Metadata = {
   title: "Template Registry — The Global Registry of Professional SOPs",
   description:
@@ -16,10 +18,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Template Registry — The Global Registry of Professional SOPs",
     description: "1,800+ expert-curated business templates and SOPs.",
-    images: ["/og-image.png"], // Assuming you might have one
+    images: ["/og-image.png"],
   }
 };
 
 export default function HomePage() {
-  return <HomePageClient />;
+  const allTemplates = getAllKeywords();
+  return <HomePageClient allTemplates={allTemplates} />;
 }

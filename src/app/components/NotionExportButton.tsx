@@ -2,6 +2,7 @@
 
 import { ExternalLink, Check, Lock, X } from "lucide-react";
 import { useState, useEffect } from "react";
+import toast from "react-hot-toast";
 
 interface NotionExportButtonProps {
   markdownContent: string;
@@ -9,75 +10,64 @@ interface NotionExportButtonProps {
 
 export default function NotionExportButton({ markdownContent }: NotionExportButtonProps) {
   const [copied, setCopied] = useState(false);
-  const [downloadCount, setDownloadCount] = useState(0);
-  const [isPremium, setIsPremium] = useState(() => {
-    if (typeof window !== "undefined") {
-      return (
-        localStorage.getItem("isPremium") === "true" ||
-        localStorage.getItem("templatehub_premium") === "true"
-      );
-    }
-    return false;
-  });
-  const [showPaywallModal, setShowPaywallModal] = useState(false);
+  const [isPremium, setIsPremium] = useState(false);
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
     setMounted(true);
 
     if (typeof window !== "undefined") {
-      let currentPremium = isPremium;
-
-      // A. Check localStorage
-      const storedPremium =
+      // Check for premium status
+      const premium =
         localStorage.getItem("isPremium") === "true" ||
         localStorage.getItem("templatehub_premium") === "true";
-      if (storedPremium) {
-        setIsPremium(true);
-        currentPremium = true;
-      }
-
-      // B. Check URL for success redirect
+      
+      // Check URL for success redirect
       const searchParams = new URLSearchParams(window.location.search);
       if (searchParams.get("success") === "true") {
-        setIsPremium(true);
-        currentPremium = true;
         localStorage.setItem("isPremium", "true");
+        setIsPremium(true);
+        // Clean URL
         window.history.replaceState({}, "", window.location.pathname);
+      } else {
+        setIsPremium(premium);
       }
-
-      const storedCount = parseInt(localStorage.getItem("templatehub_downloads") || "0", 10);
-      setDownloadCount(storedCount);
     }
-  }, [isPremium]);
+  }, []);
 
   const handleExport = async () => {
-    // Replicate paywall logic: only Pro or within free limit
-    if (!isPremium && downloadCount >= 3) {
-      setShowPaywallModal(true);
+    // 1. SECURE LOCKDOWN: Pro Only
+    if (!isPremium) {
+      toast.error("Notion Export is a Pro Feature", {
+        duration: 3000,
+        icon: '🔒',
+      });
+      
+      // Redirect after 2 seconds
+      setTimeout(() => {
+        window.location.href = "https://buy.polar.sh/polar_cl_SvXvG4jukzotDEekGNPrlidHn7MXXdXlQJSeT2Kt33l?success_url=https://templateregistry.com/success";
+      }, 2000);
       return;
     }
 
+    // 2. ACTUAL EXPORT LOGIC
     try {
       await navigator.clipboard.writeText(markdownContent);
       setCopied(true);
+      toast.success("Markdown copied for Notion!");
       
-      // Feedback toast logic (simulated by button state)
       setTimeout(() => {
         setCopied(false);
       }, 3000);
-      
-      // Optional: Standard browser alert for extra clarity
-      // alert("Copied! Open a blank Notion page and press Ctrl+V / Cmd+V.");
     } catch (err) {
       console.error("Failed to copy markdown: ", err);
-      alert("Failed to copy to clipboard.");
+      toast.error("Failed to copy to clipboard.");
     }
   };
 
   if (!mounted) {
     return (
-      <button className="w-full flex items-center justify-center gap-2 px-5 py-3.5 bg-white text-foreground border border-border rounded-xl font-medium text-sm opacity-50 cursor-not-allowed">
+      <button className="w-full flex items-center justify-center gap-2 px-5 py-3.5 bg-white text-gray-400 border border-gray-200 rounded-xl font-medium text-sm opacity-50 cursor-not-allowed">
         <ExternalLink className="w-4 h-4" />
         Export to Notion
       </button>
@@ -85,71 +75,36 @@ export default function NotionExportButton({ markdownContent }: NotionExportButt
   }
 
   return (
-    <>
-      <button
-        onClick={handleExport}
-        id="export-notion-btn"
-        className={`w-full flex items-center justify-center gap-2 px-5 py-3.5 transition-all duration-200 rounded-xl font-medium text-sm cursor-pointer border ${
-          copied
-            ? "bg-black text-white border-black"
-            : "bg-white text-foreground border-border hover:bg-muted hover:border-foreground/20"
-        }`}
-      >
-        {copied ? (
-          <>
-            <Check className="w-4 h-4 text-green-400" />
-            <span>✓ Copied for Notion</span>
-          </>
-        ) : (
-          <>
+    <button
+      onClick={handleExport}
+      id="export-notion-btn"
+      className={`w-full flex items-center justify-center gap-2 px-5 py-3.5 transition-all duration-200 rounded-xl font-medium text-sm cursor-pointer border ${
+        copied
+          ? "bg-[#111827] text-white border-[#111827]"
+          : "bg-white text-[#111827] border-gray-200 hover:bg-gray-50 hover:border-gray-300"
+      }`}
+    >
+      {copied ? (
+        <>
+          <Check className="w-4 h-4 text-emerald-400" />
+          <span>✓ Copied for Notion</span>
+        </>
+      ) : (
+        <>
+          <div className="relative">
             <ExternalLink className="w-4 h-4" />
-            <span>Export to Notion</span>
-          </>
-        )}
-      </button>
-
-      {/* ── PAYWALL MODAL (Replicated from PDF button) ── */}
-      {showPaywallModal && (
-        <div className="fixed inset-0 z-[100] flex items-center justify-center bg-black/50 backdrop-blur-sm px-4">
-          <div className="bg-white rounded-2xl w-full max-w-md overflow-hidden shadow-2xl relative">
-            <button
-              onClick={() => setShowPaywallModal(false)}
-              className="absolute top-4 right-4 text-muted-foreground hover:text-foreground transition-colors"
-              aria-label="Close modal"
-            >
-              <X className="w-5 h-5" />
-            </button>
-
-            <div className="p-8 text-center">
-              <div className="w-16 h-16 bg-accent-light rounded-2xl flex items-center justify-center mx-auto mb-6">
-                <Lock className="w-8 h-8 text-accent" />
-              </div>
-              
-              <h2 className="text-2xl font-bold mb-3 tracking-tight text-foreground">
-                Unlock Pro Features
-              </h2>
-              
-              <p className="text-muted-foreground mb-8 leading-relaxed">
-                Notion Export is a Pro feature. Upgrade to the All-Access Pass to unlock unlimited exports, PDF downloads, and lifetime access to our 1,800+ templates.
-              </p>
-
-              <a
-                href="https://buy.polar.sh/polar_cl_SvXvG4jukzotDEekGNPrlidHn7MXXdXlQJSeT2Kt33l?success_url=https://templateregistry.com/templates?success=true"
-                className="block w-full py-4 bg-accent text-white font-semibold rounded-xl hover:bg-accent-hover transition-all duration-200 shadow-md shadow-accent/20"
-              >
-                Upgrade to Premium — $14.99
-              </a>
-              
-              <button
-                onClick={() => setShowPaywallModal(false)}
-                className="mt-5 text-sm font-medium text-muted-foreground hover:text-foreground transition-colors cursor-pointer"
-              >
-                Maybe later
-              </button>
-            </div>
+            {!isPremium && (
+              <Lock className="w-2.5 h-2.5 absolute -top-1 -right-1 text-indigo-600 bg-white rounded-full" />
+            )}
           </div>
-        </div>
+          <span>Export to Notion</span>
+          {!isPremium && (
+            <span className="ml-auto text-[10px] font-bold text-indigo-600 bg-indigo-50 px-1.5 py-0.5 rounded uppercase tracking-wider">
+              Pro
+            </span>
+          )}
+        </>
       )}
-    </>
+    </button>
   );
 }

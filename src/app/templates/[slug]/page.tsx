@@ -264,21 +264,21 @@ export default async function TemplatePage({
 
                 {/* Trust signals */}
                 <div className="space-y-3">
-                  <div className="flex items-center gap-2.5 text-sm text-muted-foreground">
-                    <div className="w-5 h-5 rounded-full bg-green-50 flex items-center justify-center">
-                      <div className="w-2 h-2 rounded-full bg-success" />
+                  <div className="flex items-center gap-2.5 text-sm text-gray-500">
+                    <div className="w-5 h-5 rounded-full bg-emerald-50 flex items-center justify-center">
+                      <div className="w-2 h-2 rounded-full bg-emerald-500" />
                     </div>
                     Free to download — no signup required
                   </div>
-                  <div className="flex items-center gap-2.5 text-sm text-muted-foreground">
-                    <div className="w-5 h-5 rounded-full bg-green-50 flex items-center justify-center">
-                      <div className="w-2 h-2 rounded-full bg-success" />
+                  <div className="flex items-center gap-2.5 text-sm text-gray-500">
+                    <div className="w-5 h-5 rounded-full bg-emerald-50 flex items-center justify-center">
+                      <div className="w-2 h-2 rounded-full bg-emerald-500" />
                     </div>
                     AI-generated, expert-reviewed content
                   </div>
-                  <div className="flex items-center gap-2.5 text-sm text-muted-foreground">
-                    <div className="w-5 h-5 rounded-full bg-green-50 flex items-center justify-center">
-                      <div className="w-2 h-2 rounded-full bg-success" />
+                  <div className="flex items-center gap-2.5 text-sm text-gray-500">
+                    <div className="w-5 h-5 rounded-full bg-emerald-50 flex items-center justify-center">
+                      <div className="w-2 h-2 rounded-full bg-emerald-500" />
                     </div>
                     Updated for 2026
                   </div>

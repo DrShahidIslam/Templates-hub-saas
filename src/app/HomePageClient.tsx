@@ -1,8 +1,8 @@
 "use client";
 
 import Link from "next/link";
-import { useState, useEffect } from "react";
-import { motion } from "framer-motion";
+import { useState, useMemo } from "react";
+import { motion, AnimatePresence } from "framer-motion";
 import {
   Search,
   Command,
@@ -15,10 +15,20 @@ import {
   Settings,
   HeartPulse,
   Monitor,
-  BarChart3
+  BarChart3,
+  FileText
 } from "lucide-react";
 
-const categories = [
+interface KeywordEntry {
+  keyword: string;
+  slug: string;
+}
+
+interface HomePageClientProps {
+  allTemplates: KeywordEntry[];
+}
+
+const mainCategories = [
   {
     title: "HR & People Ops",
     count: "450+",
@@ -71,15 +81,53 @@ const categories = [
 
 const trendingTags = ["#Onboarding", "#HR-Policy", "#RemoteWork", "#Compliance", "#SecuritySOP"];
 
-export default function HomePageClient() {
+const filterCategories = [
+  'All', 
+  'Visa & Travel', 
+  'Health & Wellness', 
+  'Business & HR', 
+  'Home & Lifestyle'
+];
+
+const categoryKeywords: Record<string, string[]> = {
+  'Visa & Travel': ['visa', 'tourist', 'travel', 'passport', 'border', 'immigration', 'flight', 'hotel'],
+  'Health & Wellness': ['health', 'adhd', 'medical', 'fitness', 'wellness', 'diet', 'mental', 'therapy', 'clinical'],
+  'Business & HR': ['business', 'hr', 'hiring', 'onboarding', 'employee', 'office', 'payroll', 'sop', 'policy', 'startup'],
+  'Home & Lifestyle': ['home', 'lifestyle', 'garden', 'cleaning', 'cooking', 'family', 'pet', 'house', 'interior']
+};
+
+export default function HomePageClient({ allTemplates }: HomePageClientProps) {
   const [searchQuery, setSearchQuery] = useState("");
+  const [activeFilter, setActiveFilter] = useState('All');
+
+  const filteredTemplates = useMemo(() => {
+    let list = allTemplates;
+
+    // 1. Search Filter
+    if (searchQuery) {
+      const q = searchQuery.toLowerCase();
+      list = list.filter(t => t.keyword.toLowerCase().includes(q) || t.slug.includes(q));
+    }
+
+    // 2. Category Pill Filter
+    if (activeFilter !== 'All') {
+      const keywords = categoryKeywords[activeFilter] || [];
+      list = list.filter(t => {
+        const s = t.slug.toLowerCase();
+        return keywords.some(k => s.includes(k));
+      });
+    }
+
+    // Only show top 12 for performance on homepage
+    return list.slice(0, 12);
+  }, [allTemplates, searchQuery, activeFilter]);
 
   return (
     <div className="bg-[#FAFAFA] min-h-screen font-sans selection:bg-indigo-100 selection:text-indigo-900">
       <main className="relative">
         
         {/* ── HERO SECTION ── */}
-        <section className="relative pt-32 pb-24 px-6 overflow-hidden">
+        <section className="relative pt-32 pb-16 px-6 overflow-hidden">
           <div className="absolute inset-0 z-0 pointer-events-none">
             <div className="absolute top-0 left-1/4 w-[500px] h-[500px] bg-indigo-50/50 rounded-full blur-[120px] opacity-60" />
             <div className="absolute bottom-0 right-1/4 w-[400px] h-[400px] bg-purple-50/50 rounded-full blur-[100px] opacity-40" />
@@ -106,7 +154,7 @@ export default function HomePageClient() {
               initial={{ opacity: 0, scale: 0.95 }}
               animate={{ opacity: 1, scale: 1 }}
               transition={{ duration: 0.5, delay: 0.2 }}
-              className="max-w-2xl mx-auto mb-10 group"
+              className="max-w-2xl mx-auto mb-8 group"
             >
               <div className="relative flex items-center p-2 bg-white border border-gray-200 rounded-2xl shadow-[0_8px_30px_rgb(0,0,0,0.04)] focus-within:ring-4 focus-within:ring-indigo-500/10 focus-within:border-indigo-500/50 transition-all duration-300">
                 <div className="pl-4 pr-3 text-gray-400">
@@ -132,6 +180,28 @@ export default function HomePageClient() {
               </div>
             </motion.div>
 
+            {/* ── CATEGORY PILL FILTER ── */}
+            <motion.div 
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ delay: 0.3 }}
+              className="flex flex-wrap justify-center gap-2 mb-10"
+            >
+              {filterCategories.map((cat) => (
+                <button
+                  key={cat}
+                  onClick={() => setActiveFilter(cat)}
+                  className={`px-5 py-2 rounded-full text-sm font-medium transition-all ${
+                    activeFilter === cat
+                      ? "bg-[#111827] text-white shadow-lg"
+                      : "bg-white text-gray-500 border border-gray-200 hover:border-indigo-500/30 hover:text-indigo-600"
+                  }`}
+                >
+                  {cat}
+                </button>
+              ))}
+            </motion.div>
+
             <motion.div 
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
@@ -152,6 +222,65 @@ export default function HomePageClient() {
           </div>
         </section>
 
+        {/* ── TEMPLATE LIST (FILTERED) ── */}
+        <section className="max-w-7xl mx-auto px-6 py-12">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            <AnimatePresence mode="popLayout">
+              {filteredTemplates.map((template, idx) => (
+                <motion.div
+                  key={template.slug}
+                  layout
+                  initial={{ opacity: 0, scale: 0.9 }}
+                  animate={{ opacity: 1, scale: 1 }}
+                  exit={{ opacity: 0, scale: 0.9 }}
+                  transition={{ duration: 0.2 }}
+                >
+                  <Link
+                    href={`/templates/${template.slug}`}
+                    className="group block p-6 bg-white border border-gray-100 rounded-3xl hover:shadow-[0_20px_50px_rgba(0,0,0,0.04)] hover:border-indigo-500/20 transition-all duration-300 h-full"
+                  >
+                    <div className="w-10 h-10 rounded-xl bg-gray-50 flex items-center justify-center mb-4 group-hover:bg-indigo-50 transition-colors">
+                      <FileText className="w-5 h-5 text-gray-400 group-hover:text-indigo-600" />
+                    </div>
+                    <h3 className="font-serif text-lg text-gray-900 group-hover:text-indigo-600 transition-colors mb-2">
+                      {template.keyword}
+                    </h3>
+                    <p className="text-sm text-gray-400 line-clamp-2 mb-4 leading-relaxed">
+                      Professional {template.keyword} template, checklist, and SOP curated for high-performance teams.
+                    </p>
+                    <div className="flex items-center gap-1.5 text-xs font-bold text-indigo-600 uppercase tracking-wider opacity-0 group-hover:opacity-100 transition-opacity">
+                      View Template <ArrowRight className="w-3 h-3" />
+                    </div>
+                  </Link>
+                </motion.div>
+              ))}
+            </AnimatePresence>
+          </div>
+          
+          {filteredTemplates.length === 0 && (
+            <div className="text-center py-20">
+              <p className="text-gray-400">No templates found matching your search or filter.</p>
+              <button 
+                onClick={() => {setSearchQuery(""); setActiveFilter("All");}}
+                className="mt-4 text-indigo-600 font-bold hover:underline"
+              >
+                Clear all filters
+              </button>
+            </div>
+          )}
+          
+          <div className="text-center mt-12">
+            <Link 
+              href="/templates"
+              className="inline-flex items-center gap-2 px-8 py-3 bg-white border border-gray-200 text-gray-900 rounded-2xl font-bold hover:bg-gray-50 transition-all"
+            >
+              Browse All 1,800+ Templates
+              <ArrowRight className="w-4 h-4" />
+            </Link>
+          </div>
+        </section>
+
+        {/* ── PROFESSOR'S SEAL (TRUST BAR) ── */}
         <section className="py-12 bg-[#F5F5F7] border-y border-gray-100">
           <div className="max-w-7xl mx-auto px-6">
             <div className="flex flex-col md:flex-row items-center justify-center gap-8 md:gap-16 text-center md:text-left">
@@ -168,21 +297,22 @@ export default function HomePageClient() {
               <div className="flex gap-12 items-center">
                 <div className="flex flex-col">
                   <span className="text-2xl font-bold text-gray-900 leading-none">1,800+</span>
-                  <span className="text-[11px] font-bold text-gray-400 uppercase tracking-widest mt-1">SOP Library</span>
+                  <span className="text-[11px] font-bold text-gray-400 uppercase tracking-widest mt-1 text-gray-400">SOP Library</span>
                 </div>
                 <div className="flex flex-col">
                   <span className="text-2xl font-bold text-gray-900 leading-none">12k</span>
-                  <span className="text-[11px] font-bold text-gray-400 uppercase tracking-widest mt-1">Users Served</span>
+                  <span className="text-[11px] font-bold text-gray-400 uppercase tracking-widest mt-1 text-gray-400">Users Served</span>
                 </div>
                 <div className="flex flex-col">
                   <span className="text-2xl font-bold text-gray-900 leading-none">4.9/5</span>
-                  <span className="text-[11px] font-bold text-gray-400 uppercase tracking-widest mt-1">Precision Rating</span>
+                  <span className="text-[11px] font-bold text-gray-400 uppercase tracking-widest mt-1 text-gray-400">Precision Rating</span>
                 </div>
               </div>
             </div>
           </div>
         </section>
 
+        {/* ── BENTO GRID CATEGORIES ── */}
         <section className="py-24 px-6 max-w-7xl mx-auto">
           <div className="mb-12">
             <h2 className="font-serif text-4xl text-[#111827] mb-4">Browse by Domain</h2>
@@ -192,7 +322,7 @@ export default function HomePageClient() {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
-            {categories.map((cat, idx) => (
+            {mainCategories.map((cat, idx) => (
               <motion.div
                 key={cat.title}
                 initial={{ opacity: 0, y: 20 }}
@@ -224,6 +354,7 @@ export default function HomePageClient() {
           </div>
         </section>
 
+        {/* ── VALUE PROPOSITION ── */}
         <section className="py-24 px-6 bg-white overflow-hidden">
           <div className="max-w-7xl mx-auto flex flex-col lg:flex-row items-center gap-20">
             <div className="flex-1">
@@ -282,6 +413,7 @@ export default function HomePageClient() {
           </div>
         </section>
 
+        {/* ── CTA SECTION ── */}
         <section className="py-24 px-6">
           <div className="max-w-7xl mx-auto rounded-[3rem] bg-[#111827] p-12 md:p-24 text-center relative overflow-hidden">
             <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-indigo-500/10 rounded-full blur-[100px]" />
@@ -302,7 +434,7 @@ export default function HomePageClient() {
                   Browse 1,800+ Templates
                 </Link>
                 <a 
-                  href="https://buy.polar.sh/polar_cl_SvXvG4jukzotDEekGNPrlidHn7MXXdXlQJSeT2Kt33l"
+                  href="https://buy.polar.sh/polar_cl_SvXvG4jukzotDEekGNPrlidHn7MXXdXlQJSeT2Kt33l?success_url=https://templateregistry.com/success"
                   className="px-10 py-5 bg-white/5 border border-white/10 text-white rounded-2xl font-bold text-lg hover:bg-white/10 transition-all backdrop-blur-md"
                 >
                   All-Access Pass — $14.99
