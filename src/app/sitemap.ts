@@ -1,35 +1,66 @@
 import { MetadataRoute } from "next";
-import { getAllSlugs } from "@/lib/data";
+import { getDocuments } from "outstatic/server";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = "https://templateregistry.com";
-  const slugs = getAllSlugs();
-  const currentDate = new Date();
+  const baseUrl = "https://www.templateregistry.com";
 
-  // Create sitemap objects for all dynamic templates
-  const templateEntries: MetadataRoute.Sitemap = slugs.map((slug) => ({
-    url: `${baseUrl}/templates/${slug}`,
-    lastModified: currentDate,
-    changeFrequency: "weekly",
+  // 1. Fetch all templates for dynamic indexing
+  const templates = await getDocuments("templates", ["slug", "publishedAt"]);
+  const templateUrls = templates.map((template) => ({
+    url: `${baseUrl}/templates/${template.slug}`,
+    lastModified: new Date(template.publishedAt || Date.now()),
+    changeFrequency: "weekly" as const,
     priority: 0.8,
   }));
 
-  return [
-    // Homepage
+  // 2. Fetch all blog posts for dynamic indexing
+  const posts = await getDocuments("blog", ["slug", "publishedAt"]);
+  const blogUrls = posts.map((post) => ({
+    url: `${baseUrl}/blog/${post.slug}`,
+    lastModified: new Date(post.publishedAt || Date.now()),
+    changeFrequency: "monthly" as const,
+    priority: 0.6,
+  }));
+
+  // 3. Define Static Routes
+  const staticRoutes = [
     {
       url: baseUrl,
-      lastModified: currentDate,
-      changeFrequency: "weekly",
+      lastModified: new Date(),
+      changeFrequency: "daily" as const,
       priority: 1.0,
     },
-    // Templates Directory Index
     {
       url: `${baseUrl}/templates`,
-      lastModified: currentDate,
-      changeFrequency: "weekly",
+      lastModified: new Date(),
+      changeFrequency: "daily" as const,
       priority: 0.9,
     },
-    // Programmatic Pages
-    ...templateEntries,
+    {
+      url: `${baseUrl}/blog`,
+      lastModified: new Date(),
+      changeFrequency: "daily" as const,
+      priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/privacy`,
+      lastModified: new Date(),
+      changeFrequency: "yearly" as const,
+      priority: 0.3,
+    },
+    {
+      url: `${baseUrl}/terms`,
+      lastModified: new Date(),
+      changeFrequency: "yearly" as const,
+      priority: 0.3,
+    },
+    {
+      url: `${baseUrl}/contact`,
+      lastModified: new Date(),
+      changeFrequency: "monthly" as const,
+      priority: 0.5,
+    },
   ];
+
+  return [...staticRoutes, ...templateUrls, ...blogUrls];
 }
