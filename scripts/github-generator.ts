@@ -16,10 +16,10 @@ dotenv.config({ path: path.join(__dirname, "../.env.local") });
  * Features:
  * - Round-robin API Key Rotation
  * - Exponential Backoff Retries
- * - Instant Disk Writing
+ * - Aggressive Git Sync (Self-Healing)
  * - Batch Git Commits every 50 files
  * 
- * Updated to use @google/generative-ai SDK for Gemini 3.1 support.
+ * Goal: Ensure 1,800+ templates generate even with simultaneous UI updates.
  */
 
 // -- Configuration --
@@ -67,7 +67,7 @@ async function generateWithResilience(keyword: string): Promise<string | null> {
     const apiKey = getNextApiKey();
     const genAI = new GoogleGenerativeAI(apiKey);
     
-    // Explicitly using the new 3.1 Flash Lite model
+    // Using the verified 3.1 Flash Lite model
     const model = genAI.getGenerativeModel({ 
       model: "gemini-3.1-flash-lite-preview",
     });
@@ -100,17 +100,33 @@ async function generateWithResilience(keyword: string): Promise<string | null> {
   return null;
 }
 
-function syncToGithub(count: number) {
+/**
+ * Aggressive Sync Logic
+ * Performs git pull --rebase --autostash before pushing to ensure templates
+ * are merged on top of any UI changes made simultaneously.
+ */
+async function syncToGithub(count: number, retry = false) {
   try {
     console.log(`\n🚀 Syncing batch of ${count} templates to GitHub...`);
     
+    // Configure Action User
+    execSync('git config user.name "GitHub Action"', { stdio: "inherit" });
+    execSync('git config user.email "action@github.com"', { stdio: "inherit" });
+
+    // Check for changes
+    const status = execSync("git status --porcelain").toString();
+    if (!status) {
+      console.log("ℹ️ No changes to sync.");
+      return;
+    }
+
     // Stage and commit locally
     execSync("git add .", { stdio: "inherit" });
     execSync('git commit -m "chore: auto-generated batch of templates [skip ci]"', { stdio: "inherit" });
 
-    // Pull remote changes first to avoid conflicts
-    console.log("📥 Pulling latest changes (rebase)...");
-    execSync("git pull --rebase origin main", { stdio: "inherit" });
+    // Aggressive Pull & Rebase
+    console.log("📥 Pulling latest changes (aggressive rebase + autostash)...");
+    execSync("git pull --rebase --autostash origin main", { stdio: "inherit" });
 
     // Push the merged batch
     execSync("git push origin main", { stdio: "inherit" });
@@ -118,15 +134,24 @@ function syncToGithub(count: number) {
     console.log("✅ Batch synced successfully.\n");
   } catch (error: any) {
     console.error("❌ Git sync failed:", error.message);
-    console.log("⚠️ Continuing generation loop, will retry sync in next batch.");
+    
+    if (!retry) {
+      console.log("⏳ Waiting 10 seconds before final retry...");
+      await sleep(10000);
+      await syncToGithub(count, true);
+    } else {
+      console.log("⚠️ Sync persistently failing. Continuing generation loop, will retry in next batch.");
+    }
   }
 }
 
 async function main() {
-  console.log("🔥 Starting GitHub Content Generator (v3.1 SDK)");
+  console.log("🔥 Starting Aggressive Content Generator");
   console.log(`🔑 Rotating through ${API_KEYS.length} Gemini API keys`);
 
+  // Explicitly ensure the output directory exists
   if (!fs.existsSync(CONTENT_DIR)) {
+    console.log(`📁 Creating missing directory: ${CONTENT_DIR}`);
     fs.mkdirSync(CONTENT_DIR, { recursive: true });
   }
 
@@ -155,11 +180,11 @@ async function main() {
       console.log(`✅ Saved ${slug}.md`);
 
       if (batchCounter >= BATCH_SIZE) {
-        syncToGithub(batchCounter);
+        await syncToGithub(batchCounter);
         batchCounter = 0;
       }
       
-      // Keep safety delay for RPM
+      // Delay to respect RPM limits
       await sleep(6000);
     } else {
       console.error(`⏩ Skipping persistent failure for: ${keyword}`);
@@ -167,7 +192,7 @@ async function main() {
   }
 
   if (batchCounter > 0) {
-    syncToGithub(batchCounter);
+    await syncToGithub(batchCounter);
   }
 
   console.log(`\n🎉 Task Complete! Total new templates generated: ${totalNew}`);
