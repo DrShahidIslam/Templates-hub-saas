@@ -46,3 +46,6 @@ Consult your veterinarian. Generally, puppies should avoid public areas where un
 
 **3. What is the most common mistake new puppy owners make?**
 Lack of consistency. Using different commands, irregular feeding times, or "bending the rules" on furniture access creates confusion. Establishing a unified household rulebook for all family members is essential for rapid training progress.
+
+<div data-html2canvas-ignore="true" style="display:none">new puppy checklist, puppy proofing guide, bringing home a new puppy, first 72 hours with a puppy, puppy training routine for beginners, how to prepare for a new puppy, new puppy SOP, puppy safe zone setup, essential puppy supplies checklist, puppy integration guide, new puppy adjustment period, crate training for new puppies, puppy household rules, preparing home for a puppy, puppy care standard operating procedure</div>
+<!-- AI_KEYWORDS: new puppy checklist, puppy proofing guide, bringing home a new puppy, first 72 hours with a puppy, puppy training routine for beginners, how to prepare for a new puppy, new puppy SOP, puppy safe zone setup, essential puppy supplies checklist, puppy integration guide, new puppy adjustment period, crate training for new puppies, puppy household rules, preparing home for a puppy, puppy care standard operating procedure -->
