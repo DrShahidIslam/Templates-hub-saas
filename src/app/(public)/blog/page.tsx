@@ -14,48 +14,20 @@ export const metadata: Metadata = {
   description: "Expert insights on business operations, standard operating procedures, and academic frameworks for efficiency.",
 };
 
-const blogPosts = [
-  {
-    title: "How SOPs Can Reduce Employee Turnover by 30%",
-    slug: "sops-reduce-employee-turnover",
-    excerpt: "Research shows that clear documentation is the #1 factor in employee confidence during the first 90 days of onboarding.",
-    date: "May 12, 2026",
-    readTime: "6 min read",
-    category: "Operations",
-    featured: true
-  },
-  {
-    title: "The Professor's Guide to Clinical Checklists",
-    slug: "professors-guide-clinical-checklists",
-    excerpt: "Applying academic rigor to everyday business tasks. Why the 'Double-Check' framework is failing your team.",
-    date: "May 10, 2026",
-    readTime: "8 min read",
-    category: "Academic",
-    featured: false
-  },
-  {
-    title: "Why Visa Applications Fail: A Structural Analysis",
-    slug: "why-visa-applications-fail",
-    excerpt: "An in-depth look at the most common administrative errors in global mobility and how to automate them away.",
-    date: "May 08, 2026",
-    readTime: "10 min read",
-    category: "Global Mobility",
-    featured: false
-  },
-  {
-    title: "Scaling a 10-Person Startup with Zero Management",
-    slug: "scaling-startup-with-sops",
-    excerpt: "The paradoxical truth: The more you document, the less you need to manage. A deep dive into autonomous workflows.",
-    date: "May 05, 2026",
-    readTime: "5 min read",
-    category: "Business",
-    featured: false
-  }
-];
+import { getDocuments } from 'outstatic/server';
 
-export default function BlogPage() {
-  const featuredPost = blogPosts.find(p => p.featured);
-  const recentPosts = blogPosts.filter(p => !p.featured);
+export default async function BlogPage() {
+  const posts = getDocuments('blog', [
+    'title',
+    'slug',
+    'publishedAt',
+    'description',
+    'coverImage',
+    'author'
+  ]);
+
+  const featuredPost = posts[0];
+  const recentPosts = posts.slice(1);
 
   return (
     <div className="bg-[#FAFAFA] min-h-screen">
@@ -111,21 +83,22 @@ export default function BlogPage() {
                     Featured Article
                   </span>
                   <span className="text-sm text-gray-400">•</span>
-                  <span className="text-sm text-gray-400 flex items-center gap-1.5">
-                    <Clock className="w-3.5 h-3.5" />
-                    {featuredPost.readTime}
-                  </span>
-                </div>
                 <h2 className="font-serif text-4xl md:text-5xl text-[#111827] mb-6 group-hover:text-indigo-600 transition-colors leading-tight">
                   {featuredPost.title}
                 </h2>
                 <p className="text-lg text-gray-500 mb-8 leading-relaxed">
-                  {featuredPost.excerpt}
+                  {featuredPost.description}
                 </p>
                 <div className="flex items-center gap-4">
-                  <div className="w-10 h-10 rounded-full bg-gray-200" />
+                  {featuredPost.author?.picture && (
+                    <img 
+                      src={featuredPost.author.picture} 
+                      alt={featuredPost.author.name} 
+                      className="w-10 h-10 rounded-full object-cover" 
+                    />
+                  )}
                   <div>
-                    <p className="text-sm font-bold text-gray-900">Dr. Shahid Islam</p>
+                    <p className="text-sm font-bold text-gray-900">{featuredPost.author?.name || 'Dr. Shahid Islam'}</p>
                     <p className="text-xs text-gray-500">Assistant Professor & Operations Specialist</p>
                   </div>
                 </div>
@@ -149,18 +122,18 @@ export default function BlogPage() {
                 </div>
               </div>
               <div className="flex items-center gap-3 mb-4 text-xs font-bold text-indigo-600 uppercase tracking-widest">
-                <span>{post.category}</span>
+                <span>Insight</span>
                 <span className="text-gray-300">•</span>
-                <span className="text-gray-400 flex items-center gap-1">
+                <span className="text-gray-400 flex items-center gap-1.5">
                   <Calendar className="w-3 h-3" />
-                  {post.date}
+                  {new Date(post.publishedAt).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
                 </span>
               </div>
               <h3 className="font-serif text-2xl text-[#111827] mb-4 group-hover:text-indigo-600 transition-colors leading-snug">
                 {post.title}
               </h3>
               <p className="text-gray-500 text-[15px] leading-relaxed line-clamp-2">
-                {post.excerpt}
+                {post.description}
               </p>
               <div className="mt-6 flex items-center gap-2 text-sm font-bold text-[#111827] opacity-0 group-hover:opacity-100 group-hover:translate-x-2 transition-all">
                 Read Article <ArrowRight className="w-4 h-4" />
