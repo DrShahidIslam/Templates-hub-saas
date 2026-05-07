@@ -156,24 +156,24 @@ export default function HomePageClient({ allTemplates }: HomePageClientProps) {
               transition={{ duration: 0.5, delay: 0.2 }}
               className="max-w-2xl mx-auto mb-8 group"
             >
-              <div className="relative flex items-center p-2 bg-white border border-gray-200 rounded-2xl shadow-[0_8px_30px_rgb(0,0,0,0.04)] focus-within:ring-4 focus-within:ring-indigo-500/10 focus-within:border-indigo-500/50 transition-all duration-300">
-                <div className="pl-4 pr-3 text-gray-400">
-                  <Search className="w-5 h-5" />
+              <div className="relative flex flex-row items-center p-1.5 sm:p-2 bg-white border border-gray-200 rounded-2xl shadow-[0_8px_30px_rgb(0,0,0,0.04)] focus-within:ring-4 focus-within:ring-indigo-500/10 focus-within:border-indigo-500/50 transition-all duration-300 w-full">
+                <div className="pl-3 sm:pl-4 pr-2 sm:pr-3 text-gray-400 shrink-0">
+                  <Search className="w-4 h-4 sm:w-5 sm:h-5" />
                 </div>
                 <input 
                   type="text"
-                  placeholder="Search 1,800+ templates (e.g. 'Employee Onboarding')"
-                  className="flex-1 py-4 bg-transparent outline-none text-lg text-gray-900 placeholder:text-gray-400"
+                  placeholder="Search 1,800+ templates..."
+                  className="w-full flex-1 py-3 sm:py-4 bg-transparent outline-none text-base sm:text-lg text-gray-900 placeholder:text-gray-400 min-w-0"
                   value={searchQuery}
                   onChange={(e) => setSearchQuery(e.target.value)}
                 />
-                <div className="hidden sm:flex items-center gap-1.5 px-3 py-1.5 bg-gray-50 border border-gray-200 rounded-lg text-gray-400 text-xs font-mono ml-2">
+                <div className="hidden lg:flex items-center gap-1.5 px-3 py-1.5 bg-gray-50 border border-gray-200 rounded-lg text-gray-400 text-xs font-mono ml-2">
                   <Command className="w-3 h-3" />
                   <span>K</span>
                 </div>
                 <Link 
                   href={`/templates?q=${encodeURIComponent(searchQuery)}`}
-                  className="ml-2 px-6 py-4 bg-[#4F46E5] text-white rounded-xl font-semibold hover:bg-indigo-700 transition-colors shadow-lg shadow-indigo-500/20"
+                  className="ml-2 px-4 sm:px-6 py-3 sm:py-4 bg-[#4F46E5] text-white rounded-xl font-semibold hover:bg-indigo-700 transition-colors shadow-lg shadow-indigo-500/20 shrink-0 text-sm sm:text-base"
                 >
                   Search
                 </Link>
