@@ -1,12 +1,13 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Layers, Menu, X } from "lucide-react";
+import { Layers, Menu, X, ArrowRight } from "lucide-react";
+import { motion, AnimatePresence } from "framer-motion";
 
 const navLinks = [
-  { href: "/templates", label: "Browse Templates" },
+  { href: "/templates", label: "Templates" },
   { href: "/categories", label: "Categories" },
   { href: "/blog", label: "Blog" },
 ];
@@ -17,91 +18,114 @@ const POLAR_CHECKOUT_URL =
 export default function Navbar() {
   const pathname = usePathname();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [scrolled, setScrolled] = useState(false);
 
   // Programmatic Kill-Switch for Admin Routes
   if (pathname?.startsWith("/outstatic")) return null;
 
+  // Handle scroll effect
+  useEffect(() => {
+    const handleScroll = () => setScrolled(window.scrollY > 20);
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
   return (
-    <nav
-      className="sticky top-0 z-50 bg-white/80 backdrop-blur-lg border-b border-border"
-      aria-label="Main navigation"
+    <header 
+      className={`sticky top-0 z-50 transition-all duration-300 ${
+        scrolled 
+          ? "bg-[#FAFAFA]/80 backdrop-blur-md border-b border-gray-200 py-3" 
+          : "bg-transparent py-5"
+      }`}
     >
-      <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
-        {/* ── LEFT: Brand ── */}
-        <Link href="/" className="flex items-center gap-2.5 group shrink-0">
-          <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-accent to-purple-600 flex items-center justify-center">
-            <Layers className="w-4 h-4 text-white" />
+      <div className="max-w-7xl mx-auto px-6 flex items-center justify-between">
+        {/* ── BRAND ── */}
+        <Link href="/" className="flex items-center gap-3 group shrink-0">
+          <div className="w-9 h-9 rounded-xl bg-[#111827] flex items-center justify-center group-hover:scale-105 transition-transform">
+            <Layers className="w-5 h-5 text-white" />
           </div>
-          <span className="font-semibold text-lg tracking-tight">
-            Template<span className="gradient-text">Registry</span>
+          <span className="font-serif text-2xl text-[#111827] tracking-tight">
+            Template<span className="text-gray-400 italic">Registry.</span>
           </span>
         </Link>
 
-        {/* ── CENTER: Desktop Links ── */}
-        <div className="hidden md:flex items-center gap-8 text-sm text-muted-foreground">
+        {/* ── DESKTOP NAVIGATION ── */}
+        <nav className="hidden md:flex items-center gap-10">
           {navLinks.map((link) => (
             <Link
               key={link.href}
               href={link.href}
-              className="hover:text-foreground transition-colors"
+              className={`text-sm font-medium transition-colors ${
+                pathname === link.href 
+                  ? "text-[#111827]" 
+                  : "text-gray-500 hover:text-[#111827]"
+              }`}
             >
               {link.label}
             </Link>
           ))}
-        </div>
+        </nav>
 
-        {/* ── RIGHT: Desktop CTAs ── */}
-        <div className="hidden md:flex items-center gap-4">
+        {/* ── DESKTOP CTAs ── */}
+        <div className="hidden md:flex items-center gap-6">
+          <Link href="/signin" className="text-sm font-medium text-gray-500 hover:text-[#111827] transition-colors">
+            Sign In
+          </Link>
           <a
             href={POLAR_CHECKOUT_URL}
-            className="px-5 py-2 bg-accent text-white rounded-lg text-sm font-semibold hover:bg-accent-hover transition-colors shadow-sm shadow-accent/15"
+            className="group flex items-center gap-2 px-6 py-2.5 bg-[#111827] text-white rounded-full text-sm font-bold hover:bg-gray-800 transition-all hover:shadow-lg hover:-translate-y-0.5 active:translate-y-0"
           >
-            Get Lifetime Access — $14.99
+            Get Lifetime Access
+            <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
           </a>
         </div>
 
-        {/* ── MOBILE: Hamburger Button ── */}
+        {/* ── MOBILE TOGGLE ── */}
         <button
           type="button"
-          className="md:hidden flex items-center justify-center w-10 h-10 rounded-lg text-foreground hover:bg-muted transition-colors"
+          className="md:hidden w-10 h-10 flex items-center justify-center rounded-full bg-gray-100 text-[#111827] hover:bg-gray-200 transition-colors"
           onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-          aria-label={mobileMenuOpen ? "Close menu" : "Open menu"}
-          aria-expanded={mobileMenuOpen}
+          aria-label="Toggle Menu"
         >
-          {mobileMenuOpen ? (
-            <X className="w-5 h-5" />
-          ) : (
-            <Menu className="w-5 h-5" />
-          )}
+          {mobileMenuOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
         </button>
       </div>
 
-      {/* ── MOBILE: Slide-down Menu ── */}
-      {mobileMenuOpen && (
-        <div className="md:hidden border-t border-border bg-white/95 backdrop-blur-lg animate-in slide-in-from-top-2 duration-200">
-          <div className="max-w-7xl mx-auto px-6 py-4 flex flex-col gap-1">
-            {navLinks.map((link) => (
-              <Link
-                key={link.href}
-                href={link.href}
-                onClick={() => setMobileMenuOpen(false)}
-                className="py-3 px-3 rounded-lg text-foreground font-medium hover:bg-muted transition-colors"
-              >
-                {link.label}
-              </Link>
-            ))}
-
-            <div className="border-t border-border my-2" />
-
-            <a
-              href={POLAR_CHECKOUT_URL}
-              className="py-3 px-3 rounded-lg bg-accent text-white font-semibold text-center hover:bg-accent-hover transition-colors"
-            >
-              Get Lifetime Access — $14.99
-            </a>
-          </div>
-        </div>
-      )}
-    </nav>
+      {/* ── MOBILE MENU ── */}
+      <AnimatePresence>
+        {mobileMenuOpen && (
+          <motion.div
+            initial={{ opacity: 0, y: -10 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: -10 }}
+            className="md:hidden absolute top-full left-0 w-full bg-white border-b border-gray-100 shadow-xl"
+          >
+            <div className="p-6 flex flex-col gap-6">
+              {navLinks.map((link) => (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  onClick={() => setMobileMenuOpen(false)}
+                  className="text-lg font-medium text-gray-900 border-b border-gray-50 pb-4"
+                >
+                  {link.label}
+                </Link>
+              ))}
+              <div className="flex flex-col gap-4 pt-4">
+                <Link href="/signin" className="text-center font-medium py-3 text-gray-500">
+                  Sign In
+                </Link>
+                <a
+                  href={POLAR_CHECKOUT_URL}
+                  className="w-full py-4 bg-[#111827] text-white rounded-2xl font-bold text-center"
+                >
+                  Get Lifetime Access
+                </a>
+              </div>
+            </div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+    </header>
   );
 }
