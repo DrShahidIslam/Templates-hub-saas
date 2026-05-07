@@ -13,7 +13,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Get all history for better git operations
+          fetch-depth: 0 # Essential for git pull --rebase operations
+          persist-credentials: true
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -24,11 +25,6 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Configure Git
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
       - name: Run Content Generator
         env:
           # Map your repository secrets here
@@ -38,10 +34,3 @@ jobs:
           GEMINI_API_KEY_4: ${{ secrets.GEMINI_API_KEY_4 }}
           GEMINI_API_KEY_5: ${{ secrets.GEMINI_API_KEY_5 }}
         run: npx tsx scripts/github-generator.ts
-
-      - name: Final Push (if any leftover files)
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: final batch of generated templates [skip ci]" && git push)
