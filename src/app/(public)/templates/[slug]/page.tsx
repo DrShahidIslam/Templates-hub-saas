@@ -16,6 +16,7 @@ import { getDocumentBySlug } from "outstatic/server";
 import PdfDownloadButton from "@/app/components/PdfDownloadButton";
 import NotionExportButton from "@/app/components/NotionExportButton";
 import TemplatePreviewProtection from "@/app/components/TemplatePreviewProtection";
+import matter from "gray-matter";
 
 /* ────────────────────────────────────────────
    ISR — cache each page for 24 hours, then revalidate
@@ -106,11 +107,14 @@ export default async function TemplatePage({
   // Generate the SOP content via Gemini 2.5 Flash (cached for 24h via ISR)
   const rawMarkdown = await generateSOP(keyword);
 
+  // Strip frontmatter from content using gray-matter
+  const { content: cleanBody } = matter(rawMarkdown);
+
   // Apply the SEO internal linker
   const allKeywords = getAllKeywords();
   // Filter out the current slug so we don't link to ourselves
   const availableTemplates = allKeywords.filter(k => k.slug !== slug);
-  const generatedMarkdown = injectInternalLinks(rawMarkdown, availableTemplates);
+  const generatedMarkdown = injectInternalLinks(cleanBody, availableTemplates);
 
   const heroDescription = generateHeroDescription(keyword, titleCased);
   const sidebarDescription = generateSidebarDescription(keyword);
