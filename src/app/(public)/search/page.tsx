@@ -2,6 +2,7 @@ import { getDocuments } from "outstatic/server";
 import { FileText, ArrowRight, Search as SearchIcon } from "lucide-react";
 import Link from "next/link";
 import { toTitleCase } from "@/lib/data";
+import Fuse from "fuse.js";
 
 export const metadata = {
   title: "Search Results | Template Registry",
@@ -15,21 +16,33 @@ export default async function SearchPage({
 }) {
   const { q: query } = await searchParams;
   
-  // Fetch all templates (or a large enough batch for search)
-  // Since we have 1,800+, we might want to fetch a good chunk or all for filtering if using a simple client-side-like search on server
+  // Fetch templates with content for deep searching
   const allTemplates = await getDocuments("templates", [
     "title",
     "slug",
     "description",
+    "content",
     "publishedAt",
   ]);
 
-  const filteredTemplates = query
-    ? allTemplates.filter((t) => {
-        const searchStr = `${t.title} ${t.description}`.toLowerCase();
-        return searchStr.includes(query.toLowerCase());
-      })
-    : [];
+  let filteredTemplates: any[] = [];
+
+  if (query) {
+    const fuse = new Fuse(allTemplates, {
+      keys: [
+        { name: 'title', weight: 0.7 },
+        { name: 'description', weight: 0.2 },
+        { name: 'content', weight: 0.1 }
+      ],
+      threshold: 0.35, // Adjust for fuzziness
+      ignoreLocation: true,
+      findAllMatches: true,
+      minMatchCharLength: 2,
+    });
+
+    const results = fuse.search(query);
+    filteredTemplates = results.map(r => r.item);
+  }
 
   return (
     <main className="max-w-7xl mx-auto px-6 py-12 md:py-20">
