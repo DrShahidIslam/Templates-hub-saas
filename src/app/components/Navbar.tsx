@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Layers, Menu, X, ArrowRight } from "lucide-react";
+import { Menu, X, ArrowRight } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 
 const navLinks = [
@@ -41,9 +41,10 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-6 flex items-center justify-between">
         {/* ── BRAND ── */}
         <Link href="/" className="flex items-center gap-3 group shrink-0">
-          <div className="w-9 h-9 rounded-xl bg-[#111827] flex items-center justify-center group-hover:scale-105 transition-transform">
-            <Layers className="w-5 h-5 text-white" />
-          </div>
+          <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" className="w-7 h-7 text-[#111827] group-hover:scale-110 transition-transform duration-300">
+            <rect x="3" y="7" width="12" height="14" rx="2" stroke="currentColor" strokeWidth="2" />
+            <rect x="9" y="3" width="12" height="14" rx="2" fill="currentColor" stroke="currentColor" strokeWidth="2" />
+          </svg>
           <span className="font-serif text-2xl text-[#111827] tracking-tight">
             Template<span className="text-gray-400 italic">Registry.</span>
           </span>
