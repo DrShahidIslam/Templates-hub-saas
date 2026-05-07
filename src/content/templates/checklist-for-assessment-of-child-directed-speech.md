@@ -1,0 +1,45 @@
+# Standard Operating Procedure: Assessment of Child-Directed Speech (CDS)
+
+## Introduction
+Child-Directed Speech (CDS)—often referred to as "parentese" or "infant-directed speech"—is a critical component in early language acquisition and socio-emotional development. This SOP provides a standardized framework for clinicians, speech-language pathologists, and developmental researchers to assess the quality, frequency, and efficacy of CDS during caregiver-child interactions. The goal of this assessment is to identify strengths in communicative support and provide actionable feedback to enhance the linguistic environment of the child.
+
+## Section 1: Pre-Assessment Preparation
+*   **Environment Setup:** Ensure the assessment room is quiet, free from digital distractions (TVs, phones), and equipped with age-appropriate toys that encourage shared attention.
+*   **Equipment Check:** Verify that high-quality audio/video recording equipment is functional, as transcription is essential for objective analysis.
+*   **Caregiver Briefing:** Explain to the caregiver that the goal is to observe natural interaction, not to "perform" or "teach" the child.
+*   **Informed Consent:** Confirm that all privacy protocols and consent forms are signed and filed prior to beginning the session.
+
+## Section 2: Quantitative Analysis Checklist
+*   **Utterance Frequency:** Count the number of communicative turns initiated by the adult.
+*   **Mean Length of Utterance (MLU):** Calculate the average number of morphemes/words used by the adult per turn.
+*   **Wait Time:** Measure the duration (in seconds) the caregiver pauses to allow the child to respond.
+*   **Diversity of Vocabulary:** Assess the lexical variety (Type-Token Ratio) used during the interaction.
+
+## Section 3: Qualitative Analysis Checklist
+*   **Prosodic Features:** Observe if the caregiver utilizes high pitch, exaggerated intonation, and rhythmic patterns.
+*   **Syntactic Complexity:** Check if the caregiver simplifies grammatical structures to match the child’s current developmental level.
+*   **Contingent Responsiveness:** Note if the caregiver responds promptly to the child’s vocalizations, gestures, or visual cues.
+*   **Joint Attention:** Evaluate the caregiver’s ability to follow the child's lead and comment on the object/event the child is currently focused on.
+*   **Affective Tone:** Monitor for warm, encouraging facial expressions and positive emotional reinforcement.
+
+## Section 4: Post-Assessment Reporting
+*   **Synthesize Data:** Compare quantitative metrics against normative developmental milestones.
+*   **Identify Gaps:** Highlight areas where CDS could be enhanced (e.g., increased wait time, reduced complexity).
+*   **Action Plan Formulation:** Create 2–3 concrete, actionable goals for the caregiver to implement before the follow-up session.
+
+## Pro Tips & Pitfalls
+*   **Pro Tip: The "10-Second Rule":** Always coach caregivers to count to ten silently after a question; adults often feel uncomfortable with silence and fill it too quickly, inadvertently cutting off the child’s processing time.
+*   **Pro Tip: Mirroring:** Encourage caregivers to mirror the child’s vocalizations (phonetic imitation) to boost the child’s vocal confidence.
+*   **Pitfall: Over-Correction:** Avoid focusing on "correcting" the child’s grammar; focus instead on "recasting"—repeating the child’s intent back to them in a more mature structure.
+*   **Pitfall: Task Overload:** Do not overwhelm the caregiver with too many metrics at once. Focus on one high-impact change (e.g., "Wait time") per session.
+
+## Frequently Asked Questions (FAQ)
+
+**1. Does "baby talk" hinder language development?**
+No. Research consistently shows that the exaggerated prosody and simplified grammar of CDS actually help infants segment speech sounds and identify word boundaries more effectively than adult-to-adult speech.
+
+**2. How long should an observation session last?**
+Typically, 15 to 20 minutes of naturalistic play is sufficient to collect a representative sample of language. Sessions longer than this often lead to caregiver fatigue or unnatural behavior.
+
+**3. What if the child does not vocalize during the observation?**
+Shift the assessment focus to non-verbal communicative competence. Observe how the caregiver responds to gestures, gaze, and physical proximity, as these are foundational precursors to verbal language.
