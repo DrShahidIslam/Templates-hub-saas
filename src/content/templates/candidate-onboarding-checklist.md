@@ -55,3 +55,6 @@ If hardware is not ready, have a "Plan B" ready, such as an alternative workspac
 
 **3. When should I stop the "Onboarding" process?**
 Onboarding is generally considered complete after the 30-day review, though mentorship and professional development should continue throughout the employee lifecycle.
+
+<div data-html2canvas-ignore="true" style="display:none">employee onboarding checklist, new hire onboarding process, candidate onboarding SOP, onboarding best practices, remote employee onboarding, new hire checklist template, how to onboard a new employee, employee integration plan, new hire training manual, onboarding workflow, HR onboarding guide, new hire orientation checklist, staff onboarding procedures, successful onboarding strategy, onboarding documentation template</div>
+<!-- AI_KEYWORDS: employee onboarding checklist, new hire onboarding process, candidate onboarding SOP, onboarding best practices, remote employee onboarding, new hire checklist template, how to onboard a new employee, employee integration plan, new hire training manual, onboarding workflow, HR onboarding guide, new hire orientation checklist, staff onboarding procedures, successful onboarding strategy, onboarding documentation template -->

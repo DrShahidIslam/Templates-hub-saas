@@ -65,3 +65,6 @@ A: Yes. Including "big-ticket" items for later developmental stages is wise, as 
 
 **Q: Is it necessary to buy "brand new" for every item?**
 A: Not necessarily. While car seats must always be bought new for safety reasons, items like strollers, bassinets, and clothing are often perfectly acceptable to source second-hand, provided they meet current safety standards and can be thoroughly cleaned.
+
+<div data-html2canvas-ignore="true" style="display:none">best baby registry checklist, essential baby items list, newborn registry guide, baby registry must haves, what to put on baby registry, newborn essentials checklist, baby registry organization, safe sleep baby gear list, newborn feeding supplies guide, baby registry tips for first time parents, nursery setup checklist, baby product registry SOP, comprehensive baby gear guide, newborn shopping list essentials, how to make a baby registry</div>
+<!-- AI_KEYWORDS: best baby registry checklist, essential baby items list, newborn registry guide, baby registry must haves, what to put on baby registry, newborn essentials checklist, baby registry organization, safe sleep baby gear list, newborn feeding supplies guide, baby registry tips for first time parents, nursery setup checklist, baby product registry SOP, comprehensive baby gear guide, newborn shopping list essentials, how to make a baby registry -->

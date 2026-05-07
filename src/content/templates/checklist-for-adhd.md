@@ -42,3 +42,6 @@ A: Use whatever provides the least amount of "friction." If setting up a complex
 
 **Q: How do I handle "Analysis Paralysis" when I have too much to do?**
 A: Use the "Eisenhower Matrix" method. Categorize tasks by Urgency and Importance. If you are paralyzed, choose the task with the lowest barrier to entry, regardless of priority, to build initial momentum.
+
+<div data-html2canvas-ignore="true" style="display:none">ADHD productivity system, ADHD workplace accommodations, ADHD executive function strategies, executive function checklist, how to manage ADHD at work, ADHD task management, ADHD workflow optimization, cognitive load management techniques, SOP for ADHD, ADHD daily routine checklist, overcoming ADHD analysis paralysis, professional ADHD management, ADHD productivity hacks, organization strategies for ADHD, ADHD focus tools</div>
+<!-- AI_KEYWORDS: ADHD productivity system, ADHD workplace accommodations, ADHD executive function strategies, executive function checklist, how to manage ADHD at work, ADHD task management, ADHD workflow optimization, cognitive load management techniques, SOP for ADHD, ADHD daily routine checklist, overcoming ADHD analysis paralysis, professional ADHD management, ADHD productivity hacks, organization strategies for ADHD, ADHD focus tools -->

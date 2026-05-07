@@ -54,3 +54,6 @@ A: Utilize the "Tier System": Tier 1 (Must-haves), Tier 2 (Friends/Extended fami
 
 **Q: Should I hire a Day-of Coordinator?**
 A: Yes. Even if you plan the event yourself, a professional coordinator acts as the "Project Manager" on the day of the event, allowing you to act as the client rather than the employee.
+
+<div data-html2canvas-ignore="true" style="display:none">wedding planning checklist, step by step wedding guide, wedding project management SOP, wedding planning timeline, how to plan a wedding, professional wedding planning template, wedding execution strategy, marriage planning workflow, wedding budget management, wedding vendor coordination, wedding planning SOP, event planning checklist for weddings, comprehensive wedding organizer, bride and groom planning guide, wedding day coordination checklist</div>
+<!-- AI_KEYWORDS: wedding planning checklist, step by step wedding guide, wedding project management SOP, wedding planning timeline, how to plan a wedding, professional wedding planning template, wedding execution strategy, marriage planning workflow, wedding budget management, wedding vendor coordination, wedding planning SOP, event planning checklist for weddings, comprehensive wedding organizer, bride and groom planning guide, wedding day coordination checklist -->

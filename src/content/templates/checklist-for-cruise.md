@@ -42,3 +42,6 @@ A: Policies vary by line, but most permit a limited quantity (usually 1-2 bottle
 
 **Q: What is the most overlooked item for cruise travelers?**
 A: A portable battery pack. Between using the cruise app, taking photos, and navigating in port, your phone battery will drain faster than usual. Having an external power source is vital for full-day excursions.
+
+<div data-html2canvas-ignore="true" style="display:none">cruise packing checklist, cruise preparation guide, pre-cruise travel checklist, what to do before a cruise, international cruise requirements, cruise travel tips and tricks, essential cruise documents, cruise boarding procedure, how to prepare for a cruise vacation, cruise travel insurance guide, cruise port preparation, checklist for cruise passengers, cruise travel SOP, cruise documentation requirements, stress-free cruise preparation</div>
+<!-- AI_KEYWORDS: cruise packing checklist, cruise preparation guide, pre-cruise travel checklist, what to do before a cruise, international cruise requirements, cruise travel tips and tricks, essential cruise documents, cruise boarding procedure, how to prepare for a cruise vacation, cruise travel insurance guide, cruise port preparation, checklist for cruise passengers, cruise travel SOP, cruise documentation requirements, stress-free cruise preparation -->

@@ -66,3 +66,6 @@ A: A standard shower should last between 2 and 3 hours. Any longer can become ph
 
 **Q: How do we handle unexpected arrivals?**
 A: Always have extra seating and a small margin of surplus in food/drink orders (roughly 10% above the RSVP count) to accommodate last-minute additions gracefully.
+
+<div data-html2canvas-ignore="true" style="display:none">baby shower planning checklist, step by step baby shower guide, how to plan a baby shower, baby shower organization SOP, baby shower timeline template, baby shower coordination tips, stress-free baby shower planning, baby shower project management, baby shower hosting guide, checklist for baby shower, baby shower budget tracker, baby shower event logistics, baby shower planning process, simple baby shower planner, baby shower preparation steps</div>
+<!-- AI_KEYWORDS: baby shower planning checklist, step by step baby shower guide, how to plan a baby shower, baby shower organization SOP, baby shower timeline template, baby shower coordination tips, stress-free baby shower planning, baby shower project management, baby shower hosting guide, checklist for baby shower, baby shower budget tracker, baby shower event logistics, baby shower planning process, simple baby shower planner, baby shower preparation steps -->

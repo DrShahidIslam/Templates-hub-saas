@@ -52,3 +52,6 @@ A: No. Due to fire safety regulations, heat-generating appliances like irons, st
 
 **Q: Do I need a formal converter/adapter for the outlets?**
 A: Most modern cruise ships have standard US/EU outlets. However, since outlet space is extremely limited in cabins, prioritize a multi-port USB charger over international adapters.
+
+<div data-html2canvas-ignore="true" style="display:none">cruise packing checklist, cruise preparation guide, what to pack for a cruise, cruise embarkation essentials, cruise travel tips, cruise vacation packing list, cruise document checklist, essential items for cruise travel, cruise carry-on bag list, how to prepare for a cruise, cruise packing SOP, international cruise travel requirements, cruise cabin organization tips, cruise formal night attire guide, cruise travel checklist PDF</div>
+<!-- AI_KEYWORDS: cruise packing checklist, cruise preparation guide, what to pack for a cruise, cruise embarkation essentials, cruise travel tips, cruise vacation packing list, cruise document checklist, essential items for cruise travel, cruise carry-on bag list, how to prepare for a cruise, cruise packing SOP, international cruise travel requirements, cruise cabin organization tips, cruise formal night attire guide, cruise travel checklist PDF -->
