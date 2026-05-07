@@ -118,28 +118,30 @@ export default async function TemplatePage({
   return (
     <>
       {/* ── BREADCRUMB ── */}
-      <div className="max-w-7xl mx-auto px-6 pt-6">
+      <div className="max-w-7xl mx-auto px-6 pt-10 print:hidden">
         <nav
           aria-label="Breadcrumb"
-          className="text-sm text-muted-foreground flex items-center gap-2"
+          className="text-xs font-medium uppercase tracking-[0.2em] text-gray-400 flex items-center gap-3"
         >
           <Link
             href="/"
-            className="hover:text-foreground transition-colors"
+            className="hover:text-black transition-colors"
             id="breadcrumb-home"
           >
             Home
           </Link>
-          <span className="text-border">/</span>
+          <span className="text-gray-200">/</span>
           <Link
             href="/templates"
-            className="hover:text-foreground transition-colors"
+            className="hover:text-black transition-colors"
             id="breadcrumb-templates"
           >
             Templates
           </Link>
-          <span className="text-border">/</span>
-          <span className="text-foreground font-medium">{titleCased}</span>
+          <span className="text-gray-200">/</span>
+          <span className="text-gray-600 truncate max-w-[200px] md:max-w-none">
+            {titleCased}
+          </span>
         </nav>
       </div>
 
