@@ -2,7 +2,6 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { usePathname } from "next/navigation";
 import { Layers, Menu, X } from "lucide-react";
 
 const navLinks = [
@@ -15,13 +14,7 @@ const POLAR_CHECKOUT_URL =
   "https://buy.polar.sh/polar_cl_SvXvG4jukzotDEekGNPrlidHn7MXXdXlQJSeT2Kt33l?success_url=https://templateregistry.com/success";
 
 export default function Navbar() {
-  const pathname = usePathname();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-
-  // Do not show Navbar on the Outstatic dashboard
-  if (pathname?.startsWith("/outstatic")) {
-    return null;
-  }
 
   return (
     <nav
