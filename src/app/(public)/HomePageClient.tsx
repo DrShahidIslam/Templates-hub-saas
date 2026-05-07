@@ -463,32 +463,6 @@ export default function HomePageClient({ allTemplates }: HomePageClientProps) {
 
       </main>
 
-      <footer className="py-20 px-6 border-t border-gray-100">
-        <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-12">
-          <div className="flex items-center gap-3">
-            <div className="w-8 h-8 rounded-lg bg-[#4F46E5] flex items-center justify-center">
-              <span className="text-white font-bold text-xs">TR</span>
-            </div>
-            <span className="font-bold text-[#111827]">Template Registry</span>
-          </div>
-          <div className="flex gap-12">
-            <div className="flex flex-col gap-4">
-              <span className="text-[10px] font-bold text-gray-400 uppercase tracking-widest">Library</span>
-              <Link href="/templates" className="text-sm text-gray-600 hover:text-indigo-600">Browse All</Link>
-              <Link href="/templates?category=hr" className="text-sm text-gray-600 hover:text-indigo-600">HR Policies</Link>
-            </div>
-            <div className="flex flex-col gap-4">
-              <span className="text-[10px] font-bold text-gray-400 uppercase tracking-widest">Company</span>
-              <Link href="/about" className="text-sm text-gray-600 hover:text-indigo-600">Our Mission</Link>
-              <Link href="/contact" className="text-sm text-gray-600 hover:text-indigo-600">Support</Link>
-            </div>
-          </div>
-          <div className="text-right">
-            <p className="text-sm text-gray-400 mb-2">© 2026 Template Registry.</p>
-            <p className="text-xs text-gray-300">Curated with Academic Integrity.</p>
-          </div>
-        </div>
-      </footer>
     </div>
   );
 }
