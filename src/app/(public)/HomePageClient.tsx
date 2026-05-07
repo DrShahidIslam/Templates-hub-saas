@@ -127,7 +127,7 @@ export default function HomePageClient({ allTemplates }: HomePageClientProps) {
       <main className="relative">
         
         {/* ── HERO SECTION ── */}
-        <section className="relative pt-32 pb-16 px-6 overflow-hidden">
+        <section className="relative pt-16 pb-16 px-6 overflow-hidden">
           <div className="absolute inset-0 z-0 pointer-events-none">
             <div className="absolute top-0 left-1/4 w-[500px] h-[500px] bg-indigo-50/50 rounded-full blur-[120px] opacity-60" />
             <div className="absolute bottom-0 right-1/4 w-[400px] h-[400px] bg-purple-50/50 rounded-full blur-[100px] opacity-40" />
@@ -329,7 +329,7 @@ export default function HomePageClient({ allTemplates }: HomePageClientProps) {
                 whileInView={{ opacity: 1, y: 0 }}
                 viewport={{ once: true }}
                 transition={{ delay: idx * 0.1 }}
-                className={`${cat.size} group relative overflow-hidden bg-white border border-gray-100 rounded-[2rem] p-8 hover:shadow-[0_20px_50px_rgba(0,0,0,0.05)] transition-all duration-500`}
+                className={`${cat.size} group relative overflow-hidden bg-white border border-gray-100 rounded-[2rem] p-6 hover:shadow-[0_20px_50px_rgba(0,0,0,0.05)] transition-all duration-500`}
               >
                 <div className="flex flex-col h-full justify-between">
                   <div>

@@ -66,19 +66,7 @@ export default function Navbar() {
           ))}
         </nav>
 
-        {/* ── DESKTOP CTAs ── */}
-        <div className="hidden md:flex items-center gap-6">
-          <Link href="/signin" className="text-sm font-medium text-gray-500 hover:text-[#111827] transition-colors">
-            Sign In
-          </Link>
-          <a
-            href={POLAR_CHECKOUT_URL}
-            className="group flex items-center gap-2 px-6 py-2.5 bg-[#111827] text-white rounded-full text-sm font-bold hover:bg-gray-800 transition-all hover:shadow-lg hover:-translate-y-0.5 active:translate-y-0"
-          >
-            Get Lifetime Access
-            <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-          </a>
-        </div>
+
 
         {/* ── MOBILE TOGGLE ── */}
         <button
@@ -111,17 +99,7 @@ export default function Navbar() {
                   {link.label}
                 </Link>
               ))}
-              <div className="flex flex-col gap-4 pt-4">
-                <Link href="/signin" className="text-center font-medium py-3 text-gray-500">
-                  Sign In
-                </Link>
-                <a
-                  href={POLAR_CHECKOUT_URL}
-                  className="w-full py-4 bg-[#111827] text-white rounded-2xl font-bold text-center"
-                >
-                  Get Lifetime Access
-                </a>
-              </div>
+
             </div>
           </motion.div>
         )}
