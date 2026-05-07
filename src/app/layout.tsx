@@ -44,6 +44,9 @@ export const metadata: Metadata = {
   },
 };
 
+import SuccessHandler from "./components/SuccessHandler";
+import { Suspense } from "react";
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -57,6 +60,9 @@ export default function RootLayout({
     >
       <body id="outstatic" className="min-h-full flex flex-col" suppressHydrationWarning>
         <Toaster position="bottom-right" />
+        <Suspense fallback={null}>
+          <SuccessHandler />
+        </Suspense>
         {children}
       </body>
     </html>
