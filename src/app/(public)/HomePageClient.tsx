@@ -35,7 +35,7 @@ const mainCategories = [
     icon: Users,
     color: "bg-blue-50 text-blue-600",
     slug: "hr-people-ops",
-    image: "https://images.unsplash.com/photo-1521791136364-798a7bc0d262?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&q=80&w=800"
   },
   {
     title: "Operations",
