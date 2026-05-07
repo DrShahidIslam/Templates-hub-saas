@@ -22,11 +22,10 @@ const instrumentSerif = Instrument_Serif({
 export const metadata: Metadata = {
   metadataBase: new URL('https://templateregistry.com'),
   title: {
-    default: "Template Registry — Free HR & Business Templates",
-    template: "%s | Template Registry",
+    default: 'Template Registry — Premium Business & HR Templates',
+    template: '%s | Template Registry',
   },
-  description:
-    "Download free, expertly crafted HR and business templates. Checklists, SOPs, scorecards, and review templates to streamline your workflows.",
+  description: 'Access the global registry of professional SOPs, checklists, and operational frameworks. Engineered for clinical precision and academic integrity to streamline your business workflows.',
   keywords: [
     "HR templates",
     "business templates",
@@ -35,6 +34,9 @@ export const metadata: Metadata = {
     "SOP templates",
   ],
   authors: [{ name: "Template Registry" }],
+  icons: {
+    icon: '/icon.svg',
+  },
   openGraph: {
     type: "website",
     locale: "en_US",
