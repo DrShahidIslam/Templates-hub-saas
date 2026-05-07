@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Comprehensive Baby Registry Management'
+status: 'published'
+slug: 'checklist-for-baby-registry'
+publishedAt: '2026-05-07T18:59:25.107Z'
+---
+
 # Standard Operating Procedure: Comprehensive Baby Registry Management
 
 Developing a baby registry is a significant logistical undertaking that requires balancing immediate newborn necessities with long-term developmental needs. This SOP is designed to guide expectant parents through the strategic procurement of infant supplies, ensuring all essential categories are covered while minimizing clutter and redundant spending. By following this structured workflow, you will establish a systematic foundation for your household’s transition to parenthood.

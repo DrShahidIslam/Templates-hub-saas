@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Conducting a Cross-Sectional Study'
+status: 'published'
+slug: 'checklist-for-cross-sectional-study'
+publishedAt: '2026-05-07T18:59:25.147Z'
+---
+
 # Standard Operating Procedure: Conducting a Cross-Sectional Study
 
 This Standard Operating Procedure (SOP) outlines the systematic framework for executing a high-quality cross-sectional study. A cross-sectional study is an observational design that analyzes data from a population at a specific point in time, serving as a snapshot of prevalence, associations, or health status. Adherence to this protocol ensures methodological rigor, data integrity, and compliance with ethical research standards, thereby minimizing bias and maximizing the reliability of the study’s findings.

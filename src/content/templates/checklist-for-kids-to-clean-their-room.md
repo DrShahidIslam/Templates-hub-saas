@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Residential Bedroom Maintenance (Junior Grade)'
+status: 'published'
+slug: 'checklist-for-kids-to-clean-their-room'
+publishedAt: '2026-05-07T18:59:25.290Z'
+---
+
 # Standard Operating Procedure: Residential Bedroom Maintenance (Junior Grade)
 
 ## 1. Introduction

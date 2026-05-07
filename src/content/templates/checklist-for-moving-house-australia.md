@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Residential Relocation (Australia)'
+status: 'published'
+slug: 'checklist-for-moving-house-australia'
+publishedAt: '2026-05-07T18:59:25.318Z'
+---
+
 # Standard Operating Procedure: Residential Relocation (Australia)
 
 This Standard Operating Procedure (SOP) serves as a comprehensive framework for managing a residential move within Australia. Moving house is a complex logistical operation requiring meticulous planning, regulatory compliance, and resource coordination. By adhering to this structured checklist, you will minimize operational downtime, mitigate the risk of property damage, and ensure a seamless transition between locations.

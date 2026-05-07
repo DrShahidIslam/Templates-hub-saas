@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Nanny Operations'
+status: 'published'
+slug: 'daily-checklist-for-nanny'
+publishedAt: '2026-05-07T18:59:25.594Z'
+---
+
 # Standard Operating Procedure: Daily Nanny Operations
 
 This Standard Operating Procedure (SOP) is designed to ensure a consistent, safe, and nurturing environment for the children while maintaining seamless household operations. By following this daily structure, the nanny will provide high-quality care that aligns with the parents' expectations regarding health, hygiene, development, and household maintenance. This document serves as a guide for daily transitions, routine management, and proactive communication.

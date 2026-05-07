@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Health Unit Inspection Protocol'
+status: 'published'
+slug: 'checklist-for-health-unit-inspection'
+publishedAt: '2026-05-07T18:59:25.230Z'
+---
+
 # Standard Operating Procedure: Health Unit Inspection Protocol
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for conducting a comprehensive health unit inspection. The objective of this procedure is to ensure compliance with local health department regulations, minimize patient and staff risk, and maintain the highest standards of sanitation and operational efficiency. By adhering to this checklist, the facility ensures it remains "inspection-ready" at all times, thereby mitigating the risk of citations, fines, or operational suspension.

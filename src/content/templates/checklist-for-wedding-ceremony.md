@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Wedding Ceremony Execution'
+status: 'published'
+slug: 'checklist-for-wedding-ceremony'
+publishedAt: '2026-05-07T18:59:25.461Z'
+---
+
 # Standard Operating Procedure: Wedding Ceremony Execution
 
 This Standard Operating Procedure (SOP) outlines the professional requirements for orchestrating a flawless wedding ceremony. As an operations manager, the goal is to eliminate variables, ensure seamless transitions, and provide a calm, structured environment for the couple and their guests. This document serves as the master checklist to ensure every logistical element—from vendor coordination to guest flow—is executed with precision and discretion.

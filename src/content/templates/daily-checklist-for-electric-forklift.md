@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Electric Forklift Inspection'
+status: 'published'
+slug: 'daily-checklist-for-electric-forklift'
+publishedAt: '2026-05-07T18:59:25.553Z'
+---
+
 # Standard Operating Procedure: Daily Electric Forklift Inspection
 
 ## Introduction

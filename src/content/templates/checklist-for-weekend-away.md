@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Weekend Away Preparation'
+status: 'published'
+slug: 'checklist-for-weekend-away'
+publishedAt: '2026-05-07T18:59:25.468Z'
+---
+
 # Standard Operating Procedure: Weekend Away Preparation
 
 This Standard Operating Procedure (SOP) is designed to streamline the preparation process for short-term travel. By following this systematic approach, you will eliminate last-minute stress, ensure all essential items are accounted for, and verify that your residence is secure before departure. Adherence to this checklist minimizes cognitive load and ensures a seamless transition from your daily routine to your travel period.

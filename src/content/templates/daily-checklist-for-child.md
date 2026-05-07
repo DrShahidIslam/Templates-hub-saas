@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Child Routine Management'
+status: 'published'
+slug: 'daily-checklist-for-child'
+publishedAt: '2026-05-07T18:59:25.540Z'
+---
+
 # Standard Operating Procedure: Daily Child Routine Management
 
 Effective child routine management is the cornerstone of a stable, secure, and thriving household environment. This Standard Operating Procedure (SOP) is designed to minimize cognitive load, reduce morning friction, and ensure that all developmental, nutritional, and hygiene requirements are met consistently. By adhering to this structured workflow, caregivers can provide a predictable structure that fosters independence, emotional regulation, and physical well-being for the child.

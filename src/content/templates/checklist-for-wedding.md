@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Comprehensive Wedding Execution'
+status: 'published'
+slug: 'checklist-for-wedding'
+publishedAt: '2026-05-07T18:59:25.466Z'
+---
+
 # Standard Operating Procedure: Comprehensive Wedding Execution
 
 Executing a successful wedding requires the precision of a high-stakes project management operation. This Standard Operating Procedure (SOP) is designed to transition the wedding planning process from chaotic ideation to systematic execution. By adhering to this structured checklist, stakeholders can mitigate risks, ensure budgetary alignment, and maintain clear lines of communication between vendors, the wedding party, and the couple. Follow this protocol to ensure all operational requirements are met with professional rigor.

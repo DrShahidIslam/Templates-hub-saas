@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Funeral Planning and Execution'
+status: 'published'
+slug: 'checklist-for-funeral'
+publishedAt: '2026-05-07T18:59:25.208Z'
+---
+
 # Standard Operating Procedure: Funeral Planning and Execution
 
 This Standard Operating Procedure (SOP) serves as a comprehensive framework for organizing and executing a funeral service. Managing a funeral requires a blend of logistical precision, emotional intelligence, and timely communication. This document is designed to alleviate the administrative burden on the family or the funeral coordinator by providing a structured roadmap to ensure that every legal, logistical, and ceremonial detail is addressed with dignity and professionalism.

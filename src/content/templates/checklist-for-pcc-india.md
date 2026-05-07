@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Police Clearance Certificate (PCC) Application for India'
+status: 'published'
+slug: 'checklist-for-pcc-india'
+publishedAt: '2026-05-07T18:59:25.377Z'
+---
+
 # Standard Operating Procedure: Police Clearance Certificate (PCC) Application for India
 
 This document outlines the systematic procedure for obtaining a Police Clearance Certificate (PCC) from Indian authorities. A PCC is a mandatory document for Indian citizens residing in India or abroad who require proof of their criminal record status for immigration, employment, or long-term visa purposes. This SOP is designed to ensure accuracy, minimize processing delays, and ensure compliance with the Ministry of External Affairs (MEA) and Passport Seva guidelines.

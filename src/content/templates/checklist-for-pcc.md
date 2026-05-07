@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Police Clearance Certificate (PCC) Procurement'
+status: 'published'
+slug: 'checklist-for-pcc'
+publishedAt: '2026-05-07T18:59:25.378Z'
+---
+
 # Standard Operating Procedure: Police Clearance Certificate (PCC) Procurement
 
 This Standard Operating Procedure (SOP) outlines the mandatory workflow for procuring a Police Clearance Certificate (PCC) for employment, immigration, or legal screening purposes. Adherence to these protocols ensures data accuracy, regulatory compliance, and the mitigation of processing delays caused by incomplete documentation or clerical errors. All applicants must follow these steps systematically to ensure a successful application submission.

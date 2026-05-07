@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Canada Visitor Visa Application'
+status: 'published'
+slug: 'checklist-for-canada-visitor-visa'
+publishedAt: '2026-05-07T18:59:25.134Z'
+---
+
 # Standard Operating Procedure: Canada Visitor Visa Application
 
 This Standard Operating Procedure (SOP) outlines the standardized process for preparing and submitting an application for a Temporary Resident Visa (TRV) to Canada. As an operations manager, I emphasize that the success of a visa application relies heavily on document integrity, proof of financial stability, and demonstrating clear intent to return to one's home country. Adherence to this checklist will minimize the risk of procedural delays or administrative refusals.

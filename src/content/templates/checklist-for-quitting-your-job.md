@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Professional Job Resignation Protocol'
+status: 'published'
+slug: 'checklist-for-quitting-your-job'
+publishedAt: '2026-05-07T18:59:25.392Z'
+---
+
 # Standard Operating Procedure: Professional Job Resignation Protocol
 
 Resigning from a position is a critical career milestone that, when executed with precision and professionalism, preserves your reputation, secures your professional network, and ensures a seamless transition. This SOP outlines the systematic approach required to exit an organization gracefully, mitigate legal or contractual risks, and finalize administrative obligations. By following these structured phases, you ensure that your departure reflects positively on your personal brand and maintains the integrity of your professional relationships.

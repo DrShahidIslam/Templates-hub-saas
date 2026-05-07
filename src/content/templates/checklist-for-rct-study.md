@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Randomized Controlled Trial (RCT) Execution'
+status: 'published'
+slug: 'checklist-for-rct-study'
+publishedAt: '2026-05-07T18:59:25.394Z'
+---
+
 # Standard Operating Procedure: Randomized Controlled Trial (RCT) Execution
 
 This Standard Operating Procedure (SOP) outlines the mandatory operational requirements for conducting a Randomized Controlled Trial (RCT). Adherence to this protocol ensures scientific rigor, regulatory compliance (GCP/ICH standards), and data integrity throughout the trial lifecycle. The objective is to minimize bias, standardize participant management, and maintain the highest ethical standards from protocol approval to final data lock.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Executor of a Will in British Columbia'
+status: 'published'
+slug: 'checklist-for-executor-of-will-in-bc'
+publishedAt: '2026-05-07T18:59:25.188Z'
+---
+
 # Standard Operating Procedure: Executor of a Will in British Columbia
 
 Serving as an executor (or Personal Representative) in British Columbia is a significant fiduciary responsibility governed by the *Wills, Estates and Succession Act* (WESA). This role requires a methodical approach to identifying, managing, and distributing the assets of the deceased while ensuring all legal and tax obligations are satisfied. This SOP provides a professional framework for executors to navigate the estate administration process, minimize personal liability, and ensure compliance with provincial statutes.

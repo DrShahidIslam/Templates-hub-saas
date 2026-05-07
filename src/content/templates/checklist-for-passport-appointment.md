@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Passport Application Appointment Readiness'
+status: 'published'
+slug: 'checklist-for-passport-appointment'
+publishedAt: '2026-05-07T18:59:25.374Z'
+---
+
 # Standard Operating Procedure: Passport Application Appointment Readiness
 
 This document outlines the standardized protocol for preparing for a government passport agency appointment. As an operations manager, I emphasize that the primary cause of appointment failure is incomplete documentation. Adhering to this SOP will minimize the risk of application rejection, administrative processing delays, and the necessity for follow-up appointments. Users should treat this checklist as a final pre-flight verification before departing for the facility.

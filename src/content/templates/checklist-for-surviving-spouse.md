@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Surviving Spouse Administrative Transition'
+status: 'published'
+slug: 'checklist-for-surviving-spouse'
+publishedAt: '2026-05-07T18:59:25.420Z'
+---
+
 # Standard Operating Procedure: Surviving Spouse Administrative Transition
 
 This Standard Operating Procedure (SOP) is designed to provide a structured, methodical approach for a surviving spouse to navigate the complex administrative, legal, and financial tasks following the loss of a partner. This document prioritizes critical immediate actions while providing a roadmap for long-term estate resolution to ensure legal compliance and financial security during a period of grieving.

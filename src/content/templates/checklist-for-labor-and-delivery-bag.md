@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Labor and Delivery Hospital Bag Preparation'
+status: 'published'
+slug: 'checklist-for-labor-and-delivery-bag'
+publishedAt: '2026-05-07T18:59:25.299Z'
+---
+
 # Standard Operating Procedure: Labor and Delivery Hospital Bag Preparation
 
 This Standard Operating Procedure (SOP) serves as a logistical framework for expectant parents to ensure all essential equipment, documentation, and comfort items are systematically organized prior to the onset of labor. By maintaining a structured inventory, families can mitigate last-minute stress, ensure legal and medical compliance, and optimize the recovery environment within the clinical setting. The objective is to achieve "readiness-state" no later than the 36th week of gestation.

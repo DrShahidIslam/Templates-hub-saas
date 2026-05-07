@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: OCI Application for Minors'
+status: 'published'
+slug: 'checklist-for-oci-application-for-minor'
+publishedAt: '2026-05-07T18:59:25.358Z'
+---
+
 # Standard Operating Procedure: OCI Application for Minors
 
 This Standard Operating Procedure (SOP) serves as a comprehensive guide for parents and legal guardians applying for an Overseas Citizen of India (OCI) card on behalf of a minor. The OCI process requires meticulous attention to detail regarding document apostilling, notarization, and specific formatting requirements. Failure to adhere to these standards often results in application rejection or significant processing delays. This document outlines the mandatory procedural steps to ensure a successful submission.

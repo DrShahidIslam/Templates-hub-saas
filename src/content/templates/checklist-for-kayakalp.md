@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Kayakalp Assessment Preparation'
+status: 'published'
+slug: 'checklist-for-kayakalp'
+publishedAt: '2026-05-07T18:59:25.285Z'
+---
+
 # Standard Operating Procedure: Kayakalp Assessment Preparation
 
 The Kayakalp initiative is a critical framework established to promote cleanliness, hygiene, and infection control within public health facilities. Achieving Kayakalp certification requires meticulous attention to detail across infrastructure, waste management, and patient services. This SOP serves as a comprehensive guide for facility managers and healthcare staff to audit their environment against Kayakalp standards, ensuring compliance and operational excellence prior to formal external assessments.

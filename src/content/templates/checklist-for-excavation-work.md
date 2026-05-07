@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Excavation Safety and Site Preparation'
+status: 'published'
+slug: 'checklist-for-excavation-work'
+publishedAt: '2026-05-07T18:59:25.183Z'
+---
+
 # Standard Operating Procedure: Excavation Safety and Site Preparation
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety protocols, hazard mitigation strategies, and procedural requirements for all excavation activities. The objective is to ensure compliance with OSHA and international safety standards, mitigate the risk of cave-ins, prevent utility strikes, and protect personnel from atmospheric and environmental hazards. All excavation work must be supervised by a designated "Competent Person" who holds the authority to stop work immediately if safety conditions are compromised.

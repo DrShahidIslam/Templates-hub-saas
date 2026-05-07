@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Housekeeping Supervisor Checklist'
+status: 'published'
+slug: 'daily-checklist-for-housekeeping-supervisor'
+publishedAt: '2026-05-07T18:59:25.577Z'
+---
+
 # Standard Operating Procedure: Daily Housekeeping Supervisor Checklist
 
 The Housekeeping Supervisor serves as the primary liaison between room attendants, maintenance, and front office management. This role is pivotal in ensuring that guest rooms, public areas, and back-of-house facilities meet the brand’s rigorous quality standards. This SOP is designed to standardize the workflow, ensure consistency in guest satisfaction, and facilitate efficient communication across departments. Adherence to this checklist is mandatory for maintaining operational excellence and optimizing room availability.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Indian Passport Renewal (UK Jurisdiction)'
+status: 'published'
+slug: 'checklist-for-indian-passport-renewal-in-uk'
+publishedAt: '2026-05-07T18:59:25.252Z'
+---
+
 # Standard Operating Procedure: Indian Passport Renewal (UK Jurisdiction)
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols and administrative requirements for Indian citizens residing in the United Kingdom to renew an expired or expiring passport. The renewal process is managed via the outsourced service provider, VFS Global, on behalf of the High Commission of India and its respective Consulates in the UK. Adherence to these guidelines is critical to prevent application rejection and ensure processing efficiency.

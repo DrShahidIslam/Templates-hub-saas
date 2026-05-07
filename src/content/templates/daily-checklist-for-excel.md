@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Excel Data Integrity and Workflow Management'
+status: 'published'
+slug: 'daily-checklist-for-excel'
+publishedAt: '2026-05-07T18:59:25.561Z'
+---
+
 # Standard Operating Procedure: Daily Excel Data Integrity and Workflow Management
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily maintenance routine for Excel-based workflows to ensure data accuracy, workbook stability, and reporting reliability. Adhering to this protocol minimizes the risk of calculation errors, file corruption, and version control conflicts. This checklist is designed for all personnel responsible for managing, updating, or auditing Excel workbooks as part of their daily operational duties.

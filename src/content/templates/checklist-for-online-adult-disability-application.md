@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Online Adult Disability Application (SSDI/SSI)'
+status: 'published'
+slug: 'checklist-for-online-adult-disability-application'
+publishedAt: '2026-05-07T18:59:25.369Z'
+---
+
 # Standard Operating Procedure: Online Adult Disability Application (SSDI/SSI)
 
 This Standard Operating Procedure (SOP) provides a structured framework for preparing and submitting an online application for Social Security Disability Insurance (SSDI) or Supplemental Security Income (SSI). Navigating the Social Security Administration (SSA) portal requires meticulous organization and precision, as incomplete or inconsistent information is the leading cause of application processing delays. This guide is designed to ensure all documentation is ready, verifiable, and presented in a format that maximizes the clarity of your claim.

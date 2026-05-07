@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Laylatul Qadr Execution Plan'
+status: 'published'
+slug: 'checklist-for-laylatul-qadr'
+publishedAt: '2026-05-07T18:59:25.304Z'
+---
+
 # Standard Operating Procedure: Laylatul Qadr Execution Plan
 
 ## Introduction

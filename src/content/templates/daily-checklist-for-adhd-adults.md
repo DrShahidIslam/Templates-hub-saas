@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Executive Function Management'
+status: 'published'
+slug: 'daily-checklist-for-adhd-adults'
+publishedAt: '2026-05-07T18:59:25.531Z'
+---
+
 # Standard Operating Procedure: Daily Executive Function Management
 
 This SOP is designed for adults navigating ADHD who require a structured external framework to manage executive function, reduce decision fatigue, and maintain consistency in daily operations. By utilizing a "low-friction" workflow, this system minimizes the cognitive load associated with task initiation and promotes stability through predictable daily routines.

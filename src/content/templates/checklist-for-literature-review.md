@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Systematic Literature Review'
+status: 'published'
+slug: 'checklist-for-literature-review'
+publishedAt: '2026-05-07T18:59:25.311Z'
+---
+
 # Standard Operating Procedure: Systematic Literature Review
 
 This Standard Operating Procedure (SOP) outlines a rigorous, reproducible framework for conducting a comprehensive literature review. Whether for academic research, business intelligence, or technical feasibility studies, this process ensures that the gathered information is accurate, unbiased, and synthesizes key themes effectively. Adhering to this structure mitigates the risk of confirmation bias, prevents the oversight of critical data, and provides a clear audit trail for the research process.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: New Zealand Work Visa Application'
+status: 'published'
+slug: 'checklist-for-new-zealand-work-visa'
+publishedAt: '2026-05-07T18:59:25.347Z'
+---
+
 # Standard Operating Procedure: New Zealand Work Visa Application
 
 This Standard Operating Procedure (SOP) serves as a comprehensive guide for foreign nationals intending to secure a work visa for New Zealand. Navigating the immigration landscape requires meticulous attention to detail, as application requirements fluctuate based on the specific visa category—such as the Accredited Employer Work Visa (AEWV), Working Holiday Scheme, or specialized occupational visas. Following this structured checklist will ensure all documentation is compliant with Immigration New Zealand (INZ) standards, thereby minimizing processing delays and the risk of application declinature.

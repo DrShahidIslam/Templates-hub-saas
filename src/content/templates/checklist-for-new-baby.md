@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: New Baby Preparation & Readiness'
+status: 'published'
+slug: 'checklist-for-new-baby'
+publishedAt: '2026-05-07T18:59:25.341Z'
+---
+
 # Standard Operating Procedure: New Baby Preparation & Readiness
 
 ## Introduction

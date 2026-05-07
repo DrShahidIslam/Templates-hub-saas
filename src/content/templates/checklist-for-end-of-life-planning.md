@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: End-of-Life Planning'
+status: 'published'
+slug: 'checklist-for-end-of-life-planning'
+publishedAt: '2026-05-07T18:59:25.177Z'
+---
+
 # Standard Operating Procedure: End-of-Life Planning
 
 ## Introduction

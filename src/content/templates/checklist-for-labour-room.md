@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Labour Room Preparation and Readiness'
+status: 'published'
+slug: 'checklist-for-labour-room'
+publishedAt: '2026-05-07T18:59:25.301Z'
+---
+
 # Standard Operating Procedure: Labour Room Preparation and Readiness
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for preparing and maintaining a fully equipped, sterile, and responsive labour room. As an operations manager, the objective is to ensure that all critical equipment, medications, and sterile supplies are pre-verified prior to patient admission. Adherence to this checklist minimizes transition time during emergency scenarios and ensures the highest standards of maternal and neonatal safety.

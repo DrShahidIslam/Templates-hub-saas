@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Client Onboarding for Accounting Firms'
+status: 'published'
+slug: 'client-onboarding-checklist-for-accountants'
+publishedAt: '2026-05-07T18:59:25.523Z'
+---
+
 # Standard Operating Procedure: Client Onboarding for Accounting Firms
 
 This Standard Operating Procedure (SOP) outlines the standardized process for onboarding new clients into our accounting practice. The objective of this procedure is to ensure a seamless transition, establish clear professional boundaries, mitigate compliance risks, and provide a world-class client experience from day one. By following this protocol, we ensure that all necessary documentation is secured, access rights are properly managed, and the client’s financial ecosystem is understood before active engagement begins.

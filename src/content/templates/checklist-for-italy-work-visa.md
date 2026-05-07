@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Italy Work Visa Application'
+status: 'published'
+slug: 'checklist-for-italy-work-visa'
+publishedAt: '2026-05-07T18:59:25.263Z'
+---
+
 # Standard Operating Procedure: Italy Work Visa Application
 
 This Standard Operating Procedure (SOP) serves as a comprehensive guide for foreign nationals navigating the Italian work visa (Nulla Osta) process. Obtaining an Italian work visa is a multi-jurisdictional procedure involving both Italian immigration authorities (Sportello Unico per l’Immigrazione - SUI) and the diplomatic mission in the applicant’s country of residence. Adherence to these steps is critical to ensure document compliance and prevent processing delays.

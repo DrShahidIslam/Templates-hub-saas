@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Welding Machine Inspection'
+status: 'published'
+slug: 'daily-checklist-for-welding-machine'
+publishedAt: '2026-05-07T18:59:25.622Z'
+---
+
 # Standard Operating Procedure: Daily Welding Machine Inspection
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily inspection routine for all welding equipment. Regular maintenance is critical to ensure operational safety, prevent equipment failure, and maintain high-quality weld integrity. All welding operators are required to complete this inspection prior to the commencement of every shift. Failure to adhere to these checks may result in electrical hazards, fire risks, or substandard workmanship.

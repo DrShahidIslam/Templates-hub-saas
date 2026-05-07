@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: International Travel Preparation'
+status: 'published'
+slug: 'checklist-for-going-abroad'
+publishedAt: '2026-05-07T18:59:25.218Z'
+---
+
 # Standard Operating Procedure: International Travel Preparation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols and logical workflow for preparing for international travel. Designed to mitigate operational risk, ensure compliance with international regulations, and maximize personal safety, this checklist provides a systematic approach to pre-departure readiness. Adherence to these steps ensures that travel-related disruptions are minimized, allowing the traveler to focus on their primary objectives upon arrival.

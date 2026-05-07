@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Residential Children’s Birthday Event Management'
+status: 'published'
+slug: 'checklist-for-kids-birthday-party-at-home'
+publishedAt: '2026-05-07T18:59:25.286Z'
+---
+
 # Standard Operating Procedure: Residential Children’s Birthday Event Management
 
 This Standard Operating Procedure (SOP) is designed to streamline the planning and execution of a children's birthday party at home. By utilizing this structured framework, the event lead can mitigate stress, optimize resource allocation, and ensure a seamless experience for both the guests and the host. The following checklist covers the lifecycle of the event from the initial pre-planning phase through to post-event site restoration.

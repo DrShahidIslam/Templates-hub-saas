@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Telehandler Inspection'
+status: 'published'
+slug: 'daily-checklist-for-telehandler'
+publishedAt: '2026-05-07T18:59:25.612Z'
+---
+
 # Standard Operating Procedure: Daily Telehandler Inspection
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily inspection protocols for telehandler equipment. Consistent pre-shift inspections are critical to ensuring operational safety, extending the service life of the machinery, and maintaining compliance with OSHA and industry-standard safety regulations. Operators are required to complete this checklist before every shift; any machine exhibiting a fault must be tagged out of service immediately and reported to the maintenance supervisor.

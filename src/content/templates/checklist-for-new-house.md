@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: New Home Acquisition & Move-In Checklist'
+status: 'published'
+slug: 'checklist-for-new-house'
+publishedAt: '2026-05-07T18:59:25.343Z'
+---
+
 # Standard Operating Procedure: New Home Acquisition & Move-In Checklist
 
 This Standard Operating Procedure (SOP) serves as a comprehensive framework for managing the transition into a new residence. The objective is to minimize operational friction, ensure physical safety, and establish long-term maintenance protocols from day one. By executing this systematic checklist, homeowners can identify potential defects, secure their environment, and optimize living conditions before the bulk of personal property is relocated.

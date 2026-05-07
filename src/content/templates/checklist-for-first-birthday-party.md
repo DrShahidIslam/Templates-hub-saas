@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: First Birthday Party Execution'
+status: 'published'
+slug: 'checklist-for-first-birthday-party'
+publishedAt: '2026-05-07T18:59:25.200Z'
+---
+
 # Standard Operating Procedure: First Birthday Party Execution
 
 Planning a first birthday celebration requires a balance of sentimental execution and logistical precision. As the primary coordinator, your goal is to manage the environment for both the infant (who has limited stamina) and the guests, ensuring a seamless flow of activities while prioritizing the child’s comfort. This SOP provides a comprehensive framework to ensure all operational requirements—from venue readiness to guest experience—are handled with professional efficiency.

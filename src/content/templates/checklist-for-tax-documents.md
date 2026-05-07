@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Annual Tax Document Collection and Organization'
+status: 'published'
+slug: 'checklist-for-tax-documents'
+publishedAt: '2026-05-07T18:59:25.422Z'
+---
+
 # Standard Operating Procedure: Annual Tax Document Collection and Organization
 
 This Standard Operating Procedure (SOP) outlines the systematic process for gathering, categorizing, and verifying all necessary financial documentation required for accurate and compliant tax filing. By maintaining a centralized, organized repository of these documents, you minimize the risk of audit discrepancies, ensure all eligible deductions are captured, and significantly reduce the time spent during the annual tax preparation phase. This SOP is designed to serve as a repeatable workflow for individuals and small business entities to streamline their fiscal record-keeping.

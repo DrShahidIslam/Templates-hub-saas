@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Construction Quality Control (QC)'
+status: 'published'
+slug: 'checklist-for-quality-control-in-construction'
+publishedAt: '2026-05-07T18:59:25.385Z'
+---
+
 # Standard Operating Procedure: Construction Quality Control (QC)
 
 Effective Quality Control (QC) in construction is the cornerstone of structural integrity, project longevity, and cost mitigation. This SOP provides a systematic framework for site supervisors and project managers to verify that all work conforms to architectural plans, engineering specifications, and building codes. By standardizing inspections throughout the project lifecycle, we minimize rework, prevent safety hazards, and ensure final client satisfaction.

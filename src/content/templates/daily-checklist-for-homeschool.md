@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Homeschool Operations'
+status: 'published'
+slug: 'daily-checklist-for-homeschool'
+publishedAt: '2026-05-07T18:59:25.573Z'
+---
+
 # Standard Operating Procedure: Daily Homeschool Operations
 
 This Standard Operating Procedure (SOP) is designed to streamline the daily homeschool experience by balancing academic rigor with household management. By implementing a standardized workflow, the primary educator can minimize decision fatigue, ensure consistency in curriculum coverage, and maintain a structured learning environment that promotes student accountability. The following protocol should be executed daily to optimize time-on-task and facilitate a smooth transition between academic, domestic, and recreational responsibilities.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Managing Immediate Affairs Following the Death of a Spouse'
+status: 'published'
+slug: 'checklist-for-when-a-spouse-dies'
+publishedAt: '2026-05-07T18:59:25.472Z'
+---
+
 # Standard Operating Procedure: Managing Immediate Affairs Following the Death of a Spouse
 
 The death of a spouse is a profound emotional event that necessitates the management of complex administrative, legal, and financial responsibilities. This SOP is designed to serve as a structured roadmap to guide you through the critical tasks required in the days, weeks, and months following a loss. By breaking these duties into manageable segments, you can ensure that all legal requirements are met while protecting your personal financial interests and honoring your spouse’s legacy.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Classroom Readiness & Management'
+status: 'published'
+slug: 'checklist-for-teachers'
+publishedAt: '2026-05-07T18:59:25.431Z'
+---
+
 # Standard Operating Procedure: Daily Classroom Readiness & Management
 
 This Standard Operating Procedure (SOP) outlines the essential operational framework for educators to maintain an organized, productive, and safe learning environment. By adhering to this structured routine, teachers can minimize administrative friction, reduce morning anxiety, and maximize the time dedicated to high-quality instruction. This document serves as a standardized baseline for classroom readiness, though it should be adapted to the specific grade level and institutional requirements of your setting.

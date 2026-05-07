@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Job Safety Analysis (JSA) Protocol'
+status: 'published'
+slug: 'checklist-for-job-safety-analysis-consists-of'
+publishedAt: '2026-05-07T18:59:25.279Z'
+---
+
 # Standard Operating Procedure: Job Safety Analysis (JSA) Protocol
 
 A Job Safety Analysis (JSA) is a fundamental risk management tool used to integrate safety and health principles into a particular job or task. By systematically examining each step of a process, identifying potential hazards, and implementing effective control measures, an organization can significantly reduce workplace injuries and operational downtime. This SOP outlines the professional standard for conducting, documenting, and implementing a comprehensive JSA.

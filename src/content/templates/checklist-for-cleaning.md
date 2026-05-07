@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Professional Facility Sanitation'
+status: 'published'
+slug: 'checklist-for-cleaning'
+publishedAt: '2026-05-07T18:59:25.143Z'
+---
+
 # Standard Operating Procedure: Professional Facility Sanitation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for maintaining high-level sanitation and aesthetic standards within the facility. Adherence to these guidelines ensures a safe, productive, and hygienic environment for all occupants. This document is designed to standardize the cleaning process, minimize cross-contamination, and maximize operational efficiency. All personnel are required to follow these steps sequentially to ensure no area is overlooked.

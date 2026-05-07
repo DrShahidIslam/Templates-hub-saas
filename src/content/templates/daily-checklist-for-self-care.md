@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Self-Care Protocol'
+status: 'published'
+slug: 'daily-checklist-for-self-care'
+publishedAt: '2026-05-07T18:59:25.606Z'
+---
+
 # Standard Operating Procedure: Daily Self-Care Protocol
 
 This protocol serves as a foundational operational framework for maintaining physical, mental, and emotional equilibrium. By treating self-care as a non-negotiable daily administrative task rather than an optional luxury, you optimize your cognitive performance, mitigate stress-related burnout, and ensure consistent output across all professional and personal domains. Adherence to this SOP facilitates long-term sustainability and peak functional capacity.

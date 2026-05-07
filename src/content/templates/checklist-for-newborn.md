@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Newborn Preparation and Care Management'
+status: 'published'
+slug: 'checklist-for-newborn'
+publishedAt: '2026-05-07T18:59:25.353Z'
+---
+
 # Standard Operating Procedure: Newborn Preparation and Care Management
 
 This Standard Operating Procedure (SOP) serves as a comprehensive operational guide for the successful transition and daily management of a newborn. Designed to reduce cognitive load for caregivers, this document ensures all physiological, safety, and logistical requirements are met through systematic preparation and execution. By following this protocol, caregivers can maintain an organized environment that prioritizes the infant's health and development while optimizing household resource allocation.

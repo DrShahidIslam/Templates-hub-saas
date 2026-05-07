@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: GST Registration Process'
+status: 'published'
+slug: 'checklist-for-gst-registration'
+publishedAt: '2026-05-07T18:59:25.225Z'
+---
+
 # Standard Operating Procedure: GST Registration Process
 
 This Standard Operating Procedure (SOP) outlines the systematic approach required to successfully register a business entity under the Goods and Services Tax (GST) framework. Ensuring accurate preparation and submission is critical to avoiding application rejection, delayed processing, or potential tax non-compliance penalties. This guide serves as a comprehensive roadmap for operational leads, finance teams, or business owners to navigate the registration portal efficiently.

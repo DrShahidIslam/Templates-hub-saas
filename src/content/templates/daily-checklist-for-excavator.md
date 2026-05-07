@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Excavator Inspection'
+status: 'published'
+slug: 'daily-checklist-for-excavator'
+publishedAt: '2026-05-07T18:59:25.560Z'
+---
+
 # Standard Operating Procedure: Daily Excavator Inspection
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily inspection requirements for all hydraulic excavators. The objective of this procedure is to ensure operator safety, maximize machine longevity, and prevent unplanned downtime through proactive maintenance. All operators are required to complete this inspection prior to the commencement of every shift; failure to identify and report faults can lead to hazardous operating conditions and catastrophic mechanical failure.

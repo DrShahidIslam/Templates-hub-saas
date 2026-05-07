@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: UK Standard Visitor Visa Application (India)'
+status: 'published'
+slug: 'checklist-for-uk-tourist-visa-from-india'
+publishedAt: '2026-05-07T18:59:25.434Z'
+---
+
 # Standard Operating Procedure: UK Standard Visitor Visa Application (India)
 
 This document serves as the formal operational procedure for Indian nationals applying for a UK Standard Visitor Visa. Ensuring strict adherence to documentation standards and evidence-based reporting is critical to mitigating the risk of refusal. This process requires meticulous attention to detail, financial transparency, and chronological organization of supporting evidence.

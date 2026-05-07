@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Annual Tax Preparation'
+status: 'published'
+slug: 'checklist-for-tax-preparation'
+publishedAt: '2026-05-07T18:59:25.423Z'
+---
+
 # Standard Operating Procedure: Annual Tax Preparation
 
 This Standard Operating Procedure (SOP) outlines the systematic process for gathering, verifying, and organizing financial documentation required for the annual tax filing cycle. Adhering to this protocol ensures compliance with regulatory requirements, minimizes the risk of audit triggers, and maximizes potential deductions by ensuring no eligible financial data is overlooked. This document serves as both a workflow guide and a quality control checklist to maintain consistency and accuracy throughout the preparation period.

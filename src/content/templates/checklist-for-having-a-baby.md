@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Infant Arrival Preparation'
+status: 'published'
+slug: 'checklist-for-having-a-baby'
+publishedAt: '2026-05-07T18:59:25.229Z'
+---
+
 # Standard Operating Procedure: Infant Arrival Preparation
 
 Bringing a new family member home requires careful resource allocation, logistics management, and risk mitigation. This SOP outlines the systematic approach to preparing your environment and support systems for the arrival of a baby. By front-loading these tasks, you minimize operational downtime during the high-stress transition of the postpartum period and ensure that both the infant and primary caregivers are supported in a safe, efficient manner.

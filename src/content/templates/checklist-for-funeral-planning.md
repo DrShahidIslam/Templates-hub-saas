@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Funeral Planning Logistics'
+status: 'published'
+slug: 'checklist-for-funeral-planning'
+publishedAt: '2026-05-07T18:59:25.207Z'
+---
+
 # Standard Operating Procedure: Funeral Planning Logistics
 
 This document serves as a comprehensive operational guide for managing the complexities of funeral planning. As an operations manager, the goal is to provide a structured, compassionate, and efficient framework to ensure all legal, logistical, and ceremonial requirements are met with precision. By following this systematic approach, families and executors can minimize administrative burden during a period of high emotional stress, ensuring that the decedent’s final wishes are honored while maintaining strict adherence to regulatory standards.

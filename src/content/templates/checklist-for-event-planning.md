@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Event Planning Lifecycle'
+status: 'published'
+slug: 'checklist-for-event-planning'
+publishedAt: '2026-05-07T18:59:25.182Z'
+---
+
 # Standard Operating Procedure: Event Planning Lifecycle
 
 This Standard Operating Procedure (SOP) outlines the professional workflow for organizing, executing, and closing an event. As an Operations Manager, the objective is to ensure consistency, mitigate risks, and maintain stakeholder alignment throughout the event lifecycle. By adhering to this structured framework, your team will minimize operational friction and maximize attendee engagement through meticulous preparation and execution.

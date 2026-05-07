@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Property Rental Inspection'
+status: 'published'
+slug: 'checklist-for-rental-inspection'
+publishedAt: '2026-05-07T18:59:25.401Z'
+---
+
 # Standard Operating Procedure: Property Rental Inspection
 
 This Standard Operating Procedure (SOP) outlines the rigorous process for conducting rental property inspections. The objective is to maintain property asset value, ensure tenant compliance with lease agreements, and document the physical condition of the premises for liability protection. This protocol applies to move-in, routine periodic, and move-out inspections, ensuring consistency, transparency, and data-driven record-keeping for both property managers and tenants.

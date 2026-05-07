@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Bridal Shower Execution'
+status: 'published'
+slug: 'checklist-for-bridal-shower'
+publishedAt: '2026-05-07T18:59:25.122Z'
+---
+
 # Standard Operating Procedure: Bridal Shower Execution
 
 This Standard Operating Procedure (SOP) outlines the professional requirements for planning, coordinating, and executing a seamless bridal shower. The objective of this document is to ensure that all logistical elements—from guest management to vendor coordination—are managed with precision to provide the bride-to-be with a stress-free and memorable event. By following this structured checklist, the planning committee can maintain accountability, stay within budgetary constraints, and execute the event timeline with high-level efficiency.

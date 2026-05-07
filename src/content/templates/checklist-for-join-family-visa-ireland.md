@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Join Family Visa (Ireland)'
+status: 'published'
+slug: 'checklist-for-join-family-visa-ireland'
+publishedAt: '2026-05-07T18:59:25.281Z'
+---
+
 # Standard Operating Procedure: Join Family Visa (Ireland)
 
 This document serves as a comprehensive guide for individuals applying for an Irish "Join Family" visa. Following these procedures is critical to ensuring your application meets the stringent requirements set by the Irish Naturalisation and Immigration Service (INIS). Failure to provide complete documentation or clear evidence of relationship and financial sustainability often leads to summary refusal. This SOP outlines the necessary steps to prepare, verify, and submit your application with maximum efficiency and compliance.

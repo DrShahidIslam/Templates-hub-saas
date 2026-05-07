@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Bathroom Sanitation'
+status: 'published'
+slug: 'daily-checklist-for-bathroom-cleaning'
+publishedAt: '2026-05-07T18:59:25.537Z'
+---
+
 # Standard Operating Procedure: Daily Bathroom Sanitation
 
 This document outlines the mandatory daily sanitation procedures for all facility bathrooms. Maintaining a high standard of hygiene is essential for public health, facility reputation, and user satisfaction. All staff are expected to follow these steps sequentially to ensure consistency, eliminate cross-contamination, and maintain an odor-free environment. 

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Residential Move-Out Process'
+status: 'published'
+slug: 'checklist-for-moving-out-of-an-apartment'
+publishedAt: '2026-05-07T18:59:25.323Z'
+---
+
 # Standard Operating Procedure: Residential Move-Out Process
 
 This Standard Operating Procedure (SOP) serves as a comprehensive guide for tenants transitioning out of a residential property. Adhering to this structured approach ensures that all contractual, financial, and logistical obligations are satisfied, thereby maximizing the probability of a full security deposit refund and maintaining a positive professional reference with your property manager.

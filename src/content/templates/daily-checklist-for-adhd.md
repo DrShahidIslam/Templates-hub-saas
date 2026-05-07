@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Executive Function & Task Management'
+status: 'published'
+slug: 'daily-checklist-for-adhd'
+publishedAt: '2026-05-07T18:59:25.532Z'
+---
+
 # Standard Operating Procedure: Daily Executive Function & Task Management
 
 This Standard Operating Procedure (SOP) is designed to provide a structured, repeatable framework for individuals managing ADHD. By externalizing the mental load through a systematic daily checklist, this protocol aims to minimize decision fatigue, reduce the impact of "time blindness," and stabilize daily productivity through predictable routines. Follow these steps consistently to build cognitive momentum and ensure essential tasks are captured, prioritized, and executed without the need for constant mental effort.

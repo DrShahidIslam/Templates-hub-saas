@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Schengen Visa Application (Visiting Family/Friends in the Netherlands)'
+status: 'published'
+slug: 'checklist-for-visa-application-visiting-familyfriends-netherlands'
+publishedAt: '2026-05-07T18:59:25.454Z'
+---
+
 # Standard Operating Procedure: Schengen Visa Application (Visiting Family/Friends in the Netherlands)
 
 This Standard Operating Procedure (SOP) outlines the mandatory requirements and procedural steps for individuals applying for a short-stay Schengen Visa (Type C) to visit family or friends residing in the Netherlands. Adherence to this protocol is critical to minimize the risk of application rejection due to administrative errors. Applicants must ensure all documentation is current, authentic, and submitted in the requested format to satisfy the requirements of the Dutch Immigration and Naturalisation Service (IND) and the relevant embassy or consulate.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Post-Mortem Administrative Procedures'
+status: 'published'
+slug: 'checklist-for-after-someone-dies'
+publishedAt: '2026-05-07T18:59:25.092Z'
+---
+
 # Standard Operating Procedure: Post-Mortem Administrative Procedures
 
 The passing of a loved one is a profoundly difficult experience, often compounded by the overwhelming burden of administrative and legal tasks. This Standard Operating Procedure (SOP) is designed to provide a structured, logical roadmap to help you navigate the immediate, intermediate, and long-term requirements following a death. By following these methodical steps, you can ensure that all legal, financial, and personal obligations are met with efficiency and clarity, allowing you to focus on the grieving process.

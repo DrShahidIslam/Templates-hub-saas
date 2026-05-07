@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Vehicle Safety Inspection'
+status: 'published'
+slug: 'checklist-for-vehicle-safety-inspection'
+publishedAt: '2026-05-07T18:59:25.447Z'
+---
+
 # Standard Operating Procedure: Daily Vehicle Safety Inspection
 
 ## Introduction

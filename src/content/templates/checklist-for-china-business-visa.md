@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: China Business (M-Visa) Application'
+status: 'published'
+slug: 'checklist-for-china-business-visa'
+publishedAt: '2026-05-07T18:59:25.138Z'
+---
+
 # Standard Operating Procedure: China Business (M-Visa) Application
 
 This Standard Operating Procedure (SOP) outlines the rigorous administrative requirements for securing a China Business (M) Visa. The M-visa is intended for individuals traveling to China for commercial and trade activities. As requirements are subject to change based on the applicant’s nationality and the specific Chinese Consular jurisdiction, this document serves as a foundational framework to ensure compliance, minimize processing delays, and prevent application rejection.

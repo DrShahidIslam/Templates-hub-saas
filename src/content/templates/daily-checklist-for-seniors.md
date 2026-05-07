@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Routine for Independent Senior Living'
+status: 'published'
+slug: 'daily-checklist-for-seniors'
+publishedAt: '2026-05-07T18:59:25.608Z'
+---
+
 # Standard Operating Procedure: Daily Routine for Independent Senior Living
 
 This Standard Operating Procedure (SOP) is designed to provide a structured, reliable framework for seniors to maintain physical health, cognitive engagement, and household safety. By establishing a consistent daily rhythm, individuals can reduce anxiety, ensure essential health tasks are completed, and maintain independence. This checklist is intended as a guide to assist seniors or their caregivers in fostering a safe and productive daily environment.

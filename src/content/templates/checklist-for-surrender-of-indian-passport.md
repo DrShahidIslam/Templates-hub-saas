@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Surrender of Indian Passport'
+status: 'published'
+slug: 'checklist-for-surrender-of-indian-passport'
+publishedAt: '2026-05-07T18:59:25.419Z'
+---
+
 # Standard Operating Procedure: Surrender of Indian Passport
 
 This Standard Operating Procedure (SOP) outlines the mandatory process for Indian citizens who have acquired foreign citizenship and are required to surrender their Indian passport. Under the Indian Citizenship Act, 1955, it is illegal for an Indian citizen to hold an Indian passport after acquiring the nationality of another country. This document provides a structured workflow to ensure compliance with the Ministry of External Affairs (MEA) regulations, preventing legal complications such as penalties or travel restrictions.

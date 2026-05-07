@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Quality Control (QC) Protocol'
+status: 'published'
+slug: 'checklist-for-quality-control'
+publishedAt: '2026-05-07T18:59:25.386Z'
+---
+
 # Standard Operating Procedure: Quality Control (QC) Protocol
 
 This Standard Operating Procedure (SOP) outlines the mandatory quality control requirements for all products and deliverables before final shipment or client release. The purpose of this protocol is to ensure consistent excellence, minimize rework costs, and maintain brand integrity by identifying defects at the earliest possible stage. All production staff and project leads are required to adhere to these steps to ensure compliance with our internal quality standards and customer expectations.

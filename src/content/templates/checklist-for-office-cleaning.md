@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Office Sanitation and Maintenance'
+status: 'published'
+slug: 'checklist-for-office-cleaning'
+publishedAt: '2026-05-07T18:59:25.363Z'
+---
+
 # Standard Operating Procedure: Daily Office Sanitation and Maintenance
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for daily office cleaning to ensure a hygienic, professional, and productive work environment. Consistency in these routines prevents the accumulation of allergens, bacteria, and clutter, while extending the lifespan of office infrastructure. All cleaning staff are expected to adhere to these procedures, utilizing high-grade, approved cleaning agents and ensuring that safety signage is deployed during floor maintenance.

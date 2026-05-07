@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Hospital Bag Preparation'
+status: 'published'
+slug: 'checklist-for-hospital-bag'
+publishedAt: '2026-05-07T18:59:25.240Z'
+---
+
 # Standard Operating Procedure: Hospital Bag Preparation
 
 This document serves as the standardized protocol for expectant parents or patients preparing for a scheduled or emergency hospital admission. Proper preparation is critical to operational efficiency, reducing stress, and ensuring that essential comfort and medical items are readily accessible during a high-stakes transition. Adhering to this checklist minimizes the need for last-minute logistical pivots and allows the support team to focus entirely on the patient.

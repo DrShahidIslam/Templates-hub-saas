@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Residential Property Evaluation'
+status: 'published'
+slug: 'checklist-for-looking-at-a-house-to-buy'
+publishedAt: '2026-05-07T18:59:25.313Z'
+---
+
 # Standard Operating Procedure: Residential Property Evaluation
 
 Buying a home is one of the most significant capital investments an individual will make. This Standard Operating Procedure (SOP) is designed to move beyond emotional reactions and provide a systematic, data-driven framework for property evaluation. By utilizing this checklist, a prospective buyer can mitigate risk, identify deferred maintenance, and accurately assess the long-term viability of a potential acquisition.

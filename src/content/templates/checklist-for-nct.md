@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: NCT (National Car Test) Compliance and Inspection'
+status: 'published'
+slug: 'checklist-for-nct'
+publishedAt: '2026-05-07T18:59:25.336Z'
+---
+
 # Standard Operating Procedure: NCT (National Car Test) Compliance and Inspection
 
 The National Car Test (NCT) is a mandatory periodic inspection required to ensure that vehicles on public roads meet essential safety and environmental standards. This SOP outlines the systematic process for preparing a vehicle for its NCT. Adherence to this checklist significantly reduces the probability of a "Fail" result, minimizes the need for costly re-tests, and ensures the vehicle is maintained to regulatory standards.

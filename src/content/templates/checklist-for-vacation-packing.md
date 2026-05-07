@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Vacation Packing Protocol'
+status: 'published'
+slug: 'checklist-for-vacation-packing'
+publishedAt: '2026-05-07T18:59:25.445Z'
+---
+
 # Standard Operating Procedure: Vacation Packing Protocol
 
 This document establishes a standardized protocol for pre-vacation packing to ensure efficiency, minimize risk of item omission, and eliminate pre-departure stress. By adhering to this systematic approach, travelers can transition from the planning phase to the execution phase with precision, ensuring that all mission-critical items—documentation, health essentials, and utility gear—are accounted for well before departure.

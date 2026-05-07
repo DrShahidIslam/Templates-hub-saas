@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Driving in France'
+status: 'published'
+slug: 'checklist-for-driving-in-france'
+publishedAt: '2026-05-07T18:59:25.172Z'
+---
+
 # Standard Operating Procedure: Driving in France
 
 Driving in France requires strict adherence to local regulations and an understanding of unique European road etiquette. This SOP provides a comprehensive guide for drivers—whether operating a personal or rental vehicle—to ensure compliance with French traffic laws (*Code de la route*), prioritize safety, and navigate the French road network efficiently. Failure to adhere to these standards can result in significant on-the-spot fines and impoundment of the vehicle.

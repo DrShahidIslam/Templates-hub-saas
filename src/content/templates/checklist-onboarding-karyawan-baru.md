@@ -1,3 +1,10 @@
+---
+title: 'Checklist Onboarding Karyawan Baru'
+status: 'published'
+slug: 'checklist-onboarding-karyawan-baru'
+publishedAt: '2026-05-07T18:59:25.505Z'
+---
+
 Standard Operating Procedure: Onboarding Karyawan Baru
 
 Tujuan dari dokumen ini adalah untuk memastikan transisi yang mulus, terstruktur, dan profesional bagi setiap karyawan baru yang bergabung dengan perusahaan. Proses onboarding yang efektif tidak hanya mempercepat produktivitas karyawan tetapi juga meningkatkan retensi dan keterikatan budaya perusahaan sejak hari pertama. Prosedur ini dirancang untuk mencakup seluruh aspek, mulai dari persiapan administratif hingga integrasi sosial di dalam tim.

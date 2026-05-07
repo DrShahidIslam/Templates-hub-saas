@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Residential Relocation (UK)'
+status: 'published'
+slug: 'checklist-for-moving-house-uk'
+publishedAt: '2026-05-07T18:59:25.319Z'
+---
+
 # Standard Operating Procedure: Residential Relocation (UK)
 
 This Standard Operating Procedure (SOP) provides a structured framework for managing a residential move within the United Kingdom. Moving home is a complex logistical operation involving regulatory compliance, financial transactions, and physical asset management. By adhering to this protocol, you will mitigate the risk of service disruptions, minimize transition-related costs, and ensure a seamless handover between properties.

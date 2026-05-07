@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Residential Real Estate Listing Protocol'
+status: 'published'
+slug: 'checklist-for-listing-a-home'
+publishedAt: '2026-05-07T18:59:25.310Z'
+---
+
 # Standard Operating Procedure: Residential Real Estate Listing Protocol
 
 This document outlines the systematic process for bringing a residential property to market. As an operations manager, the goal of this SOP is to ensure consistency, minimize liability, maximize market appeal, and reduce the "time-to-close" duration. Every property listing must adhere to these standards to ensure a seamless experience for both the seller and potential buyers.

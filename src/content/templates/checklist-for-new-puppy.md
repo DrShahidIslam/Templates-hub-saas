@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: New Puppy Onboarding'
+status: 'published'
+slug: 'checklist-for-new-puppy'
+publishedAt: '2026-05-07T18:59:25.344Z'
+---
+
 # Standard Operating Procedure: New Puppy Onboarding
 
 Bringing a new puppy into your home is a major operational undertaking that requires careful preparation to ensure the safety, health, and well-being of the animal, as well as the preservation of your home environment. This SOP outlines the critical phases of puppy integration, focusing on logistics, environment hardening, and essential supply management. Adherence to this checklist will mitigate risks, streamline the transition period, and establish a foundation for long-term behavioral success.

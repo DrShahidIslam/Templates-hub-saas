@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Qualitative Study Execution'
+status: 'published'
+slug: 'checklist-for-qualitative-study'
+publishedAt: '2026-05-07T18:59:25.383Z'
+---
+
 # Standard Operating Procedure: Qualitative Study Execution
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for conducting rigorous, ethical, and high-quality qualitative research. Adhering to this framework ensures data integrity, participant protection, and consistency across research cycles. Whether conducting interviews, focus groups, or ethnographic observations, the following steps must be documented and executed to maintain the highest standards of academic and operational excellence.

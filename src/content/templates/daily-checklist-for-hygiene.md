@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Hygiene and Sanitation Protocol'
+status: 'published'
+slug: 'daily-checklist-for-hygiene'
+publishedAt: '2026-05-07T18:59:25.579Z'
+---
+
 # Standard Operating Procedure: Daily Hygiene and Sanitation Protocol
 
 ## Introduction

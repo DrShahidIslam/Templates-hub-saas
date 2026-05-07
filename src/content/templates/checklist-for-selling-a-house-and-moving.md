@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Residential Real Estate Divestment and Relocation'
+status: 'published'
+slug: 'checklist-for-selling-a-house-and-moving'
+publishedAt: '2026-05-07T18:59:25.412Z'
+---
+
 # Standard Operating Procedure: Residential Real Estate Divestment and Relocation
 
 Selling a home and relocating is a complex project management exercise that requires the synchronization of legal, financial, and logistical workflows. This SOP outlines the professional standard for executing a seamless property transition, ensuring asset value is maximized, liabilities are mitigated, and the physical move is completed with minimal disruption.

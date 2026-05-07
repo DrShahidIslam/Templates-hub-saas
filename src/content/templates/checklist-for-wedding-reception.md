@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Wedding Reception Execution'
+status: 'published'
+slug: 'checklist-for-wedding-reception'
+publishedAt: '2026-05-07T18:59:25.465Z'
+---
+
 # Standard Operating Procedure: Wedding Reception Execution
 
 The objective of this SOP is to ensure the seamless execution of a wedding reception from initial vendor arrival to the final guest departure. As an operations manager, the goal is to maintain a high-level oversight of logistics, timeline synchronization, and guest experience. This document serves as the master checklist to mitigate risks, manage vendor workflows, and ensure that the event adheres to the pre-planned schedule, allowing the wedding party and guests to focus entirely on the celebration.

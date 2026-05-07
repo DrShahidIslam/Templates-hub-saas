@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Post-Mortem Administrative Protocol'
+status: 'published'
+slug: 'checklist-for-when-someone-dies'
+publishedAt: '2026-05-07T18:59:25.473Z'
+---
+
 # Standard Operating Procedure: Post-Mortem Administrative Protocol
 
 When a death occurs, the administrative and logistical burden placed on the bereaved can be overwhelming. This Standard Operating Procedure (SOP) is designed to provide a structured, systematic approach to managing the immediate, short-term, and long-term requirements following a passing. The objective of this document is to ensure legal compliance, financial security, and emotional preservation by breaking down complex tasks into actionable, manageable steps.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Maintenance for Depression Management'
+status: 'published'
+slug: 'daily-checklist-for-depression'
+publishedAt: '2026-05-07T18:59:25.547Z'
+---
+
 # Standard Operating Procedure: Daily Maintenance for Depression Management
 
 This document serves as a standardized operational framework for individuals managing depression. The objective of this protocol is to reduce decision fatigue, stabilize physiological needs, and create a baseline of stability during low-energy periods. By externalizing these daily requirements into a checklist, the user can bypass the executive dysfunction often associated with depressive episodes and ensure consistent self-care.

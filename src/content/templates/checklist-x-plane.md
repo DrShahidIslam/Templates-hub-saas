@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: X-Plane Flight Preparation and Systems Checklist'
+status: 'published'
+slug: 'checklist-x-plane'
+publishedAt: '2026-05-07T18:59:25.510Z'
+---
+
 # Standard Operating Procedure: X-Plane Flight Preparation and Systems Checklist
 
 This Standard Operating Procedure (SOP) outlines the mandatory pre-flight, startup, and taxi procedures for operating aircraft within the X-Plane flight simulation environment. Designed to mirror real-world aviation standards, this checklist ensures system integrity, pilot readiness, and adherence to safe operational envelopes. Following this protocol consistently will minimize in-flight emergencies and enhance the realism and professionalism of your flight simulation experience.

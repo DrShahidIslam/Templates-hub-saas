@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Election Day Operational Excellence'
+status: 'published'
+slug: 'checklist-for-election-duty'
+publishedAt: '2026-05-07T18:59:25.176Z'
+---
+
 # Standard Operating Procedure: Election Day Operational Excellence
 
 This document serves as the formal Standard Operating Procedure (SOP) for personnel assigned to election duty. The objective of this protocol is to ensure the integrity, security, and seamless execution of the electoral process. Adherence to these guidelines is mandatory for all poll workers and administrative staff to ensure compliance with legal mandates, mitigate operational risks, and maintain public trust in the democratic process.

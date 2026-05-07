@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: BLS PCC (Basic Life Support / Post-Cardiac Care) Readiness'
+status: 'published'
+slug: 'checklist-for-bls-pcc'
+publishedAt: '2026-05-07T18:59:25.121Z'
+---
+
 # Standard Operating Procedure: BLS PCC (Basic Life Support / Post-Cardiac Care) Readiness
 
 This Standard Operating Procedure (SOP) defines the systematic protocol for ensuring that Basic Life Support (BLS) and Post-Cardiac Care (PCC) equipment and personnel are prepared for immediate deployment. Given the time-critical nature of cardiac resuscitation, this checklist serves as the gold standard for unit readiness, ensuring that every asset—from AEDs to emergency medication—is fully functional, accessible, and compliant with current clinical guidelines. Strict adherence to this protocol is mandatory for all personnel involved in emergency response.

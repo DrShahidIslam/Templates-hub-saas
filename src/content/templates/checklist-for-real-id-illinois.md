@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Obtaining an Illinois REAL ID'
+status: 'published'
+slug: 'checklist-for-real-id-illinois'
+publishedAt: '2026-05-07T18:59:25.397Z'
+---
+
 # Standard Operating Procedure: Obtaining an Illinois REAL ID
 
 This document outlines the formal procedure for successfully transitioning from a standard Illinois driver’s license or ID card to a federally compliant REAL ID. In accordance with the REAL ID Act, a REAL ID is required for domestic air travel and entry into secure federal facilities. To ensure a seamless visit to the Illinois Secretary of State (SOS) Driver Services facility, applicants must prepare and organize specific documentation ahead of time to satisfy federal verification requirements.

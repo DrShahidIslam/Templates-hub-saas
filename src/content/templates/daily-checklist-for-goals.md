@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Goal Alignment and Execution'
+status: 'published'
+slug: 'daily-checklist-for-goals'
+publishedAt: '2026-05-07T18:59:25.566Z'
+---
+
 # Standard Operating Procedure: Daily Goal Alignment and Execution
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily protocol for aligning individual tasks with high-level organizational and personal goals. The objective of this process is to eliminate reactive work, prioritize high-leverage activities, and ensure that every action taken contributes directly to long-term success. By maintaining this ritual, you transform intention into consistent execution.

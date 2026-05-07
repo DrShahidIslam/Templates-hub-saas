@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Hajj 2026 Preparation and Execution'
+status: 'published'
+slug: 'checklist-for-hajj-2026'
+publishedAt: '2026-05-07T18:59:25.227Z'
+---
+
 # Standard Operating Procedure: Hajj 2026 Preparation and Execution
 
 This SOP provides a comprehensive framework for pilgrims preparing for Hajj 2026. Given the complexity of international travel, rigorous Saudi regulatory requirements, and the physical demands of the pilgrimage, this guide serves as a strategic roadmap to ensure compliance, health, and spiritual focus. Adherence to this checklist ensures that all administrative, logistical, and physical milestones are met well in advance of the departure date, minimizing operational friction during the rites.

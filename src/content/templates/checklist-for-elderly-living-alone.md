@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Safety and Well-being Protocol for Seniors Living Alone'
+status: 'published'
+slug: 'checklist-for-elderly-living-alone'
+publishedAt: '2026-05-07T18:59:25.174Z'
+---
+
 # Standard Operating Procedure: Safety and Well-being Protocol for Seniors Living Alone
 
 This Standard Operating Procedure (SOP) is designed to provide a comprehensive framework for the routine assessment and maintenance of a safe, independent living environment for elderly individuals. By implementing this structured checklist, caregivers, family members, or the seniors themselves can proactively mitigate risks, ensure medical adherence, and maintain organizational oversight, thereby promoting longevity and quality of life while residing independently.

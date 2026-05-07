@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: International Travel Preparation'
+status: 'published'
+slug: 'checklist-for-international-travel'
+publishedAt: '2026-05-07T18:59:25.259Z'
+---
+
 # Standard Operating Procedure: International Travel Preparation
 
 This document establishes the standardized protocol for preparing for international travel to ensure operational continuity, security, and personal well-being. By following this SOP, travelers minimize the risk of logistical failures, such as denied entry, medical emergencies, or loss of access to essential assets. This checklist should be initiated no less than 30 days prior to departure to allow for administrative processing times.

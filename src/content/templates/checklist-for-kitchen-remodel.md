@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Kitchen Remodel Execution'
+status: 'published'
+slug: 'checklist-for-kitchen-remodel'
+publishedAt: '2026-05-07T18:59:25.295Z'
+---
+
 # Standard Operating Procedure: Kitchen Remodel Execution
 
 This Standard Operating Procedure (SOP) serves as a comprehensive framework for managing a high-end kitchen renovation. A successful remodel requires the orchestration of multiple specialized trades, precise procurement scheduling, and rigorous adherence to building codes. This document is designed to mitigate project creep, minimize downtime, and ensure that the final output aligns with both structural integrity standards and aesthetic requirements.

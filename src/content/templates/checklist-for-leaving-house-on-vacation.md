@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Residential Security and Readiness for Extended Absence'
+status: 'published'
+slug: 'checklist-for-leaving-house-on-vacation'
+publishedAt: '2026-05-07T18:59:25.308Z'
+---
+
 # Standard Operating Procedure: Residential Security and Readiness for Extended Absence
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for securing a residential property prior to an extended absence (vacation). The objective of this procedure is to mitigate risks related to property damage, fire, theft, and energy waste. By following this systematic checklist, homeowners can ensure their property remains safe and functional throughout the duration of their travel, providing peace of mind and operational continuity upon their return.

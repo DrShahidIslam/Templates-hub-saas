@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Forklift Inspection'
+status: 'published'
+slug: 'daily-checklist-for-forklift'
+publishedAt: '2026-05-07T18:59:25.563Z'
+---
+
 # Standard Operating Procedure: Daily Forklift Inspection
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily inspection process for all industrial forklift operators. Pursuant to OSHA 29 CFR 1910.178, a forklift must be inspected daily, or after every shift if used on a round-the-clock basis. The objective of this procedure is to identify mechanical defects or safety hazards before operation begins, ensuring operator safety and equipment longevity. Failure to perform this inspection prior to operation is a violation of company safety policy and federal regulation.

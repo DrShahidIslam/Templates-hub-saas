@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: International Travel Preparation'
+status: 'published'
+slug: 'checklist-for-holiday-abroad'
+publishedAt: '2026-05-07T18:59:25.233Z'
+---
+
 # Standard Operating Procedure: International Travel Preparation
 
 This Standard Operating Procedure (SOP) outlines the standardized process for preparing for international travel to ensure operational readiness, minimize risk, and optimize the travel experience. By following this systematic approach, travelers can mitigate common issues such as document expiration, financial disruption, and logistical failure. This protocol is designed to be executed in phases, beginning 30 days prior to departure, to ensure all contingencies are addressed well in advance of the trip.

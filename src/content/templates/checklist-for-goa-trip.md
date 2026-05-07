@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Goa Expedition Planning & Execution'
+status: 'published'
+slug: 'checklist-for-goa-trip'
+publishedAt: '2026-05-07T18:59:25.217Z'
+---
+
 # Standard Operating Procedure: Goa Expedition Planning & Execution
 
 This Standard Operating Procedure (SOP) outlines the systematic approach to planning, packing, and executing a trip to Goa. As an operations manager, the objective is to maximize leisure time by minimizing logistical friction through structured preparation. By following this protocol, you ensure all necessary documentation, physical assets, and travel arrangements are secured, preventing last-minute stressors that could detract from the intended objective: a seamless vacation.

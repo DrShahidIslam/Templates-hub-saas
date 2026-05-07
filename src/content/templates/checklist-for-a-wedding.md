@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Comprehensive Wedding Execution'
+status: 'published'
+slug: 'checklist-for-a-wedding'
+publishedAt: '2026-05-07T18:59:25.085Z'
+---
+
 # Standard Operating Procedure: Comprehensive Wedding Execution
 
 Executing a successful wedding requires rigorous logistical oversight, timeline management, and proactive contingency planning. This SOP serves as the master blueprint for managing the wedding lifecycle, from pre-event coordination to post-event breakdown. The objective of this document is to ensure operational continuity, minimize friction between vendors, and guarantee that the couple’s vision is realized within the established constraints of budget and time.

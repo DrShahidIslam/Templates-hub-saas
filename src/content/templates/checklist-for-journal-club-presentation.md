@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Journal Club Presentation'
+status: 'published'
+slug: 'checklist-for-journal-club-presentation'
+publishedAt: '2026-05-07T18:59:25.282Z'
+---
+
 # Standard Operating Procedure: Journal Club Presentation
 
 This Standard Operating Procedure (SOP) outlines the professional requirements for preparing and delivering an effective journal club presentation. The objective of a journal club is to critically appraise scientific literature, facilitate intellectual exchange, and translate complex research findings into actionable knowledge. This checklist ensures presenters maintain a high standard of academic rigor, clarity, and engagement.

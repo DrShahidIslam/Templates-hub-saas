@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Residential Property Viewing Protocol'
+status: 'published'
+slug: 'checklist-for-viewing-a-house'
+publishedAt: '2026-05-07T18:59:25.450Z'
+---
+
 # Standard Operating Procedure: Residential Property Viewing Protocol
 
 This Standard Operating Procedure (SOP) outlines the professional requirements for conducting a thorough property inspection during a house viewing. Whether you are a prospective buyer or an investor, objective evaluation is critical to mitigating long-term financial risk. The following framework is designed to move beyond aesthetic appeal and focus on structural integrity, mechanical systems, and neighborhood viability to ensure you make an informed acquisition decision.

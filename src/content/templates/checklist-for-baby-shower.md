@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Baby Shower Event Execution'
+status: 'published'
+slug: 'checklist-for-baby-shower'
+publishedAt: '2026-05-07T18:59:25.112Z'
+---
+
 # Standard Operating Procedure: Baby Shower Event Execution
 
 This Standard Operating Procedure (SOP) serves as a comprehensive management framework for orchestrating a seamless, stress-free baby shower. As an operations manager, the goal is to break down the complex coordination of guest lists, logistics, vendor management, and catering into manageable milestones. By following this structured checklist, organizers can ensure that every operational detail is addressed, preventing last-minute logistical failures and ensuring a high-quality guest experience.

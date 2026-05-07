@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Jira Enterprise Administration & Governance'
+status: 'published'
+slug: 'checklist-for-jira-enterprise'
+publishedAt: '2026-05-07T18:59:25.274Z'
+---
+
 # Standard Operating Procedure: Jira Enterprise Administration & Governance
 
 This SOP outlines the essential operational framework for managing a Jira Enterprise instance. As an Enterprise-grade platform, Jira requires rigorous governance to ensure scalability, data integrity, and optimal performance across multiple business units. This document serves as a standardized checklist for system administrators and operations leads to maintain compliance, security, and velocity within the Atlassian ecosystem.

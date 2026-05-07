@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Ramadan Operational Readiness'
+status: 'published'
+slug: 'checklist-for-ramadan'
+publishedAt: '2026-05-07T18:59:25.393Z'
+---
+
 # Standard Operating Procedure: Ramadan Operational Readiness
 
 The following Standard Operating Procedure (SOP) is designed to ensure individuals, households, and teams maintain optimal productivity, spiritual fulfillment, and physical health during the month of Ramadan. By standardizing preparation, scheduling, and nutrition, users can minimize decision fatigue, reduce the impact of fasting on professional performance, and maximize the intentionality of the holy month. This framework prioritizes consistency and proactive resource management.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Canada Visitor Visa (TRV) Application'
+status: 'published'
+slug: 'checklist-for-visitor-visa-canada'
+publishedAt: '2026-05-07T18:59:25.456Z'
+---
+
 # Standard Operating Procedure: Canada Visitor Visa (TRV) Application
 
 ## Introduction

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: JBI Qualitative Assessment'
+status: 'published'
+slug: 'checklist-for-qualitative-research-jbi'
+publishedAt: '2026-05-07T18:59:25.380Z'
+---
+
 # Standard Operating Procedure: JBI Qualitative Assessment
 
 This Standard Operating Procedure (SOP) provides a rigorous framework for applying the Joanna Briggs Institute (JBI) Critical Appraisal Checklist for Qualitative Research. This methodology is designed to evaluate the methodological quality of qualitative studies and determine the extent to which a study has addressed the possibility of bias in its design, conduct, and analysis. Adherence to this protocol ensures systematic rigor in evidence synthesis and literature review processes.

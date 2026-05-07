@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Vehicle Inspection'
+status: 'published'
+slug: 'daily-checklist-for-vehicle-inspection'
+publishedAt: '2026-05-07T18:59:25.619Z'
+---
+
 # Standard Operating Procedure: Daily Vehicle Inspection
 
 Effective fleet management relies on proactive maintenance and risk mitigation. This Daily Vehicle Inspection SOP is designed to ensure all vehicles are safe, roadworthy, and compliant with operational standards before they leave the depot. By conducting a systematic walk-around, drivers identify mechanical issues, safety hazards, and exterior damage early, preventing costly downtime and ensuring the safety of all personnel. This procedure must be completed by every operator at the start of each shift.

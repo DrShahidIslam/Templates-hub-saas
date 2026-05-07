@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Zoo Facility Inspection and Operations'
+status: 'published'
+slug: 'checklist-for-zoo'
+publishedAt: '2026-05-07T18:59:25.501Z'
+---
+
 # Standard Operating Procedure: Daily Zoo Facility Inspection and Operations
 
 This Standard Operating Procedure (SOP) serves as the primary operational framework for daily zoo management. The objective is to ensure the highest standards of animal welfare, public safety, and facility integrity. By following this systematic checklist, staff will maintain a consistent environment that adheres to regulatory compliance (e.g., AZA, USDA) and promotes animal health, visitor engagement, and operational excellence. All team members are required to complete these tasks before the facility opens to the public to mitigate risk and ensure a seamless guest experience.

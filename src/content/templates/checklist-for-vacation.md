@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Vacation Preparation & Departure'
+status: 'published'
+slug: 'checklist-for-vacation'
+publishedAt: '2026-05-07T18:59:25.446Z'
+---
+
 # Standard Operating Procedure: Vacation Preparation & Departure
 
 Effective vacation management is essential to ensuring both personal rejuvenation and professional continuity. This SOP provides a comprehensive framework for managing pre-departure tasks, home security, and logistical readiness. By following these standardized procedures, you mitigate the risk of overlooked responsibilities, reduce pre-travel anxiety, and ensure a seamless transition back to your daily routine upon return.

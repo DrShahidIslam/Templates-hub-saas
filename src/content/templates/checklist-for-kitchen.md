@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Kitchen Operational Excellence'
+status: 'published'
+slug: 'checklist-for-kitchen'
+publishedAt: '2026-05-07T18:59:25.296Z'
+---
+
 # Standard Operating Procedure: Kitchen Operational Excellence
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for maintaining a safe, hygienic, and high-functioning kitchen environment. Adherence to these standards is critical for ensuring food safety compliance, maximizing workflow efficiency, and maintaining the longevity of professional equipment. All kitchen personnel are required to execute these tasks daily to uphold our operational excellence benchmarks and ensure a seamless service transition.

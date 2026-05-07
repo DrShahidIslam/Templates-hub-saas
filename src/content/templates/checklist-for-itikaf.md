@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Itikaf Preparation and Management'
+status: 'published'
+slug: 'checklist-for-itikaf'
+publishedAt: '2026-05-07T18:59:25.264Z'
+---
+
 # Standard Operating Procedure: Itikaf Preparation and Management
 
 Itikaf is a profound period of spiritual seclusion, typically observed during the final ten days of Ramadan. To ensure a productive experience, it is essential to minimize external distractions and focus entirely on acts of worship. This SOP provides a comprehensive framework to streamline your preparations, allowing you to transition into this period of devotion with minimal logistical friction and maximum spiritual presence.

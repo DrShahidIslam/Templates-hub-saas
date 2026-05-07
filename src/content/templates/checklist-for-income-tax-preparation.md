@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Annual Income Tax Preparation'
+status: 'published'
+slug: 'checklist-for-income-tax-preparation'
+publishedAt: '2026-05-07T18:59:25.250Z'
+---
+
 # Standard Operating Procedure: Annual Income Tax Preparation
 
 This Standard Operating Procedure (SOP) outlines the professional requirements and systematic workflow for the preparation of annual income tax returns. Adherence to this protocol ensures regulatory compliance, maximizes legal tax efficiency, and minimizes the risk of audits by maintaining an organized, audit-ready paper trail. This document is intended for tax professionals and individual taxpayers managing complex financial portfolios to ensure all necessary documentation is gathered, verified, and reconciled before filing.

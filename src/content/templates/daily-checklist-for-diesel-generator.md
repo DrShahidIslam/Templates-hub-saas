@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Diesel Generator Inspection'
+status: 'published'
+slug: 'daily-checklist-for-diesel-generator'
+publishedAt: '2026-05-07T18:59:25.549Z'
+---
+
 # Standard Operating Procedure: Daily Diesel Generator Inspection
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily inspection routine for diesel generator sets. Consistent monitoring is the most effective defense against mechanical failure, ensuring that standby or prime power assets remain ready for immediate deployment during grid instability or emergency events. All observations must be recorded in the generator logbook, and any deviations from specified parameters must be reported to the maintenance supervisor immediately.

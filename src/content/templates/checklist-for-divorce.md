@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Divorce Transition Management'
+status: 'published'
+slug: 'checklist-for-divorce'
+publishedAt: '2026-05-07T18:59:25.168Z'
+---
+
 # Standard Operating Procedure: Divorce Transition Management
 
 Divorce is a complex legal, financial, and logistical process that requires methodical documentation and objective decision-making. This SOP is designed to provide a structured roadmap for managing the dissolution of a marriage, ensuring that all assets, liabilities, and legal obligations are accounted for with professional rigor. By following this protocol, you minimize emotional decision-making and maximize long-term personal and financial stability.

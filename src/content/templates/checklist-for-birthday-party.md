@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Birthday Party Execution'
+status: 'published'
+slug: 'checklist-for-birthday-party'
+publishedAt: '2026-05-07T18:59:25.120Z'
+---
+
 # Standard Operating Procedure: Birthday Party Execution
 
 This Standard Operating Procedure (SOP) provides a comprehensive framework for planning, managing, and executing a successful birthday celebration. By following this structured approach, organizers can minimize last-minute friction, ensure all guest needs are met, and maintain a controlled environment, allowing the host to focus on the experience rather than the logistics. This document is designed to be scalable for events of varying sizes and complexities.

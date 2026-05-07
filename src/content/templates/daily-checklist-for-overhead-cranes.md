@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Overhead Crane Inspection'
+status: 'published'
+slug: 'daily-checklist-for-overhead-cranes'
+publishedAt: '2026-05-07T18:59:25.598Z'
+---
+
 # Standard Operating Procedure: Daily Overhead Crane Inspection
 
 The objective of this Standard Operating Procedure (SOP) is to ensure the safe, efficient, and compliant operation of overhead crane equipment. A daily pre-shift inspection is mandatory to identify mechanical or structural deficiencies before they escalate into safety hazards. By following this protocol, operators mitigate the risk of load drops, equipment failure, and workplace injuries, while ensuring full compliance with OSHA 1910.179 and ASME B30.2 standards. Any crane found with deficiencies must be tagged out immediately and reported to maintenance personnel.

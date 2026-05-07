@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Flight Operations in X-Plane 11'
+status: 'published'
+slug: 'checklist-x-plane-11'
+publishedAt: '2026-05-07T18:59:25.509Z'
+---
+
 # Standard Operating Procedure: Flight Operations in X-Plane 11
 
 This Standard Operating Procedure (SOP) outlines the professional methodology for conducting flight operations within the X-Plane 11 simulation environment. Adherence to this checklist ensures system integrity, operational safety, and a realistic flight experience. Whether operating a light general aviation aircraft or a complex airliner, following these standardized sequences minimizes cockpit workload and reduces the probability of systems failure during critical phases of flight.

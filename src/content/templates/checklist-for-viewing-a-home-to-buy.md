@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Residential Property Inspection for Potential Buyers'
+status: 'published'
+slug: 'checklist-for-viewing-a-home-to-buy'
+publishedAt: '2026-05-07T18:59:25.448Z'
+---
+
 # Standard Operating Procedure: Residential Property Inspection for Potential Buyers
 
 This Standard Operating Procedure (SOP) serves as a professional framework for prospective homebuyers to evaluate a property systematically. When conducting a viewing, emotions often cloud judgment; this guide provides an objective, detail-oriented methodology to identify potential structural issues, verify property maintenance, and assess long-term viability. By utilizing this checklist, you will transition from a casual observer to a strategic buyer, ensuring that every square foot of the property is scrutinized before making an offer.

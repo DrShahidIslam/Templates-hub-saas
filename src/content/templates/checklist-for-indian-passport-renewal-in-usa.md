@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Indian Passport Renewal in the USA'
+status: 'published'
+slug: 'checklist-for-indian-passport-renewal-in-usa'
+publishedAt: '2026-05-07T18:59:25.254Z'
+---
+
 # Standard Operating Procedure: Indian Passport Renewal in the USA
 
 This document outlines the systematic process for renewing an Indian passport while residing in the United States. The renewal process is managed through VFS Global, the official outsourcing partner for the Embassy of India and its Consulates in the U.S. Adherence to this SOP ensures compliance with documentation requirements and minimizes the risk of application rejection or processing delays. Applicants should note that the jurisdiction of their residence determines the specific VFS center to which the application must be sent.

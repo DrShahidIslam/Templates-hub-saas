@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Operational Workflow'
+status: 'published'
+slug: 'daily-checklist-for-work-template'
+publishedAt: '2026-05-07T18:59:25.624Z'
+---
+
 # Standard Operating Procedure: Daily Operational Workflow
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily checklist designed to ensure operational excellence, maintain productivity, and minimize administrative friction. By standardizing the beginning and conclusion of each workday, team members can reduce cognitive load, prioritize high-impact tasks, and ensure that no critical action items slip through the cracks. This procedure is intended for all personnel to ensure consistent output and seamless hand-offs.

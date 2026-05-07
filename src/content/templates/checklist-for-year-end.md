@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Year-End Financial & Operational Close'
+status: 'published'
+slug: 'checklist-for-year-end'
+publishedAt: '2026-05-07T18:59:25.485Z'
+---
+
 # Standard Operating Procedure: Year-End Financial & Operational Close
 
 The year-end close is a critical operational milestone that ensures financial accuracy, regulatory compliance, and a clean baseline for the upcoming fiscal year. This SOP outlines a systematic approach to reconciling accounts, auditing assets, and preparing performance reports. Following this procedure minimizes audit risk, improves tax preparation efficiency, and provides stakeholders with a clear narrative of the organization’s performance over the preceding twelve months.

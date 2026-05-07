@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Wedding Day Execution'
+status: 'published'
+slug: 'checklist-for-wedding-day'
+publishedAt: '2026-05-07T18:59:25.462Z'
+---
+
 # Standard Operating Procedure: Wedding Day Execution
 
 This Standard Operating Procedure (SOP) is designed to ensure the seamless execution of a wedding day, minimizing logistical friction and maximizing the experience for the couple and guests. As an operations manager, the goal is to shift from reactive firefighting to proactive coordination. This checklist serves as the master control document for the Wedding Coordinator or Lead Planner to manage timelines, personnel, and inventory effectively.

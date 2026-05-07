@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Diagnostic X-Ray Imaging Protocol'
+status: 'published'
+slug: 'checklist-for-x-ray'
+publishedAt: '2026-05-07T18:59:25.480Z'
+---
+
 # Standard Operating Procedure: Diagnostic X-Ray Imaging Protocol
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety, preparation, and execution steps required to perform diagnostic X-ray imaging. The objective is to ensure high-quality diagnostic outcomes while maintaining strict adherence to ALARA (As Low As Reasonably Achievable) principles regarding radiation exposure. All personnel must verify patient identification and equipment status prior to initiating any exposure.

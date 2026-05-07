@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Used Vehicle Acquisition'
+status: 'published'
+slug: 'checklist-for-buying-a-used-car'
+publishedAt: '2026-05-07T18:59:25.129Z'
+---
+
 # Standard Operating Procedure: Used Vehicle Acquisition
 
 This Standard Operating Procedure (SOP) outlines the professional methodology for evaluating, inspecting, and purchasing a pre-owned vehicle. To mitigate financial risk and ensure long-term mechanical reliability, the acquisition process must be treated as a data-driven audit. By adhering to this structured checklist, you will transition from an emotional buyer to a strategic asset manager, ensuring that the vehicle’s condition justifies the capital investment.

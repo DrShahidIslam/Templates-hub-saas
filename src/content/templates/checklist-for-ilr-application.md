@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Indefinite Leave to Remain (ILR) Application'
+status: 'published'
+slug: 'checklist-for-ilr-application'
+publishedAt: '2026-05-07T18:59:25.247Z'
+---
+
 # Standard Operating Procedure: Indefinite Leave to Remain (ILR) Application
 
 This Standard Operating Procedure (SOP) outlines the rigorous administrative process required to prepare and submit an application for Indefinite Leave to Remain (ILR) in the United Kingdom. Achieving permanent residency is a high-stakes process requiring strict adherence to evidence-based documentation and timeline management. Failure to provide sufficient evidence or meet residency requirements can lead to application refusal and the forfeiture of fees. This guide is intended to ensure all documentation is audit-ready and compliant with current Home Office immigration rules.

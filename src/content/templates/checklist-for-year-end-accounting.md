@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Year-End Accounting Close'
+status: 'published'
+slug: 'checklist-for-year-end-accounting'
+publishedAt: '2026-05-07T18:59:25.483Z'
+---
+
 # Standard Operating Procedure: Year-End Accounting Close
 
 The year-end accounting close is a critical operational function that ensures financial data accuracy, regulatory compliance, and a clean baseline for the upcoming fiscal year. This SOP provides a comprehensive framework to reconcile accounts, finalize financial statements, and prepare for tax filing. Adherence to this procedure minimizes audit risk, optimizes tax positions, and provides management with reliable reporting for strategic decision-making.

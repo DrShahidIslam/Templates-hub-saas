@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Observational Study Execution'
+status: 'published'
+slug: 'checklist-for-observational-studies'
+publishedAt: '2026-05-07T18:59:25.356Z'
+---
+
 # Standard Operating Procedure: Observational Study Execution
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for conducting rigorous observational studies. Observational research is critical for gathering unbiased data on natural behaviors, system efficiencies, or human-environment interactions without researcher interference. By following this standardized methodology, teams ensure data integrity, minimize the "Hawthorne Effect" (behavioral changes due to observation), and maintain ethical compliance throughout the study lifecycle.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Routine Management for Children with ADHD'
+status: 'published'
+slug: 'daily-checklist-for-kids-with-adhd'
+publishedAt: '2026-05-07T18:59:25.587Z'
+---
+
 # Standard Operating Procedure: Daily Routine Management for Children with ADHD
 
 This Standard Operating Procedure (SOP) is designed to provide a structured, predictable framework to support children with ADHD in navigating daily transitions. By externalizing executive functions through visual checklists and consistent routines, we reduce cognitive load, decrease decision fatigue, and foster independence. The following protocol aims to stabilize the morning and evening environments, ensuring core responsibilities are met while minimizing sensory overwhelm and oppositional behavior.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Indian Passport Renewal'
+status: 'published'
+slug: 'checklist-for-indian-passport-renewal'
+publishedAt: '2026-05-07T18:59:25.255Z'
+---
+
 # Standard Operating Procedure: Indian Passport Renewal
 
 This document serves as the definitive guide for Indian citizens residing in India or abroad who require a passport renewal. An efficiently executed renewal process prevents processing delays, minimizes the risk of application rejection, and ensures your travel documentation remains valid without gaps. Please follow the steps below in sequential order to ensure full compliance with the Passport Seva system requirements.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: US Non-Immigrant Visa Application'
+status: 'published'
+slug: 'checklist-for-us-visa'
+publishedAt: '2026-05-07T18:59:25.444Z'
+---
+
 # Standard Operating Procedure: US Non-Immigrant Visa Application
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols and documentation requirements for applicants pursuing a US non-immigrant visa (such as B1/B2). Success in this process is contingent upon meticulous preparation, absolute consistency in data entry, and transparent communication with consular officers. Follow this checklist systematically to mitigate the risk of administrative processing delays or application denials.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Driving Test Preparation and Execution'
+status: 'published'
+slug: 'checklist-for-driving-test'
+publishedAt: '2026-05-07T18:59:25.173Z'
+---
+
 # Standard Operating Procedure: Driving Test Preparation and Execution
 
 This Standard Operating Procedure (SOP) outlines the mandatory pre-test requirements, operational procedures, and final verification steps to ensure a candidate is fully prepared for a state-certified driving examination. The objective of this document is to minimize administrative errors, ensure vehicle compliance, and optimize candidate performance through systematic preparation. Adherence to this checklist significantly reduces the risk of disqualification due to preventable oversights.

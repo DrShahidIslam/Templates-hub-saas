@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Routine Management for Children'
+status: 'published'
+slug: 'daily-checklist-for-kids-template'
+publishedAt: '2026-05-07T18:59:25.585Z'
+---
+
 # Standard Operating Procedure: Daily Routine Management for Children
 
 This Standard Operating Procedure (SOP) is designed to streamline household management by empowering children with a structured daily routine. By implementing a standardized checklist, parents can reduce daily friction, minimize decision fatigue, and foster independence in children. This system is designed to be customizable based on age and developmental stage, ensuring that core responsibilities are met consistently while promoting long-term habit formation.

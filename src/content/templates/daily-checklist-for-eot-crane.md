@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily EOT Crane Inspection'
+status: 'published'
+slug: 'daily-checklist-for-eot-crane'
+publishedAt: '2026-05-07T18:59:25.558Z'
+---
+
 # Standard Operating Procedure: Daily EOT Crane Inspection
 
 This Standard Operating Procedure (SOP) defines the mandatory daily inspection requirements for Electric Overhead Traveling (EOT) cranes. Regular inspections are critical to identifying mechanical and electrical hazards before they escalate into catastrophic failures. Every crane operator must perform this walk-around and functional test before the start of each shift to ensure workplace safety, maintain equipment longevity, and comply with industrial safety regulations.

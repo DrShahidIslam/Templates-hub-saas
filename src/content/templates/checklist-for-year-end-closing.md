@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Year-End Financial Closing'
+status: 'published'
+slug: 'checklist-for-year-end-closing'
+publishedAt: '2026-05-07T18:59:25.484Z'
+---
+
 # Standard Operating Procedure: Year-End Financial Closing
 
 The year-end financial closing process is a critical operational milestone that ensures organizational compliance, accurate financial reporting, and a clean baseline for the upcoming fiscal year. This SOP provides a comprehensive framework to streamline the reconciliation of accounts, verification of assets, and preparation of financial statements. Adhering to this procedure mitigates the risk of audit findings, minimizes tax liabilities, and provides management with the reliable data required for strategic planning.

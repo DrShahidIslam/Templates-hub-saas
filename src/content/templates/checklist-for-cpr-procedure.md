@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Cardiopulmonary Resuscitation (CPR)'
+status: 'published'
+slug: 'checklist-for-cpr-procedure'
+publishedAt: '2026-05-07T18:59:25.145Z'
+---
+
 # Standard Operating Procedure: Cardiopulmonary Resuscitation (CPR)
 
 ## Overview

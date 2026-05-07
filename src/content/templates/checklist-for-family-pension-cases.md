@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Family Pension Processing'
+status: 'published'
+slug: 'checklist-for-family-pension-cases'
+publishedAt: '2026-05-07T18:59:25.191Z'
+---
+
 # Standard Operating Procedure: Family Pension Processing
 
 This Standard Operating Procedure (SOP) outlines the standardized workflow for initiating, verifying, and finalizing family pension claims. The primary objective of this procedure is to ensure regulatory compliance, minimize processing turnaround time, and eliminate errors in beneficiary eligibility, thereby providing timely financial support to the dependents of deceased employees/pensioners.

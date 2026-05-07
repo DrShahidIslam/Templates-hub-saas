@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Care Routine for Individuals Living with Dementia'
+status: 'published'
+slug: 'daily-checklist-for-dementia-patients'
+publishedAt: '2026-05-07T18:59:25.545Z'
+---
+
 # Standard Operating Procedure: Daily Care Routine for Individuals Living with Dementia
 
 This Standard Operating Procedure (SOP) is designed to provide a structured, consistent, and person-centered daily routine for individuals living with dementia. Consistency is the cornerstone of dementia care, as it minimizes confusion, reduces "sundowning" behaviors, and promotes a sense of security for the resident. This checklist serves as a roadmap for caregivers to ensure all physical, emotional, and cognitive needs are addressed systematically while maintaining the resident’s dignity and independence.

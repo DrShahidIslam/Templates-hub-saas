@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Oxygen Cylinder Inspection'
+status: 'published'
+slug: 'daily-checklist-for-oxygen-cylinder'
+publishedAt: '2026-05-07T18:59:25.599Z'
+---
+
 # Standard Operating Procedure: Daily Oxygen Cylinder Inspection
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily inspection protocols for pressurized oxygen cylinders. As an oxygen-enriched environment poses significant fire and safety risks, consistent monitoring is essential to ensure equipment integrity, regulatory compliance, and patient safety. All personnel tasked with cylinder management must perform these checks at the start of every shift to verify readiness and mitigate the risk of leaks, structural fatigue, or mechanical failure.

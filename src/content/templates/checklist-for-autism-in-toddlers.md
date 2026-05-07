@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Developmental Screening for Autism Spectrum Disorder (ASD) in Toddlers'
+status: 'published'
+slug: 'checklist-for-autism-in-toddlers'
+publishedAt: '2026-05-07T18:59:25.101Z'
+---
+
 # Standard Operating Procedure: Developmental Screening for Autism Spectrum Disorder (ASD) in Toddlers
 
 This Standard Operating Procedure (SOP) is designed to provide healthcare professionals, educators, and concerned caregivers with a structured, objective methodology for identifying early red flags associated with Autism Spectrum Disorder (ASD) in toddlers aged 18 to 36 months. This process is intended for preliminary screening purposes only; it is not a diagnostic tool. Early identification is a critical clinical objective, as it facilitates timely access to early intervention services, which significantly improve long-term developmental outcomes.

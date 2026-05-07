@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Japan Travel Preparation'
+status: 'published'
+slug: 'checklist-for-japan-travel'
+publishedAt: '2026-05-07T18:59:25.266Z'
+---
+
 # Standard Operating Procedure: Japan Travel Preparation
 
 This document serves as the formal SOP for preparing for travel to Japan. Given Japan’s unique logistical landscape—characterized by high-tech infrastructure, specific cultural etiquette, and reliance on physical documentation—this checklist is designed to minimize friction, ensure regulatory compliance, and optimize the traveler's experience. Follow these phases sequentially to ensure a seamless departure and arrival process.

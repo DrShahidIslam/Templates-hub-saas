@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Newborn Care Operations'
+status: 'published'
+slug: 'daily-checklist-for-newborn'
+publishedAt: '2026-05-07T18:59:25.595Z'
+---
+
 # Standard Operating Procedure: Daily Newborn Care Operations
 
 This Standard Operating Procedure (SOP) serves as a comprehensive operational framework for the daily maintenance, hygiene, and monitoring of a newborn. As an operations manager, the objective is to standardize care routines to ensure infant health, optimize caregiver efficiency, and mitigate risks associated with newborn development. Adherence to this structured workflow ensures that all physiological needs are addressed systematically while allowing for necessary flexibility in the event of unexpected infant behavior.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Residential Construction Management'
+status: 'published'
+slug: 'checklist-for-building-a-house'
+publishedAt: '2026-05-07T18:59:25.125Z'
+---
+
 # Standard Operating Procedure: Residential Construction Management
 
 This Standard Operating Procedure (SOP) outlines the professional workflow for overseeing the construction of a residential property. Building a house is a complex orchestration of logistics, regulatory compliance, and craftsmanship. To ensure the project remains on schedule and within budget, this guide provides a structured framework for managing the transition from architectural design to final handover. By following this systematic approach, stakeholders can mitigate risk, maintain quality standards, and ensure all structural and legal requirements are met throughout the construction lifecycle.

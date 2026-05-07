@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Household Chore Management System'
+status: 'published'
+slug: 'checklist-for-kids-chores'
+publishedAt: '2026-05-07T18:59:25.288Z'
+---
+
 # Standard Operating Procedure: Household Chore Management System
 
 This SOP outlines a standardized framework for managing household chores performed by children. By implementing a structured, repeatable process, parents can foster accountability, develop life skills, and ensure household maintenance standards are met consistently. This system is designed to transition from parental oversight to child autonomy, utilizing clear expectations, logical workflows, and positive reinforcement.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Establishing a Medical Clinic in Uganda'
+status: 'published'
+slug: 'checklist-for-opening-a-clinic-in-uganda'
+publishedAt: '2026-05-07T18:59:25.370Z'
+---
+
 # Standard Operating Procedure: Establishing a Medical Clinic in Uganda
 
 Opening a medical clinic in Uganda requires rigorous adherence to the guidelines set by the Ministry of Health (MoH) and the Uganda Medical and Dental Practitioners Council (UMDPC). This SOP serves as a foundational roadmap to ensure compliance with national health standards, regulatory licensing, and operational readiness. Success depends on proactive engagement with local district health authorities and strict alignment with the National Health Policy.

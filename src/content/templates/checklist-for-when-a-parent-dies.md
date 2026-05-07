@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Managing Immediate Post-Mortem Affairs'
+status: 'published'
+slug: 'checklist-for-when-a-parent-dies'
+publishedAt: '2026-05-07T18:59:25.471Z'
+---
+
 # Standard Operating Procedure: Managing Immediate Post-Mortem Affairs
 
 The loss of a parent is a profound life event that requires navigating a complex intersection of emotional processing and time-sensitive administrative responsibilities. This SOP is designed to serve as a structured roadmap to ensure that critical legal, financial, and logistical requirements are met methodically. By following this protocol, you can reduce the cognitive load during a period of bereavement and ensure that all necessary transitions are managed with compliance, transparency, and efficiency.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Generator Inspection and Maintenance'
+status: 'published'
+slug: 'daily-checklist-for-generator'
+publishedAt: '2026-05-07T18:59:25.564Z'
+---
+
 # Standard Operating Procedure: Daily Generator Inspection and Maintenance
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily inspection requirements for industrial backup power generators. Regular monitoring is essential to ensure operational readiness, prevent premature mechanical failure, and guarantee seamless load transfer during power outages. This checklist must be completed by the designated facility technician or operator to maintain site compliance and emergency preparedness.

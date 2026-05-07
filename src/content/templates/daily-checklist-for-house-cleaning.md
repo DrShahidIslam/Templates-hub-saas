@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Residential Maintenance'
+status: 'published'
+slug: 'daily-checklist-for-house-cleaning'
+publishedAt: '2026-05-07T18:59:25.575Z'
+---
+
 # Standard Operating Procedure: Daily Residential Maintenance
 
 This Standard Operating Procedure (SOP) is designed to establish a consistent, high-standard daily routine for residential property maintenance. By adhering to this systematic approach, you ensure that the living environment remains sanitary, organized, and welcoming. This daily cadence is intended to prevent the accumulation of clutter and grime, thereby reducing the intensity required for deep-cleaning sessions and maintaining the asset’s long-term value.

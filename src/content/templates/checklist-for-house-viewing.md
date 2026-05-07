@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Residential Property Inspection'
+status: 'published'
+slug: 'checklist-for-house-viewing'
+publishedAt: '2026-05-07T18:59:25.244Z'
+---
+
 # Standard Operating Procedure: Residential Property Inspection
 
 Effective property evaluation requires a systematic approach to move beyond superficial aesthetics and identify structural, mechanical, and functional realities. This SOP outlines the professional standard for conducting a house viewing to ensure data-driven decision-making, mitigate financial risk, and prevent "buyer’s remorse." Use this procedure to document findings consistently across multiple viewings.

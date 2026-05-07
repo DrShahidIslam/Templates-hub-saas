@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Air Compressor Inspection'
+status: 'published'
+slug: 'daily-checklist-for-air-compressor'
+publishedAt: '2026-05-07T18:59:25.535Z'
+---
+
 # Standard Operating Procedure: Daily Air Compressor Inspection
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily inspection requirements for industrial air compressors to ensure operational safety, prevent mechanical failure, and maximize equipment lifespan. Consistent monitoring is critical for early detection of leaks, lubricant degradation, and thermal issues. All operators must adhere to these steps at the start of every shift; if any discrepancy is found, the equipment must be locked out/tagged out (LOTO) immediately and reported to maintenance.

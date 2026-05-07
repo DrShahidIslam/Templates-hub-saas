@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Electric Pallet Jack Inspection'
+status: 'published'
+slug: 'daily-checklist-for-electric-pallet-jack'
+publishedAt: '2026-05-07T18:59:25.554Z'
+---
+
 # Standard Operating Procedure: Daily Electric Pallet Jack Inspection
 
 This Standard Operating Procedure (SOP) outlines the mandatory pre-shift inspection requirements for all electric pallet jacks (EPJs). To ensure workplace safety and maintain equipment longevity, operators must perform a full visual and functional check before the start of every shift. Failure to identify defects early can lead to equipment failure, costly downtime, or serious workplace accidents. If any component is found to be non-compliant, the unit must be tagged out of service immediately and reported to the maintenance department.

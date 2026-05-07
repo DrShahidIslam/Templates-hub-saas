@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Comprehensive Wedding Planning'
+status: 'published'
+slug: 'checklist-for-wedding-planning'
+publishedAt: '2026-05-07T18:59:25.464Z'
+---
+
 # Standard Operating Procedure: Comprehensive Wedding Planning
 
 This Standard Operating Procedure (SOP) serves as a strategic framework for managing the lifecycle of a wedding project. Whether you are a professional planner or coordinating your own event, the objective is to mitigate risk, ensure fiscal responsibility, and guarantee a seamless execution of all logistical components. By adhering to this phased approach, you ensure that no critical detail—from contractual obligations to guest experience nuances—is overlooked during the high-stakes environment of wedding preparation.

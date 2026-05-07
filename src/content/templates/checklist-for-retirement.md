@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Retirement Transition Planning'
+status: 'published'
+slug: 'checklist-for-retirement'
+publishedAt: '2026-05-07T18:59:25.406Z'
+---
+
 # Standard Operating Procedure: Retirement Transition Planning
 
 Retirement represents one of the most significant life transitions an individual will undergo, requiring meticulous coordination of financial, logistical, and personal affairs. This Standard Operating Procedure (SOP) is designed to provide a systematic framework to ensure a seamless departure from the workforce and a secure entry into post-career life. By following this structured approach, you will mitigate administrative risks, optimize your financial positioning, and establish a stable foundation for your new lifestyle.

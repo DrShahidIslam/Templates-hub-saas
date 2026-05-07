@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: New Apartment Move-In Inspection & Setup'
+status: 'published'
+slug: 'checklist-for-new-apartment'
+publishedAt: '2026-05-07T18:59:25.340Z'
+---
+
 # Standard Operating Procedure: New Apartment Move-In Inspection & Setup
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocol for conducting a comprehensive pre-move-in inspection and the subsequent initial setup of a new residential unit. Adhering to this systematic approach ensures that all physical defects are documented for security deposit protection, essential utilities are functional, and the living environment is sanitized and prepared for immediate occupancy. 

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Indian Passport Renewal in Canada'
+status: 'published'
+slug: 'checklist-for-indian-passport-renewal-in-canada'
+publishedAt: '2026-05-07T18:59:25.251Z'
+---
+
 # Standard Operating Procedure: Indian Passport Renewal in Canada
 
 This Standard Operating Procedure (SOP) serves as a comprehensive guide for Indian citizens residing in Canada to renew their passports through the BLS International services. Navigating the administrative requirements for government documentation demands precision; this document outlines the essential phases—from digital application to final submission—to ensure your renewal process is compliant, efficient, and free of bureaucratic delays.

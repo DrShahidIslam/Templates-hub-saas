@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Residential Real Estate Acquisition'
+status: 'published'
+slug: 'checklist-for-buying-a-house'
+publishedAt: '2026-05-07T18:59:25.128Z'
+---
+
 # Standard Operating Procedure: Residential Real Estate Acquisition
 
 Acquiring a residential property is one of the most complex financial and logistical projects an individual will undertake. To mitigate risk, avoid emotional overspending, and ensure structural and legal integrity, this SOP provides a structured framework for the home-buying lifecycle. Following this rigorous process ensures that every decision is data-driven, legally protected, and aligned with your long-term financial objectives.

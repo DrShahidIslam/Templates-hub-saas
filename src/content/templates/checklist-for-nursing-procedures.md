@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Nursing Clinical Procedure Execution'
+status: 'published'
+slug: 'checklist-for-nursing-procedures'
+publishedAt: '2026-05-07T18:59:25.355Z'
+---
+
 # Standard Operating Procedure: Nursing Clinical Procedure Execution
 
 This Standard Operating Procedure (SOP) outlines the mandatory clinical workflow for performing nursing procedures within this facility. Adherence to these protocols ensures patient safety, minimizes the risk of hospital-acquired infections (HAIs), and maintains consistent documentation standards. Every clinical procedure must follow the "Five Rights" of medication administration and the universal safety protocols established by current healthcare regulatory bodies. Failure to follow this SOP may result in compromised patient outcomes and increased organizational liability.

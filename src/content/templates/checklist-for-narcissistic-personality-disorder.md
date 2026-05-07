@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Clinical Assessment for Narcissistic Personality Disorder (NPD)'
+status: 'published'
+slug: 'checklist-for-narcissistic-personality-disorder'
+publishedAt: '2026-05-07T18:59:25.335Z'
+---
+
 # Standard Operating Procedure: Clinical Assessment for Narcissistic Personality Disorder (NPD)
 
 This document serves as a standardized operational framework for mental health clinicians and diagnostic professionals to evaluate the presence of traits associated with Narcissistic Personality Disorder. Following the criteria established in the DSM-5-TR, this SOP ensures a systematic, objective, and empathetic approach to assessing long-standing patterns of grandiosity, need for admiration, and lack of empathy. It is intended for professional use to guide interviews and behavioral observations while maintaining strict clinical ethics.

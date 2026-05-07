@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Checklist XV (Quality Control & Compliance Audit)'
+status: 'published'
+slug: 'checklist-xv'
+publishedAt: '2026-05-07T18:59:25.517Z'
+---
+
 # Standard Operating Procedure: Checklist XV (Quality Control & Compliance Audit)
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for performing "Checklist XV," the comprehensive quality control and compliance audit designed to ensure operational excellence and regulatory adherence. By following this systematic approach, team members will mitigate risk, ensure data integrity, and maintain consistency across all departmental functions. This process must be executed by authorized personnel at the conclusion of every project cycle or designated audit interval.

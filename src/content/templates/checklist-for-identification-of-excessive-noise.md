@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Identification of Excessive Noise'
+status: 'published'
+slug: 'checklist-for-identification-of-excessive-noise'
+publishedAt: '2026-05-07T18:59:25.246Z'
+---
+
 # Standard Operating Procedure: Identification of Excessive Noise
 
 ## Overview

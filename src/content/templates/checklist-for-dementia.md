@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Comprehensive Dementia Care and Management'
+status: 'published'
+slug: 'checklist-for-dementia'
+publishedAt: '2026-05-07T18:59:25.161Z'
+---
+
 # Standard Operating Procedure: Comprehensive Dementia Care and Management
 
 This Standard Operating Procedure (SOP) is designed to provide caregivers and facility managers with a structured framework for managing the daily, environmental, and medical needs of individuals living with dementia. Dementia care requires a shift from task-oriented care to person-centered care, emphasizing safety, dignity, and the maintenance of routine. This checklist serves as a baseline for ensuring that critical cognitive, physical, and safety-related requirements are addressed systematically to improve the quality of life for the resident.

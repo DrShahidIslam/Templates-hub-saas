@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Estate Planning Preparation'
+status: 'published'
+slug: 'checklist-for-estate-planning'
+publishedAt: '2026-05-07T18:59:25.180Z'
+---
+
 # Standard Operating Procedure: Estate Planning Preparation
 
 Estate planning is the strategic process of organizing one's financial and personal affairs to ensure the seamless transition of assets, the protection of heirs, and the fulfillment of final wishes. This procedure is designed to guide an individual or family through the systematic collection of data and decision-making necessary for legal counsel to draft comprehensive estate documents. Following this SOP minimizes administrative burdens, reduces tax liabilities, and prevents unnecessary family conflict.

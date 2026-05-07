@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Executor of Will Administration'
+status: 'published'
+slug: 'checklist-for-executor-of-will'
+publishedAt: '2026-05-07T18:59:25.189Z'
+---
+
 # Standard Operating Procedure: Executor of Will Administration
 
 Acting as an executor is a fiduciary responsibility that requires meticulous organization, transparency, and adherence to legal protocols. This SOP provides a comprehensive framework to guide you through the probate and estate administration process. The goal is to ensure the decedent’s final wishes are honored, debts are settled, and assets are distributed to beneficiaries efficiently while minimizing personal liability. Please note that this document is for educational purposes; estate laws vary significantly by jurisdiction, and consultation with a probate attorney or tax professional is strongly advised.

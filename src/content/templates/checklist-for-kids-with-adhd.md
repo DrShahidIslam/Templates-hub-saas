@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Executive Function Support for Children with ADHD'
+status: 'published'
+slug: 'checklist-for-kids-with-adhd'
+publishedAt: '2026-05-07T18:59:25.291Z'
+---
+
 # Standard Operating Procedure: Daily Executive Function Support for Children with ADHD
 
 This Standard Operating Procedure (SOP) is designed to serve as an external executive function system for children diagnosed with ADHD. By offloading the cognitive burden of memory, prioritization, and task initiation onto a structured visual and physical checklist, caregivers can reduce household friction and build long-term independence. This system emphasizes clarity, consistency, and positive reinforcement to ensure the child remains regulated and productive throughout the day.

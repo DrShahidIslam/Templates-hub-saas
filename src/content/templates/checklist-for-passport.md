@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Passport Preparation and Management'
+status: 'published'
+slug: 'checklist-for-passport'
+publishedAt: '2026-05-07T18:59:25.376Z'
+---
+
 # Standard Operating Procedure: Passport Preparation and Management
 
 This Standard Operating Procedure (SOP) serves as a comprehensive guide for ensuring that your passport is valid, secure, and ready for international travel. Maintaining a compliant travel document is the cornerstone of risk mitigation for global mobility. By following this protocol, travelers can minimize the risk of denied boarding, border entry complications, or loss of identification during transit.

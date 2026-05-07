@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Candidate Onboarding'
+status: 'published'
+slug: 'candidate-onboarding-checklist'
+publishedAt: '2026-05-07T18:59:25.078Z'
+---
+
 # Standard Operating Procedure: Candidate Onboarding
 
 This Standard Operating Procedure (SOP) outlines the standardized process for onboarding a new hire, ensuring a seamless transition from signed offer to fully productive team member. A structured onboarding experience is critical for talent retention, cultural integration, and operational efficiency. This document provides a rigorous framework for hiring managers and HR personnel to guarantee that every new employee receives the necessary tools, information, and support to excel from day one.

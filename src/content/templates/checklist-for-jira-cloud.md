@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Jira Cloud Hygiene and Maintenance'
+status: 'published'
+slug: 'checklist-for-jira-cloud'
+publishedAt: '2026-05-07T18:59:25.273Z'
+---
+
 # Standard Operating Procedure: Jira Cloud Hygiene and Maintenance
 
 This Standard Operating Procedure (SOP) outlines the mandatory maintenance and administrative workflows required to ensure the stability, security, and efficiency of your Jira Cloud instance. As an operations manager, maintaining a clutter-free and optimized Jira environment is critical for accurate reporting, team velocity, and cross-functional transparency. By adhering to these periodic audits, administrators will minimize technical debt and prevent the degradation of instance performance.

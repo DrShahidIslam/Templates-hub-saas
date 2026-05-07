@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Kitchen Inventory and Equipment Audit'
+status: 'published'
+slug: 'checklist-for-kitchen-items'
+publishedAt: '2026-05-07T18:59:25.294Z'
+---
+
 # Standard Operating Procedure: Kitchen Inventory and Equipment Audit
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for conducting a comprehensive kitchen inventory and equipment audit. The objective of this procedure is to ensure operational readiness, maintain food safety compliance, and minimize financial losses due to equipment failure or inventory depletion. All kitchen staff are required to follow these steps during the designated weekly audit window to maintain a high standard of professional culinary efficiency.

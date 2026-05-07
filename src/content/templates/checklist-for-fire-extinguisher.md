@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Fire Extinguisher Inspection & Maintenance'
+status: 'published'
+slug: 'checklist-for-fire-extinguisher'
+publishedAt: '2026-05-07T18:59:25.197Z'
+---
+
 # Standard Operating Procedure: Fire Extinguisher Inspection & Maintenance
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the monthly inspection and maintenance of portable fire extinguishers. Regular inspections are critical to ensure that fire suppression equipment is fully functional, accessible, and compliant with local fire safety codes (such as NFPA 10). Adherence to this procedure minimizes operational risk, protects personnel, and ensures the facility remains in regulatory compliance. All inspections must be documented in the fire safety logbook.

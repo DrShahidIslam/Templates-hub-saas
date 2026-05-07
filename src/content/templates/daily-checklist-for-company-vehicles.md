@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Company Vehicle Inspection'
+status: 'published'
+slug: 'daily-checklist-for-company-vehicles'
+publishedAt: '2026-05-07T18:59:25.544Z'
+---
+
 # Standard Operating Procedure: Daily Company Vehicle Inspection
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily inspection process for all company-owned or leased vehicles. The objective is to ensure vehicle safety, optimize fleet longevity, maintain insurance compliance, and reduce downtime due to preventable mechanical failures. All employees operating company vehicles are required to complete this checklist before the commencement of their shift. Failure to adhere to these procedures may result in disciplinary action or the revocation of driving privileges.

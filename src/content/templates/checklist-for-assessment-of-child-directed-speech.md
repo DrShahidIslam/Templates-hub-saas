@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Assessment of Child-Directed Speech (CDS)'
+status: 'published'
+slug: 'checklist-for-assessment-of-child-directed-speech'
+publishedAt: '2026-05-07T18:59:25.096Z'
+---
+
 # Standard Operating Procedure: Assessment of Child-Directed Speech (CDS)
 
 ## Introduction

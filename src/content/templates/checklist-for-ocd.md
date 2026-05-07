@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Routine Management for OCD Symptom Mitigation'
+status: 'published'
+slug: 'checklist-for-ocd'
+publishedAt: '2026-05-07T18:59:25.357Z'
+---
+
 # Standard Operating Procedure: Daily Routine Management for OCD Symptom Mitigation
 
 This Standard Operating Procedure (SOP) is designed to provide a structured framework for individuals managing Obsessive-Compulsive Disorder (OCD). The objective is to replace maladaptive, anxiety-driven rituals with a systematic, evidence-based routine. By implementing this checklist, the user can externalize decision-making, reduce "analysis paralysis," and regain control over daily operations through cognitive consistency and intentional habit formation.

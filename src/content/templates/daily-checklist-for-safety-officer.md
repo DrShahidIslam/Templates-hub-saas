@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Safety Inspection & Compliance Oversight'
+status: 'published'
+slug: 'daily-checklist-for-safety-officer'
+publishedAt: '2026-05-07T18:59:25.602Z'
+---
+
 # Standard Operating Procedure: Daily Safety Inspection & Compliance Oversight
 
 ## Introduction

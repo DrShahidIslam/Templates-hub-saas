@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: OCI (Oracle Cloud Infrastructure) Provisioning and Management'
+status: 'published'
+slug: 'checklist-for-oci'
+publishedAt: '2026-05-07T18:59:25.362Z'
+---
+
 # Standard Operating Procedure: OCI (Oracle Cloud Infrastructure) Provisioning and Management
 
 This SOP outlines the standardized procedures for deploying, configuring, and maintaining resources within Oracle Cloud Infrastructure (OCI). Adherence to this protocol ensures environment security, cost optimization, and operational stability. All infrastructure deployments must align with organizational compliance standards, utilize Infrastructure-as-Code (IaC) principles where possible, and follow the principle of least privilege.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: YouTube Content Production & Channel Management'
+status: 'published'
+slug: 'checklist-for-youtube-channel'
+publishedAt: '2026-05-07T18:59:25.491Z'
+---
+
 # Standard Operating Procedure: YouTube Content Production & Channel Management
 
 This Standard Operating Procedure (SOP) serves as a foundational framework for managing a professional YouTube channel. Its primary objective is to streamline the content creation pipeline, ensure brand consistency, and maximize audience engagement and algorithmic reach. By adhering to these standardized workflows, channel managers can mitigate risks, improve production quality, and maintain a consistent release cadence essential for long-term growth.

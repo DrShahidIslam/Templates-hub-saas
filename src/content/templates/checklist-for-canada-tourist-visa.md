@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Canada Visitor Visa Application'
+status: 'published'
+slug: 'checklist-for-canada-tourist-visa'
+publishedAt: '2026-05-07T18:59:25.132Z'
+---
+
 # Standard Operating Procedure: Canada Visitor Visa Application
 
 This document outlines the systematic procedure for preparing, organizing, and submitting a Canadian Temporary Resident Visa (TRV) application. Success in securing a visa depends heavily on the meticulous preparation of documentation to prove that you meet the requirements of the Immigration and Refugee Protection Act (IRPA), specifically regarding your intent to leave Canada at the end of your authorized stay and your financial capacity to support your visit.

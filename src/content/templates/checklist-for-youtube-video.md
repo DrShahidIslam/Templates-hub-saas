@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: YouTube Video Production & Publication'
+status: 'published'
+slug: 'checklist-for-youtube-video'
+publishedAt: '2026-05-07T18:59:25.494Z'
+---
+
 # Standard Operating Procedure: YouTube Video Production & Publication
 
 This Standard Operating Procedure (SOP) outlines the standardized workflow for producing, optimizing, and publishing high-quality YouTube content. By adhering to this checklist, content creators and production teams ensure brand consistency, maximize discoverability through SEO, and maintain a professional output that drives audience retention and growth.

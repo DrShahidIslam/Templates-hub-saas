@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Equipment Inspection Protocol'
+status: 'published'
+slug: 'checklist-for-equipment-inspection'
+publishedAt: '2026-05-07T18:59:25.179Z'
+---
+
 # Standard Operating Procedure: Equipment Inspection Protocol
 
 This Standard Operating Procedure (SOP) establishes the mandatory requirements for conducting routine equipment inspections to ensure operational safety, minimize unplanned downtime, and extend the lifecycle of organizational assets. Consistent inspections are the first line of defense in predictive maintenance; they allow technicians to identify mechanical wear, electrical irregularities, or safety hazards before they escalate into critical failures. All personnel authorized to operate or maintain site equipment are required to adhere to this protocol during every inspection cycle.

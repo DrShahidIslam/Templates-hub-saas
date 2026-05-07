@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Janitorial Maintenance'
+status: 'published'
+slug: 'daily-checklist-for-janitorial-cleaning'
+publishedAt: '2026-05-07T18:59:25.581Z'
+---
+
 # Standard Operating Procedure: Daily Janitorial Maintenance
 
 This Standard Operating Procedure (SOP) serves as the definitive guide for maintaining optimal cleanliness, hygiene, and facility aesthetics. Adherence to this checklist ensures a consistent environment for employees and visitors while extending the lifespan of facility assets. All custodial staff are expected to execute these tasks with attention to detail, prioritizing safety, chemical efficacy, and high-touch surface sanitation.

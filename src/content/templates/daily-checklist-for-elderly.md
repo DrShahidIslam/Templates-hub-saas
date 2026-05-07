@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Routine Management for Elderly Care'
+status: 'published'
+slug: 'daily-checklist-for-elderly'
+publishedAt: '2026-05-07T18:59:25.552Z'
+---
+
 # Standard Operating Procedure: Daily Routine Management for Elderly Care
 
 This document outlines a standardized, systematic approach to the daily care and monitoring of an elderly individual. The primary objective of this SOP is to ensure physical safety, promote cognitive engagement, maintain nutritional balance, and provide early detection of potential health declines. By adhering to this structured checklist, caregivers can provide consistent, high-quality support while reducing the stress associated with complex daily caregiving responsibilities.

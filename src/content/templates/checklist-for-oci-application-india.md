@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: OCI Card Application Process'
+status: 'published'
+slug: 'checklist-for-oci-application-india'
+publishedAt: '2026-05-07T18:59:25.359Z'
+---
+
 # Standard Operating Procedure: OCI Card Application Process
 
 The Overseas Citizen of India (OCI) scheme provides a lifelong visa and residency status to eligible individuals of Indian origin. As an Operations Manager, I emphasize that the OCI application process is highly rigorous and documentation-centric. Any discrepancies in data, image specifications, or signatures often lead to immediate rejection by the Indian Consular authorities. This SOP serves as a comprehensive guide to ensure compliance, accuracy, and timely processing of your OCI application.

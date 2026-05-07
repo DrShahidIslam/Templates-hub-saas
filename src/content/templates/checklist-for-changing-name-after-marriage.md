@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Legal Name Change Following Marriage'
+status: 'published'
+slug: 'checklist-for-changing-name-after-marriage'
+publishedAt: '2026-05-07T18:59:25.137Z'
+---
+
 # Standard Operating Procedure: Legal Name Change Following Marriage
 
 This Standard Operating Procedure (SOP) serves as a comprehensive operational guide for individuals navigating the bureaucratic process of changing their legal name after marriage. Successfully updating your legal identity requires a precise, sequential approach to ensure that government agencies, financial institutions, and professional organizations align their records. By following this systematic workflow, you minimize the risk of identity fragmentation, credit reporting errors, and administrative delays.

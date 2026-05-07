@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Intramuscular (IM) Injection Administration'
+status: 'published'
+slug: 'checklist-for-im-injection'
+publishedAt: '2026-05-07T18:59:25.248Z'
+---
+
 # Standard Operating Procedure: Intramuscular (IM) Injection Administration
 
 This Standard Operating Procedure (SOP) outlines the clinical requirements, safety protocols, and procedural steps for the administration of intramuscular (IM) injections. Adherence to these guidelines is mandatory to ensure patient safety, maintain sterility, maximize medication efficacy, and minimize the risk of complications such as nerve injury or hematoma. All practitioners must verify the "Rights of Medication Administration" (Right Patient, Right Drug, Right Dose, Right Route, Right Time) prior to proceeding.

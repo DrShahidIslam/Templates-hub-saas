@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Hospital Bag Preparation for Newborn Arrival'
+status: 'published'
+slug: 'checklist-for-hospital-bag-for-baby'
+publishedAt: '2026-05-07T18:59:25.237Z'
+---
+
 # Standard Operating Procedure: Hospital Bag Preparation for Newborn Arrival
 
 ## Introduction

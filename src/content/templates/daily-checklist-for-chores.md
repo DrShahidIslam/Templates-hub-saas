@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Household Operational Excellence'
+status: 'published'
+slug: 'daily-checklist-for-chores'
+publishedAt: '2026-05-07T18:59:25.541Z'
+---
+
 # Standard Operating Procedure: Daily Household Operational Excellence
 
 This Standard Operating Procedure (SOP) is designed to optimize household maintenance by streamlining recurring chores into a repeatable, efficient system. By adhering to this daily protocol, residents can minimize domestic friction, reduce physical clutter, and ensure a sanitary environment. This procedure is intended for individuals or households seeking to transition from reactive cleaning to a proactive, standardized management model.

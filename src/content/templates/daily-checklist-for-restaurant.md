@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Restaurant Operations'
+status: 'published'
+slug: 'daily-checklist-for-restaurant'
+publishedAt: '2026-05-07T18:59:25.601Z'
+---
+
 # Standard Operating Procedure: Daily Restaurant Operations
 
 This Standard Operating Procedure (SOP) serves as the foundational guide for maintaining consistency, food safety, and operational excellence within the restaurant. By adhering to this daily checklist, the management team ensures that every shift begins with a clean, well-stocked environment and ends with a secure, compliant facility. Failure to complete these tasks compromises health department standards, employee productivity, and the overall guest experience.

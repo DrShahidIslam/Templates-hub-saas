@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Root Canal Treatment (RCT) Workflow'
+status: 'published'
+slug: 'checklist-for-rct'
+publishedAt: '2026-05-07T18:59:25.395Z'
+---
+
 # Standard Operating Procedure: Root Canal Treatment (RCT) Workflow
 
 This Standard Operating Procedure (SOP) outlines the clinical protocol for performing a successful Root Canal Treatment (RCT). The objective of this document is to ensure standardized care, minimize procedural complications, and maximize long-term tooth prognosis through meticulous endodontic technique, asepsis, and systematic documentation. All clinical staff must adhere to these steps to maintain quality assurance and patient safety standards.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Residential Address Change Protocol'
+status: 'published'
+slug: 'checklist-for-updating-address-when-moving'
+publishedAt: '2026-05-07T18:59:25.443Z'
+---
+
 # Standard Operating Procedure: Residential Address Change Protocol
 
 Moving residence requires a systematic approach to ensure continuity of services, regulatory compliance, and the security of sensitive personal information. This SOP outlines the structured methodology for notifying relevant entities of an address change. By following this protocol, you minimize the risk of identity theft, service interruptions, and the loss of critical documentation. This process should ideally commence 30 days prior to the move and conclude within 14 days post-move.

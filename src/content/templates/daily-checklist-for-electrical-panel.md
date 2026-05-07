@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Electrical Panel Inspection'
+status: 'published'
+slug: 'daily-checklist-for-electrical-panel'
+publishedAt: '2026-05-07T18:59:25.555Z'
+---
+
 # Standard Operating Procedure: Daily Electrical Panel Inspection
 
 ## Introduction

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: New Hire Onboarding Process'
+status: 'published'
+slug: 'checklist-onboarding-process'
+publishedAt: '2026-05-07T18:59:25.506Z'
+---
+
 # Standard Operating Procedure: New Hire Onboarding Process
 
 The objective of this onboarding SOP is to standardize the integration of new team members, ensuring they are culturally assimilated, operationally prepared, and administratively compliant from Day 1. A structured onboarding process is critical to reducing time-to-productivity, improving employee retention, and fostering a positive employer brand. This protocol applies to all departments and must be executed by the direct manager in coordination with Human Resources.

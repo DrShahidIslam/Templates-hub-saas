@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Professional Job Offboarding'
+status: 'published'
+slug: 'checklist-for-leaving-a-job'
+publishedAt: '2026-05-07T18:59:25.307Z'
+---
+
 # Standard Operating Procedure: Professional Job Offboarding
 
 This Standard Operating Procedure (SOP) serves as a comprehensive framework for employees transitioning out of an organization. The objective is to ensure a seamless departure that maintains professional integrity, protects institutional knowledge, and preserves valuable professional relationships. Following these protocols minimizes administrative friction and ensures you leave your position on excellent terms with your former employer.

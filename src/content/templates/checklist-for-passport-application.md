@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Passport Application Process'
+status: 'published'
+slug: 'checklist-for-passport-application'
+publishedAt: '2026-05-07T18:59:25.374Z'
+---
+
 # Standard Operating Procedure: Passport Application Process
 
 This Standard Operating Procedure (SOP) outlines the mandatory steps and documentation requirements for a successful passport application. Ensuring these criteria are met before attending your appointment or mailing your dossier is critical to avoiding processing delays, application rejection, or additional administrative fees. Adherence to these guidelines ensures compliance with federal travel document standards.

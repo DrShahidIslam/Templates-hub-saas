@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Operating Theatre (OT) Readiness and Safety Checklist'
+status: 'published'
+slug: 'checklist-for-operation-theatre'
+publishedAt: '2026-05-07T18:59:25.371Z'
+---
+
 # Standard Operating Procedure: Operating Theatre (OT) Readiness and Safety Checklist
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocol for preparing the Operating Theatre (OT) to ensure patient safety, minimize surgical site infections, and optimize team efficiency. Adherence to this checklist is non-negotiable for all clinical and support staff to maintain the highest standards of perioperative care and sterile processing.

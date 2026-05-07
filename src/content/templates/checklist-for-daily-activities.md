@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Operational Excellence Checklist'
+status: 'published'
+slug: 'checklist-for-daily-activities'
+publishedAt: '2026-05-07T18:59:25.153Z'
+---
+
 # Standard Operating Procedure: Daily Operational Excellence Checklist
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily activities required to ensure operational continuity, high performance, and strategic alignment within the team. By adhering to this daily protocol, personnel will minimize reactive work, manage resources effectively, and ensure that mission-critical objectives remain on schedule. This checklist is designed to be completed in sequence to facilitate a structured workflow and provide clear visibility into daily progress.

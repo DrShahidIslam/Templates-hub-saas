@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Umrah Packing Protocol'
+status: 'published'
+slug: 'checklist-for-umrah-packing'
+publishedAt: '2026-05-07T18:59:25.441Z'
+---
+
 # Standard Operating Procedure: Umrah Packing Protocol
 
 This SOP outlines the standardized packing requirements for pilgrims undertaking Umrah. The objective of this document is to ensure operational efficiency, compliance with religious requirements, and personal comfort throughout the pilgrimage. Packing should be completed 72 hours prior to departure to allow for final inventory checks and weight verification. By adhering to this checklist, pilgrims minimize the risk of logistical delays and logistical friction during the journey.

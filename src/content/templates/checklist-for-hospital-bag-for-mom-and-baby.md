@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Hospital Delivery Bag Preparation'
+status: 'published'
+slug: 'checklist-for-hospital-bag-for-mom-and-baby'
+publishedAt: '2026-05-07T18:59:25.238Z'
+---
+
 # Standard Operating Procedure: Hospital Delivery Bag Preparation
 
 This Standard Operating Procedure (SOP) serves as a comprehensive guide for expectant parents to ensure all essential items are prepared, organized, and accessible prior to the onset of labor. Efficient packing reduces last-minute stress, ensures comfort during the hospital stay, and guarantees that both mother and infant are provided with necessary hygiene, recovery, and medical supplies. This checklist is designed to be completed by the 36th week of pregnancy to account for potential early delivery.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Cruise Departure Preparation'
+status: 'published'
+slug: 'checklist-for-cruise-packing'
+publishedAt: '2026-05-07T18:59:25.149Z'
+---
+
 # Standard Operating Procedure: Cruise Departure Preparation
 
 Effective cruise preparation requires a balance between logistical readiness and travel comfort. Given the unique constraints of maritime travel—including limited cabin storage, restricted access to basic supplies, and varying dress codes—this SOP ensures a streamlined packing process. Following this procedure minimizes the risk of forgotten essentials and prevents common logistical failures during embarkation.

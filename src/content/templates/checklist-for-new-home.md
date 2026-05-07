@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: New Home Onboarding and Move-In'
+status: 'published'
+slug: 'checklist-for-new-home'
+publishedAt: '2026-05-07T18:59:25.342Z'
+---
+
 # Standard Operating Procedure: New Home Onboarding and Move-In
 
 This document serves as the formal operational framework for managing the transition into a new residential property. Executing a structured move-in process is critical to ensuring legal compliance, home safety, physical security, and logistical efficiency. Following these procedures will mitigate common risks such as service interruptions, property damage, and administrative oversight.

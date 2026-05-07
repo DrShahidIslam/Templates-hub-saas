@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Academic Readiness and Task Management'
+status: 'published'
+slug: 'checklist-for-students'
+publishedAt: '2026-05-07T18:59:25.417Z'
+---
+
 # Standard Operating Procedure: Academic Readiness and Task Management
 
 This Standard Operating Procedure (SOP) serves as a comprehensive framework designed to streamline student workflows, enhance academic performance, and reduce cognitive load. By implementing these standardized protocols, students can transition from reactive studying to proactive academic management, ensuring all deadlines, materials, and preparatory requirements are addressed systematically.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Clinical Assessment & Documentation for Autism Spectrum Disorder (ASD)'
+status: 'published'
+slug: 'checklist-for-autism-spectrum-disorder'
+publishedAt: '2026-05-07T18:59:25.104Z'
+---
+
 # Standard Operating Procedure: Clinical Assessment & Documentation for Autism Spectrum Disorder (ASD)
 
 ## Introduction

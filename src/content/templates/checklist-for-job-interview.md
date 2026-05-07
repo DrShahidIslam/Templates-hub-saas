@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Candidate Interview Execution'
+status: 'published'
+slug: 'checklist-for-job-interview'
+publishedAt: '2026-05-07T18:59:25.278Z'
+---
+
 # Standard Operating Procedure: Candidate Interview Execution
 
 This Standard Operating Procedure (SOP) outlines the professional requirements and systematic approach for conducting high-quality job interviews. The objective is to ensure a standardized, equitable, and effective evaluation process that allows the organization to identify the best talent while providing a positive candidate experience that reflects our employer brand. All hiring managers and panel members are expected to adhere to these protocols to minimize bias, ensure compliance, and maximize predictive validity in hiring.

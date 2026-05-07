@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Excavator Pre-Operation & Daily Inspection'
+status: 'published'
+slug: 'checklist-for-excavator'
+publishedAt: '2026-05-07T18:59:25.184Z'
+---
+
 # Standard Operating Procedure: Excavator Pre-Operation & Daily Inspection
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety and mechanical inspection protocols required before operating an excavator. Consistent adherence to these checks is critical to ensuring site safety, extending the service life of heavy equipment, and complying with OSHA and site-specific regulatory standards. Operators must complete this inspection prior to the start of every shift; any equipment found with "red-tag" defects must be reported to the site supervisor immediately and remain locked out until repaired.

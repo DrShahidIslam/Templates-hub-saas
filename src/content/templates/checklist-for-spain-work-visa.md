@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Spain Work Visa Application'
+status: 'published'
+slug: 'checklist-for-spain-work-visa'
+publishedAt: '2026-05-07T18:59:25.413Z'
+---
+
 # Standard Operating Procedure: Spain Work Visa Application
 
 This Standard Operating Procedure (SOP) serves as a comprehensive guide for foreign nationals seeking to obtain a work visa for Spain. Securing residency and work authorization in Spain requires meticulous documentation, adherence to specific consular requirements, and strict timelines. This document outlines the procedural flow to minimize the risk of application rejection and ensure a streamlined transition to employment within the Spanish territory.

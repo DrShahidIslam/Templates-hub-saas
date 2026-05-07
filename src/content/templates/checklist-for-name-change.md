@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Legal Name Change Administration'
+status: 'published'
+slug: 'checklist-for-name-change'
+publishedAt: '2026-05-07T18:59:25.334Z'
+---
+
 # Standard Operating Procedure: Legal Name Change Administration
 
 This Standard Operating Procedure (SOP) provides a comprehensive framework for individuals or administrative teams managing the transition of a legal name change. A name change involves multiple layers of government, financial, and personal record-keeping; failure to synchronize these updates can lead to identity verification conflicts, credit reporting errors, and legal discrepancies. This document outlines the systematic process required to ensure all entities are updated efficiently while maintaining the integrity of personal documentation.

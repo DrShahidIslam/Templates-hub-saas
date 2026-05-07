@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Residential Property Leasing'
+status: 'published'
+slug: 'checklist-for-lease-of-residential-property'
+publishedAt: '2026-05-07T18:59:25.306Z'
+---
+
 # Standard Operating Procedure: Residential Property Leasing
 
 This Standard Operating Procedure (SOP) outlines the professional requirements and systematic approach for leasing a residential property. The objective is to mitigate financial and legal risks, ensure tenant suitability, and maintain the long-term value of the asset. By following this protocol, property managers and owners can ensure a seamless transition between occupancies, uphold compliance with local landlord-tenant laws, and foster professional tenant relationships.

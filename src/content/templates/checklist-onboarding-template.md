@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: New Hire Onboarding Template'
+status: 'published'
+slug: 'checklist-onboarding-template'
+publishedAt: '2026-05-07T18:59:25.508Z'
+---
+
 # Standard Operating Procedure: New Hire Onboarding Template
 
 This Standard Operating Procedure (SOP) outlines the standardized process for onboarding new employees to ensure a seamless integration into the company culture, technical environment, and operational workflow. By utilizing this structured onboarding template, the operations team ensures that no critical task—from hardware provisioning to compliance training—is overlooked, thereby maximizing new hire productivity and employee retention from Day 1.

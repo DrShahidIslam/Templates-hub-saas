@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: The Checklist for Life'
+status: 'published'
+slug: 'checklist-for-life'
+publishedAt: '2026-05-07T18:59:25.309Z'
+---
+
 # Standard Operating Procedure: The Checklist for Life
 
 This document serves as an operational framework for maintaining equilibrium, optimizing personal output, and ensuring long-term sustainability across the core pillars of an individual's existence. As an Operations Manager, I define "The Checklist for Life" as a continuous improvement protocol designed to minimize cognitive load, mitigate systemic risk, and ensure that daily actions remain aligned with high-level strategic objectives. By standardizing the maintenance of your physical, mental, professional, and financial infrastructure, you transform chaotic living into a controlled, scalable system.

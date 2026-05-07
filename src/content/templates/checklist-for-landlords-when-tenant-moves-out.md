@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Tenant Move-Out Process'
+status: 'published'
+slug: 'checklist-for-landlords-when-tenant-moves-out'
+publishedAt: '2026-05-07T18:59:25.302Z'
+---
+
 # Standard Operating Procedure: Tenant Move-Out Process
 
 ## Introduction

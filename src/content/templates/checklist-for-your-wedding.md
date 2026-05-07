@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Wedding Planning & Execution'
+status: 'published'
+slug: 'checklist-for-your-wedding'
+publishedAt: '2026-05-07T18:59:25.490Z'
+---
+
 # Standard Operating Procedure: Wedding Planning & Execution
 
 This Standard Operating Procedure (SOP) serves as a comprehensive operational framework for the planning, coordination, and execution of a wedding. By leveraging systematic task delegation and milestone tracking, this document ensures that all logistical, financial, and emotional variables are managed effectively. Following this structured workflow will mitigate pre-event stress and ensure that the wedding day remains a seamless, high-performance operation.

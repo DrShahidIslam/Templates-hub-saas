@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Belgium Schengen Visa Application'
+status: 'published'
+slug: 'checklist-for-belgium-tourist-visa'
+publishedAt: '2026-05-07T18:59:25.119Z'
+---
+
 # Standard Operating Procedure: Belgium Schengen Visa Application
 
 This document serves as the formal operational framework for applicants preparing a Schengen visa application for Belgium. As an operations manager, I emphasize that the Belgian diplomatic missions maintain rigorous standards regarding documentation and financial solvency. Failure to adhere to these procedural requirements often results in immediate rejection. Please ensure all documents are original, current, and logically organized.

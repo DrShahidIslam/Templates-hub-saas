@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: OCI Application Submission'
+status: 'published'
+slug: 'checklist-for-oci-application'
+publishedAt: '2026-05-07T18:59:25.361Z'
+---
+
 # Standard Operating Procedure: OCI Application Submission
 
 This Standard Operating Procedure (SOP) serves as a comprehensive guide for individuals preparing an application for the Overseas Citizen of India (OCI) card. The OCI application process is documentation-intensive and subject to strict scrutiny by the Ministry of Home Affairs. Adherence to this checklist is mandatory to prevent processing delays, application rejections, or requests for additional documentation. Applicants must ensure that all physical documents provided match the digital uploads exactly.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Vehicle Maintenance Inspection'
+status: 'published'
+slug: 'daily-checklist-for-vehicle-maintenance'
+publishedAt: '2026-05-07T18:59:25.620Z'
+---
+
 # Standard Operating Procedure: Daily Vehicle Maintenance Inspection
 
 Effective vehicle maintenance is the cornerstone of operational efficiency, safety, and longevity for any fleet. This Standard Operating Procedure (SOP) outlines the mandatory daily inspection requirements for all company vehicles. By adhering to this checklist, drivers and maintenance staff ensure that all units remain compliant with safety regulations, minimize the risk of mechanical failure during transit, and uphold the company’s reputation for reliability. Each operator is required to complete this inspection at the start of every shift before the vehicle leaves the designated staging area.

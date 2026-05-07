@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: New Puppy Integration Protocol'
+status: 'published'
+slug: 'checklist-for-a-new-puppy'
+publishedAt: '2026-05-07T18:59:25.083Z'
+---
+
 # Standard Operating Procedure: New Puppy Integration Protocol
 
 Bringing a new puppy into your home is a major operational undertaking that requires meticulous planning to ensure the safety, health, and behavioral development of the animal. This SOP outlines the standardized workflow for the first 72 hours and beyond. The objective is to establish a secure environment, maintain health standards, and initiate consistent routine training to facilitate a smooth transition for both the puppy and the household members.

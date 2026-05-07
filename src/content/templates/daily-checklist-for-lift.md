@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Lift Safety Inspection'
+status: 'published'
+slug: 'daily-checklist-for-lift'
+publishedAt: '2026-05-07T18:59:25.591Z'
+---
+
 # Standard Operating Procedure: Daily Lift Safety Inspection
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily inspection requirements for vertical transportation units (lifts/elevators). As an Operations Manager, your primary objective is to ensure passenger safety, operational reliability, and regulatory compliance. All designated personnel must perform these checks before the lift is opened for public use. Failure to conduct these checks or to report identified defects immediately may result in safety hazards and legal liability. If any component fails the inspection, the lift must be immediately taken out of service, cordoned off, and the maintenance contractor notified.

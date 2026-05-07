@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Supporting Aging Parents'
+status: 'published'
+slug: 'checklist-for-aging-parents'
+publishedAt: '2026-05-07T18:59:25.093Z'
+---
+
 # Standard Operating Procedure: Supporting Aging Parents
 
 Managing the care and logistics of aging parents requires a proactive, structured approach to ensure their safety, autonomy, and well-being. This SOP provides a comprehensive framework to transition from reactive crisis management to a sustainable, organized long-term care plan. By implementing these procedures, you will minimize legal risks, ensure medical continuity, and provide peace of mind for both you and your loved ones.

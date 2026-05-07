@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Document Verification Protocol'
+status: 'published'
+slug: 'checklist-for-document-verification'
+publishedAt: '2026-05-07T18:59:25.169Z'
+---
+
 # Standard Operating Procedure: Document Verification Protocol
 
 This Standard Operating Procedure (SOP) outlines the mandatory verification processes required to ensure the authenticity, validity, and compliance of submitted documentation. As an operations team, we must maintain high standards of due diligence to mitigate operational risk, prevent identity fraud, and ensure regulatory compliance. This protocol applies to all internal and external document ingestion workflows and must be executed with precision for every submission.

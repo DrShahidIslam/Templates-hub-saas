@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Tax Return Preparation'
+status: 'published'
+slug: 'checklist-for-tax-return-preparation'
+publishedAt: '2026-05-07T18:59:25.425Z'
+---
+
 # Standard Operating Procedure: Tax Return Preparation
 
 This Standard Operating Procedure (SOP) outlines the professional requirements and systematic workflow for the preparation of tax returns. The objective is to ensure 100% data accuracy, full compliance with tax legislation, and the optimization of tax liabilities for clients. Adherence to this checklist minimizes risk, prevents audit triggers, and ensures that all filing deadlines are met with maximum efficiency.

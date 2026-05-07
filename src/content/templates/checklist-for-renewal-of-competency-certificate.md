@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Renewal of Professional Competency Certificate'
+status: 'published'
+slug: 'checklist-for-renewal-of-competency-certificate'
+publishedAt: '2026-05-07T18:59:25.399Z'
+---
+
 # Standard Operating Procedure: Renewal of Professional Competency Certificate
 
 ## Introduction

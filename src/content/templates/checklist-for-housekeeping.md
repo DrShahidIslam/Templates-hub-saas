@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Professional Housekeeping Excellence'
+status: 'published'
+slug: 'checklist-for-housekeeping'
+publishedAt: '2026-05-07T18:59:25.245Z'
+---
+
 # Standard Operating Procedure: Professional Housekeeping Excellence
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for maintaining impeccable hygiene, sanitation, and presentation standards within our facilities. Consistency is the foundation of our operational success; therefore, this checklist is designed to standardize the cleaning workflow, ensuring that no detail—from high-touch surfaces to hidden corners—is overlooked. Adherence to these procedures protects our assets, enhances guest satisfaction, and maintains a safe, sterile environment for all occupants.

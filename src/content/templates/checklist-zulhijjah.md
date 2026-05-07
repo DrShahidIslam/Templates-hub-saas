@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Zulhijjah Preparation & Execution'
+status: 'published'
+slug: 'checklist-zulhijjah'
+publishedAt: '2026-05-07T18:59:25.520Z'
+---
+
 # Standard Operating Procedure: Zulhijjah Preparation & Execution
 
 The month of Zulhijjah is a pivotal period for Muslims, encompassing the sacred first ten days and the rites of Eid al-Adha. As an operations manager, effective planning is essential to ensure that spiritual objectives, logistical requirements, and community responsibilities are met with precision and tranquility. This SOP provides a comprehensive framework to manage the transition into Zulhijjah, focusing on spiritual readiness, administrative preparations for Qurbani (Udhiyah), and household management.

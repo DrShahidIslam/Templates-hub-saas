@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Residential Address Change Management'
+status: 'published'
+slug: 'checklist-for-changing-address'
+publishedAt: '2026-05-07T18:59:25.136Z'
+---
+
 # Standard Operating Procedure: Residential Address Change Management
 
 Relocating to a new residence requires a systematic approach to ensure continuity of services, regulatory compliance, and the security of sensitive personal information. This SOP provides a comprehensive framework to transition your physical and digital presence, minimizing the risk of identity theft, missed communications, or service interruptions during the transition period. Follow this structured checklist to ensure no critical touchpoint is overlooked.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: OCI Card Application (BLS Toronto)'
+status: 'published'
+slug: 'checklist-for-oci-application-toronto'
+publishedAt: '2026-05-07T18:59:25.360Z'
+---
+
 # Standard Operating Procedure: OCI Card Application (BLS Toronto)
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols and documentation requirements for applicants submitting an Overseas Citizen of India (OCI) application through the BLS International center in Toronto. Adherence to these guidelines is critical to avoid application rejection or processing delays caused by missing documentation, incorrect formatting, or non-compliant photographs.

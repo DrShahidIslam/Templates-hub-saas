@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Desktop Optimization & Maintenance'
+status: 'published'
+slug: 'checklist-for-desktop'
+publishedAt: '2026-05-07T18:59:25.164Z'
+---
+
 # Standard Operating Procedure: Desktop Optimization & Maintenance
 
 ## Purpose

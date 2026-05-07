@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: GST Registration for Proprietorship'
+status: 'published'
+slug: 'checklist-for-gst-registration-for-proprietorship'
+publishedAt: '2026-05-07T18:59:25.224Z'
+---
+
 # Standard Operating Procedure: GST Registration for Proprietorship
 
 This Standard Operating Procedure (SOP) outlines the formal process for obtaining a Goods and Services Tax (GST) registration for a sole proprietorship in India. As a proprietorship is legally synonymous with the proprietor, the registration process focuses on the identity of the individual owner and the physical or digital premises of the business. Adherence to this checklist ensures compliance with the Goods and Services Tax Act, minimizing the risk of application rejection or post-registration notices.

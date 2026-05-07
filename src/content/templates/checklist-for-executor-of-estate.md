@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Estate Executor Management'
+status: 'published'
+slug: 'checklist-for-executor-of-estate'
+publishedAt: '2026-05-07T18:59:25.186Z'
+---
+
 # Standard Operating Procedure: Estate Executor Management
 
 Serving as an executor (or personal representative) is a fiduciary responsibility that requires diligence, organization, and transparency. This SOP is designed to guide an executor through the lifecycle of estate settlement, ensuring legal compliance, tax obligations, and the equitable distribution of assets. By following this structured workflow, you will minimize personal liability and ensure the decedent’s final wishes are honored efficiently.

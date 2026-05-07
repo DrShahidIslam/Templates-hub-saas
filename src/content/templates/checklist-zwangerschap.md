@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Checklist Zwangerschap'
+status: 'published'
+slug: 'checklist-zwangerschap'
+publishedAt: '2026-05-07T18:59:25.521Z'
+---
+
 # Standard Operating Procedure: Checklist Zwangerschap
 
 Een zwangerschap is een complexe "operatie" die vraagt om zorgvuldige planning, budgettering en administratieve nauwkeurigheid. Deze SOP dient als leidraad voor aanstaande ouders om de transitie naar het ouderschap gestructureerd en met zo min mogelijk stress te doorlopen. Door deze stappen te volgen, waarborgt u niet alleen de gezondheid van de moeder en het kind, maar optimaliseert u ook de logistieke en financiële voorbereidingen.

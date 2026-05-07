@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Implementation and Verification of the ''Checklist X'' Symbol'
+status: 'published'
+slug: 'checklist-x-symbol'
+publishedAt: '2026-05-07T18:59:25.511Z'
+---
+
 # Standard Operating Procedure: Implementation and Verification of the 'Checklist X' Symbol
 
 This Standard Operating Procedure (SOP) defines the protocol for the standardized application, visual verification, and digital logging of the 'Checklist X' symbol. The 'Checklist X' symbol serves as a critical visual indicator within our operational workflow to denote items that have been flagged, disqualified, or require immediate manual intervention. Adherence to these guidelines ensures organizational consistency, minimizes human error in data tracking, and maintains clear communication across all shifts and departments.

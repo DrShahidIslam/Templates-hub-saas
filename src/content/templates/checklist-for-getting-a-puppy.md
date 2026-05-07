@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Puppy Acquisition and Integration'
+status: 'published'
+slug: 'checklist-for-getting-a-puppy'
+publishedAt: '2026-05-07T18:59:25.214Z'
+---
+
 # Standard Operating Procedure: Puppy Acquisition and Integration
 
 Bringing a new puppy into your home is a significant operational transition that requires meticulous planning to ensure the health, safety, and behavioral development of the animal. This SOP outlines the necessary procurement, logistical, and environmental preparations required to successfully integrate a puppy into your household. Adhering to these protocols minimizes stress for both the pet and the owners, establishing a foundation for long-term behavioral success.

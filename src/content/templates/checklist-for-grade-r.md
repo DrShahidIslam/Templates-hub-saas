@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Grade R Daily Readiness & Operations'
+status: 'published'
+slug: 'checklist-for-grade-r'
+publishedAt: '2026-05-07T18:59:25.222Z'
+---
+
 # Standard Operating Procedure: Grade R Daily Readiness & Operations
 
 This SOP outlines the essential operational standards for maintaining a Grade R (Reception Year) classroom. Grade R is a critical developmental bridge between early childhood and formal schooling; therefore, the environment must balance rigorous safety protocols with a play-based pedagogical structure. This checklist is designed to ensure that the classroom environment is physically safe, intellectually stimulating, and administratively compliant on a daily basis.

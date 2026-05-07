@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Fire Hydrant System Inspection'
+status: 'published'
+slug: 'daily-checklist-for-fire-hydrant-system'
+publishedAt: '2026-05-07T18:59:25.562Z'
+---
+
 # Standard Operating Procedure: Daily Fire Hydrant System Inspection
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily inspection requirements for the facility fire hydrant system. The objective of this procedure is to ensure that all fire suppression components are fully operational, pressurized, and unobstructed at all times. Adherence to this protocol is critical for life safety, regulatory compliance, and the mitigation of fire-related property damage. All findings must be documented in the Fire System Inspection Logbook immediately following the completion of the walkthrough.

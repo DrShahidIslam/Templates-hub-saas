@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Weight Loss Execution'
+status: 'published'
+slug: 'daily-checklist-for-weight-loss'
+publishedAt: '2026-05-07T18:59:25.621Z'
+---
+
 # Standard Operating Procedure: Daily Weight Loss Execution
 
 ## Introduction

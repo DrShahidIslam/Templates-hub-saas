@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Basic Compliance with the Basic Conditions of Employment Act (BCEA)'
+status: 'published'
+slug: 'checklist-for-basic-compliance-bcea'
+publishedAt: '2026-05-07T18:59:25.116Z'
+---
+
 # Standard Operating Procedure: Basic Compliance with the Basic Conditions of Employment Act (BCEA)
 
 ## Introduction

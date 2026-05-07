@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Professional Property Inspection'
+status: 'published'
+slug: 'checklist-for-house-inspection'
+publishedAt: '2026-05-07T18:59:25.242Z'
+---
+
 # Standard Operating Procedure: Professional Property Inspection
 
 This Standard Operating Procedure (SOP) provides a comprehensive framework for conducting a thorough house inspection. Whether you are a potential homebuyer, a property manager, or an investor, this checklist is designed to standardize the evaluation process, mitigate risk, and identify critical maintenance issues before they escalate. By following this systematic approach, you ensure that no structural, mechanical, or cosmetic defect is overlooked, allowing for data-driven decision-making regarding the asset.

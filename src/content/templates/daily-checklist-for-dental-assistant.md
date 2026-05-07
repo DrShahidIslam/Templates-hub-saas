@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Dental Assistant Workflow'
+status: 'published'
+slug: 'daily-checklist-for-dental-assistant'
+publishedAt: '2026-05-07T18:59:25.546Z'
+---
+
 # Standard Operating Procedure: Daily Dental Assistant Workflow
 
 As an expert operations manager, I have designed this Standard Operating Procedure (SOP) to standardize the daily operations of a dental assistant. This protocol ensures clinical efficiency, maintains rigorous infection control standards, and enhances the patient experience. Adherence to this checklist minimizes downtime, optimizes inventory management, and guarantees that the practice remains in full compliance with OSHA and HIPAA regulations at all times.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Citizenship Application Processing'
+status: 'published'
+slug: 'checklist-for-citizenship-application'
+publishedAt: '2026-05-07T18:59:25.141Z'
+---
+
 # Standard Operating Procedure: Citizenship Application Processing
 
 This document outlines the formalized procedure for managing a citizenship application. As an operations manager, the goal is to ensure 100% data integrity, eliminate redundant administrative friction, and provide a clear, sequential roadmap for the applicant. Adhering to this checklist minimizes the risk of Requests for Evidence (RFEs), processing delays, or outright application rejection.

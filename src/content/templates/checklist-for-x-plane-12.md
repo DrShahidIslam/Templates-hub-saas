@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: X-Plane 12 Pre-Flight & Simulation Setup'
+status: 'published'
+slug: 'checklist-for-x-plane-12'
+publishedAt: '2026-05-07T18:59:25.479Z'
+---
+
 # Standard Operating Procedure: X-Plane 12 Pre-Flight & Simulation Setup
 
 This Standard Operating Procedure (SOP) outlines the professional workflow for initializing X-Plane 12 to ensure optimal performance, hardware synchronization, and simulation fidelity. Whether you are conducting a routine cross-country flight or performing complex instrument training, adhering to this structured pre-flight routine minimizes system instability and maximizes the accuracy of your flight parameters. Follow these procedures chronologically to ensure your simulation environment is fully prepared for safe and efficient operations.

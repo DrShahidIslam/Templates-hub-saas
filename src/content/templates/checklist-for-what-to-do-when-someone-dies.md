@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Post-Mortem Administrative and Legal Checklist'
+status: 'published'
+slug: 'checklist-for-what-to-do-when-someone-dies'
+publishedAt: '2026-05-07T18:59:25.470Z'
+---
+
 # Standard Operating Procedure: Post-Mortem Administrative and Legal Checklist
 
 When a death occurs, the surviving family members or executors are immediately thrust into a complex administrative environment while managing significant emotional distress. This Standard Operating Procedure (SOP) is designed to provide a logical, prioritized framework to ensure legal compliance, financial protection, and dignified funeral arrangements. By following this structured approach, you can mitigate the risk of administrative errors during a high-stress transition period.

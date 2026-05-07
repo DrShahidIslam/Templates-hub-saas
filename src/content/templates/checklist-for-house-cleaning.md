@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Professional Residential Cleaning'
+status: 'published'
+slug: 'checklist-for-house-cleaning'
+publishedAt: '2026-05-07T18:59:25.241Z'
+---
+
 # Standard Operating Procedure: Professional Residential Cleaning
 
 This Standard Operating Procedure (SOP) outlines the systematic approach to executing a comprehensive residential cleaning service. The objective of this protocol is to ensure a consistent, high-standard result that enhances sanitation, improves indoor air quality, and preserves the physical condition of the property. Following this workflow minimizes cross-contamination, optimizes labor efficiency, and ensures that no detail—from ceiling fans to baseboards—is overlooked.

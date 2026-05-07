@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Netherlands Schengen Visa Application'
+status: 'published'
+slug: 'checklist-for-netherlands-tourist-visa'
+publishedAt: '2026-05-07T18:59:25.338Z'
+---
+
 # Standard Operating Procedure: Netherlands Schengen Visa Application
 
 ## Overview

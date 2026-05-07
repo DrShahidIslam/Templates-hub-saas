@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Questionnaire Validation'
+status: 'published'
+slug: 'checklist-for-questionnaire-validation'
+publishedAt: '2026-05-07T18:59:25.389Z'
+---
+
 # Standard Operating Procedure: Questionnaire Validation
 
 Effective data collection relies entirely on the integrity of the research instrument. This Standard Operating Procedure (SOP) defines the systematic validation process required to ensure that any questionnaire used for research or business intelligence is reliable, unambiguous, and unbiased. The goal is to minimize measurement error, ensure respondent clarity, and confirm that the gathered data directly aligns with organizational objectives.

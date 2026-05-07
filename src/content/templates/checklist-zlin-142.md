@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Zlin 142 Pre-Flight and Operational Checklist'
+status: 'published'
+slug: 'checklist-zlin-142'
+publishedAt: '2026-05-07T18:59:25.519Z'
+---
+
 # Standard Operating Procedure: Zlin 142 Pre-Flight and Operational Checklist
 
 This document outlines the standardized procedures for the pre-flight inspection and operational readiness of the Zlin 142. As an aerobatic-capable aircraft, the Zlin 142 demands rigorous attention to mechanical detail, particularly regarding the control surface linkages and the integrity of the canopy locking mechanism. Adherence to this checklist is mandatory for all pilots to ensure structural integrity, flight safety, and optimal engine performance.

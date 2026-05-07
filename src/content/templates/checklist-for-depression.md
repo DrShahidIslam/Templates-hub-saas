@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Wellness Assessment and Management for Depression'
+status: 'published'
+slug: 'checklist-for-depression'
+publishedAt: '2026-05-07T18:59:25.163Z'
+---
+
 # Standard Operating Procedure: Wellness Assessment and Management for Depression
 
 This Standard Operating Procedure (SOP) is designed to provide a structured, objective framework for monitoring, documenting, and managing symptoms of depression. By utilizing a systematic checklist, individuals and their support systems can identify patterns, track the efficacy of interventions, and ensure that critical self-care requirements are addressed. This document is intended as a supplementary tool for personal well-being and is not a replacement for professional clinical diagnosis or psychiatric intervention.

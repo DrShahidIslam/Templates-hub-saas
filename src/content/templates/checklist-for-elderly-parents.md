@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Comprehensive Care Coordination for Elderly Parents'
+status: 'published'
+slug: 'checklist-for-elderly-parents'
+publishedAt: '2026-05-07T18:59:25.175Z'
+---
+
 # Standard Operating Procedure: Comprehensive Care Coordination for Elderly Parents
 
 Managing the care of aging parents requires a proactive, structured approach to ensure safety, financial stability, and emotional well-being. This SOP serves as a foundational roadmap for caregivers to organize essential documentation, monitor health, and plan for long-term contingencies. By establishing these systems early, you mitigate the risk of crisis-driven decision-making and preserve the dignity and independence of your parents.

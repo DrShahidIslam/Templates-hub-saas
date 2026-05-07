@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Post-Marriage Legal Name Change'
+status: 'published'
+slug: 'checklist-for-name-change-after-marriage'
+publishedAt: '2026-05-07T18:59:25.332Z'
+---
+
 # Standard Operating Procedure: Post-Marriage Legal Name Change
 
 This Standard Operating Procedure (SOP) serves as a comprehensive guide for managing the administrative process of updating your legal name following a marriage. Changing your name is a multi-tiered bureaucratic process that relies on the "cascading verification" principle—you must secure the primary legal document (Marriage Certificate) before updating secondary government IDs, which in turn are required to update financial and personal accounts. Diligence, organization, and maintaining a secure file of all original documents are essential to a seamless transition.

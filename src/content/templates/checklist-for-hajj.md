@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Hajj Preparation and Execution'
+status: 'published'
+slug: 'checklist-for-hajj'
+publishedAt: '2026-05-07T18:59:25.228Z'
+---
+
 # Standard Operating Procedure: Hajj Preparation and Execution
 
 Hajj is a significant spiritual undertaking that requires meticulous physical, logistical, and mental preparation. As an operations manager, the objective of this SOP is to provide a structured framework to ensure pilgrims manage the complexities of travel, health, and ritual performance with efficiency. This checklist is designed to mitigate risks, ensure compliance with regulatory requirements, and maximize the focus on religious obligations by minimizing logistical friction.

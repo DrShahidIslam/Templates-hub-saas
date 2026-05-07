@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Office Cleaning'
+status: 'published'
+slug: 'daily-checklist-for-office-cleaning'
+publishedAt: '2026-05-07T18:59:25.597Z'
+---
+
 # Standard Operating Procedure: Daily Office Cleaning
 
 ## Introduction

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Kashmir Expedition Logistics'
+status: 'published'
+slug: 'checklist-for-kashmir-trip'
+publishedAt: '2026-05-07T18:59:25.284Z'
+---
+
 # Standard Operating Procedure: Kashmir Expedition Logistics
 
 This Standard Operating Procedure (SOP) outlines the mandatory preparations required for a seamless expedition to the Kashmir Valley. Given the region’s unique topography, shifting weather patterns, and specific security protocols, meticulous planning is essential. This document serves as a comprehensive operational checklist to ensure travelers maintain situational awareness, health, and comfort throughout their transit and stay in Srinagar, Gulmarg, Pahalgam, and surrounding areas.

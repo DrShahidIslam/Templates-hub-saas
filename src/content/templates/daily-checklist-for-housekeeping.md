@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Housekeeping Operations'
+status: 'published'
+slug: 'daily-checklist-for-housekeeping'
+publishedAt: '2026-05-07T18:59:25.578Z'
+---
+
 # Standard Operating Procedure: Daily Housekeeping Operations
 
 This Standard Operating Procedure (SOP) is designed to ensure consistent, high-standard cleanliness and sanitation across all facility areas. As an operations manager, the goal of this procedure is to create a systematic workflow that minimizes downtime, maximizes hygiene, and enhances the guest or occupant experience. All housekeeping staff are required to follow these guidelines daily to maintain operational excellence and safety compliance.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Residential Property Preparation for Market'
+status: 'published'
+slug: 'checklist-for-getting-house-ready-to-sell'
+publishedAt: '2026-05-07T18:59:25.215Z'
+---
+
 # Standard Operating Procedure: Residential Property Preparation for Market
 
 The objective of this Standard Operating Procedure (SOP) is to maximize the market value and curb appeal of a residential property through systematic preparation. Selling a home is a business transaction; therefore, the property must be transitioned from a personal living space into a neutral, high-value product. Following this checklist ensures that the home appeals to the widest possible demographic of buyers, reduces time on market, and minimizes post-inspection renegotiations.

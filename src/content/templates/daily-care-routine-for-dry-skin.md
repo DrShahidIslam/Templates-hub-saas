@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Dry Skin Management'
+status: 'published'
+slug: 'daily-care-routine-for-dry-skin'
+publishedAt: '2026-05-07T18:59:25.525Z'
+---
+
 # Standard Operating Procedure: Daily Dry Skin Management
 
 Maintaining skin barrier integrity is critical for individuals with dry skin. This SOP outlines a standardized, evidence-based approach to daily epidermal hydration and protection. By following this protocol, the user will minimize transepidermal water loss (TEWL), soothe irritation, and promote a resilient skin barrier. Adherence to this routine—performed consistently in the morning and evening—is the primary mechanism for preventing xerosis (excessive dryness) and subsequent inflammation.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Equipment Inspection & Maintenance'
+status: 'published'
+slug: 'daily-checklist-for-equipment'
+publishedAt: '2026-05-07T18:59:25.559Z'
+---
+
 # Standard Operating Procedure: Daily Equipment Inspection & Maintenance
 
 ## Introduction

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Student Success Workflow'
+status: 'published'
+slug: 'daily-checklist-for-students'
+publishedAt: '2026-05-07T18:59:25.609Z'
+---
+
 # Standard Operating Procedure: Daily Student Success Workflow
 
 This Standard Operating Procedure (SOP) is designed to cultivate academic discipline, organizational efficiency, and mental well-being for students. By implementing a standardized daily routine, students can reduce cognitive load, minimize the risk of missed deadlines, and ensure they are consistently prepared for instructional engagement. This workflow serves as a foundational framework for academic excellence and long-term time management habits.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: REAL ID Documentation Preparation'
+status: 'published'
+slug: 'checklist-for-real-id'
+publishedAt: '2026-05-07T18:59:25.398Z'
+---
+
 # Standard Operating Procedure: REAL ID Documentation Preparation
 
 This Standard Operating Procedure (SOP) serves as a comprehensive guide for individuals preparing to apply for a REAL ID-compliant driver’s license or identification card. Compliance with the REAL ID Act is mandatory for domestic air travel and access to federal facilities. Following this checklist ensures that all documentation meets the strict verification standards set forth by the Department of Homeland Security (DHS) and state Departments of Motor Vehicles (DMV), thereby preventing application rejection and the need for repeat visits.

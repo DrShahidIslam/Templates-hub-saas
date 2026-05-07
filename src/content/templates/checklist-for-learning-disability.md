@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Learning Disability Identification and Support Protocol'
+status: 'published'
+slug: 'checklist-for-learning-disability'
+publishedAt: '2026-05-07T18:59:25.305Z'
+---
+
 # Standard Operating Procedure: Learning Disability Identification and Support Protocol
 
 This Standard Operating Procedure (SOP) serves as a professional framework for educators, care coordinators, and human resource professionals to identify, document, and accommodate individuals presenting with symptoms of a learning disability. The objective of this protocol is to ensure a standardized, empathetic, and evidence-based approach to assessing functional challenges, facilitating formal diagnostic pathways, and implementing tailored support structures that promote equitable performance and personal development.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Jira Ticket Management & Hygiene'
+status: 'published'
+slug: 'checklist-for-jira'
+publishedAt: '2026-05-07T18:59:25.277Z'
+---
+
 # Standard Operating Procedure: Jira Ticket Management & Hygiene
 
 This Standard Operating Procedure (SOP) defines the systematic approach for managing Jira issues to ensure transparency, accountability, and efficient project velocity. Proper Jira hygiene is critical for maintaining accurate burn-down charts, preventing scope creep, and ensuring that cross-functional teams remain aligned on deliverables. By adhering to this checklist, team members ensure that every ticket is actionable, traceable, and correctly categorized.

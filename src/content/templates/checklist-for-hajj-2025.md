@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Hajj 2025 Preparation and Execution'
+status: 'published'
+slug: 'checklist-for-hajj-2025'
+publishedAt: '2026-05-07T18:59:25.226Z'
+---
+
 # Standard Operating Procedure: Hajj 2025 Preparation and Execution
 
 This Standard Operating Procedure (SOP) serves as a comprehensive operational framework for pilgrims preparing for Hajj 2025. Given the physical, logistical, and spiritual demands of the pilgrimage, this guide prioritizes readiness, regulatory compliance, and health maintenance to ensure a seamless experience. By following this structured checklist, pilgrims can mitigate operational risks and focus entirely on the spiritual requirements of their journey.

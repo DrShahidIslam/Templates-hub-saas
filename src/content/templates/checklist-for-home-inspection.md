@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Residential Home Inspection'
+status: 'published'
+slug: 'checklist-for-home-inspection'
+publishedAt: '2026-05-07T18:59:25.236Z'
+---
+
 # Standard Operating Procedure: Residential Home Inspection
 
 This Standard Operating Procedure (SOP) outlines the professional requirements for conducting a comprehensive residential home inspection. The objective is to identify material defects, safety hazards, and maintenance requirements to provide the client with an objective assessment of the property’s condition. This SOP assumes the inspector utilizes a systematic room-by-room and system-by-system approach to ensure no critical components are overlooked, maintaining professional standards and mitigating liability.

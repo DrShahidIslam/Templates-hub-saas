@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Executive Function Management for ADHD'
+status: 'published'
+slug: 'checklist-for-adhd'
+publishedAt: '2026-05-07T18:59:25.090Z'
+---
+
 # Standard Operating Procedure: Executive Function Management for ADHD
 
 This Standard Operating Procedure (SOP) is designed to provide a structured framework for individuals managing Attention-Deficit/Hyperactivity Disorder (ADHD) in a professional or personal environment. The objective of this document is to reduce cognitive load by externalizing memory, automating routine tasks, and establishing a baseline for daily operational success. By adhering to this checklist, users can mitigate "analysis paralysis," minimize decision fatigue, and ensure consistent task completion through environmental and procedural scaffolding.

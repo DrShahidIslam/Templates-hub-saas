@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Yosemite National Park Expedition'
+status: 'published'
+slug: 'checklist-for-yosemite'
+publishedAt: '2026-05-07T18:59:25.486Z'
+---
+
 # Standard Operating Procedure: Yosemite National Park Expedition
 
 This Standard Operating Procedure (SOP) outlines the essential preparation, safety, and logistical protocols required for a successful trip to Yosemite National Park. Due to the park’s immense scale, volatile weather conditions, and high elevation, meticulous planning is required to ensure both visitor safety and resource protection. All personnel or group leaders must complete this checklist at least 72 hours prior to departure.

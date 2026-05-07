@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Compassionate Appointment Management'
+status: 'published'
+slug: 'checklist-for-compassionate-appointment'
+publishedAt: '2026-05-07T18:59:25.144Z'
+---
+
 # Standard Operating Procedure: Compassionate Appointment Management
 
 This document outlines the formal procedure for the processing, verification, and finalization of compassionate appointments. Designed to provide organizational support to families in the event of an employee’s untimely demise or permanent medical incapacitation, this SOP ensures that all applications are handled with empathy, procedural rigor, and strict adherence to government/corporate labor regulations. The objective is to maintain a seamless transition for the beneficiary while ensuring the organization meets its fiduciary and legal obligations.

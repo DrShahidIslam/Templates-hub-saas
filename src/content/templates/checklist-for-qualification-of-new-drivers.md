@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: New Driver Qualification Process'
+status: 'published'
+slug: 'checklist-for-qualification-of-new-drivers'
+publishedAt: '2026-05-07T18:59:25.379Z'
+---
+
 # Standard Operating Procedure: New Driver Qualification Process
 
 This Standard Operating Procedure (SOP) outlines the mandatory requirements and verification steps for onboarding new commercial drivers. The objective of this process is to ensure full regulatory compliance, mitigate organizational liability, and maintain the highest safety standards for fleet operations. Adherence to this protocol is non-negotiable for all hiring managers and safety coordinators.

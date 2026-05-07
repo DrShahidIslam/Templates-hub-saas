@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: M.Phil Allowance Processing'
+status: 'published'
+slug: 'checklist-for-mphil-allowance'
+publishedAt: '2026-05-07T18:59:25.329Z'
+---
+
 # Standard Operating Procedure: M.Phil Allowance Processing
 
 This Standard Operating Procedure (SOP) outlines the mandatory administrative process for verifying, approving, and disbursing the M.Phil allowance to eligible academic or research staff. As an operations manager, the objective is to ensure institutional compliance, maintain accurate payroll records, and prevent unauthorized disbursement of funds. This document serves as the formal framework for department heads, HR representatives, and payroll officers to execute their responsibilities with precision and accountability.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Effective SOP Development (SOP-DEV-001)'
+status: 'published'
+slug: 'can-you-sop'
+publishedAt: '2026-05-07T18:59:25.072Z'
+---
+
 # Standard Operating Procedure: Effective SOP Development (SOP-DEV-001)
 
 ## Introduction

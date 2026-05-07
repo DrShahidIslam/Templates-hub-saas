@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Vital Signs Assessment and Documentation'
+status: 'published'
+slug: 'checklist-for-vital-signs'
+publishedAt: '2026-05-07T18:59:25.459Z'
+---
+
 # Standard Operating Procedure: Vital Signs Assessment and Documentation
 
 This Standard Operating Procedure (SOP) outlines the standardized clinical protocol for measuring, recording, and interpreting a patient’s vital signs. Accurate vital signs serve as the primary indicators of a patient’s physiological status and are essential for early detection of clinical deterioration. Adherence to this procedure ensures consistency, minimizes measurement error, and facilitates high-quality patient care across all clinical departments.

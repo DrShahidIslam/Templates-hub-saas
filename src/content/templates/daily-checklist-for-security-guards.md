@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Security Guard Operations'
+status: 'published'
+slug: 'daily-checklist-for-security-guards'
+publishedAt: '2026-05-07T18:59:25.605Z'
+---
+
 # Standard Operating Procedure: Daily Security Guard Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily requirements for security personnel to ensure the safety, integrity, and operational continuity of the facility. Adherence to these protocols is critical to mitigating risks, maintaining accurate documentation, and providing a professional presence. Security guards are responsible for executing these tasks with diligence, integrity, and strict attention to detail, ensuring that any anomalies are reported immediately through the proper chain of command.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Thailand Trip Logistics'
+status: 'published'
+slug: 'checklist-for-thailand-trip'
+publishedAt: '2026-05-07T18:59:25.433Z'
+---
+
 # Standard Operating Procedure: Thailand Trip Logistics
 
 This Standard Operating Procedure (SOP) is designed to streamline the preparation, documentation, and packing phases of a trip to Thailand. By adhering to this structured checklist, travelers can mitigate operational risks, ensure compliance with local regulations, and optimize their experience in the Kingdom. This document serves as a comprehensive guide for both leisure and business travel preparation.

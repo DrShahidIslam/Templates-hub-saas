@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Domestic Flight Readiness'
+status: 'published'
+slug: 'checklist-for-domestic-flight'
+publishedAt: '2026-05-07T18:59:25.171Z'
+---
+
 # Standard Operating Procedure: Domestic Flight Readiness
 
 This Standard Operating Procedure (SOP) outlines the professional workflow for preparing, executing, and finalizing domestic air travel. Designed to minimize logistical friction, reduce stress, and ensure operational readiness, this checklist serves as the definitive guide for maintaining a professional standard while navigating airport security, boarding processes, and in-flight requirements. Adherence to these protocols ensures that passengers arrive at their destination prepared, punctual, and organized.

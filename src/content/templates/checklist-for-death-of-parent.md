@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Managing the Estate and Affairs Following the Death of a Parent'
+status: 'published'
+slug: 'checklist-for-death-of-parent'
+publishedAt: '2026-05-07T18:59:25.159Z'
+---
+
 # Standard Operating Procedure: Managing the Estate and Affairs Following the Death of a Parent
 
 The loss of a parent is a profound life event that requires immediate, organized action to manage legal, financial, and personal affairs. This SOP provides a structured framework to ensure that all necessary administrative burdens are handled efficiently and respectfully. The objective is to mitigate the risk of identity theft, ensure the proper distribution of assets, and satisfy all legal obligations while minimizing unnecessary stress during a period of grieving.

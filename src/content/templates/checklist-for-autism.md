@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Clinical Assessment and Support Checklist for Autism Spectrum Disorder (ASD)'
+status: 'published'
+slug: 'checklist-for-autism'
+publishedAt: '2026-05-07T18:59:25.105Z'
+---
+
 # Standard Operating Procedure: Clinical Assessment and Support Checklist for Autism Spectrum Disorder (ASD)
 
 This Standard Operating Procedure (SOP) outlines the professional framework for identifying, documenting, and managing developmental assessments consistent with Autism Spectrum Disorder (ASD). This document is intended for use by clinical practitioners, educators, and support staff to ensure a comprehensive, neuro-affirming approach to assessing traits and coordinating necessary support services. The objective is to provide a standardized, objective baseline for identifying support needs while prioritizing the dignity and autonomy of the individual.

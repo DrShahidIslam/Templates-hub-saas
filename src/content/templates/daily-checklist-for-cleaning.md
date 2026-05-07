@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Facility Sanitation & Maintenance'
+status: 'published'
+slug: 'daily-checklist-for-cleaning'
+publishedAt: '2026-05-07T18:59:25.543Z'
+---
+
 # Standard Operating Procedure: Daily Facility Sanitation & Maintenance
 
 ## Introduction

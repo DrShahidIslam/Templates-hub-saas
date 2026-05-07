@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Tower Crane Inspection'
+status: 'published'
+slug: 'daily-checklist-for-tower-crane'
+publishedAt: '2026-05-07T18:59:25.614Z'
+---
+
 # Standard Operating Procedure: Daily Tower Crane Inspection
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily inspection protocols for tower crane operations. As an operations manager, it is critical to emphasize that the crane operator is the final line of defense in site safety. This daily checklist is designed to identify mechanical, structural, or electrical irregularities before they escalate into catastrophic failure. Compliance with this procedure is non-negotiable and fulfills both regulatory safety requirements and internal risk management mandates.

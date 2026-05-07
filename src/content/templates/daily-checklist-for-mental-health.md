@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Mental Health Maintenance'
+status: 'published'
+slug: 'daily-checklist-for-mental-health'
+publishedAt: '2026-05-07T18:59:25.593Z'
+---
+
 # Standard Operating Procedure: Daily Mental Health Maintenance
 
 This Standard Operating Procedure (SOP) outlines a structured framework for managing daily mental health. Designed to minimize cognitive load and foster emotional resilience, this protocol serves as a proactive maintenance schedule for individual well-being. By integrating these routines into your daily operations, you establish a baseline of stability that enhances decision-making, performance, and long-term psychological endurance.

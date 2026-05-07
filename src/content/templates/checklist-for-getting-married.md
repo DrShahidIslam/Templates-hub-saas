@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Wedding Execution and Lifecycle Management'
+status: 'published'
+slug: 'checklist-for-getting-married'
+publishedAt: '2026-05-07T18:59:25.216Z'
+---
+
 # Standard Operating Procedure: Wedding Execution and Lifecycle Management
 
 This Standard Operating Procedure (SOP) serves as a strategic framework for the successful planning, coordination, and execution of a wedding. By treating the wedding as a high-stakes project with defined milestones, dependencies, and stakeholders, couples can minimize operational friction and maximize resource efficiency. This document outlines the critical path—from high-level conceptualization to post-event administrative closure—ensuring all logistical requirements are met with precision.

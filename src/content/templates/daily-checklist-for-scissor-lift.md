@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Scissor Lift Inspection'
+status: 'published'
+slug: 'daily-checklist-for-scissor-lift'
+publishedAt: '2026-05-07T18:59:25.604Z'
+---
+
 # Standard Operating Procedure: Daily Scissor Lift Inspection
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily inspection requirements for scissor lift equipment. To ensure personnel safety and operational longevity, a qualified operator must perform these checks before the first use of every shift. Failure to complete these inspections is a direct violation of safety protocols; if any component is identified as damaged, leaking, or malfunctioning, the equipment must be tagged out of service immediately and reported to maintenance personnel.

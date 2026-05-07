@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: France Schengen Visa Application'
+status: 'published'
+slug: 'checklist-for-france-tourist-visa'
+publishedAt: '2026-05-07T18:59:25.204Z'
+---
+
 # Standard Operating Procedure: France Schengen Visa Application
 
 This Standard Operating Procedure (SOP) serves as a comprehensive guide for applicants seeking a short-stay Schengen visa for France. The objective is to ensure full compliance with French consular requirements, minimizing the risk of application rejection due to administrative errors or insufficient documentation. Following these procedures systematically will facilitate a smooth submission process at the designated visa application center (e.g., VFS Global).

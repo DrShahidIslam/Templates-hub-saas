@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Driver Vehicle Inspection Report (DVIR)'
+status: 'published'
+slug: 'daily-checklist-for-truck-drivers'
+publishedAt: '2026-05-07T18:59:25.617Z'
+---
+
 # Standard Operating Procedure: Daily Driver Vehicle Inspection Report (DVIR)
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily inspection requirements for all vehicle operators. As an operations professional, it is critical to recognize that a rigorous pre- and post-trip inspection is the primary defense against mechanical failure, roadside citations, and vehicle accidents. All drivers are required to complete this systematic check to ensure fleet compliance with Department of Transportation (DOT) safety regulations and to maintain the longevity of our operational assets.

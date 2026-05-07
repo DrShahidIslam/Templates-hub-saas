@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Pre-Departure Holiday Preparation'
+status: 'published'
+slug: 'checklist-for-holiday'
+publishedAt: '2026-05-07T18:59:25.235Z'
+---
+
 # Standard Operating Procedure: Pre-Departure Holiday Preparation
 
 This Standard Operating Procedure (SOP) outlines the comprehensive requirements for preparing a residence and personal affairs for an extended departure. The objective of this protocol is to mitigate security risks, prevent household utility failures, and ensure a seamless transition back to daily routines upon return. Adhering to this checklist will minimize logistical stressors and provide peace of mind throughout the duration of your holiday.

@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Daily Elder Care Operations'
+status: 'published'
+slug: 'daily-checklist-for-elderly-care'
+publishedAt: '2026-05-07T18:59:25.551Z'
+---
+
 # Standard Operating Procedure: Daily Elder Care Operations
 
 This Standard Operating Procedure (SOP) is designed to ensure the physical, emotional, and safety-related needs of an elderly individual are met consistently and with dignity. By following this structured daily routine, caregivers can mitigate common health risks, maintain medication adherence, and ensure the individual remains engaged throughout the day. This document serves as a baseline for high-quality, personalized care, focusing on proactive monitoring and compassionate assistance.

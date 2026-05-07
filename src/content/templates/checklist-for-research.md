@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Comprehensive Research Methodology'
+status: 'published'
+slug: 'checklist-for-research'
+publishedAt: '2026-05-07T18:59:25.403Z'
+---
+
 # Standard Operating Procedure: Comprehensive Research Methodology
 
 This Standard Operating Procedure (SOP) defines the systematic approach required to conduct rigorous, reliable, and actionable research. Whether conducting academic inquiry, market analysis, or technical feasibility studies, this framework ensures data integrity, logical consistency, and documentation transparency. By adhering to these steps, researchers mitigate cognitive bias, avoid information silos, and produce deliverables that meet the highest professional standards.

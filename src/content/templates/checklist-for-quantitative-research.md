@@ -1,3 +1,10 @@
+---
+title: 'Standard Operating Procedure: Quantitative Research Execution'
+status: 'published'
+slug: 'checklist-for-quantitative-research'
+publishedAt: '2026-05-07T18:59:25.388Z'
+---
+
 # Standard Operating Procedure: Quantitative Research Execution
 
 This Standard Operating Procedure (SOP) outlines the rigorous framework required to conduct high-integrity quantitative research. Quantitative research relies on systematic empirical investigation of observable phenomena via statistical, mathematical, or computational techniques. By adhering to this checklist, researchers ensure data validity, minimize bias, maintain reproducibility, and provide actionable insights derived from robust analytical foundations.
