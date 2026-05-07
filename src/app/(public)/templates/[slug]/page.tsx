@@ -12,6 +12,7 @@ import { getKeywordBySlug, toTitleCase, getRelatedKeywords, getAllKeywords } fro
 import { generateSOP } from "@/lib/gemini";
 import { injectInternalLinks } from "@/lib/linker";
 import Link from "next/link";
+import { getDocumentBySlug } from "outstatic/server";
 import PdfDownloadButton from "@/app/components/PdfDownloadButton";
 import NotionExportButton from "@/app/components/NotionExportButton";
 import TemplatePreviewProtection from "@/app/components/TemplatePreviewProtection";
@@ -42,16 +43,27 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
   const { slug } = await params;
+  
+  // Fetch from Outstatic for dynamic SEO fields
+  const template = await getDocumentBySlug("templates", slug, [
+    "title",
+    "description",
+    "coverImage",
+  ]);
+
   const entry = getKeywordBySlug(slug);
-  const title = entry ? toTitleCase(entry.keyword) : toTitleCase(slug.replace(/-/g, " "));
+  const rawTitle = template?.title || (entry ? toTitleCase(entry.keyword) : toTitleCase(slug.replace(/-/g, " ")));
+  const title = `${rawTitle} | Template Registry`;
+  const description = template?.description || `Download our free ${rawTitle} template. A comprehensive, step-by-step guide with actionable checklists, pro tips, and FAQs. Available as PDF and Notion export — no signup required.`;
 
   return {
-    title: `${title} | Free PDF Template & Guide`,
-    description: `Download our free ${title} template. A comprehensive, step-by-step guide with actionable checklists, pro tips, and FAQs. Available as PDF and Notion export — no signup required.`,
+    title,
+    description,
     openGraph: {
-      title: `${title} — Free Template & Downloadable Guide`,
-      description: `Get the ultimate ${title} template. Expertly crafted with detailed checklists, best practices, and ready-to-use frameworks. Download as PDF or export to Notion.`,
+      title,
+      description,
       type: "article",
+      images: template?.coverImage ? [template.coverImage] : ["/og-image.png"],
     },
     alternates: {
       canonical: `/templates/${slug}`,
@@ -365,15 +377,38 @@ export default async function TemplatePage({
         </div>
       </footer>
 
-      {/* ── JSON-LD STRUCTURED DATA ── */}
+      {/* ── JSON-LD STRUCTURED DATA (DigitalDocument) ── */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
             "@context": "https://schema.org",
-            "@type": "HowTo",
+            "@type": "DigitalDocument",
             name: titleCased,
             description: sidebarDescription,
+            fileFormat: "application/pdf",
+            author: {
+              "@type": "Organization",
+              name: "Template Registry",
+            },
+            publisher: {
+              "@type": "Organization",
+              name: "Template Registry",
+              logo: {
+                "@type": "ImageObject",
+                url: "https://templateregistry.com/logo.png",
+              },
+            },
+            hasPart: {
+              "@type": "HowTo",
+              name: `How to implement ${titleCased}`,
+              step: [
+                {
+                  "@type": "HowToStep",
+                  text: "Review the checklist items in the SOP section.",
+                },
+              ],
+            },
           }),
         }}
       />
