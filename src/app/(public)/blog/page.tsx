@@ -83,6 +83,7 @@ export default async function BlogPage() {
                     Featured Article
                   </span>
                   <span className="text-sm text-gray-400">•</span>
+                </div>
                 <h2 className="font-serif text-4xl md:text-5xl text-[#111827] mb-6 group-hover:text-indigo-600 transition-colors leading-tight">
                   {featuredPost.title}
                 </h2>
