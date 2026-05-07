@@ -144,3 +144,10 @@ body {
 .cta-pulse {
   animation: subtle-pulse 3s ease-in-out infinite;
 }
+
+/* Outstatic Header Avatar Patch */
+header img[src*="avatars.githubusercontent.com"] {
+    width: 32px !important;
+    height: 32px !important;
+    border-radius: 9999px !important;
+}
