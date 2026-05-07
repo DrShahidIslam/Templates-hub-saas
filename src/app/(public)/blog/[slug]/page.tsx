@@ -106,8 +106,8 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
           <ReactMarkdown>{post.content}</ReactMarkdown>
         </div>
 
-        {/* ── FOOTER ── */}
-        <footer className="mt-20 pt-12 border-t border-gray-100">
+        {/* ── AUTHOR BIO ── */}
+        <section className="mt-20 pt-12 border-t border-gray-100">
           <div className="bg-white p-10 rounded-[2.5rem] border border-gray-100 flex flex-col md:flex-row items-center gap-10">
             <div className="w-24 h-24 rounded-full bg-gray-200 border-4 border-white shadow-xl shrink-0" />
             <div>
@@ -131,7 +131,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
               </div>
             </div>
           </div>
-        </footer>
+        </section>
       </article>
 
       {/* ── READ NEXT ── */}

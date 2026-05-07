@@ -364,24 +364,6 @@ export default async function TemplatePage({
         </div>
       </main>
 
-      {/* ── FOOTER ── */}
-      <footer className="border-t border-border mt-8">
-        <div className="max-w-7xl mx-auto px-6 py-12">
-          <div className="flex flex-col md:flex-row items-center justify-between gap-4">
-            <div className="flex items-center gap-2.5">
-              <div className="w-7 h-7 rounded-lg bg-gradient-to-br from-accent to-purple-600 flex items-center justify-center">
-                <Layers className="w-3.5 h-3.5 text-white" />
-              </div>
-              <span className="font-semibold text-sm tracking-tight">
-                Template Registry
-              </span>
-            </div>
-            <p className="text-sm text-muted-foreground">
-              © 2026 Template Registry. Free templates for modern teams.
-            </p>
-          </div>
-        </div>
-      </footer>
 
       {/* ── JSON-LD STRUCTURED DATA (DigitalDocument) ── */}
       <script
