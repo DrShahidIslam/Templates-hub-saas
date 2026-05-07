@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Menu, X, ArrowRight } from "lucide-react";
+import { Menu, X, ArrowRight, Search } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 
 const navLinks = [
@@ -20,8 +20,18 @@ export default function Navbar() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
 
+  const [searchQuery, setSearchQuery] = useState("");
+
   // Programmatic Kill-Switch for Admin Routes
   if (pathname?.startsWith("/outstatic")) return null;
+
+  const handleSearch = (e: React.FormEvent) => {
+    e.preventDefault();
+    if (searchQuery.trim()) {
+      window.location.href = `/search?q=${encodeURIComponent(searchQuery.trim())}`;
+      setMobileMenuOpen(false);
+    }
+  };
 
   // Handle scroll effect
   useEffect(() => {
@@ -51,7 +61,7 @@ export default function Navbar() {
         </Link>
 
         {/* ── DESKTOP NAVIGATION ── */}
-        <nav className="hidden md:flex items-center gap-10">
+        <nav className="hidden md:flex items-center gap-8">
           {navLinks.map((link) => (
             <Link
               key={link.href}
@@ -65,6 +75,18 @@ export default function Navbar() {
               {link.label}
             </Link>
           ))}
+          
+          {/* ── NAVBAR SEARCH ── */}
+          <form onSubmit={handleSearch} className="relative group ml-2">
+            <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400 group-focus-within:text-indigo-500 transition-colors" />
+            <input 
+              type="text"
+              placeholder="Search..."
+              className="pl-9 pr-4 py-2 bg-gray-100 border-transparent focus:bg-white focus:border-indigo-500/30 focus:ring-4 focus:ring-indigo-500/5 rounded-full text-sm outline-none transition-all w-40 focus:w-64"
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+            />
+          </form>
         </nav>
 
 
@@ -90,6 +112,18 @@ export default function Navbar() {
             className="md:hidden absolute top-full left-0 w-full bg-white border-b border-gray-100 shadow-xl"
           >
             <div className="p-6 flex flex-col gap-6">
+              {/* ── MOBILE SEARCH ── */}
+              <form onSubmit={handleSearch} className="relative">
+                <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" />
+                <input 
+                  type="text"
+                  placeholder="Search templates..."
+                  className="w-full pl-11 pr-4 py-3 bg-gray-50 border border-gray-100 rounded-xl text-base outline-none focus:border-indigo-500/30"
+                  value={searchQuery}
+                  onChange={(e) => setSearchQuery(e.target.value)}
+                />
+              </form>
+
               {navLinks.map((link) => (
                 <Link
                   key={link.href}
@@ -100,7 +134,6 @@ export default function Navbar() {
                   {link.label}
                 </Link>
               ))}
-
             </div>
           </motion.div>
         )}

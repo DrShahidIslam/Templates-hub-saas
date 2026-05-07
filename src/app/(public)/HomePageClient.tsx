@@ -156,7 +156,15 @@ export default function HomePageClient({ allTemplates }: HomePageClientProps) {
               transition={{ duration: 0.5, delay: 0.2 }}
               className="max-w-2xl mx-auto mb-8 group"
             >
-              <div className="relative flex flex-row items-center p-1.5 sm:p-2 bg-white border border-gray-200 rounded-2xl shadow-[0_8px_30px_rgb(0,0,0,0.04)] focus-within:ring-4 focus-within:ring-indigo-500/10 focus-within:border-indigo-500/50 transition-all duration-300 w-full">
+              <form 
+                onSubmit={(e) => {
+                  e.preventDefault();
+                  if (searchQuery.trim()) {
+                    window.location.href = `/search?q=${encodeURIComponent(searchQuery.trim())}`;
+                  }
+                }}
+                className="relative flex flex-row items-center p-1.5 sm:p-2 bg-white border border-gray-200 rounded-2xl shadow-[0_8px_30px_rgb(0,0,0,0.04)] focus-within:ring-4 focus-within:ring-indigo-500/10 focus-within:border-indigo-500/50 transition-all duration-300 w-full"
+              >
                 <div className="pl-3 sm:pl-4 pr-2 sm:pr-3 text-gray-400 shrink-0">
                   <Search className="w-4 h-4 sm:w-5 sm:h-5" />
                 </div>
@@ -171,13 +179,13 @@ export default function HomePageClient({ allTemplates }: HomePageClientProps) {
                   <Command className="w-3 h-3" />
                   <span>K</span>
                 </div>
-                <Link 
-                  href={`/templates?q=${encodeURIComponent(searchQuery)}`}
-                  className="ml-2 px-4 sm:px-6 py-3 sm:py-4 bg-[#4F46E5] text-white rounded-xl font-semibold hover:bg-indigo-700 transition-colors shadow-lg shadow-indigo-500/20 shrink-0 text-sm sm:text-base"
+                <button 
+                  type="submit"
+                  className="ml-2 px-4 sm:px-6 py-3 sm:py-4 bg-[#4F46E5] text-white rounded-xl font-semibold hover:bg-indigo-700 transition-colors shadow-lg shadow-indigo-500/20 shrink-0 text-sm sm:text-base cursor-pointer"
                 >
                   Search
-                </Link>
-              </div>
+                </button>
+              </form>
             </motion.div>
 
             {/* ── CATEGORY PILL FILTER ── */}
