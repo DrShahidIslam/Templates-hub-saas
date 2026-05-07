@@ -35,7 +35,7 @@ const mainCategories = [
     icon: Users,
     color: "bg-blue-50 text-blue-600",
     slug: "hr-people-ops",
-    size: "col-span-1 md:col-span-2 row-span-1"
+    image: "https://images.unsplash.com/photo-1521791136364-798a7bc0d262?auto=format&fit=crop&q=80&w=800"
   },
   {
     title: "Operations",
@@ -43,7 +43,7 @@ const mainCategories = [
     icon: Settings,
     color: "bg-orange-50 text-orange-600",
     slug: "operations",
-    size: "col-span-1 md:col-span-1 row-span-2"
+    image: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=800"
   },
   {
     title: "Legal & Policy",
@@ -51,7 +51,7 @@ const mainCategories = [
     icon: Scale,
     color: "bg-purple-50 text-purple-600",
     slug: "legal-policy",
-    size: "col-span-1 md:col-span-1 row-span-1"
+    image: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&q=80&w=800"
   },
   {
     title: "IT & Security",
@@ -59,7 +59,7 @@ const mainCategories = [
     icon: Monitor,
     color: "bg-indigo-50 text-indigo-600",
     slug: "it-security",
-    size: "col-span-1 md:col-span-2 row-span-1"
+    image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=800"
   },
   {
     title: "Healthcare",
@@ -67,7 +67,7 @@ const mainCategories = [
     icon: HeartPulse,
     color: "bg-rose-50 text-rose-600",
     slug: "healthcare",
-    size: "col-span-1 md:col-span-1 row-span-1"
+    image: "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=800"
   },
   {
     title: "Finance",
@@ -75,7 +75,7 @@ const mainCategories = [
     icon: BarChart3,
     color: "bg-emerald-50 text-emerald-600",
     slug: "finance",
-    size: "col-span-1 md:col-span-1 row-span-1"
+    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800"
   }
 ];
 
@@ -321,34 +321,43 @@ export default function HomePageClient({ allTemplates }: HomePageClientProps) {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
             {mainCategories.map((cat, idx) => (
               <motion.div
                 key={cat.title}
-                initial={{ opacity: 0, y: 20 }}
-                whileInView={{ opacity: 1, y: 0 }}
+                initial={{ opacity: 0, scale: 0.95 }}
+                whileInView={{ opacity: 1, scale: 1 }}
                 viewport={{ once: true }}
                 transition={{ delay: idx * 0.1 }}
-                className={`${cat.size} group relative overflow-hidden bg-white border border-gray-100 rounded-[2rem] p-6 hover:shadow-[0_20px_50px_rgba(0,0,0,0.05)] transition-all duration-500`}
+                className="group relative h-64 overflow-hidden rounded-[2rem] border border-gray-100 shadow-sm hover:shadow-xl transition-all duration-500"
               >
-                <div className="flex flex-col h-full justify-between">
-                  <div>
-                    <div className={`w-14 h-14 rounded-2xl ${cat.color} flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-500`}>
-                      <cat.icon className="w-7 h-7" />
-                    </div>
-                    <h3 className="font-serif text-2xl text-[#111827] mb-2">{cat.title}</h3>
-                    <p className="text-sm text-gray-400 mb-6">{cat.count} Specialized Templates</p>
-                  </div>
+                <Link href={`/templates?category=${cat.slug}`} className="block h-full w-full">
+                  {/* ── BACKGROUND IMAGE ── */}
+                  <img 
+                    src={cat.image} 
+                    alt={cat.title}
+                    className="absolute inset-0 w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
+                  />
                   
-                  <Link 
-                    href={`/templates?category=${cat.slug}`}
-                    className="inline-flex items-center gap-2 text-indigo-600 font-semibold group/link"
-                  >
-                    Browse Domain
-                    <ArrowRight className="w-4 h-4 group-hover/link:translate-x-1 transition-transform" />
-                  </Link>
-                </div>
-                <div className="absolute top-0 right-0 w-32 h-32 bg-gray-50/50 rounded-full -translate-y-1/2 translate-x-1/2 group-hover:scale-150 transition-transform duration-700" />
+                  {/* ── OVERLAY ── */}
+                  <div className="absolute inset-0 bg-gradient-to-t from-[#111827]/90 via-[#111827]/40 to-transparent" />
+                  
+                  {/* ── CONTENT ── */}
+                  <div className="absolute bottom-0 left-0 w-full p-6">
+                    <div className="flex items-center gap-3 mb-2">
+                      <div className={`w-8 h-8 rounded-lg ${cat.color} flex items-center justify-center`}>
+                        <cat.icon className="w-4 h-4" />
+                      </div>
+                      <span className="text-xs font-bold text-gray-300 uppercase tracking-widest">
+                        {cat.count} Templates
+                      </span>
+                    </div>
+                    <h3 className="font-serif text-2xl text-white mb-2">{cat.title}</h3>
+                    <div className="flex items-center gap-1.5 text-xs font-bold text-indigo-400 opacity-0 group-hover:opacity-100 transition-all transform translate-y-2 group-hover:translate-y-0">
+                      Browse Domain <ArrowRight className="w-3 h-3" />
+                    </div>
+                  </div>
+                </Link>
               </motion.div>
             ))}
           </div>
