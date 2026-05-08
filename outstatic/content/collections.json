@@ -4,5 +4,11 @@
     "slug": "blog",
     "path": "src/content/blog",
     "children": []
+  },
+  {
+    "title": "templates",
+    "slug": "templates",
+    "path": "src/content/templates",
+    "children": []
   }
 ]
