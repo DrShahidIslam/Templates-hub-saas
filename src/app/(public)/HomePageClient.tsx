@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import {
   Search,
@@ -99,9 +99,17 @@ const categoryKeywords: Record<string, string[]> = {
 export default function HomePageClient({ allTemplates }: HomePageClientProps) {
   const [searchQuery, setSearchQuery] = useState("");
   const [activeFilter, setActiveFilter] = useState('All');
+  const [shuffledTemplates, setShuffledTemplates] = useState<KeywordEntry[]>([]);
+
+  useEffect(() => {
+    // Shuffle the templates on the client to avoid hydration mismatch while keeping the page static
+    const shuffled = [...allTemplates].sort(() => Math.random() - 0.5);
+    setShuffledTemplates(shuffled);
+  }, [allTemplates]);
 
   const filteredTemplates = useMemo(() => {
-    let list = allTemplates;
+    let list = shuffledTemplates.length > 0 ? shuffledTemplates : allTemplates;
+
 
     // 1. Search Filter
     if (searchQuery) {
