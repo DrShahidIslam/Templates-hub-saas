@@ -221,7 +221,7 @@ export default async function TemplatePage({
 
               <div 
                 id="pdf-content" 
-                className="border border-border rounded-[2.5rem] p-8 md:p-12 text-[#111827] bg-[#ffffff] shadow-sm relative overflow-hidden"
+                className="border border-[#E5E5E5] rounded-[2.5rem] p-8 md:p-12 text-[#111827] bg-[#ffffff] shadow-[0_1px_2px_rgba(0,0,0,0.05)] relative overflow-hidden"
                 style={{ color: '#111827', backgroundColor: '#ffffff' }}
               >
                 <TemplatePreviewProtection>

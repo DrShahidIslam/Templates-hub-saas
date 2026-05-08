@@ -58,7 +58,7 @@ export default function TemplatePreviewProtection({ children }: { children: Reac
             data-html2canvas-ignore="true"
             className="absolute inset-0 flex items-center justify-center pointer-events-none z-20 overflow-hidden"
           >
-            <div className="text-[60px] md:text-[100px] font-black text-gray-900/[0.1] -rotate-12 tracking-[0.2em] whitespace-nowrap select-none uppercase">
+            <div className="text-[60px] md:text-[100px] font-black text-[#111827]/10 -rotate-12 tracking-[0.2em] whitespace-nowrap select-none uppercase">
               Template Registry
             </div>
           </div>
