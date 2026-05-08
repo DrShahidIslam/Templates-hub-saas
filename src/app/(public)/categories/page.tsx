@@ -63,7 +63,7 @@ export default function CategoriesPage() {
   // Map over category definitions and inject dynamic counts
   const categoriesWithCounts = categoryDefinitions.map(cat => {
     const safeCatSlug = normalize(cat.slug);
-    const count = allTemplates.filter(t => normalize(t.category) === safeCatSlug).length;
+    const count = allTemplates.filter((t: any) => normalize(t.category) === safeCatSlug).length;
     
     return {
       ...cat,
