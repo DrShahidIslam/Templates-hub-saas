@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { useState, useMemo, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import {
@@ -414,25 +415,39 @@ export default function HomePageClient({ allTemplates }: HomePageClientProps) {
             </div>
             
             <div className="flex-1 relative">
-              <div className="relative rounded-[2.5rem] overflow-hidden border border-gray-100 shadow-2xl">
-                <div className="bg-gray-50 px-6 py-4 border-b border-gray-100 flex items-center gap-2">
-                  <div className="w-3 h-3 rounded-full bg-red-400" />
-                  <div className="w-3 h-3 rounded-full bg-amber-400" />
-                  <div className="w-3 h-3 rounded-full bg-green-400" />
-                </div>
-                <div className="p-8 bg-white font-serif text-gray-800 space-y-4">
-                  <div className="h-8 w-3/4 bg-gray-50 rounded-lg animate-pulse" />
-                  <div className="h-4 w-full bg-gray-50 rounded-lg animate-pulse" />
-                  <div className="h-4 w-5/6 bg-gray-50 rounded-lg animate-pulse" />
-                  <div className="pt-8 space-y-4">
-                    <div className="h-12 w-full border border-indigo-100 rounded-xl bg-indigo-50/20" />
-                    <div className="h-12 w-full border border-gray-100 rounded-xl" />
+              <div className="relative rounded-[2.5rem] bg-[#111827] overflow-hidden border border-gray-800 shadow-2xl shadow-indigo-900/20 p-10 flex flex-col justify-between aspect-square max-w-[480px] mx-auto">
+                <div className="absolute inset-0 bg-gradient-to-br from-indigo-900/40 to-transparent" />
+                
+                {/* Decorative Elements */}
+                <div className="absolute top-0 right-0 w-64 h-64 bg-white/5 rounded-full blur-3xl -translate-y-1/2 translate-x-1/2" />
+                
+                <div className="relative z-10">
+                  <div className="w-16 h-16 rounded-full overflow-hidden border border-gray-700 mb-6 shadow-xl relative">
+                    <Image 
+                      src="/images/julian_vance.png" 
+                      alt="Julian Vance" 
+                      fill 
+                      className="object-cover object-top"
+                    />
                   </div>
+                  <svg className="w-8 h-8 text-indigo-400/50 mb-4" fill="currentColor" viewBox="0 0 32 32">
+                    <path d="M9.352 4C4.456 7.456 1 13.12 1 19.36c0 5.088 3.072 8.064 6.624 8.064 3.36 0 5.856-2.688 5.856-5.856 0-3.168-2.208-5.472-5.088-5.472-.576 0-1.344.096-1.536.192.48-3.264 3.552-7.104 6.624-9.024L9.352 4zm16.512 0c-4.896 3.456-8.352 9.12-8.352 15.36 0 5.088 3.072 8.064 6.624 8.064 3.264 0 5.856-2.688 5.856-5.856 0-3.168-2.304-5.472-5.184-5.472-.576 0-1.248.096-1.44.192.48-3.264 3.456-7.104 6.528-9.024L25.864 4z" />
+                  </svg>
+                  <p className="text-xl md:text-2xl font-serif text-white leading-relaxed mb-8 italic">
+                    &quot;Every blueprint is meticulously engineered to eliminate operational friction and guarantee zero-defect execution.&quot;
+                  </p>
                 </div>
-              </div>
-              <div className="absolute -bottom-10 -left-10 p-6 bg-white border border-gray-100 rounded-3xl shadow-xl max-w-[200px]">
-                <p className="text-xs font-bold text-indigo-600 uppercase tracking-widest mb-2">Verified Framework</p>
-                <p className="text-sm font-serif text-gray-700 italic">&quot;The definitive standard for clinical operations.&quot;</p>
+                
+                <div className="relative z-10 flex items-center justify-between border-t border-gray-800 pt-6">
+                  <div>
+                    <h4 className="text-white font-semibold">Julian Vance</h4>
+                    <p className="text-gray-400 text-sm">Chief Architect</p>
+                  </div>
+                  <Link href="/about" className="flex items-center gap-2 text-white hover:text-indigo-400 transition-colors text-sm font-medium group">
+                    Meet the Architect
+                    <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                  </Link>
+                </div>
               </div>
             </div>
           </div>

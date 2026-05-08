@@ -47,7 +47,7 @@ export default function Footer() {
               {[
                 { label: "Latest Blog", href: "/blog" },
                 { label: "All Templates", href: "/templates" },
-                { label: "About Us", href: "/about" },
+                { label: "About the Architect", href: "/about" },
                 { label: "Pro Pass (Soon)", href: "/#cta" },
               ].map((link) => (
                 <li key={link.label}>
