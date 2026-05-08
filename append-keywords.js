@@ -3,7 +3,7 @@ const path = require('path');
 require('dotenv').config({ path: '.env.local' });
 const { GoogleGenerativeAI } = require("@google/generative-ai");
 
-const CONTENT_DIR = path.join(process.cwd(), 'src/content/templates');
+const CONTENT_DIR = path.join(process.cwd(), 'outstatic/content/templates');
 
 function getRandomApiKey() {
   const keys = [

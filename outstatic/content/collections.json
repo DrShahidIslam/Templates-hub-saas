@@ -2,13 +2,13 @@
   {
     "title": "blog",
     "slug": "blog",
-    "path": "src/content/blog",
+    "path": "outstatic/content/blog",
     "children": []
   },
   {
     "title": "templates",
     "slug": "templates",
-    "path": "src/content/templates",
+    "path": "outstatic/content/templates",
     "children": []
   }
 ]

@@ -42,7 +42,7 @@ export async function generateSOP(keyword: string): Promise<string> {
     .replace(/-{2,}/g, "-")
     .replace(/^-|-$/g, "");
 
-  const filePath = path.join(process.cwd(), "src/content/templates", `${slug}.md`);
+  const filePath = path.join(process.cwd(), "outstatic/content/templates", `${slug}.md`);
 
   if (fs.existsSync(filePath)) {
     try {

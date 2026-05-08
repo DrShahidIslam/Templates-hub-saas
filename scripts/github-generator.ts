@@ -26,7 +26,7 @@ dotenv.config({ path: path.join(__dirname, "../.env.local") });
 const BATCH_SIZE = 50;
 const RETRY_LIMIT = 3;
 const BACKOFF_DELAYS = [5000, 10000, 20000];
-const CONTENT_DIR = path.join(process.cwd(), "src/content/templates");
+const CONTENT_DIR = path.join(process.cwd(), "outstatic/content/templates");
 const CSV_PATH = path.join(process.cwd(), "seo_keywords.csv");
 
 // -- API Key Rotation --
