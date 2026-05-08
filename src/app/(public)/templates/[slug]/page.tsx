@@ -12,6 +12,7 @@ import { getKeywordBySlug, toTitleCase, getRelatedKeywords, getAllKeywords } fro
 import { generateSOP } from "@/lib/gemini";
 import { injectInternalLinks } from "@/lib/linker";
 import Link from "next/link";
+import { notFound } from "next/navigation";
 import { getDocumentBySlug } from "outstatic/server";
 import PdfDownloadButton from "@/app/components/PdfDownloadButton";
 import NotionExportButton from "@/app/components/NotionExportButton";
@@ -60,6 +61,10 @@ export async function generateMetadata({
 
   // 2. Extract Ghost SEO Keywords from raw content for the meta keywords tag
   const rawMarkdown = await generateSOP(keyword);
+  if (!rawMarkdown || rawMarkdown.includes("Template Generating...")) {
+    return notFound();
+  }
+
   const extractedMatch = rawMarkdown.match(/<div data-html2canvas-ignore="true"[^>]*>([\s\S]*?)<\/div>/);
   const keywordsList = extractedMatch ? extractedMatch[1].trim() : "";
 
@@ -113,6 +118,10 @@ export default async function TemplatePage({
 
   // Generate the SOP content via Gemini 2.5 Flash (cached for 24h via ISR)
   const rawMarkdown = await generateSOP(keyword);
+
+  if (!rawMarkdown || rawMarkdown.includes("Template Generating...")) {
+    return notFound();
+  }
 
   // Strip frontmatter from content using gray-matter
   const { content: cleanBody } = matter(rawMarkdown);

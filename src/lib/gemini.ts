@@ -53,27 +53,6 @@ export async function generateSOP(keyword: string): Promise<string> {
     }
   }
 
-  // 2. Fallback to live API generation
-  const apiKey = getRandomApiKey();
-  const genAI = new GoogleGenerativeAI(apiKey);
-  const model = genAI.getGenerativeModel({ model: "gemini-3.1-flash-lite-preview" });
-
-  const prompt = `You are an expert operations manager. Write a highly detailed, professional Standard Operating Procedure (SOP) and checklist for: '${keyword}'. Output STRICTLY in Markdown. Do not include markdown code block backticks at the start/end of the response. Include: 1) A brief intro paragraph. 2) A step-by-step checklist divided into logical sections using H2s and bullet points. 3) A 'Pro Tips & Pitfalls' section. 4) A short FAQ with 3 questions.`;
-
-  try {
-    const result = await model.generateContent(prompt);
-    const response = await result.response;
-    const text = response.text();
-
-    if (!text) {
-      throw new Error("Gemini returned an empty response");
-    }
-
-    return text;
-  } catch (error) {
-    console.error(`[Gemini] Failed to generate SOP for "${keyword}":`, error);
-
-    // Return a graceful fallback so the page still renders
-    return `# Template Generating...\n\nWe are currently experiencing high demand. The AI is queueing this template.\n\n**Please refresh this page in 60 seconds to view and download your customized SOP.**`;
-  }
+  // 2. LIVE FALLBACK DISABLED (Preventing cost spikes and latency)
+  return "";
 }
