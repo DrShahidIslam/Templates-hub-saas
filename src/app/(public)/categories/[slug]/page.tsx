@@ -51,10 +51,10 @@ export default async function CategoryPage({ params }: { params: Promise<{ slug:
   const keywords = categoryKeywords[categoryName] || slug.split("-");
 
   const filteredTemplates = allTemplates.filter((doc) => {
-    const docCategory = (typeof doc.category === 'string' ? doc.category : "").toLowerCase();
-    const docTags = (Array.isArray(doc.tags) ? doc.tags.join(" ") : typeof doc.tags === 'string' ? doc.tags : "").toLowerCase();
+    const safeCategory = (typeof doc.category === 'string' ? doc.category : "").toLowerCase().trim().replace(/\s+/g, '-');
+    const safeTags = (Array.isArray(doc.tags) ? doc.tags.join("-") : typeof doc.tags === 'string' ? doc.tags : "").toLowerCase().trim().replace(/\s+/g, '-');
     
-    if (docCategory.includes(slug.toLowerCase()) || docTags.includes(slug.toLowerCase())) {
+    if (safeCategory === slug.toLowerCase() || safeTags.includes(slug.toLowerCase())) {
       return true;
     }
 
