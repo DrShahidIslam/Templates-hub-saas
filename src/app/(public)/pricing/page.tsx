@@ -1,11 +1,34 @@
-"use client";
-
+import { Metadata } from "next";
 import Link from "next/link";
 import { Check, Shield } from "lucide-react";
 
+export const metadata: Metadata = {
+  title: "Lifetime Access | Template Registry",
+  description: "Unlock 1,800+ premium B2B templates, Clinical & Academic Grade SOPs, and free lifetime updates with a single ROI-positive investment.",
+  keywords: ["Lifetime Access", "SOP Pricing", "Business Templates Subscription", "Premium SOPs", "ROI"]
+};
+
 export default function PricingPage() {
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Template Registry Lifetime Access",
+    "description": "Unlock 1,800+ premium Standard Operating Procedures, frameworks, and checklists.",
+    "offers": {
+      "@type": "Offer",
+      "price": "297.00",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://templateregistry.com/pricing"
+    }
+  };
+
   return (
     <div className="min-h-screen bg-[#FAFAFA] pt-32 pb-24 px-6 font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+      />
       <div className="max-w-3xl mx-auto text-center mb-16">
         <h1 className="text-4xl md:text-6xl font-serif text-[#111827] mb-6 tracking-tight">
           Standardize Your Excellence

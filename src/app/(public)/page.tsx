@@ -25,6 +25,27 @@ export const metadata: Metadata = {
 export default async function HomePage() {
   const allTemplates = getDocuments('templates', ['title', 'slug', 'description', 'category'])
     .map(t => ({ keyword: t.title || t.slug.replace(/-/g, ' '), slug: t.slug }));
+
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Template Registry",
+    "url": "https://templateregistry.com",
+    "description": "Access 1,800+ professional Standard Operating Procedures, Checklists, and Policies.",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://templateregistry.com/search?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  };
     
-  return <HomePageClient allTemplates={allTemplates} />;
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+      />
+      <HomePageClient allTemplates={allTemplates} />
+    </>
+  );
 }

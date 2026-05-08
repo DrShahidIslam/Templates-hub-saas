@@ -2,14 +2,38 @@ import { Metadata } from "next";
 import { Award, ShieldCheck, BookOpen, Clock } from "lucide-react";
 import Link from "next/link";
 
+import AboutArchitect from "@/app/components/AboutArchitect";
+
 export const metadata: Metadata = {
-  title: "About Us | Template Registry",
-  description: "Learn about our mission to democratize professional operational frameworks and academic SOPs.",
+  title: "Julian Vance | Chief Architect & Process Engineer",
+  description: "Meet Julian Vance, the systems architect behind Template Registry. Specializing in enterprise SOPs, process engineering, and flawless execution frameworks.",
+  keywords: ["Julian Vance", "Process Engineering", "Enterprise SOPs", "Systems Architect", "Operations Executive"]
 };
 
 export default function AboutPage() {
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "ProfilePage",
+    "mainEntity": {
+      "@type": "Person",
+      "name": "Julian Vance",
+      "jobTitle": "Chief Architect",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Template Registry"
+      },
+      "description": "Systems architect and process engineering expert dedicated to scaling businesses through flawless, repeatable execution.",
+      "image": "https://templateregistry.com/images/julian_vance.png",
+      "knowsAbout": ["Process Engineering", "Standard Operating Procedures", "Quality Assurance", "Organizational Scaling"]
+    }
+  };
+
   return (
     <main className="bg-[#FAFAFA] min-h-screen">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+      />
       {/* ── HERO ── */}
       <section className="pt-24 pb-20 px-6 border-b border-gray-100">
         <div className="max-w-4xl mx-auto text-center">
@@ -64,6 +88,9 @@ export default function AboutPage() {
           </div>
         </div>
       </section>
+
+      {/* ── ARCHITECT ── */}
+      <AboutArchitect />
     </main>
   );
 }
