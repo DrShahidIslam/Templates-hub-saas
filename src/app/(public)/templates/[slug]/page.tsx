@@ -119,6 +119,16 @@ export default async function TemplatePage({
   const heroDescription = generateHeroDescription(keyword, titleCased);
   const sidebarDescription = generateSidebarDescription(keyword);
 
+  // 1. Find everything from the start of the hidden div to the end of the file
+  const ghostKeywordRegex = /<div data-html2canvas-ignore="true"[\s\S]*$/;
+  
+  // 2. Create a clean version of the content for the PDF/Screen
+  const finalCleanMarkdown = generatedMarkdown.replace(ghostKeywordRegex, '').trim();
+
+  // 3. Extract just the text of the keywords to keep them in the DOM for SEO
+  const extractedMatch = generatedMarkdown.match(/<div data-html2canvas-ignore="true"[^>]*>([\s\S]*?)<\/div>/);
+  const extractedKeywords = extractedMatch ? extractedMatch[1].trim() : '';
+
   return (
     <>
       {/* ── BREADCRUMB ── */}
@@ -223,9 +233,18 @@ export default async function TemplatePage({
 
                 <TemplatePreviewProtection>
                   <div className="premium-prose">
-                    <MarkdownRenderer content={generatedMarkdown} />
+                    <MarkdownRenderer content={finalCleanMarkdown} />
                   </div>
                 </TemplatePreviewProtection>
+
+                {/* ── GHOST SEO INJECTION (Search Engine Only) ── */}
+                <div 
+                  data-html2canvas-ignore="true" 
+                  style={{ display: 'none' }} 
+                  aria-hidden="true"
+                >
+                  {extractedKeywords}
+                </div>
 
                 {/* ── DOCUMENT FOOTER (PDF BRANDING) ── */}
                 <div className="mt-20 pt-8 border-t border-gray-100 flex justify-between items-center text-[10px] text-gray-400 uppercase tracking-[0.2em]">
