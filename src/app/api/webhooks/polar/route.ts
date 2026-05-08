@@ -13,11 +13,18 @@ export async function POST(request: Request) {
   // Ensure DB is ready
   await initDatabase();
 
+  // 1. MUST read as raw text for signature verification
   const body = await request.text();
-  const signature = request.headers.get('polar-webhook-signature');
+  
+  // 2. Extract standard Svix/Polar webhook headers
+  const webhookHeaders = {
+    'webhook-id': request.headers.get('webhook-id') ?? '',
+    'webhook-timestamp': request.headers.get('webhook-timestamp') ?? '',
+    'webhook-signature': request.headers.get('webhook-signature') ?? '',
+  };
 
-  if (!signature) {
-    return new NextResponse('Missing signature', { status: 401 });
+  if (!webhookHeaders['webhook-signature']) {
+    return new NextResponse('Missing signature header', { status: 401 });
   }
 
   const secret = process.env.POLAR_WEBHOOK_SECRET;
@@ -27,14 +34,12 @@ export async function POST(request: Request) {
   }
 
   try {
-    // 1. Verify Webhook Signature
-    const headers = Object.fromEntries(request.headers.entries());
-    const event = validateEvent(body, headers, secret);
+    // 3. Verify Webhook Signature strictly using mapped headers
+    const event = validateEvent(body, webhookHeaders, secret);
 
     console.log(`🔔 Received Polar Webhook: ${event.type}`);
 
-    // 2. Handle relevant events
-    // Polar sends 'order.created' for one-time purchases and initial subscription orders
+    // 4. Handle relevant events
     if (event.type === 'order.created') {
       const order = event.data as any;
       const customerEmail = order.customer_email || order.customer?.email || order.user_email;
@@ -46,7 +51,6 @@ export async function POST(request: Request) {
       }
     }
 
-    // Optional: Handle subscription.created if using recurring billing
     if (event.type === 'subscription.created') {
       const sub = event.data as any;
       const customerEmail = sub.customer_email || sub.customer?.email || sub.user_email;
@@ -56,8 +60,8 @@ export async function POST(request: Request) {
     }
 
     return NextResponse.json({ received: true });
-  } catch (error) {
-    console.error('❌ Webhook verification failed:', error);
-    return new NextResponse('Invalid signature', { status: 401 });
+  } catch (error: any) {
+    console.error('❌ Webhook verification failed:', error.message || error);
+    return new NextResponse(`Invalid signature: ${error.message || 'Verification Failed'}`, { status: 401 });
   }
 }
