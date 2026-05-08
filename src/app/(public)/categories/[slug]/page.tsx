@@ -8,6 +8,7 @@ import {
   Filter
 } from "lucide-react";
 import { getDocuments } from "outstatic/server";
+import CategorySeoBlock from "@/app/components/CategorySeoBlock";
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
@@ -162,6 +163,9 @@ export default async function CategoryPage({ params }: { params: Promise<{ slug:
           )}
         </div>
       </section>
+
+      {/* ── SEO METHODOLOGY BLOCK ── */}
+      <CategorySeoBlock categoryName={categoryName} />
     </div>
   );
 }
