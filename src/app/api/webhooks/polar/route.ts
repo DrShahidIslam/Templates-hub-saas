@@ -28,15 +28,16 @@ export async function POST(request: Request) {
 
   try {
     // 1. Verify Webhook Signature
-    const event = validateEvent(body, signature, secret);
+    const headers = Object.fromEntries(request.headers.entries());
+    const event = validateEvent(body, headers, secret);
 
     console.log(`🔔 Received Polar Webhook: ${event.type}`);
 
     // 2. Handle relevant events
     // Polar sends 'order.created' for one-time purchases and initial subscription orders
     if (event.type === 'order.created') {
-      const order = event.data;
-      const customerEmail = order.customer_email;
+      const order = event.data as any;
+      const customerEmail = order.customer_email || order.customer?.email || order.user_email;
       const orderId = order.id;
 
       if (customerEmail) {
@@ -47,8 +48,8 @@ export async function POST(request: Request) {
 
     // Optional: Handle subscription.created if using recurring billing
     if (event.type === 'subscription.created') {
-      const sub = event.data;
-      const customerEmail = sub.customer_email;
+      const sub = event.data as any;
+      const customerEmail = sub.customer_email || sub.customer?.email || sub.user_email;
       if (customerEmail) {
         await addPremiumUser(customerEmail, sub.id);
       }
