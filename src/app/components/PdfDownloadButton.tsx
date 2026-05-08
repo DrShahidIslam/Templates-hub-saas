@@ -95,40 +95,28 @@ export default function PdfDownloadButton({ title }: { title: string }) {
             // 0. Remove watermarks and upgrade nudges
             clonedDoc.querySelectorAll('.no-pdf').forEach(el => el.remove());
 
-            // 1. Nuclear scrub of all <style> tags in the head
-            const styleTags = clonedDoc.querySelectorAll('style');
-            styleTags.forEach(style => {
-              if (style.innerHTML) {
-                style.innerHTML = style.innerHTML
-                  .replace(/oklch\([^)]+\)/g, '#000000')
-                  .replace(/lab\([^)]+\)/g, '#000000');
-              }
-            });
-
-            // 2. Scrub every single element's inline and computed styles
-            const allElements = clonedDoc.querySelectorAll('*');
-            allElements.forEach(el => {
-              const htmlEl = el as HTMLElement;
-              if (!htmlEl.style) return;
-
-              const computed = window.getComputedStyle(htmlEl);
-              const propsToCheck = [
-                'color', 'backgroundColor', 'borderColor', 'borderTopColor', 
-                'borderRightColor', 'borderBottomColor', 'borderLeftColor', 
-                'textDecorationColor', 'fill', 'stroke'
-              ] as const;
+            // 1. Target the cloned PDF wrapper directly
+            const pdfContent = clonedDoc.getElementById('pdf-content');
+            if (pdfContent) {
+              pdfContent.style.backgroundColor = '#ffffff';
+              pdfContent.style.color = '#000000';
               
-              propsToCheck.forEach(prop => {
-                const val = computed.getPropertyValue(prop);
-                if (val && (val.includes('lab') || val.includes('oklch'))) {
-                  // Fallbacks: Backgrounds become transparent, everything else becomes black
-                  htmlEl.style.setProperty(prop, prop.toLowerCase().includes('background') ? 'transparent' : '#000000');
+              // 2. Loop through every single descendant to aggressively force safe colors
+              const allElements = pdfContent.querySelectorAll('*');
+              allElements.forEach(el => {
+                const htmlEl = el as HTMLElement;
+                if (!htmlEl.style) return;
+
+                // Strip the modern typography plugin classes that inject oklch variables
+                if (htmlEl.classList.contains('prose')) {
+                  htmlEl.classList.remove('prose', 'prose-lg', 'prose-slate');
                 }
+
+                // Brute-force override all inherited computed styles with inline hex codes
+                htmlEl.style.color = '#000000';
+                htmlEl.style.borderColor = '#e5e7eb';
               });
-              
-              // 3. Force override the Tailwind default border
-              htmlEl.style.borderColor = '#e5e7eb'; // Safe hex gray
-            });
+            }
           }
         },
         jsPDF:        { unit: 'in' as const, format: 'letter' as const, orientation: 'portrait' as const }
