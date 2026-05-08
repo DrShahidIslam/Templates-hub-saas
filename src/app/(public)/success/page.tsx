@@ -10,35 +10,91 @@ import {
   Mail,
   Download,
   ExternalLink,
-  ShieldCheck
+  ShieldCheck,
+  Loader2
 } from "lucide-react";
 import toast from "react-hot-toast";
-import Cookies from "js-cookie";
+import { verifyPolarSession } from "@/app/actions";
 
 export default function SuccessPage() {
-  const [mounted, setMounted] = useState(false);
+  const [status, setStatus] = useState<"loading" | "success" | "error">("loading");
+  const [email, setEmail] = useState<string | null>(null);
 
   useEffect(() => {
-    const timer = setTimeout(async () => {
-      setMounted(true);
+    let isMounted = true;
+    
+    const verifySession = async () => {
       if (typeof window !== "undefined") {
         const searchParams = new URLSearchParams(window.location.search);
-        const emailFromUrl = searchParams.get("email"); // Assume Polar or we pass it
+        const sessionId = searchParams.get("session_id");
         
-        if (emailFromUrl) {
-          Cookies.set("user_email", emailFromUrl, { expires: 365 });
-          toast.success("Lifetime Access Activated!", {
-            duration: 5000,
-            icon: '💎',
-          });
+        if (!sessionId) {
+          if (isMounted) setStatus("error");
+          return;
+        }
+
+        try {
+          const result = await verifyPolarSession(sessionId);
+          if (isMounted) {
+            if (result.success) {
+              setStatus("success");
+              setEmail(result.email || null);
+              toast.success("Lifetime Access Activated!", {
+                duration: 5000,
+                icon: '💎',
+              });
+            } else {
+              setStatus("error");
+              console.error("Session verification failed:", result.error);
+            }
+          }
+        } catch (error) {
+          if (isMounted) setStatus("error");
+          console.error("Session verification error:", error);
         }
       }
-    }, 0);
+    };
 
-    return () => clearTimeout(timer);
+    verifySession();
+
+    return () => {
+      isMounted = false;
+    };
   }, []);
 
-  if (!mounted) return null;
+  if (status === "loading") {
+    return (
+      <div className="bg-[#FAFAFA] min-h-screen flex items-center justify-center px-6">
+        <div className="text-center">
+          <Loader2 className="w-12 h-12 text-indigo-600 animate-spin mx-auto mb-6" />
+          <h2 className="text-2xl font-serif text-gray-900 mb-2">Verifying your purchase...</h2>
+          <p className="text-gray-500">Please do not close this window.</p>
+        </div>
+      </div>
+    );
+  }
+
+  if (status === "error") {
+    return (
+      <div className="bg-[#FAFAFA] min-h-screen flex items-center justify-center px-6">
+        <div className="text-center max-w-md">
+          <div className="w-16 h-16 bg-red-50 text-red-600 rounded-full flex items-center justify-center mx-auto mb-6">
+            <Zap className="w-8 h-8" />
+          </div>
+          <h2 className="text-2xl font-serif text-gray-900 mb-4">Verification Incomplete</h2>
+          <p className="text-gray-500 mb-8 leading-relaxed">
+            We couldn't instantly verify your session. If you just completed a purchase, your access will be granted automatically within a few minutes via email.
+          </p>
+          <Link 
+            href="/templates"
+            className="inline-flex items-center gap-2 px-8 py-4 bg-[#111827] text-white rounded-xl font-bold hover:bg-gray-800 transition-all"
+          >
+            Go to Registry
+          </Link>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="bg-[#FAFAFA] min-h-screen pt-32 pb-24 px-6 selection:bg-indigo-100 selection:text-indigo-900">
@@ -61,7 +117,7 @@ export default function SuccessPage() {
           </h1>
 
           <p className="text-lg text-gray-500 mb-12 max-w-xl mx-auto leading-relaxed">
-            Your Lifetime All-Access Pass is now active. You have unlocked 1,800+ templates with zero restrictions.
+            Your Lifetime All-Access Pass is now active{email ? ` for ${email}` : ''}. You have unlocked 1,800+ templates with zero restrictions.
           </p>
 
           {/* ── PRO FEATURE GUIDE ── */}

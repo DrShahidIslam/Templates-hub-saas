@@ -1,10 +1,12 @@
 "use server";
 
-import { isUserPremium, initDatabase, setOTP, verifyOTP, clearOTP } from "@/lib/db";
+import { isUserPremium, initDatabase, setOTP, verifyOTP, clearOTP, addPremiumUser } from "@/lib/db";
 import { cookies } from "next/headers";
 import { Resend } from "resend";
+import { Polar } from "@polar-sh/sdk";
 
 const resend = new Resend(process.env.RESEND_API_KEY);
+const polar = new Polar({ accessToken: process.env.POLAR_ACCESS_TOKEN });
 
 /**
  * actions.ts
@@ -94,6 +96,47 @@ export async function verifyOTPAction(email: string, code: string) {
   });
 
   return { success: true };
+}
+
+/**
+ * Verifies a Polar checkout session.
+ * If succeeded, it adds the user to the premium_users database (as a failsafe to webhooks)
+ * and issues the secure HttpOnly premium_session cookie.
+ */
+export async function verifyPolarSession(sessionId: string) {
+  if (!sessionId) return { success: false, error: "Session ID is required." };
+
+  try {
+    const checkout = await polar.checkouts.get({ id: sessionId });
+    
+    if (checkout.status === "succeeded") {
+      const customerEmail = checkout.customerEmail || (checkout as any).customer?.email;
+      
+      if (!customerEmail) {
+        return { success: false, error: "Could not retrieve email from checkout." };
+      }
+
+      // Failsafe: Add to DB immediately in case webhook is delayed
+      await addPremiumUser(customerEmail, checkout.id);
+
+      // Drop secure session cookie
+      const cookieStore = await cookies();
+      cookieStore.set("premium_session", customerEmail, {
+        maxAge: 60 * 60 * 24 * 365 * 10, // 10 years
+        httpOnly: true,
+        secure: process.env.NODE_ENV === "production",
+        path: "/",
+        sameSite: "lax"
+      });
+
+      return { success: true, email: customerEmail };
+    } else {
+      return { success: false, error: "Checkout not completed." };
+    }
+  } catch (error) {
+    console.error("Polar session verification failed:", error);
+    return { success: false, error: "Failed to verify session." };
+  }
 }
 
 /**

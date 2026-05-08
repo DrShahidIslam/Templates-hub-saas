@@ -7,43 +7,38 @@ import Link from "next/link";
 
 export default function PdfDownloadButton({ title }: { title: string }) {
   const [isGenerating, setIsGenerating] = useState(false);
-  const [downloadCount, setDownloadCount] = useState(0);
   const [isPremium, setIsPremium] = useState(false);
   const [showPaywallModal, setShowPaywallModal] = useState(false);
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
-    const timer = setTimeout(async () => {
-      setMounted(true);
-
+    let isMounted = true;
+    
+    const initAuth = async () => {
       if (typeof window !== "undefined") {
-        // 1. Authenticate via secure HttpOnly server cookie
         try {
           // checkPremiumStatus() reads the premium_session cookie on the server
           const premium = await checkPremiumStatus();
-          setIsPremium(premium);
+          if (isMounted) setIsPremium(premium);
         } catch (err) {
           console.error("Auth check failed:", err);
         }
-
-        // 2. Check for success param (post-purchase redirect)
-        const searchParams = new URLSearchParams(window.location.search);
-        if (searchParams.get('success') === 'true') {
-          window.history.replaceState({}, "", window.location.pathname);
-        }
-
-        // 3. Track free anonymous downloads locally
-        const storedCount = parseInt(localStorage.getItem("templatehub_downloads") || "0", 10);
-        setDownloadCount(storedCount);
       }
-    }, 0);
+      if (isMounted) setMounted(true);
+    };
 
-    return () => clearTimeout(timer);
+    initAuth();
+
+    return () => {
+      isMounted = false;
+    };
   }, []);
 
   const handleDownload = async () => {
-    // Check metered paywall limit
-    if (!isPremium && downloadCount >= 3) {
+    // Strictly verify premium status securely on the server before generating PDF
+    const serverVerifiedPremium = await checkPremiumStatus();
+    
+    if (!serverVerifiedPremium) {
       setShowPaywallModal(true);
       return;
     }
@@ -130,13 +125,6 @@ export default function PdfDownloadButton({ title }: { title: string }) {
       console.log("4. Executing html2pdf...");
       await html2pdf().set(opt).from(element).save();
       console.log("5. PDF successfully downloaded!");
-
-      // Increment count on successful download for free users
-      if (!isPremium) {
-        const newCount = downloadCount + 1;
-        setDownloadCount(newCount);
-        localStorage.setItem("templatehub_downloads", newCount.toString());
-      }
     } catch (error) {
       console.error("PDF Generation FAILED:", error);
       alert("There was an issue generating the PDF. Please check the console.");
@@ -152,7 +140,7 @@ export default function PdfDownloadButton({ title }: { title: string }) {
     ? "Generating PDF..."
     : isPremium
     ? "Download PDF (Pro)"
-    : `Download as PDF (${3 - downloadCount}/3 Free)`;
+    : "Get Lifetime Access";
 
   return (
     <>
