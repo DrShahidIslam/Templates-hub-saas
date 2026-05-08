@@ -145,3 +145,22 @@ body {
 .cta-pulse {
   animation: subtle-pulse 3s ease-in-out infinite;
 }
+
+/* ────────────────────────────────────────────────────────
+   PDF GENERATION FALLBACKS (HTML2CANVAS CRASH PREVENTION)
+   Tailwind v4 preflight sets border-color, outline-color,
+   and other properties using modern oklch/lab functions on
+   all elements (*). HTML2Canvas attempts to parse these
+   and crashes. This strictly forces safe hex colors.
+   ──────────────────────────────────────────────────────── */
+#pdf-content,
+#pdf-content *,
+#pdf-content ::before,
+#pdf-content ::after {
+  border-color: #e5e5e5 !important;
+  outline-color: transparent !important;
+  text-decoration-color: inherit !important;
+  caret-color: inherit !important;
+  column-rule-color: inherit !important;
+  box-shadow: none !important;
+}
