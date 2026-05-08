@@ -4,7 +4,7 @@ import { MetadataRoute } from "next";
 import { getDocuments } from "outstatic/server";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = "https://www.templateregistry.com";
+  const baseUrl = process.env.NEXT_PUBLIC_APP_URL || "https://www.templateregistry.com";
 
   // 1. Fetch all templates for dynamic indexing
   const templates = await getDocuments("templates", ["slug", "publishedAt"]);
@@ -33,10 +33,34 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 1.0,
     },
     {
+      url: `${baseUrl}/about`,
+      lastModified: new Date(),
+      changeFrequency: "monthly" as const,
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/pricing`,
+      lastModified: new Date(),
+      changeFrequency: "weekly" as const,
+      priority: 0.9,
+    },
+    {
       url: `${baseUrl}/templates`,
       lastModified: new Date(),
       changeFrequency: "daily" as const,
       priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/categories`,
+      lastModified: new Date(),
+      changeFrequency: "weekly" as const,
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/search`,
+      lastModified: new Date(),
+      changeFrequency: "weekly" as const,
+      priority: 0.7,
     },
     {
       url: `${baseUrl}/blog`,
