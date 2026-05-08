@@ -73,16 +73,34 @@ export default function PdfDownloadButton({ title }: { title: string }) {
             // 0. Remove watermarks and upgrade nudges
             clonedDoc.querySelectorAll('.no-pdf').forEach(el => el.remove());
 
-            // 1. Target the cloned PDF wrapper directly
+            // 1. Inject Scorched Earth CSS Reset to override all global variables and computed styles
+            const style = clonedDoc.createElement('style');
+            style.innerHTML = `
+              :root {
+                --background: #ffffff !important;
+                --foreground: #000000 !important;
+                --tw-prose-body: #000000 !important;
+                --tw-prose-headings: #000000 !important;
+                --tw-prose-links: #000000 !important;
+              }
+              * {
+                color: #000000 !important;
+                background-color: transparent !important;
+                border-color: #cccccc !important;
+              }
+              #pdf-content {
+                background-color: #ffffff !important;
+              }
+            `;
+            clonedDoc.head.appendChild(style);
+
+            // 2. Target the cloned PDF wrapper directly
             const pdfContent = clonedDoc.getElementById('pdf-content');
             if (pdfContent) {
               pdfContent.removeAttribute('class');
-              pdfContent.style.backgroundColor = '#ffffff';
-              pdfContent.style.color = '#000000';
-              pdfContent.style.fontFamily = 'sans-serif';
               pdfContent.style.padding = '40px';
               
-              // 2. Loop through every single descendant to aggressively force safe colors
+              // 3. Loop through every single descendant to aggressively force safe colors
               const allElements = pdfContent.querySelectorAll('*');
               allElements.forEach(el => {
                 const htmlEl = el as HTMLElement;
@@ -92,9 +110,10 @@ export default function PdfDownloadButton({ title }: { title: string }) {
 
                 if (!htmlEl.style) return;
 
-                // Brute-force override all inherited computed styles with inline hex codes
-                htmlEl.style.color = '#000000';
-                htmlEl.style.borderColor = '#e5e7eb';
+                // Explicitly clear any inline styles that might contain lab or oklch values
+                htmlEl.style.color = '';
+                htmlEl.style.backgroundColor = '';
+                htmlEl.style.borderColor = '';
                 htmlEl.style.fontFamily = 'sans-serif';
               });
             }
