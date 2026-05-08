@@ -6,11 +6,19 @@ import { neon } from '@neondatabase/serverless';
  * Neon Serverless Postgres integration for premium user management.
  */
 
-if (!process.env.DATABASE_URL) {
-  throw new Error('DATABASE_URL is not defined in environment variables.');
-}
-
-const sql = neon(process.env.DATABASE_URL);
+// Lazy initialization to prevent Next.js static build crashes
+const getDb = () => {
+  if (!process.env.DATABASE_URL) {
+    if (process.env.NODE_ENV === 'production') {
+      console.warn('DATABASE_URL is not defined. Database operations will fail.');
+    }
+    // Return a dummy client that throws during execution, not during module load
+    return Object.assign(() => { throw new Error('DATABASE_URL is not defined.'); }, {
+      transaction: () => { throw new Error('DATABASE_URL is not defined.'); }
+    }) as any;
+  }
+  return neon(process.env.DATABASE_URL);
+};
 
 /**
  * Initialize the database table for premium users.
@@ -18,6 +26,7 @@ const sql = neon(process.env.DATABASE_URL);
  */
 export async function initDatabase() {
   try {
+    const sql = getDb();
     await sql`
       CREATE TABLE IF NOT EXISTS premium_users (
         id SERIAL PRIMARY KEY,
@@ -40,6 +49,7 @@ export async function isUserPremium(email: string): Promise<boolean> {
   if (!email) return false;
   
   try {
+    const sql = getDb();
     const result = await sql`SELECT id FROM premium_users WHERE email = ${email.toLowerCase()}`;
     return result.length > 0;
   } catch (error) {
@@ -53,6 +63,7 @@ export async function isUserPremium(email: string): Promise<boolean> {
  */
 export async function addPremiumUser(email: string, polarOrderId: string) {
   try {
+    const sql = getDb();
     await sql`
       INSERT INTO premium_users (email, polar_order_id) VALUES (${email.toLowerCase()}, ${polarOrderId}) ON CONFLICT (email) DO NOTHING
     `;
