@@ -98,23 +98,26 @@ export default function PdfDownloadButton({ title }: { title: string }) {
             // 1. Target the cloned PDF wrapper directly
             const pdfContent = clonedDoc.getElementById('pdf-content');
             if (pdfContent) {
+              pdfContent.removeAttribute('class');
               pdfContent.style.backgroundColor = '#ffffff';
               pdfContent.style.color = '#000000';
+              pdfContent.style.fontFamily = 'sans-serif';
+              pdfContent.style.padding = '40px';
               
               // 2. Loop through every single descendant to aggressively force safe colors
               const allElements = pdfContent.querySelectorAll('*');
               allElements.forEach(el => {
                 const htmlEl = el as HTMLElement;
-                if (!htmlEl.style) return;
+                
+                // Nuclear option: completely sever the element from Tailwind and all stylesheets
+                htmlEl.removeAttribute('class');
 
-                // Strip the modern typography plugin classes that inject oklch variables
-                if (htmlEl.classList.contains('prose')) {
-                  htmlEl.classList.remove('prose', 'prose-lg', 'prose-slate');
-                }
+                if (!htmlEl.style) return;
 
                 // Brute-force override all inherited computed styles with inline hex codes
                 htmlEl.style.color = '#000000';
                 htmlEl.style.borderColor = '#e5e7eb';
+                htmlEl.style.fontFamily = 'sans-serif';
               });
             }
           }
