@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   }
 };
 
-export default function HomePage() {
-  const allTemplates = getAllKeywords();
+export default async function HomePage() {
+  const allTemplates = await getAllKeywords();
   return <HomePageClient allTemplates={allTemplates} />;
 }

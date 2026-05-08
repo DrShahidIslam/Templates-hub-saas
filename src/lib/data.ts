@@ -1,44 +1,20 @@
-import fs from "fs";
-import path from "path";
+import { getDocuments } from "outstatic/server";
 
 export interface KeywordEntry {
-  /** The original keyword exactly as it appears in the CSV */
   keyword: string;
-  /** URL-friendly slug: lowercase, kebab-case, no special characters */
   slug: string;
 }
 
-/**
- * Convert a raw keyword string into a URL-safe kebab-case slug.
- *
- * Rules:
- *  - Lowercased
- *  - Spaces / underscores → hyphens
- *  - Strip everything except a-z, 0-9, and hyphens
- *  - Collapse consecutive hyphens
- *  - Trim leading/trailing hyphens
- */
-function toSlug(keyword: string): string {
-  return keyword
-    .toLowerCase()
-    .trim()
-    .replace(/[\s_]+/g, "-") // spaces & underscores → hyphens
-    .replace(/[^a-z0-9-]/g, "") // strip non-alphanumeric (except hyphens)
-    .replace(/-{2,}/g, "-") // collapse multiple hyphens
-    .replace(/^-|-$/g, ""); // trim leading/trailing hyphens
-}
-
-/**
- * Title-case a raw keyword string for display.
- * Keeps small words (a, an, the, for, in, of, on, to, and, or, with, at, by)
- * lowercase unless they are the first word.
- */
 const SMALL_WORDS = new Set([
   "a", "an", "the", "for", "in", "of", "on", "to",
   "and", "or", "with", "at", "by", "is", "vs",
 ]);
 
+/**
+ * Title-case a raw keyword string for display.
+ */
 export function toTitleCase(keyword: string): string {
+  if (!keyword) return "";
   return keyword
     .trim()
     .split(/\s+/)
@@ -52,65 +28,34 @@ export function toTitleCase(keyword: string): string {
     .join(" ");
 }
 
-// ─── Cache ──────────────────────────────────────────────────────────────────
-
-let _cache: KeywordEntry[] | null = null;
-
 /**
- * Read and parse `seo_keywords.csv` from the project root.
- * Returns a de-duplicated array of { keyword, slug } objects.
- * Results are cached in-memory for the lifetime of the process.
+ * Fetch all templates from Outstatic and map to KeywordEntry.
  */
-export function getAllKeywords(): KeywordEntry[] {
-  if (_cache) return _cache;
-
-  const csvPath = path.join(process.cwd(), "seo_keywords.csv");
-  const raw = fs.readFileSync(csvPath, "utf-8");
-
-  const seenSlugs = new Set<string>();
-  const entries: KeywordEntry[] = [];
-
-  const lines = raw.split(/\r?\n/);
-
-  // Skip header row (line 0) and process the rest
-  for (let i = 1; i < lines.length; i++) {
-    const keyword = lines[i].trim();
-    if (!keyword) continue;
-
-    const slug = toSlug(keyword);
-    if (!slug || seenSlugs.has(slug)) continue;
-
-    seenSlugs.add(slug);
-    entries.push({ keyword, slug });
-  }
-
-  _cache = entries;
-  return entries;
+export async function getAllKeywords(): Promise<KeywordEntry[]> {
+  const templates = await getDocuments("templates", ["title", "slug"]);
+  return templates.map((t) => ({
+    keyword: t.title,
+    slug: t.slug,
+  }));
 }
 
 /**
- * Look up a single keyword entry by its slug.
- * Returns `undefined` if no match is found.
+ * Look up a single keyword entry by its slug via Outstatic.
  */
-export function getKeywordBySlug(slug: string): KeywordEntry | undefined {
-  return getAllKeywords().find((entry) => entry.slug === slug);
+export async function getKeywordBySlug(slug: string): Promise<KeywordEntry | undefined> {
+  const all = await getAllKeywords();
+  return all.find((entry) => entry.slug === slug);
 }
 
 /**
- * Return all unique slugs — used by `generateStaticParams`.
+ * Get a random selection of related keywords via Outstatic.
  */
-export function getAllSlugs(): string[] {
-  return getAllKeywords().map((entry) => entry.slug);
-}
-
-/**
- * Get a random selection of related keywords, excluding the current slug.
- */
-export function getRelatedKeywords(currentSlug: string, count: number = 3): KeywordEntry[] {
-  const all = getAllKeywords().filter((entry) => entry.slug !== currentSlug);
+export async function getRelatedKeywords(currentSlug: string, count: number = 3): Promise<KeywordEntry[]> {
+  const all = await getAllKeywords();
+  const filtered = all.filter((entry) => entry.slug !== currentSlug);
   
   // Random shuffle
-  const shuffled = all.sort(() => 0.5 - Math.random());
+  const shuffled = filtered.sort(() => 0.5 - Math.random());
   
   return shuffled.slice(0, count);
 }

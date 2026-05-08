@@ -53,7 +53,7 @@ export async function generateMetadata({
     "coverImage",
   ]);
 
-  const entry = getKeywordBySlug(slug);
+  const entry = await getKeywordBySlug(slug);
   const keyword = entry?.keyword ?? slug.replace(/-/g, " ");
   const rawTitle = template?.title || (entry ? toTitleCase(entry.keyword) : toTitleCase(slug.replace(/-/g, " ")));
   const title = `${rawTitle} | Template Registry`;
@@ -108,13 +108,13 @@ export default async function TemplatePage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const entry = getKeywordBySlug(slug);
+  const entry = await getKeywordBySlug(slug);
 
   // The original keyword (lowercase, natural) and title-cased version
   const keyword = entry?.keyword ?? slug.replace(/-/g, " ");
   const titleCased = toTitleCase(keyword);
 
-  const relatedKeywords = getRelatedKeywords(slug);
+  const relatedKeywords = await getRelatedKeywords(slug);
 
   // Generate the SOP content via Gemini 2.5 Flash (cached for 24h via ISR)
   const rawMarkdown = await generateSOP(keyword);
@@ -127,7 +127,7 @@ export default async function TemplatePage({
   const { content: cleanBody } = matter(rawMarkdown);
 
   // Apply the SEO internal linker
-  const allKeywords = getAllKeywords();
+  const allKeywords = await getAllKeywords();
   // Filter out the current slug so we don't link to ourselves
   const availableTemplates = allKeywords.filter(k => k.slug !== slug);
   const generatedMarkdown = injectInternalLinks(cleanBody, availableTemplates);

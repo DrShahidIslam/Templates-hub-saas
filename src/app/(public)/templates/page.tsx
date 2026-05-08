@@ -18,7 +18,7 @@ export default async function TemplatesIndexPage({
   const { page: pageStr } = await searchParams;
   const page = Math.max(1, parseInt(pageStr || "1", 10));
   
-  const allKeywords = getAllKeywords();
+  const allKeywords = await getAllKeywords();
   const totalItems = allKeywords.length;
   const totalPages = Math.ceil(totalItems / ITEMS_PER_PAGE);
   
