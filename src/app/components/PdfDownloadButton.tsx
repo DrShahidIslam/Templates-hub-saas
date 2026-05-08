@@ -91,6 +91,10 @@ export default function PdfDownloadButton({ title }: { title: string }) {
               #pdf-content {
                 background-color: #ffffff !important;
               }
+              p, h1, h2, h3, h4, h5, li, tr, blockquote {
+                page-break-inside: avoid !important;
+                break-inside: avoid !important;
+              }
             `;
             clonedDoc.head.appendChild(style);
 
@@ -119,6 +123,7 @@ export default function PdfDownloadButton({ title }: { title: string }) {
             }
           }
         },
+        pagebreak:    { mode: ['css', 'legacy'], avoid: 'p, h1, h2, h3, h4, h5, li, tr, blockquote' },
         jsPDF:        { unit: 'in' as const, format: 'letter' as const, orientation: 'portrait' as const }
       };
 
