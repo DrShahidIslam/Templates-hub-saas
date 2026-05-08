@@ -45,7 +45,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { slug } = await params;
   
-  // Fetch from Outstatic for dynamic SEO fields
+  // 1. Fetch from Outstatic for basic SEO
   const template = await getDocumentBySlug("templates", slug, [
     "title",
     "description",
@@ -53,13 +53,20 @@ export async function generateMetadata({
   ]);
 
   const entry = getKeywordBySlug(slug);
+  const keyword = entry?.keyword ?? slug.replace(/-/g, " ");
   const rawTitle = template?.title || (entry ? toTitleCase(entry.keyword) : toTitleCase(slug.replace(/-/g, " ")));
   const title = `${rawTitle} | Template Registry`;
   const description = template?.description || `Download our free ${rawTitle} template. A comprehensive, step-by-step guide with actionable checklists, pro tips, and FAQs. Available as PDF and Notion export — no signup required.`;
 
+  // 2. Extract Ghost SEO Keywords from raw content for the meta keywords tag
+  const rawMarkdown = await generateSOP(keyword);
+  const extractedMatch = rawMarkdown.match(/<div data-html2canvas-ignore="true"[^>]*>([\s\S]*?)<\/div>/);
+  const keywordsList = extractedMatch ? extractedMatch[1].trim() : "";
+
   return {
     title,
     description,
+    keywords: keywordsList, // Correctly injecting keywords into the HTML head
     openGraph: {
       title,
       description,
@@ -234,15 +241,6 @@ export default async function TemplatePage({
 
                   <div className="premium-prose">
                     <MarkdownRenderer content={finalCleanMarkdown} />
-                  </div>
-
-                  {/* ── GHOST SEO INJECTION (Search Engine Only) ── */}
-                  <div 
-                    data-html2canvas-ignore="true" 
-                    style={{ display: 'none' }} 
-                    aria-hidden="true"
-                  >
-                    {extractedKeywords}
                   </div>
                 </TemplatePreviewProtection>
 
