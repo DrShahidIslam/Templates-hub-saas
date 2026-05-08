@@ -49,7 +49,7 @@ export default async function SearchPage({
     });
 
     const results = fuse.search(query);
-    filteredTemplates = results.map(r => r.item);
+    filteredTemplates = results.map(r => ({ ...r.item, description: r.item.description || '' })) as Template[];
   }
 
   return (
