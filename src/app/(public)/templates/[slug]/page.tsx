@@ -1,9 +1,7 @@
 import type { Metadata } from "next";
 import {
   FileText,
-  ExternalLink,
   ArrowRight,
-  Layers,
   ClipboardCheck,
   Clock,
 } from "lucide-react";
@@ -140,10 +138,6 @@ export default async function TemplatePage({
   
   // 2. Create a clean version of the content for the PDF/Screen
   const finalCleanMarkdown = generatedMarkdown.replace(ghostKeywordRegex, '').trim();
-
-  // 3. Extract just the text of the keywords to keep them in the DOM for SEO
-  const extractedMatch = generatedMarkdown.match(/<div data-html2canvas-ignore="true"[^>]*>([\s\S]*?)<\/div>/);
-  const extractedKeywords = extractedMatch ? extractedMatch[1].trim() : '';
 
   return (
     <>
@@ -362,7 +356,8 @@ export default async function TemplatePage({
                 </div>
               </div>
 
-              {/* Newsletter micro-CTA */}
+              {/* Newsletter micro-CTA (Hidden until email API integration) */}
+              {/* 
               <div className="mt-4 rounded-2xl border border-border bg-muted/50 p-5">
                 <p className="text-sm font-medium text-foreground mb-1">
                   Get new templates weekly
@@ -385,6 +380,7 @@ export default async function TemplatePage({
                   </button>
                 </div>
               </div>
+              */}
             </div>
           </aside>
         </div>

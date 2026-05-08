@@ -1,5 +1,4 @@
 import { Mail, MessageCircle, ArrowRight } from "lucide-react";
-import Link from "next/link";
 
 export const metadata = {
   title: "Contact Us — Template Registry",
@@ -42,7 +41,7 @@ export default function ContactPage() {
           </div>
           <h2 className="font-serif text-3xl text-[#111827] mb-4">Suggestions</h2>
           <p className="text-gray-500 mb-8 leading-relaxed">
-            Don't see a specific template you need? Let us know. We prioritize our research based on user demand.
+            Don&apos;t see a specific template you need? Let us know. We prioritize our research based on user demand.
           </p>
           <div className="text-sm font-bold text-gray-400 uppercase tracking-widest">
             Always Listening

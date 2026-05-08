@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Menu, X, ArrowRight, Search } from "lucide-react";
+import { Menu, X, Search } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 
 const navLinks = [
@@ -14,6 +14,8 @@ const navLinks = [
 
 const POLAR_CHECKOUT_URL =
   "https://buy.polar.sh/polar_cl_SvXvG4jukzotDEekGNPrlidHn7MXXdXlQJSeT2Kt33l?success_url=https://templateregistry.com/success";
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+const placeholder = POLAR_CHECKOUT_URL;
 
 export default function Navbar() {
   const pathname = usePathname();
@@ -21,9 +23,6 @@ export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);
 
   const [searchQuery, setSearchQuery] = useState("");
-
-  // Programmatic Kill-Switch for Admin Routes
-  if (pathname?.startsWith("/outstatic")) return null;
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
@@ -39,6 +38,9 @@ export default function Navbar() {
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
+
+  // Programmatic Kill-Switch for Admin Routes (Moved after hooks to avoid lint errors)
+  if (pathname?.startsWith("/outstatic")) return null;
 
   return (
     <header 

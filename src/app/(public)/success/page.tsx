@@ -6,7 +6,6 @@ import { motion } from "framer-motion";
 import { 
   CheckCircle2, 
   ArrowRight, 
-  FileText, 
   Zap, 
   Mail,
   Download,
@@ -14,21 +13,29 @@ import {
   ShieldCheck
 } from "lucide-react";
 import toast from "react-hot-toast";
+import Cookies from "js-cookie";
 
 export default function SuccessPage() {
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
-    setMounted(true);
-    if (typeof window !== "undefined") {
-      // Set premium status
-      localStorage.setItem("isPremium", "true");
-      localStorage.setItem("templatehub_premium", "true");
-      toast.success("Lifetime Access Activated!", {
-        duration: 5000,
-        icon: '💎',
-      });
-    }
+    const timer = setTimeout(async () => {
+      setMounted(true);
+      if (typeof window !== "undefined") {
+        const searchParams = new URLSearchParams(window.location.search);
+        const emailFromUrl = searchParams.get("email"); // Assume Polar or we pass it
+        
+        if (emailFromUrl) {
+          Cookies.set("user_email", emailFromUrl, { expires: 365 });
+          toast.success("Lifetime Access Activated!", {
+            duration: 5000,
+            icon: '💎',
+          });
+        }
+      }
+    }, 0);
+
+    return () => clearTimeout(timer);
   }, []);
 
   if (!mounted) return null;
@@ -87,9 +94,9 @@ export default function SuccessPage() {
                 <Zap className="w-5 h-5 text-amber-400 fill-amber-400" />
                 <span className="text-xs font-bold text-gray-400 uppercase tracking-widest">Pro Benefit</span>
               </div>
-              <h3 className="text-2xl font-serif text-white mb-4">Can't find a specific template?</h3>
+              <h3 className="text-2xl font-serif text-white mb-4">Can&apos;t find a specific template?</h3>
               <p className="text-gray-400 mb-6 leading-relaxed">
-                As a Pro member, you can request custom SOPs for your industry. Email us and we'll prioritize your niche in our next 500-template batch.
+                As a Pro member, you can request custom SOPs for your industry. Email us and we&apos;ll prioritize your niche in our next 500-template batch.
               </p>
               <a 
                 href="mailto:support@templateregistry.com" 

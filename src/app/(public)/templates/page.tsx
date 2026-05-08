@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import { Layers, FileText, ArrowRight } from "lucide-react";
+import { FileText, ArrowRight } from "lucide-react";
 import { getAllKeywords, toTitleCase } from "@/lib/data";
 import Link from "next/link";
 

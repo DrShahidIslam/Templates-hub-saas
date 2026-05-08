@@ -2,29 +2,32 @@
 
 import { Lock, ArrowRight } from "lucide-react";
 import { useState, useEffect } from "react";
+import { checkPremiumStatus } from "@/app/actions";
+import Cookies from "js-cookie";
 
 /**
  * TemplatePreviewProtection
  * 
  * Discourages direct copying of templates for non-Pro users.
- * Features:
- * - DRAFT PREVIEW watermark (hidden in PDF)
- * - Disable text selection for free users
- * - Disable right-click on content
- * - Upgrade nudge card
  */
 export default function TemplatePreviewProtection({ children }: { children: React.ReactNode }) {
   const [isPremium, setIsPremium] = useState(false);
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
-    setMounted(true);
-    if (typeof window !== "undefined") {
-      const premium =
-        localStorage.getItem("isPremium") === "true" ||
-        localStorage.getItem("templatehub_premium") === "true";
-      setIsPremium(premium);
-    }
+    const timer = setTimeout(async () => {
+      setMounted(true);
+
+      if (typeof window !== "undefined") {
+        const storedEmail = Cookies.get("user_email");
+        if (storedEmail) {
+          const premium = await checkPremiumStatus(storedEmail);
+          setIsPremium(premium);
+        }
+      }
+    }, 0);
+
+    return () => clearTimeout(timer);
   }, []);
 
   // Simple right-click prevention for non-Pro users

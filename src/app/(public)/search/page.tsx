@@ -25,7 +25,15 @@ export default async function SearchPage({
     "publishedAt",
   ]);
 
-  let filteredTemplates: any[] = [];
+  interface Template {
+    title: string;
+    slug: string;
+    description: string;
+    content: string;
+    publishedAt: string;
+  }
+
+  let filteredTemplates: Template[] = [];
 
   if (query) {
     const fuse = new Fuse(allTemplates, {
@@ -89,7 +97,7 @@ export default async function SearchPage({
             </div>
             <h3 className="text-xl font-semibold text-gray-900 mb-2">No results found</h3>
             <p className="text-gray-500 max-w-sm mx-auto mb-8">
-              We couldn't find any templates for "{query}". Try searching for broader terms like "HR", "Sales", or "SOP".
+              We couldn&apos;t find any templates for &quot;{query}&quot;. Try searching for broader terms like &quot;HR&quot;, &quot;Sales&quot;, or &quot;SOP&quot;.
             </p>
             <Link 
               href="/templates" 

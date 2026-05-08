@@ -1,4 +1,4 @@
-import Link from "next/link";
+
 
 export const metadata = {
   title: "Terms of Service — Template Registry",
@@ -30,14 +30,14 @@ export default function TermsPage() {
         <section>
           <h2 className="text-2xl font-semibold text-[#111827] mb-6">2. Usage License</h2>
           <p className="text-gray-600 leading-relaxed">
-            Subject to these terms, we grant you a non-exclusive, non-transferable license to download and modify our templates for internal business use. "Internal business use" means you can use them to run your company, but you cannot create a competing template marketplace using our assets.
+            Subject to these terms, we grant you a non-exclusive, non-transferable license to download and modify our templates for internal business use. &quot;Internal business use&quot; means you can use them to run your company, but you cannot create a competing template marketplace using our assets.
           </p>
         </section>
 
         <section>
           <h2 className="text-2xl font-semibold text-[#111827] mb-6">3. No Warranty</h2>
           <p className="text-gray-600 leading-relaxed">
-            Our templates are provided "as is" for educational and organizational purposes. While curated with academic precision, we do not guarantee specific business outcomes or legal compliance for your specific jurisdiction. Always consult with a qualified professional before implementing critical policies.
+            Our templates are provided &quot;as is&quot; for educational and organizational purposes. While curated with academic precision, we do not guarantee specific business outcomes or legal compliance for your specific jurisdiction. Always consult with a qualified professional before implementing critical policies.
           </p>
         </section>
 

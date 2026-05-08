@@ -126,7 +126,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                   href="/templates" 
                   className="text-xs font-bold text-indigo-600 uppercase tracking-widest hover:underline"
                 >
-                  Browse Author's Library
+                  Browse Author&apos;s Library
                 </Link>
               </div>
             </div>

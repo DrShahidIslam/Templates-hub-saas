@@ -1,8 +1,10 @@
 "use client";
 
-import { ExternalLink, Check, Lock, X } from "lucide-react";
+import { ExternalLink, Check, Lock } from "lucide-react";
 import { useState, useEffect } from "react";
 import toast from "react-hot-toast";
+import { checkPremiumStatus } from "@/app/actions";
+import Cookies from "js-cookie";
 
 interface NotionExportButtonProps {
   markdownContent: string;
@@ -14,25 +16,24 @@ export default function NotionExportButton({ markdownContent }: NotionExportButt
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
-    setMounted(true);
+    const timer = setTimeout(async () => {
+      setMounted(true);
 
-    if (typeof window !== "undefined") {
-      // Check for premium status
-      const premium =
-        localStorage.getItem("isPremium") === "true" ||
-        localStorage.getItem("templatehub_premium") === "true";
-      
-      // Check URL for success redirect
-      const searchParams = new URLSearchParams(window.location.search);
-      if (searchParams.get("success") === "true") {
-        localStorage.setItem("isPremium", "true");
-        setIsPremium(true);
-        // Clean URL
-        window.history.replaceState({}, "", window.location.pathname);
-      } else {
-        setIsPremium(premium);
+      if (typeof window !== "undefined") {
+        const storedEmail = Cookies.get("user_email");
+        if (storedEmail) {
+          const premium = await checkPremiumStatus(storedEmail);
+          setIsPremium(premium);
+        }
+        
+        const searchParams = new URLSearchParams(window.location.search);
+        if (searchParams.get("success") === "true") {
+          window.history.replaceState({}, "", window.location.pathname);
+        }
       }
-    }
+    }, 0);
+
+    return () => clearTimeout(timer);
   }, []);
 
   const handleExport = async () => {

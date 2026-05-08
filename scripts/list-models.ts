@@ -31,8 +31,14 @@ async function listModels() {
     console.log("\n✅ Available Models:");
     console.log("--------------------------------------------------");
     
+    interface Model {
+      name: string;
+      displayName: string;
+      supportedGenerationMethods: string[];
+    }
+
     if (data.models && Array.isArray(data.models)) {
-      data.models.forEach((model: any) => {
+      data.models.forEach((model: Model) => {
         console.log(`- ID: ${model.name}`);
         console.log(`  Name: ${model.displayName}`);
         console.log(`  Methods: ${model.supportedGenerationMethods.join(", ")}`);

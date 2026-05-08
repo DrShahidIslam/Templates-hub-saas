@@ -234,7 +234,7 @@ export default function HomePageClient({ allTemplates }: HomePageClientProps) {
         <section className="max-w-7xl mx-auto px-6 py-12">
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
             <AnimatePresence mode="popLayout">
-              {filteredTemplates.map((template, idx) => (
+              {filteredTemplates.map((template) => (
                 <motion.div
                   key={template.slug}
                   layout
@@ -424,14 +424,14 @@ export default function HomePageClient({ allTemplates }: HomePageClientProps) {
               </div>
               <div className="absolute -bottom-10 -left-10 p-6 bg-white border border-gray-100 rounded-3xl shadow-xl max-w-[200px]">
                 <p className="text-xs font-bold text-indigo-600 uppercase tracking-widest mb-2">Verified Framework</p>
-                <p className="text-sm font-serif text-gray-700 italic">"The definitive standard for clinical operations."</p>
+                <p className="text-sm font-serif text-gray-700 italic">&quot;The definitive standard for clinical operations.&quot;</p>
               </div>
             </div>
           </div>
         </section>
 
         {/* ── CTA SECTION ── */}
-        <section className="py-24 px-6">
+        <section id="cta" className="py-24 px-6">
           <div className="max-w-7xl mx-auto rounded-[3rem] bg-[#111827] p-12 md:p-24 text-center relative overflow-hidden">
             <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-indigo-500/10 rounded-full blur-[100px]" />
             <div className="absolute bottom-0 left-0 w-[300px] h-[300px] bg-purple-500/10 rounded-full blur-[80px]" />

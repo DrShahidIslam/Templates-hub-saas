@@ -79,12 +79,13 @@ async function generateWithResilience(keyword: string): Promise<string | null> {
 
       if (text) return text;
       throw new Error("Empty response from Gemini API");
-    } catch (error: any) {
-      const status = error?.status;
-      const message = error?.message || "Unknown error";
+    } catch (error) {
+      const err = error as { status?: number; message?: string };
+      const status = err?.status;
+      const message = err?.message || "Unknown error";
       
       const isRateLimit = status === 429 || message.includes("429") || message.includes("quota");
-      const isServerError = (status >= 500 && status <= 599) || message.includes("500") || message.includes("503");
+      const isServerError = (status && status >= 500 && status <= 599) || message.includes("500") || message.includes("503");
 
       if ((isRateLimit || isServerError) && attempt < RETRY_LIMIT) {
         const delay = BACKOFF_DELAYS[attempt];
@@ -132,8 +133,9 @@ async function syncToGithub(count: number, retry = false) {
     execSync("git push origin main", { stdio: "inherit" });
     
     console.log("✅ Batch synced successfully.\n");
-  } catch (error: any) {
-    console.error("❌ Git sync failed:", error.message);
+    } catch (error) {
+    const err = error as Error;
+    console.error("❌ Git sync failed:", err.message);
     
     if (!retry) {
       console.log("⏳ Waiting 10 seconds before final retry...");

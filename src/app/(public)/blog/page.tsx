@@ -2,7 +2,6 @@ import { Metadata } from "next";
 import Link from "next/link";
 import { 
   ArrowRight, 
-  Clock, 
   Calendar,
   ChevronRight,
   TrendingUp,
@@ -144,7 +143,8 @@ export default async function BlogPage() {
         </div>
       </section>
 
-      {/* ── NEWSLETTER ── */}
+      {/* ── NEWSLETTER (Hidden until email API integration) ── */}
+      {/* 
       <section className="py-24 px-6 bg-white">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="font-serif text-4xl text-[#111827] mb-6">Join the Registry Digest</h2>
@@ -163,6 +163,7 @@ export default async function BlogPage() {
           </div>
         </div>
       </section>
+      */}
     </div>
   );
 }

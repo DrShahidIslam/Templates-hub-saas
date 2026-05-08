@@ -1,29 +1,8 @@
-import { GoogleGenerativeAI } from "@google/generative-ai";
 import fs from "fs";
 import path from "path";
 
 /**
  * Gemini 3.1 Flash Lite SOP generator with API key rotation.
- * Checks local disk first for pre-generated content from the GitHub Action.
- */
-
-function getRandomApiKey(): string {
-  const keys = [
-    process.env.GEMINI_API_KEY_1,
-    process.env.GEMINI_API_KEY_2,
-    process.env.GEMINI_API_KEY_3,
-    process.env.GEMINI_API_KEY_4,
-    process.env.GEMINI_API_KEY_5,
-  ].filter((key): key is string => Boolean(key));
-
-  if (keys.length === 0) {
-    throw new Error(
-      "No Gemini API keys found. Set at least one of: GEMINI_API_KEY_1, GEMINI_API_KEY_2, etc."
-    );
-  }
-
-  return keys[Math.floor(Math.random() * keys.length)];
-}
 
 /**
  * Generate a detailed SOP & checklist for a given keyword.
