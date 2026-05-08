@@ -1,10 +1,14 @@
 /* eslint-disable */
 const fs = require('fs');
 const path = require('path');
+const matter = require('gray-matter');
 require('dotenv').config({ path: '.env.local' });
 const { GoogleGenerativeAI } = require("@google/generative-ai");
 
-const CONTENT_DIR = path.join(process.cwd(), 'outstatic/content/templates');
+const DIRECTORIES = [
+  path.join(process.cwd(), 'outstatic/content/templates'),
+  path.join(process.cwd(), 'outstatic/content/blogs')
+];
 
 function getRandomApiKey() {
   const keys = [
@@ -22,77 +26,124 @@ function getRandomApiKey() {
   return keys[Math.floor(Math.random() * keys.length)];
 }
 
-async function generateKeywordsWithRetry(text, title, retries = 3) {
+async function processSeoData(content, type, retries = 3) {
   const apiKey = getRandomApiKey();
   const genAI = new GoogleGenerativeAI(apiKey);
-  const model = genAI.getGenerativeModel({ model: "gemini-3.1-flash-lite-preview" });
+  const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
   
-  const prompt = `Document Title: ${title}\n\nDocument Content Snippet: ${text.substring(0, 1500)}\n\nTask: Generate 15 high-intent SEO search keywords and synonyms for this topic. Output them as a simple comma-separated list. Focus on what a user would type into a search bar to find this document.`;
+  const prompt = `You are an expert Technical SEO Specialist.
+Task: Analyze the following document content and generate a highly optimized JSON object.
+
+Requirements:
+- meta_title: Catchy, click-optimized SEO title (under 60 characters).
+- meta_description: Engaging, keyword-rich description (under 160 characters).
+- faq_schema: A valid JSON-LD FAQPage object with 3-4 highly relevant Q&As.
+- entity_schema: A valid JSON-LD ${type === 'templates' ? 'SoftwareApplication' : 'BlogPosting'} object.
+
+Return ONLY a raw, valid JSON object with the exact keys: meta_title, meta_description, faq_schema, entity_schema. Do not use markdown code blocks like \`\`\`json.
+
+Document Content Snippet (first 2500 chars):
+${content.substring(0, 2500)}
+`;
 
   for (let i = 0; i < retries; i++) {
     try {
       const result = await model.generateContent(prompt);
       const response = await result.response;
-      return response.text().trim().replace(/\n/g, ' ');
+      const text = response.text().trim();
+      
+      // Clean potential markdown blocks
+      const cleanedText = text.replace(/^```json\s*/i, '').replace(/^```\s*/, '').replace(/\s*```$/, '');
+      return JSON.parse(cleanedText);
     } catch (error) {
       if (error.message.includes("503") || error.message.includes("429")) {
         const wait = Math.pow(2, i) * 2000 + Math.random() * 1000;
-        console.warn(`⚠️ [${title}] Model busy (${error.message.includes("503") ? "503" : "429"}). Retrying in ${Math.round(wait/1000)}s...`);
+        console.warn(`⚠️ Model busy (${error.message.includes("503") ? "503" : "429"}). Retrying in ${Math.round(wait/1000)}s...`);
         await new Promise(r => setTimeout(r, wait));
         continue;
       }
-      console.error(`❌ Error generating keywords for "${title}":`, error.message);
-      return "";
+      console.error(`❌ Error generating SEO data:`, error.message);
+      return null;
     }
   }
-  return "";
+  return null;
 }
 
-async function injectKeywords() {
-  if (!fs.existsSync(CONTENT_DIR)) {
-    console.error(`Directory not found: ${CONTENT_DIR}`);
+async function injectSEO() {
+  const BATCH_LIMIT = 5;
+  let targetFiles = [];
+
+  // Gather untouched files
+  for (const dir of DIRECTORIES) {
+    if (!fs.existsSync(dir)) continue;
+
+    const files = fs.readdirSync(dir).filter(f => f.endsWith('.md'));
+    const type = dir.includes('templates') ? 'templates' : 'blogs';
+
+    for (const file of files) {
+      const filePath = path.join(dir, file);
+      const fileContent = fs.readFileSync(filePath, 'utf-8');
+      
+      try {
+        const parsed = matter(fileContent);
+
+        // Filter out files that are already SEO optimized
+        if (parsed.data.seo_optimized !== true) {
+          targetFiles.push({ filePath, parsed, type });
+        }
+      } catch (err) {
+        console.warn(`⚠️ Could not parse gray-matter for ${filePath}`, err.message);
+      }
+    }
+  }
+
+  // Enforce batch limit to avoid GitHub Action timeouts
+  const batch = targetFiles.slice(0, BATCH_LIMIT);
+
+  if (batch.length === 0) {
+    console.log("✅ All files are fully optimized. No action needed.");
     return;
   }
 
-  const files = fs.readdirSync(CONTENT_DIR).filter(f => f.endsWith('.md'));
-  console.log(`🔍 Processing ${files.length} files for Ghost SEO injection...`);
+  console.log(`🔍 Processing ${batch.length} files for Schema & SEO Metadata Injection...`);
 
-  let count = 0;
-  let skipped = 0;
+  let successCount = 0;
 
-  for (const file of files) {
-    const filePath = path.join(CONTENT_DIR, file);
-    let content = fs.readFileSync(filePath, 'utf-8');
+  for (const item of batch) {
+    const { filePath, parsed, type } = item;
+    const title = parsed.data.title || path.basename(filePath, '.md');
 
-    // Skip if already contains ghost keywords
-    if (content.includes('data-html2canvas-ignore="true"')) {
-      skipped++;
-      continue;
+    console.log(`✍️ Optimizing: ${title}`);
+    const seoData = await processSeoData(parsed.content, type);
+
+    if (seoData) {
+      // 1. Update Frontmatter
+      parsed.data.title = seoData.meta_title || parsed.data.title;
+      parsed.data.description = seoData.meta_description || parsed.data.description;
+      parsed.data.seo_optimized = true;
+
+      // 2. Safely generate updated markdown string with new frontmatter
+      const updatedMarkdown = matter.stringify(parsed.content, parsed.data);
+
+      // 3. Prepare Schema string safely checking if it is an object
+      let schemaString = '';
+      if (seoData.faq_schema && typeof seoData.faq_schema === 'object') {
+        schemaString += `\n\n<script type="application/ld+json">\n${JSON.stringify(seoData.faq_schema, null, 2)}\n</script>`;
+      }
+      if (seoData.entity_schema && typeof seoData.entity_schema === 'object') {
+        schemaString += `\n\n<script type="application/ld+json">\n${JSON.stringify(seoData.entity_schema, null, 2)}\n</script>`;
+      }
+
+      // 4. Write back to disk (Frontmatter + Markdown Body + Schema Scripts)
+      fs.writeFileSync(filePath, updatedMarkdown + schemaString + '\n', 'utf-8');
+      successCount++;
     }
 
-    // Extract title
-    let title = file.replace('.md', '').replace(/-/g, ' ');
-    const h1Match = content.match(/^#\s+(.+)$/m);
-    if (h1Match) title = h1Match[1].trim();
-
-    console.log(`✍️ Analyzing: ${title}`);
-    const keywords = await generateKeywordsWithRetry(content, title);
-
-    if (keywords) {
-      const injection = `\n\n<div data-html2canvas-ignore="true" style="display:none">${keywords}</div>\n<!-- AI_KEYWORDS: ${keywords} -->\n`;
-      fs.appendFileSync(filePath, injection, 'utf-8');
-      count++;
-    }
-
-    // Normal delay
-    await new Promise(resolve => setTimeout(resolve, 500));
-    
-    if (count % 5 === 0 && count > 0) {
-      console.log(`✅ Progress: ${count} injected, ${skipped} skipped.`);
-    }
+    // Rate limiting delay
+    await new Promise(resolve => setTimeout(resolve, 2000));
   }
 
-  console.log(`\n🎉 Success! Ghost keywords injected into ${count} templates. Total processed: ${count + skipped}`);
+  console.log(`\n🎉 Success! SEO Metadata & Schema injected into ${successCount} files.`);
 }
 
-injectKeywords().catch(console.error);
+injectSEO().catch(console.error);
