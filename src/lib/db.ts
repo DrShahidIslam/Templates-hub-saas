@@ -35,6 +35,8 @@ export async function initDatabase() {
         created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
       );
     `;
+    await sql`ALTER TABLE premium_users ADD COLUMN IF NOT EXISTS otp_code VARCHAR(10);`;
+    await sql`ALTER TABLE premium_users ADD COLUMN IF NOT EXISTS otp_expires_at TIMESTAMP WITH TIME ZONE;`;
     console.log('✅ Database initialized: premium_users table ready.');
   } catch (error) {
     console.error('❌ Failed to initialize database:', error);
@@ -71,5 +73,58 @@ export async function addPremiumUser(email: string, polarOrderId: string) {
   } catch (error) {
     console.error('❌ Error adding premium user:', error);
     throw error;
+  }
+}
+
+/**
+ * Set an OTP code for a user.
+ */
+export async function setOTP(email: string, code: string, expiresAt: Date) {
+  try {
+    const sql = getDb();
+    await sql`
+      UPDATE premium_users 
+      SET otp_code = ${code}, otp_expires_at = ${expiresAt.toISOString()} 
+      WHERE email = ${email.toLowerCase()}
+    `;
+  } catch (error) {
+    console.error('❌ Error setting OTP:', error);
+    throw error;
+  }
+}
+
+/**
+ * Verify an OTP code for a user.
+ * Returns true if the code matches and has not expired.
+ */
+export async function verifyOTP(email: string, code: string): Promise<boolean> {
+  try {
+    const sql = getDb();
+    const result = await sql`
+      SELECT id FROM premium_users 
+      WHERE email = ${email.toLowerCase()} 
+        AND otp_code = ${code} 
+        AND otp_expires_at > NOW()
+    `;
+    return result.length > 0;
+  } catch (error) {
+    console.error('❌ Error verifying OTP:', error);
+    return false;
+  }
+}
+
+/**
+ * Clear the OTP code for a user to prevent reuse.
+ */
+export async function clearOTP(email: string) {
+  try {
+    const sql = getDb();
+    await sql`
+      UPDATE premium_users 
+      SET otp_code = NULL, otp_expires_at = NULL 
+      WHERE email = ${email.toLowerCase()}
+    `;
+  } catch (error) {
+    console.error('❌ Error clearing OTP:', error);
   }
 }

@@ -1,9 +1,9 @@
 "use client";
 
-import { Download, X, Lock, CheckCircle2, Loader2 } from "lucide-react";
+import { Download, X, Lock, Loader2, KeyRound } from "lucide-react";
 import { useState, useEffect } from "react";
 import { checkPremiumStatus } from "@/app/actions";
-import Cookies from "js-cookie";
+import Link from "next/link";
 
 export default function PdfDownloadButton({ title }: { title: string }) {
   const [isGenerating, setIsGenerating] = useState(false);
@@ -11,29 +11,28 @@ export default function PdfDownloadButton({ title }: { title: string }) {
   const [isPremium, setIsPremium] = useState(false);
   const [showPaywallModal, setShowPaywallModal] = useState(false);
   const [mounted, setMounted] = useState(false);
-  const [verifying, setVerifying] = useState(false);
-  const [verificationEmail, setVerificationEmail] = useState("");
 
   useEffect(() => {
     const timer = setTimeout(async () => {
       setMounted(true);
 
       if (typeof window !== "undefined") {
-        // 1. Check for stored email in cookie
-        const storedEmail = Cookies.get("user_email");
-        if (storedEmail) {
-          const premium = await checkPremiumStatus(storedEmail);
+        // 1. Authenticate via secure HttpOnly server cookie
+        try {
+          // checkPremiumStatus() reads the premium_session cookie on the server
+          const premium = await checkPremiumStatus();
           setIsPremium(premium);
+        } catch (err) {
+          console.error("Auth check failed:", err);
         }
 
-        // 2. Check for success param (post-purchase)
+        // 2. Check for success param (post-purchase redirect)
         const searchParams = new URLSearchParams(window.location.search);
         if (searchParams.get('success') === 'true') {
-          // Note: In a real flow, we'd wait for the webhook to finish, 
-          // but for UX we can show a 'verifying' state or just refresh.
           window.history.replaceState({}, "", window.location.pathname);
         }
 
+        // 3. Track free anonymous downloads locally
         const storedCount = parseInt(localStorage.getItem("templatehub_downloads") || "0", 10);
         setDownloadCount(storedCount);
       }
@@ -41,27 +40,6 @@ export default function PdfDownloadButton({ title }: { title: string }) {
 
     return () => clearTimeout(timer);
   }, []);
-
-  const handleVerify = async (e: React.FormEvent) => {
-    e.preventDefault();
-    if (!verificationEmail) return;
-
-    setVerifying(true);
-    try {
-      const premium = await checkPremiumStatus(verificationEmail);
-      if (premium) {
-        setIsPremium(true);
-        Cookies.set("user_email", verificationEmail, { expires: 365 });
-        setShowPaywallModal(false);
-      } else {
-        alert("Email not found in our Premium database. Please ensure you used the correct email at checkout.");
-      }
-    } catch (err) {
-      console.error("Verification failed:", err);
-    } finally {
-      setVerifying(false);
-    }
-  };
 
   const handleDownload = async () => {
     // Check metered paywall limit
@@ -201,35 +179,14 @@ export default function PdfDownloadButton({ title }: { title: string }) {
               {/* ── ALREADY A MEMBER? ── */}
               <div className="mt-8 pt-8 border-t border-gray-100">
                 <p className="text-sm font-medium text-gray-900 mb-4">Already a Pro member?</p>
-                <form onSubmit={handleVerify} className="space-y-3">
-                  <div className="relative">
-                    <input
-                      type="email"
-                      placeholder="Enter your purchase email"
-                      required
-                      className="w-full px-4 py-3 bg-gray-50 border border-gray-200 rounded-xl text-sm outline-none focus:border-accent focus:ring-4 focus:ring-accent/5 transition-all"
-                      value={verificationEmail}
-                      onChange={(e) => setVerificationEmail(e.target.value)}
-                    />
-                  </div>
-                  <button
-                    type="submit"
-                    disabled={verifying}
-                    className="w-full py-3 bg-white text-gray-900 border border-gray-200 font-semibold rounded-xl hover:bg-gray-50 transition-all duration-200 flex items-center justify-center gap-2"
-                  >
-                    {verifying ? (
-                      <>
-                        <Loader2 className="w-4 h-4 animate-spin" />
-                        Verifying...
-                      </>
-                    ) : (
-                      <>
-                        <CheckCircle2 className="w-4 h-4" />
-                        Verify Access
-                      </>
-                    )}
-                  </button>
-                </form>
+                
+                <Link
+                  href="/restore"
+                  className="w-full py-3 bg-white text-gray-900 border border-gray-200 font-semibold rounded-xl hover:bg-gray-50 transition-all duration-200 flex items-center justify-center gap-2"
+                >
+                  <KeyRound className="w-4 h-4 text-accent" />
+                  Restore Access
+                </Link>
               </div>
               
               <button
