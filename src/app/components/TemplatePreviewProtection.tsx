@@ -46,14 +46,15 @@ export default function TemplatePreviewProtection({ children }: { children: Reac
           !isPremium ? "select-none" : ""
         }`}
       >
-        {/* ── WATERMARK ── */}
+        {/* ── SMART WATERMARK ── */}
         {!isPremium && (
           <div 
             id="preview-watermark"
-            className="no-pdf absolute inset-0 flex items-center justify-center pointer-events-none z-10 overflow-hidden"
+            data-html2canvas-ignore="true"
+            className="absolute inset-0 flex items-center justify-center pointer-events-none z-10 overflow-hidden"
           >
-            <div className="text-[80px] md:text-[120px] font-bold text-gray-900/[0.04] -rotate-45 whitespace-nowrap select-none">
-              DRAFT PREVIEW
+            <div className="text-[60px] md:text-[100px] font-black text-gray-900/[0.03] -rotate-12 tracking-[0.2em] whitespace-nowrap select-none uppercase">
+              Template Registry
             </div>
           </div>
         )}

@@ -210,41 +210,41 @@ export default async function TemplatePage({
                 className="border border-border rounded-[2.5rem] p-8 md:p-12 text-[#111827] bg-[#ffffff] shadow-sm relative overflow-hidden"
                 style={{ color: '#111827', backgroundColor: '#ffffff' }}
               >
-                {/* ── DOCUMENT HEADER (PDF BRANDING) ── */}
-                <div className="flex justify-between items-end border-b-2 border-gray-100 pb-8 mb-12">
-                  <div className="flex items-center gap-3">
-                    <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" className="w-8 h-8 text-[#111827]">
-                      <rect x="3" y="7" width="12" height="14" rx="2" stroke="currentColor" strokeWidth="2" />
-                      <rect x="9" y="3" width="12" height="14" rx="2" fill="currentColor" stroke="currentColor" strokeWidth="2" />
-                    </svg>
-                    <span className="font-serif text-2xl text-[#111827] tracking-tight">
-                      Template Registry
-                    </span>
-                  </div>
-                  <div className="text-right">
-                    <p className="text-[10px] font-bold text-gray-400 uppercase tracking-[0.25em] leading-none mb-2">
-                      Standard Operating Procedure
-                    </p>
-                    <p className="text-[10px] text-gray-300 uppercase tracking-widest leading-none">
-                      Registry ID: TR-{slug.slice(0, 8).toUpperCase()}
-                    </p>
-                  </div>
-                </div>
-
                 <TemplatePreviewProtection>
+                  {/* ── DOCUMENT HEADER (PDF BRANDING) ── */}
+                  <div className="flex justify-between items-end border-b-2 border-gray-100 pb-8 mb-12">
+                    <div className="flex items-center gap-3">
+                      <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" className="w-8 h-8 text-[#111827]">
+                        <rect x="3" y="7" width="12" height="14" rx="2" stroke="currentColor" strokeWidth="2" />
+                        <rect x="9" y="3" width="12" height="14" rx="2" fill="currentColor" stroke="currentColor" strokeWidth="2" />
+                      </svg>
+                      <span className="font-serif text-2xl text-[#111827] tracking-tight">
+                        Template Registry
+                      </span>
+                    </div>
+                    <div className="text-right">
+                      <p className="text-[10px] font-bold text-gray-400 uppercase tracking-[0.25em] leading-none mb-2">
+                        Standard Operating Procedure
+                      </p>
+                      <p className="text-[10px] text-gray-300 uppercase tracking-widest leading-none">
+                        Registry ID: TR-{slug.slice(0, 8).toUpperCase()}
+                      </p>
+                    </div>
+                  </div>
+
                   <div className="premium-prose">
                     <MarkdownRenderer content={finalCleanMarkdown} />
                   </div>
-                </TemplatePreviewProtection>
 
-                {/* ── GHOST SEO INJECTION (Search Engine Only) ── */}
-                <div 
-                  data-html2canvas-ignore="true" 
-                  style={{ display: 'none' }} 
-                  aria-hidden="true"
-                >
-                  {extractedKeywords}
-                </div>
+                  {/* ── GHOST SEO INJECTION (Search Engine Only) ── */}
+                  <div 
+                    data-html2canvas-ignore="true" 
+                    style={{ display: 'none' }} 
+                    aria-hidden="true"
+                  >
+                    {extractedKeywords}
+                  </div>
+                </TemplatePreviewProtection>
 
                 {/* ── DOCUMENT FOOTER (PDF BRANDING) ── */}
                 <div className="mt-20 pt-8 border-t border-gray-100 flex justify-between items-center text-[10px] text-gray-400 uppercase tracking-[0.2em]">
