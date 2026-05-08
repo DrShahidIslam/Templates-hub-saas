@@ -1,10 +1,10 @@
 "use client";
 
-import { ExternalLink, Check, Lock } from "lucide-react";
+import { ExternalLink, Check, Lock, X, KeyRound } from "lucide-react";
 import { useState, useEffect } from "react";
 import toast from "react-hot-toast";
 import { checkPremiumStatus } from "@/app/actions";
-import Cookies from "js-cookie";
+import Link from "next/link";
 
 interface NotionExportButtonProps {
   markdownContent: string;
@@ -13,50 +13,65 @@ interface NotionExportButtonProps {
 export default function NotionExportButton({ markdownContent }: NotionExportButtonProps) {
   const [copied, setCopied] = useState(false);
   const [isPremium, setIsPremium] = useState(false);
+  const [freeDownloadUsed, setFreeDownloadUsed] = useState(false);
+  const [showPaywallModal, setShowPaywallModal] = useState(false);
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
-    const timer = setTimeout(async () => {
-      setMounted(true);
-
+    let isMounted = true;
+    
+    const initAuth = async () => {
       if (typeof window !== "undefined") {
-        const storedEmail = Cookies.get("user_email");
-        if (storedEmail) {
-          const premium = await checkPremiumStatus(storedEmail);
-          setIsPremium(premium);
+        try {
+          const premium = await checkPremiumStatus();
+          if (isMounted) setIsPremium(premium);
+        } catch (err) {
+          console.error("Auth check failed:", err);
         }
-        
-        const searchParams = new URLSearchParams(window.location.search);
-        if (searchParams.get("success") === "true") {
-          window.history.replaceState({}, "", window.location.pathname);
-        }
-      }
-    }, 0);
 
-    return () => clearTimeout(timer);
+        const used = localStorage.getItem('free_downloads') === '1';
+        if (isMounted) setFreeDownloadUsed(used);
+      }
+      if (isMounted) setMounted(true);
+    };
+
+    initAuth();
+
+    return () => {
+      isMounted = false;
+    };
   }, []);
 
   const handleExport = async () => {
-    // 1. SECURE LOCKDOWN: Pro Only
-    if (!isPremium) {
-      toast.error("Notion Export is a Pro Feature", {
-        duration: 3000,
-        icon: '🔒',
-      });
+    // 1. Strictly verify premium status securely on the server
+    const serverVerifiedPremium = await checkPremiumStatus();
+    
+    // 2. The Free Tier Check (Soft Gate)
+    if (!serverVerifiedPremium) {
+      const hasUsedFree = localStorage.getItem('free_downloads') === '1';
       
-      // Redirect after 2 seconds
-      setTimeout(() => {
-        window.location.href = "https://buy.polar.sh/polar_cl_SvXvG4jukzotDEekGNPrlidHn7MXXdXlQJSeT2Kt33l?success_url=https://templateregistry.com/success";
-      }, 2000);
-      return;
+      if (hasUsedFree) {
+        setShowPaywallModal(true);
+        return;
+      }
     }
 
-    // 2. ACTUAL EXPORT LOGIC
+    // 3. ACTUAL EXPORT LOGIC
     try {
       await navigator.clipboard.writeText(markdownContent);
       setCopied(true);
       toast.success("Markdown copied for Notion!");
       
+      // Update free tier state and trigger toast for anonymous users
+      if (!serverVerifiedPremium) {
+        localStorage.setItem('free_downloads', '1');
+        setFreeDownloadUsed(true);
+        toast('1/1 Free Download Used. Get Pro for unlimited access.', {
+          icon: '🎁',
+          duration: 5000,
+        });
+      }
+
       setTimeout(() => {
         setCopied(false);
       }, 3000);
@@ -76,36 +91,100 @@ export default function NotionExportButton({ markdownContent }: NotionExportButt
   }
 
   return (
-    <button
-      onClick={handleExport}
-      id="export-notion-btn"
-      className={`w-full flex items-center justify-center gap-2 px-5 py-3.5 transition-all duration-200 rounded-xl font-medium text-sm cursor-pointer border ${
-        copied
-          ? "bg-[#111827] text-white border-[#111827]"
-          : "bg-white text-[#111827] border-gray-200 hover:bg-gray-50 hover:border-gray-300"
-      }`}
-    >
-      {copied ? (
-        <>
-          <Check className="w-4 h-4 text-emerald-400" />
-          <span>✓ Copied for Notion</span>
-        </>
-      ) : (
-        <>
-          <div className="relative">
-            <ExternalLink className="w-4 h-4" />
-            {!isPremium && (
-              <Lock className="w-2.5 h-2.5 absolute -top-1 -right-1 text-indigo-600 bg-white rounded-full" />
-            )}
-          </div>
-          <span>Export to Notion</span>
-          {!isPremium && (
-            <span className="ml-auto text-[10px] font-bold text-indigo-600 bg-indigo-50 px-1.5 py-0.5 rounded uppercase tracking-wider">
-              Pro
+    <>
+      <button
+        onClick={handleExport}
+        id="export-notion-btn"
+        className={`w-full flex items-center justify-center gap-2 px-5 py-3.5 transition-all duration-200 rounded-xl font-medium text-sm cursor-pointer border ${
+          copied
+            ? "bg-[#111827] text-white border-[#111827]"
+            : "bg-white text-[#111827] border-gray-200 hover:bg-gray-50 hover:border-gray-300"
+        }`}
+      >
+        {copied ? (
+          <>
+            <Check className="w-4 h-4 text-emerald-400" />
+            <span>✓ Copied for Notion</span>
+          </>
+        ) : (
+          <>
+            <div className="relative">
+              <ExternalLink className="w-4 h-4" />
+              {!isPremium && freeDownloadUsed && (
+                <Lock className="w-2.5 h-2.5 absolute -top-1 -right-1 text-indigo-600 bg-white rounded-full" />
+              )}
+            </div>
+            <span>
+              {isPremium
+                ? "Export to Notion (Pro)"
+                : !freeDownloadUsed
+                ? "Export to Notion (1 Free)"
+                : "Get Lifetime Access"}
             </span>
-          )}
-        </>
+            {!isPremium && (
+              <span className="ml-auto text-[10px] font-bold text-indigo-600 bg-indigo-50 px-1.5 py-0.5 rounded uppercase tracking-wider">
+                Pro
+              </span>
+            )}
+          </>
+        )}
+      </button>
+
+      {/* ── PAYWALL MODAL ── */}
+      {showPaywallModal && (
+        <div className="fixed inset-0 z-[100] flex items-center justify-center bg-black/50 backdrop-blur-sm px-4">
+          <div className="bg-white rounded-2xl w-full max-w-md overflow-hidden shadow-2xl relative">
+            <button
+              onClick={() => setShowPaywallModal(false)}
+              className="absolute top-4 right-4 text-gray-400 hover:text-gray-900 transition-colors"
+              aria-label="Close modal"
+            >
+              <X className="w-5 h-5" />
+            </button>
+
+            <div className="p-8 text-center">
+              <div className="w-16 h-16 bg-indigo-50 rounded-2xl flex items-center justify-center mx-auto mb-6">
+                <Lock className="w-8 h-8 text-indigo-600" />
+              </div>
+              
+              <h2 className="text-2xl font-bold mb-3 tracking-tight text-gray-900">
+                Unlock Unlimited Templates
+              </h2>
+              
+              <p className="text-gray-500 mb-8 leading-relaxed">
+                You've used your 1 free download! Upgrade to Premium to get unlimited lifetime access to our entire library of 1,800+ SOPs, frameworks, and checklists.
+              </p>
+
+              <a
+                href="https://buy.polar.sh/polar_cl_SvXvG4jukzotDEekGNPrlidHn7MXXdXlQJSeT2Kt33l?success_url=https://templateregistry.com/success"
+                className="block w-full py-4 bg-[#4F46E5] text-white font-semibold rounded-xl hover:bg-indigo-700 transition-all duration-200 shadow-md shadow-indigo-500/20"
+              >
+                Upgrade to Premium
+              </a>
+
+              {/* ── ALREADY A MEMBER? ── */}
+              <div className="mt-8 pt-8 border-t border-gray-100">
+                <p className="text-sm font-medium text-gray-900 mb-4">Already a Pro member?</p>
+                
+                <Link
+                  href="/restore"
+                  className="w-full py-3 bg-white text-gray-900 border border-gray-200 font-semibold rounded-xl hover:bg-gray-50 transition-all duration-200 flex items-center justify-center gap-2"
+                >
+                  <KeyRound className="w-4 h-4 text-indigo-600" />
+                  Restore Access
+                </Link>
+              </div>
+              
+              <button
+                onClick={() => setShowPaywallModal(false)}
+                className="mt-5 text-sm font-medium text-gray-500 hover:text-gray-900 transition-colors cursor-pointer"
+              >
+                Maybe later
+              </button>
+            </div>
+          </div>
+        </div>
       )}
-    </button>
+    </>
   );
 }
