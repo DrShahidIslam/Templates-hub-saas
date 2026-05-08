@@ -3,7 +3,6 @@
 import { Lock, ArrowRight } from "lucide-react";
 import { useState, useEffect } from "react";
 import { checkPremiumStatus } from "@/app/actions";
-import Cookies from "js-cookie";
 
 /**
  * TemplatePreviewProtection
@@ -15,19 +14,23 @@ export default function TemplatePreviewProtection({ children }: { children: Reac
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
-    const timer = setTimeout(async () => {
-      setMounted(true);
-
-      if (typeof window !== "undefined") {
-        const storedEmail = Cookies.get("user_email");
-        if (storedEmail) {
-          const premium = await checkPremiumStatus(storedEmail);
-          setIsPremium(premium);
-        }
+    let isMounted = true;
+    
+    const initAuth = async () => {
+      try {
+        const premium = await checkPremiumStatus();
+        if (isMounted) setIsPremium(premium);
+      } catch (err) {
+        console.error("Auth check failed:", err);
       }
-    }, 0);
+      if (isMounted) setMounted(true);
+    };
 
-    return () => clearTimeout(timer);
+    initAuth();
+
+    return () => {
+      isMounted = false;
+    };
   }, []);
 
   // Simple right-click prevention for non-Pro users
