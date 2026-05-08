@@ -7,6 +7,7 @@ import {
   ArrowRight,
   Filter
 } from "lucide-react";
+import { getDocuments } from "outstatic/server";
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
@@ -34,6 +35,32 @@ export default async function CategoryPage({ params }: { params: Promise<{ slug:
     })
     .join(" ")
     .replace(" And ", " & ");
+
+  const categoryKeywords: Record<string, string[]> = {
+    'Visa & Travel': ['visa', 'tourist', 'travel', 'passport', 'border', 'immigration', 'flight', 'hotel'],
+    'Health & Wellness': ['health', 'adhd', 'medical', 'fitness', 'wellness', 'diet', 'mental', 'therapy', 'clinical'],
+    'Business & HR': ['business', 'hr', 'hiring', 'onboarding', 'employee', 'office', 'payroll', 'sop', 'policy', 'startup'],
+    'Home & Lifestyle': ['home', 'lifestyle', 'garden', 'cleaning', 'cooking', 'family', 'pet', 'house', 'interior'],
+    'Legal & Policy': ['legal', 'policy', 'law', 'contract', 'agreement', 'terms', 'privacy', 'compliance'],
+    'Operations': ['operations', 'ops', 'management', 'process', 'workflow', 'inventory', 'logistics'],
+    'IT & Security': ['it', 'security', 'tech', 'software', 'hardware', 'network', 'data', 'cyber']
+  };
+
+  const allTemplates = getDocuments('templates', ['title', 'slug', 'category', 'tags', 'description']);
+
+  const keywords = categoryKeywords[categoryName] || slug.split("-");
+
+  const filteredTemplates = allTemplates.filter((doc) => {
+    const docCategory = (typeof doc.category === 'string' ? doc.category : "").toLowerCase();
+    const docTags = (Array.isArray(doc.tags) ? doc.tags.join(" ") : typeof doc.tags === 'string' ? doc.tags : "").toLowerCase();
+    
+    if (docCategory.includes(slug.toLowerCase()) || docTags.includes(slug.toLowerCase())) {
+      return true;
+    }
+
+    const searchString = `${doc.title} ${doc.slug}`.toLowerCase();
+    return keywords.some(k => searchString.includes(k.toLowerCase()));
+  });
 
   return (
     <div className="bg-[#FAFAFA] min-h-screen">
@@ -80,7 +107,7 @@ export default async function CategoryPage({ params }: { params: Promise<{ slug:
           {/* Toolbar */}
           <div className="flex items-center justify-between mb-10 pb-6 border-b border-gray-100">
             <div className="text-sm text-gray-500">
-              Showing <span className="font-bold text-gray-900">0 results</span> for this domain.
+              Showing <span className="font-bold text-gray-900">{filteredTemplates.length} results</span> for this domain.
             </div>
             <button className="flex items-center gap-2 text-sm font-semibold text-gray-600 hover:text-indigo-600 transition-colors">
               <Filter className="w-4 h-4" />
@@ -88,38 +115,51 @@ export default async function CategoryPage({ params }: { params: Promise<{ slug:
             </button>
           </div>
 
-          {/* Placeholder Grid */}
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 opacity-60 grayscale-[0.5]">
-            {[1, 2, 3, 4, 5, 6, 7, 8].map((i) => (
-              <div key={i} className="bg-white border border-dashed border-gray-200 rounded-3xl p-6">
-                <div className="w-10 h-10 rounded-xl bg-gray-50 flex items-center justify-center mb-4">
-                  <FileText className="w-5 h-5 text-gray-300" />
-                </div>
-                <div className="h-5 w-3/4 bg-gray-50 rounded-lg mb-3" />
-                <div className="h-3 w-full bg-gray-50 rounded-lg mb-2" />
-                <div className="h-3 w-5/6 bg-gray-50 rounded-lg mb-6" />
-                <div className="h-4 w-24 bg-gray-50 rounded-lg" />
-              </div>
-            ))}
-          </div>
-
-          {/* Empty State / Coming Soon */}
-          <div className="mt-20 text-center py-24 bg-white border border-gray-100 rounded-[3rem] shadow-sm">
-            <div className="w-20 h-20 bg-indigo-50 rounded-3xl flex items-center justify-center mx-auto mb-8">
-              <Filter className="w-10 h-10 text-indigo-200" />
+          {filteredTemplates.length > 0 ? (
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+              {filteredTemplates.map((template) => (
+                <Link
+                  href={`/templates/${template.slug}`}
+                  key={template.slug}
+                  className="group bg-white border border-gray-200 rounded-3xl p-6 hover:border-indigo-500/30 hover:shadow-xl hover:shadow-indigo-500/5 transition-all duration-300 flex flex-col h-full"
+                >
+                  <div className="w-12 h-12 rounded-2xl bg-indigo-50 flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
+                    <FileText className="w-6 h-6 text-indigo-600" />
+                  </div>
+                  
+                  <h3 className="font-semibold text-[#111827] text-lg mb-3 line-clamp-2 group-hover:text-indigo-600 transition-colors">
+                    {template.title || template.slug.replace(/-/g, ' ')}
+                  </h3>
+                  
+                  <p className="text-sm text-gray-500 leading-relaxed mb-8 flex-grow line-clamp-3">
+                    {template.description || `Download our comprehensive ${template.title} template.`}
+                  </p>
+                  
+                  <div className="flex items-center text-sm font-bold text-indigo-600 group-hover:gap-3 transition-all">
+                    View Template
+                    <ArrowRight className="w-4 h-4 ml-2" />
+                  </div>
+                </Link>
+              ))}
             </div>
-            <h2 className="font-serif text-3xl text-[#111827] mb-4">Populating the Registry</h2>
-            <p className="text-gray-500 max-w-md mx-auto leading-relaxed mb-10">
-              We are currently finalizing the batch generation for {categoryName}. Check back soon for 100+ professional templates.
-            </p>
-            <Link 
-              href="/templates"
-              className="inline-flex items-center gap-2 text-indigo-600 font-bold hover:underline"
-            >
-              Browse all live templates
-              <ArrowRight className="w-4 h-4" />
-            </Link>
-          </div>
+          ) : (
+            <div className="mt-20 text-center py-24 bg-white border border-gray-100 rounded-[3rem] shadow-sm">
+              <div className="w-20 h-20 bg-indigo-50 rounded-3xl flex items-center justify-center mx-auto mb-8">
+                <Filter className="w-10 h-10 text-indigo-200" />
+              </div>
+              <h2 className="font-serif text-3xl text-[#111827] mb-4">Populating the Registry</h2>
+              <p className="text-gray-500 max-w-md mx-auto leading-relaxed mb-10">
+                We are currently finalizing the batch generation for {categoryName}. Check back soon for 100+ professional templates.
+              </p>
+              <Link 
+                href="/templates"
+                className="inline-flex items-center gap-2 text-indigo-600 font-bold hover:underline"
+              >
+                Browse all live templates
+                <ArrowRight className="w-4 h-4" />
+              </Link>
+            </div>
+          )}
         </div>
       </section>
     </div>

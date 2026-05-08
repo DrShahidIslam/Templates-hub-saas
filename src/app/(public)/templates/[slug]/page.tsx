@@ -7,11 +7,10 @@ import {
 } from "lucide-react";
 import MarkdownRenderer from "@/app/components/MarkdownRenderer";
 import { getKeywordBySlug, toTitleCase, getRelatedKeywords, getAllKeywords } from "@/lib/data";
-import { generateSOP } from "@/lib/gemini";
 import { injectInternalLinks } from "@/lib/linker";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getDocumentBySlug } from "outstatic/server";
+import { getDocumentBySlug, getDocuments } from "outstatic/server";
 import PdfDownloadButton from "@/app/components/PdfDownloadButton";
 import NotionExportButton from "@/app/components/NotionExportButton";
 import TemplatePreviewProtection from "@/app/components/TemplatePreviewProtection";
@@ -30,7 +29,10 @@ export const revalidate = 86400;
    ──────────────────────────────────────────── */
 
 export async function generateStaticParams() {
-  return [];
+  const documents = getDocuments("templates", ["slug"]);
+  return documents.map((doc) => ({
+    slug: doc.slug,
+  }));
 }
 
 /* ────────────────────────────────────────────
@@ -45,25 +47,22 @@ export async function generateMetadata({
   const { slug } = await params;
   
   // 1. Fetch from Outstatic for basic SEO
-  const template = await getDocumentBySlug("templates", slug, [
+  const template = getDocumentBySlug("templates", slug, [
     "title",
     "description",
     "coverImage",
+    "content"
   ]);
 
-  const entry = await getKeywordBySlug(slug);
-  const keyword = entry?.keyword ?? slug.replace(/-/g, " ");
-  const rawTitle = template?.title || (entry ? toTitleCase(entry.keyword) : toTitleCase(slug.replace(/-/g, " ")));
-  const title = `${rawTitle} | Template Registry`;
-  const description = template?.description || `Download our free ${rawTitle} template. A comprehensive, step-by-step guide with actionable checklists, pro tips, and FAQs. Available as PDF and Notion export — no signup required.`;
-
-  // 2. Extract Ghost SEO Keywords from raw content for the meta keywords tag
-  const rawMarkdown = await generateSOP(keyword);
-  if (!rawMarkdown || rawMarkdown.includes("Template Generating...")) {
-    return notFound();
+  if (!template) {
+    return { title: "Template Not Found" };
   }
 
-  const extractedMatch = rawMarkdown.match(/<div data-html2canvas-ignore="true"[^>]*>([\s\S]*?)<\/div>/);
+  const title = `${template.title} | Template Registry`;
+  const description = template.description || `Download our free ${template.title} template. A comprehensive, step-by-step guide with actionable checklists, pro tips, and FAQs. Available as PDF and Notion export — no signup required.`;
+
+  // 2. Extract Ghost SEO Keywords from raw content for the meta keywords tag
+  const extractedMatch = template.content?.match(/<div data-html2canvas-ignore="true"[^>]*>([\s\S]*?)<\/div>/);
   const keywordsList = extractedMatch ? extractedMatch[1].trim() : "";
 
   return {
@@ -74,7 +73,7 @@ export async function generateMetadata({
       title,
       description,
       type: "article",
-      images: template?.coverImage ? [template.coverImage] : ["/og-image.png"],
+      images: template.coverImage ? [template.coverImage] : ["/og-image.png"],
     },
     alternates: {
       canonical: `/templates/${slug}`,
@@ -106,20 +105,25 @@ export default async function TemplatePage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const entry = await getKeywordBySlug(slug);
+
+  const template = getDocumentBySlug("templates", slug, [
+    "title",
+    "content",
+    "slug",
+    "status",
+  ]);
+
+  if (!template || !template.content) {
+    return notFound();
+  }
 
   // The original keyword (lowercase, natural) and title-cased version
-  const keyword = entry?.keyword ?? slug.replace(/-/g, " ");
-  const titleCased = toTitleCase(keyword);
+  const keyword = slug.replace(/-/g, " ");
+  const titleCased = template.title || toTitleCase(keyword);
 
   const relatedKeywords = await getRelatedKeywords(slug);
 
-  // Generate the SOP content via Gemini 2.5 Flash (cached for 24h via ISR)
-  const rawMarkdown = await generateSOP(keyword);
-
-  if (!rawMarkdown || rawMarkdown.includes("Template Generating...")) {
-    return notFound();
-  }
+  const rawMarkdown = template.content;
 
   // Strip frontmatter from content using gray-matter
   const { content: cleanBody } = matter(rawMarkdown);
