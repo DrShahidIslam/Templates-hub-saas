@@ -16,7 +16,7 @@ export default function PricingPage() {
     "description": "Unlock 1,800+ premium Standard Operating Procedures, frameworks, and checklists.",
     "offers": {
       "@type": "Offer",
-      "price": "297.00",
+      "price": "14.99",
       "priceCurrency": "USD",
       "availability": "https://schema.org/InStock",
       "url": "https://templateregistry.com/pricing"
@@ -48,7 +48,7 @@ export default function PricingPage() {
             <p className="text-gray-500 mb-8">One-time payment, forever yours.</p>
             
             <div className="mb-8 flex items-baseline gap-2">
-              <span className="text-5xl font-bold text-gray-900">$297</span>
+              <span className="text-5xl font-bold text-gray-900">$14.99</span>
               <span className="text-gray-400 font-medium">/ lifetime</span>
             </div>
             
