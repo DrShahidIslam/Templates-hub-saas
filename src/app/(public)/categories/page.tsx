@@ -54,16 +54,24 @@ const categoryDefinitions = [
   }
 ];
 
-// Helper to normalize strings for perfect matching
-const normalize = (str?: string) => str?.toLowerCase().trim().replace(/[-_ ]+/g, '-') || "";
+const categoryKeywords: Record<string, string[]> = {
+  'visa-travel': ['visa', 'tourist', 'travel', 'passport', 'border', 'immigration', 'flight', 'hotel', 'abroad'],
+  'health-wellness': ['health', 'adhd', 'medical', 'fitness', 'wellness', 'diet', 'mental', 'therapy', 'clinical', 'patient', 'hospital', 'care'],
+  'business-hr': ['business', 'hr', 'hiring', 'onboarding', 'employee', 'office', 'payroll', 'sop', 'policy', 'startup', 'management', 'audit', 'tax'],
+  'home-lifestyle': ['home', 'lifestyle', 'garden', 'cleaning', 'cooking', 'family', 'pet', 'house', 'interior', 'wedding', 'birthday', 'party', 'moving'],
+  'tech-it': ['tech', 'it-', 'software', 'app', 'cyber', 'security', 'computer', 'data', 'network', 'deployment', 'server', 'code']
+};
 
 export default function CategoriesPage() {
-  const allTemplates = getDocuments('templates', ['category']);
+  const allTemplates = getDocuments('templates', ['slug']);
 
   // Map over category definitions and inject dynamic counts
   const categoriesWithCounts = categoryDefinitions.map(cat => {
-    const safeCatSlug = normalize(cat.slug);
-    const count = allTemplates.filter((t: any) => normalize(t.category) === safeCatSlug).length;
+    const keywords = categoryKeywords[cat.slug] || [];
+    const count = allTemplates.filter((t: any) => {
+      const s = t.slug.toLowerCase();
+      return keywords.some(k => s.includes(k));
+    }).length;
     
     return {
       ...cat,
