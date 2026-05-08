@@ -48,7 +48,7 @@ export async function sendOTPAction(email: string) {
 
   try {
     await resend.emails.send({
-      from: "onboarding@resend.dev",
+      from: "Template Registry Support <support@templateregistry.com>",
       to: email,
       subject: "Your Restore Access Code - Template Registry",
       html: `
