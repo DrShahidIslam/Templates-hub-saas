@@ -226,7 +226,7 @@ export default async function TemplatePage({
               >
                 <TemplatePreviewProtection>
                   {/* ── DOCUMENT HEADER (PDF BRANDING) ── */}
-                  <div className="flex justify-between items-end border-b-2 border-gray-100 pb-8 mb-12">
+                  <div className="flex justify-between items-end border-b-2 border-[#F3F4F6] pb-8 mb-12">
                     <div className="flex items-center gap-3">
                       <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" className="w-8 h-8 text-[#111827]">
                         <rect x="3" y="7" width="12" height="14" rx="2" stroke="currentColor" strokeWidth="2" />
@@ -237,10 +237,10 @@ export default async function TemplatePage({
                       </span>
                     </div>
                     <div className="text-right">
-                      <p className="text-[10px] font-bold text-gray-400 uppercase tracking-[0.25em] leading-none mb-2">
+                      <p className="text-[10px] font-bold text-[#9CA3AF] uppercase tracking-[0.25em] leading-none mb-2">
                         Standard Operating Procedure
                       </p>
-                      <p className="text-[10px] text-gray-300 uppercase tracking-widest leading-none">
+                      <p className="text-[10px] text-[#D1D5DB] uppercase tracking-widest leading-none">
                         Registry ID: TR-{slug.slice(0, 8).toUpperCase()}
                       </p>
                     </div>
