@@ -9,20 +9,20 @@ import {
   ArrowRight,
   ChevronRight
 } from "lucide-react";
+import { getDocuments } from "outstatic/server";
 
 export const metadata: Metadata = {
   title: "Browse by Category | Template Registry",
   description: "Explore our exhaustive library of professional SOPs and checklists across Visa & Travel, Health, Business, and more.",
 };
 
-const categories = [
+const categoryDefinitions = [
   {
     name: "Visa & Travel",
     slug: "visa-travel",
     desc: "Global mobility frameworks and travel documentation guides.",
     icon: Plane,
     color: "bg-blue-50 text-blue-600",
-    count: "120+ Templates"
   },
   {
     name: "Health & Wellness",
@@ -30,7 +30,6 @@ const categories = [
     desc: "Clinical-grade SOPs and wellness maintenance checklists.",
     icon: HeartPulse,
     color: "bg-rose-50 text-rose-600",
-    count: "85+ Templates"
   },
   {
     name: "Business & HR",
@@ -38,7 +37,6 @@ const categories = [
     desc: "Operations, hiring, and people management protocols.",
     icon: Briefcase,
     color: "bg-indigo-50 text-indigo-600",
-    count: "450+ Templates"
   },
   {
     name: "Home & Lifestyle",
@@ -46,7 +44,6 @@ const categories = [
     desc: "Domestic operations and lifestyle optimization frameworks.",
     icon: Home,
     color: "bg-orange-50 text-orange-600",
-    count: "110+ Templates"
   },
   {
     name: "Tech & IT",
@@ -54,11 +51,26 @@ const categories = [
     desc: "Security protocols and systems management SOPs.",
     icon: Monitor,
     color: "bg-emerald-50 text-emerald-600",
-    count: "240+ Templates"
   }
 ];
 
+// Helper to normalize strings for perfect matching
+const normalize = (str?: string) => str?.toLowerCase().trim().replace(/[-_ ]+/g, '-') || "";
+
 export default function CategoriesPage() {
+  const allTemplates = getDocuments('templates', ['category']);
+
+  // Map over category definitions and inject dynamic counts
+  const categoriesWithCounts = categoryDefinitions.map(cat => {
+    const safeCatSlug = normalize(cat.slug);
+    const count = allTemplates.filter(t => normalize(t.category) === safeCatSlug).length;
+    
+    return {
+      ...cat,
+      count: count > 0 ? `${count} Templates` : "0 Templates"
+    };
+  });
+
   return (
     <div className="bg-[#FAFAFA] min-h-screen">
       {/* ── HEADER ── */}
@@ -82,7 +94,7 @@ export default function CategoriesPage() {
       <section className="py-20 px-6">
         <div className="max-w-7xl mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {categories.map((cat) => (
+            {categoriesWithCounts.map((cat) => (
               <Link
                 key={cat.slug}
                 href={`/categories/${cat.slug}`}

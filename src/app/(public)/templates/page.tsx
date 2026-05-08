@@ -10,20 +10,9 @@ export const metadata: Metadata = {
 
 const ITEMS_PER_PAGE = 24;
 
-export default async function TemplatesIndexPage({
-  searchParams,
-}: {
-  searchParams: Promise<{ page?: string }>;
-}) {
-  const { page: pageStr } = await searchParams;
-  const page = Math.max(1, parseInt(pageStr || "1", 10));
-  
+export default function TemplatesIndexPage() {
   const allTemplates = getDocuments('templates', ['title', 'slug', 'description', 'category']);
   const totalItems = allTemplates.length;
-  const totalPages = Math.ceil(totalItems / ITEMS_PER_PAGE);
-  
-  const startIndex = (page - 1) * ITEMS_PER_PAGE;
-  const templates = allTemplates.slice(startIndex, startIndex + ITEMS_PER_PAGE);
 
   return (
     <main className="max-w-7xl mx-auto px-6 py-12 md:py-20">
@@ -40,7 +29,7 @@ export default async function TemplatesIndexPage({
 
       {/* ── TEMPLATES GRID ── */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-        {templates.map((template) => (
+        {allTemplates.map((template) => (
           <Link
             key={template.slug}
             href={`/templates/${template.slug}`}
@@ -61,33 +50,6 @@ export default async function TemplatesIndexPage({
         ))}
       </div>
 
-      {/* ── PAGINATION CONTROLS ── */}
-      {totalPages > 1 && (
-        <div className="mt-16 flex items-center justify-center gap-2">
-          {page > 1 && (
-            <Link
-              href={`/templates?page=${page - 1}`}
-              className="px-5 py-2 border border-border rounded-lg text-sm font-medium hover:bg-gray-50 transition-colors"
-            >
-              Previous
-            </Link>
-          )}
-          
-          <div className="flex items-center gap-1 mx-4">
-            <span className="text-sm font-medium text-gray-900">Page {page}</span>
-            <span className="text-sm text-gray-400">of {totalPages}</span>
-          </div>
-
-          {page < totalPages && (
-            <Link
-              href={`/templates?page=${page + 1}`}
-              className="px-5 py-2 bg-[#111827] text-white rounded-lg text-sm font-medium hover:bg-gray-800 transition-colors"
-            >
-              Next
-            </Link>
-          )}
-        </div>
-      )}
     </main>
   );
 }
