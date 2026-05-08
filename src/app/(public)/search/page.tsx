@@ -37,12 +37,8 @@ export default async function SearchPage({
 
   if (query) {
     const fuse = new Fuse(allTemplates, {
-      keys: [
-        { name: 'title', weight: 0.7 },
-        { name: 'description', weight: 0.2 },
-        { name: 'content', weight: 0.1 }
-      ],
-      threshold: 0.35, // Adjust for fuzziness
+      keys: ['title'],
+      threshold: 0.3, // Strict title match
       ignoreLocation: true,
       findAllMatches: true,
       minMatchCharLength: 2,
