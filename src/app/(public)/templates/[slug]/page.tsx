@@ -6,7 +6,7 @@ import {
   Clock,
 } from "lucide-react";
 import MarkdownRenderer from "@/app/components/MarkdownRenderer";
-import { getKeywordBySlug, toTitleCase, getRelatedKeywords, getAllKeywords } from "@/lib/data";
+import { toTitleCase } from "@/lib/data";
 import { injectInternalLinks } from "@/lib/linker";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -121,7 +121,19 @@ export default async function TemplatePage({
   const keyword = slug.replace(/-/g, " ");
   const titleCased = template.title || toTitleCase(keyword);
 
-  const relatedKeywords = await getRelatedKeywords(slug);
+  const allTemplates = getDocuments('templates', ['title', 'slug', 'category']);
+  
+  const relatedKeywords = allTemplates
+    .filter(t => t.slug !== slug && t.category === template.category)
+    .slice(0, 3)
+    .map(t => ({ keyword: t.title || t.slug.replace(/-/g, " "), slug: t.slug }));
+    
+  if (relatedKeywords.length < 3) {
+    const more = allTemplates
+      .filter(t => t.slug !== slug && !relatedKeywords.find(r => r.slug === t.slug))
+      .slice(0, 3 - relatedKeywords.length);
+    relatedKeywords.push(...more.map(t => ({ keyword: t.title || t.slug.replace(/-/g, " "), slug: t.slug })));
+  }
 
   const rawMarkdown = template.content;
 
@@ -129,9 +141,10 @@ export default async function TemplatePage({
   const { content: cleanBody } = matter(rawMarkdown);
 
   // Apply the SEO internal linker
-  const allKeywords = await getAllKeywords();
   // Filter out the current slug so we don't link to ourselves
-  const availableTemplates = allKeywords.filter(k => k.slug !== slug);
+  const availableTemplates = allTemplates
+    .filter(t => t.slug !== slug)
+    .map(t => ({ keyword: t.title || t.slug.replace(/-/g, " "), slug: t.slug }));
   const generatedMarkdown = injectInternalLinks(cleanBody, availableTemplates);
 
   const heroDescription = generateHeroDescription(keyword, titleCased);

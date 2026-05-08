@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import HomePageClient from "./HomePageClient";
 
-import { getAllKeywords } from "@/lib/data";
+import { getDocuments } from "outstatic/server";
 
 export const metadata: Metadata = {
   title: "Template Registry — The Global Registry of Professional SOPs",
@@ -23,6 +23,8 @@ export const metadata: Metadata = {
 };
 
 export default async function HomePage() {
-  const allTemplates = await getAllKeywords();
+  const allTemplates = getDocuments('templates', ['title', 'slug', 'description', 'category'])
+    .map(t => ({ keyword: t.title || t.slug.replace(/-/g, ' '), slug: t.slug }));
+    
   return <HomePageClient allTemplates={allTemplates} />;
 }
