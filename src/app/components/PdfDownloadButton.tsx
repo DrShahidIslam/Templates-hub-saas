@@ -4,10 +4,12 @@ import { Download, X, Lock, Loader2, KeyRound } from "lucide-react";
 import { useState, useEffect } from "react";
 import { checkPremiumStatus } from "@/app/actions";
 import Link from "next/link";
+import toast from "react-hot-toast";
 
 export default function PdfDownloadButton({ title }: { title: string }) {
   const [isGenerating, setIsGenerating] = useState(false);
   const [isPremium, setIsPremium] = useState(false);
+  const [freeDownloadUsed, setFreeDownloadUsed] = useState(false);
   const [showPaywallModal, setShowPaywallModal] = useState(false);
   const [mounted, setMounted] = useState(false);
 
@@ -23,6 +25,9 @@ export default function PdfDownloadButton({ title }: { title: string }) {
         } catch (err) {
           console.error("Auth check failed:", err);
         }
+
+        const used = localStorage.getItem('free_downloads') === '1';
+        if (isMounted) setFreeDownloadUsed(used);
       }
       if (isMounted) setMounted(true);
     };
@@ -38,9 +43,14 @@ export default function PdfDownloadButton({ title }: { title: string }) {
     // Strictly verify premium status securely on the server before generating PDF
     const serverVerifiedPremium = await checkPremiumStatus();
     
+    // The Free Tier Check (Soft Gate)
     if (!serverVerifiedPremium) {
-      setShowPaywallModal(true);
-      return;
+      const hasUsedFree = localStorage.getItem('free_downloads') === '1';
+      
+      if (hasUsedFree) {
+        setShowPaywallModal(true);
+        return;
+      }
     }
 
     try {
@@ -125,6 +135,16 @@ export default function PdfDownloadButton({ title }: { title: string }) {
       console.log("4. Executing html2pdf...");
       await html2pdf().set(opt).from(element).save();
       console.log("5. PDF successfully downloaded!");
+      
+      // Update free tier state and trigger toast for anonymous users
+      if (!serverVerifiedPremium) {
+        localStorage.setItem('free_downloads', '1');
+        setFreeDownloadUsed(true);
+        toast('1/1 Free Download Used. Get Pro for unlimited access.', {
+          icon: '🎁',
+          duration: 5000,
+        });
+      }
     } catch (error) {
       console.error("PDF Generation FAILED:", error);
       alert("There was an issue generating the PDF. Please check the console.");
@@ -140,6 +160,8 @@ export default function PdfDownloadButton({ title }: { title: string }) {
     ? "Generating PDF..."
     : isPremium
     ? "Download PDF (Pro)"
+    : !freeDownloadUsed
+    ? "Download PDF (1 Free Remaining)"
     : "Get Lifetime Access";
 
   return (
