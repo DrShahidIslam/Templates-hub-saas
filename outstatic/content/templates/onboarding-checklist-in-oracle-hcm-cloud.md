@@ -1,0 +1,47 @@
+# Standard Operating Procedure: New Hire Onboarding in Oracle HCM Cloud
+
+This Standard Operating Procedure (SOP) outlines the standardized process for onboarding new employees within Oracle HCM Cloud. Effective onboarding is critical for operational efficiency, ensuring that new hires are provisioned with the correct access, compensation data, and organizational alignment from day one. This document is intended for HR Specialists, HR Business Partners, and System Administrators responsible for maintaining data integrity during the lifecycle of an employee record.
+
+## Phase 1: Pre-boarding and Personal Data Entry
+Before the employee’s start date, the HR administrator must establish the primary record to trigger the onboarding workflow.
+
+*   **Initiate Hire:** Navigate to My Client Groups > New Person > Hire an Employee.
+*   **Enter Legal Employer:** Select the correct Legal Entity to ensure compliance with local tax and statutory regulations.
+*   **Legal Reporting Unit (LRU):** Verify the LRU selection, as this drives payroll tax reporting.
+*   **Personal Information:** Input full legal name, date of birth, and national identifier. Ensure the "National ID" format matches local country requirements to prevent downstream payroll errors.
+*   **Contact Information:** Input the personal email address and phone number for pre-hire communication.
+
+## Phase 2: Employment and Compensation Configuration
+This section defines the financial and structural relationship between the organization and the employee.
+
+*   **Assignment Details:** Define the Business Unit, Position, Job, and Grade. *Note: Ensure the Position has the correct "Headcount" budget allocated.*
+*   **Manager Hierarchy:** Assign the correct Line Manager. This triggers the manager’s "My Team" dashboard access.
+*   **Compensation:** Input the salary basis and proposed salary. Validate that the amount falls within the predefined grade range.
+*   **Work Schedule:** Apply the appropriate Work Schedule (e.g., 40-hour week, Part-time) to ensure Time & Labor calculations are accurate.
+*   **Probation Period:** Define the probation end date as per the local employment contract.
+
+## Phase 3: Provisioning and Checklist Activation
+Once the record is saved, the system must trigger the electronic workflow for the new hire.
+
+*   **Review Onboarding Checklist:** Navigate to the "Checklist" tab on the person record. Ensure the "New Hire Onboarding" template is assigned.
+*   **Task Assignment:** Verify that system-generated tasks (e.g., Document Upload, Benefits Enrollment) have been routed to the employee’s "Worklist."
+*   **Security Profiles:** If the employee requires system access, ensure their "User Account" is provisioned. Link the LDAP/SSO identity to the Oracle person record.
+*   **Notification Check:** Send a "Welcome Email" via the Oracle HCM communication center, confirming the login URL and temporary credentials.
+
+## Pro Tips & Pitfalls
+
+*   **Pro Tip: Use Templates.** Always utilize "Person Templates" for standard roles to pre-populate common fields like Job, Location, and Department, reducing manual data entry errors.
+*   **Pro Tip: Audit Trails.** Before clicking "Submit," perform a final review in the "Review" stage of the Hire flow. Once submitted, changes may require an "Edit Employment" transaction, which generates a more complex audit history.
+*   **Pitfall: Future-Dating.** Avoid backdating hire records if the onboarding process is already in progress. It can lead to payroll synchronization failures.
+*   **Pitfall: Incomplete Documents.** Do not mark an onboarding task as "Complete" if the employee has not attached required legal documents. Use the "In Progress" status to trigger automated reminders.
+
+## Frequently Asked Questions (FAQ)
+
+**Q1: Why can’t the new hire see their dashboard after I submitted the hire?**
+A1: Ensure the "User Account" was successfully provisioned in the "Security Console." If the provisioning process failed, the user will exist in HR but will not be able to authenticate into the application.
+
+**Q2: Can I modify an onboarding task once it has been sent to the employee?**
+A2: Yes, you can navigate to the "Checklist" task within the person record and use the "Update" function to edit task instructions or change the assigned person, provided the status is not "Completed."
+
+**Q3: How do I handle a candidate who accepts the offer but changes their start date?**
+A3: Do not delete the record. Navigate to "Manage Employment," use the "Correct" action on the primary assignment record, and update the "Effective Start Date" to the new date. Always check if this affects payroll processing periods.
