@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Post-Mortem Administrative Procedures'
-status: 'published'
-slug: 'checklist-for-after-someone-dies'
+title: 'After a Death: Navigate Post-Mortem Admin & Legal SOP'
+status: published
+slug: checklist-for-after-someone-dies
 publishedAt: '2026-05-07T18:59:25.092Z'
+description: >-
+  Comprehensive SOP to navigate post-mortem administrative and legal tasks after
+  a loved one's passing. Structured roadmap ensures efficiency, clarity, and
+  peace of mind during grief.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Post-Mortem Administrative Procedures
@@ -55,3 +60,59 @@ A: Yes. Register the deceased’s name with the Direct Marketing Association’s
 
 <div data-html2canvas-ignore="true" style="display:none">checklist for after someone dies, what to do when someone dies, steps to take after a death, post-mortem administrative checklist, legal requirements after a death, death notification checklist, immediate actions after a family member dies, funeral arrangement steps, checklist for settling an estate, death certificate process, guide to post-death procedures, what to do immediately after a death, administrative tasks after a bereavement, planning a funeral checklist, legal procedures following a death</div>
 <!-- AI_KEYWORDS: checklist for after someone dies, what to do when someone dies, steps to take after a death, post-mortem administrative checklist, legal requirements after a death, death notification checklist, immediate actions after a family member dies, funeral arrangement steps, checklist for settling an estate, death certificate process, guide to post-death procedures, what to do immediately after a death, administrative tasks after a bereavement, planning a funeral checklist, legal procedures following a death -->
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What immediate steps should be taken after a loved one's death?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Within the first 24-48 hours, ensure a medical professional pronounces death, verify organ donation if applicable, arrange transportation with a funeral home, notify immediate family, and secure the deceased’s estate."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many certified copies of the death certificate should I obtain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is recommended to order at least 10-15 certified copies of the death certificate. These will be needed for various institutions like banks, insurance companies, and government agencies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which essential documents should I locate in the first 1-2 weeks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During the short-term phase, locate the Will, Trust documents, life insurance policies, military discharge papers (DD214), and any funeral pre-arrangement plans."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the main goal of this Post-Mortem Administrative Procedures SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This SOP provides a structured roadmap to help you navigate the immediate, intermediate, and long-term administrative and legal requirements following a death, ensuring efficiency and clarity."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Post-Mortem Administrative Procedures SOP",
+  "description": "A comprehensive digital guide and workflow application designed to assist individuals in navigating the complex administrative and legal tasks after the passing of a loved one. Provides phased instructions for estate settlement, document location, and agency notifications.",
+  "applicationCategory": "ReferenceApplication",
+  "operatingSystem": "Any",
+  "url": "https://example.com/post-mortem-admin-sop",
+  "inLanguage": "en-US",
+  "softwareVersion": "1.0"
+}
+</script>
