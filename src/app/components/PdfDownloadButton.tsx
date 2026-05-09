@@ -1,6 +1,6 @@
 "use client";
 
-import { Download, X, Lock, Loader2, KeyRound } from "lucide-react";
+import { Download, X, Lock, KeyRound } from "lucide-react";
 import { useState, useEffect } from "react";
 import { checkPremiumStatus } from "@/app/actions";
 import Link from "next/link";
@@ -200,7 +200,7 @@ export default function PdfDownloadButton({ title }: { title: string }) {
               </h2>
               
               <p className="text-muted-foreground mb-8 leading-relaxed">
-                You've used your 1 free download! Upgrade to Premium to get unlimited lifetime access to our entire library of 1,800+ SOPs, frameworks, and checklists.
+                You&apos;ve used your 1 free download! Upgrade to Premium to get unlimited lifetime access to our entire library of 1,800+ SOPs, frameworks, and checklists.
               </p>
 
               <a

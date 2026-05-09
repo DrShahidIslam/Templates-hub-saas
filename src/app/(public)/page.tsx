@@ -6,7 +6,7 @@ import { getDocuments } from "outstatic/server";
 export const metadata: Metadata = {
   title: "Template Registry — The Global Registry of Professional SOPs",
   description:
-    "Access 1,800+ professional Standard Operating Procedures, Checklists, and Policies. Engineered for Clinical & Academic Precision, curated by an Assistant Professor.",
+    "Access 1,800+ professional Standard Operating Procedures, Checklists, and Policies. Engineered for Clinical & Academic Precision, curated by a Chief Architect.",
   keywords: [
     "business templates",
     "SOP templates",

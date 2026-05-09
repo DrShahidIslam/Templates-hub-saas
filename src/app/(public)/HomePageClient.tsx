@@ -297,7 +297,7 @@ export default function HomePageClient({ allTemplates }: HomePageClientProps) {
           </div>
         </section>
 
-        {/* ── PROFESSOR'S SEAL (TRUST BAR) ── */}
+        {/* ── ARCHITECT'S SEAL (TRUST BAR) ── */}
         <section className="py-12 bg-[#F5F5F7] border-y border-gray-100">
           <div className="max-w-7xl mx-auto px-6">
             <div className="flex flex-col md:flex-row items-center justify-center gap-8 md:gap-16 text-center md:text-left">
@@ -307,7 +307,7 @@ export default function HomePageClient({ allTemplates }: HomePageClientProps) {
                 </div>
                 <div>
                   <h3 className="font-serif text-xl text-[#111827]">Engineered for Clinical Precision</h3>
-                  <p className="text-sm text-gray-500">Curated by an Assistant Professor.</p>
+                  <p className="text-sm text-gray-500">Curated by Julian Vance, Chief Architect.</p>
                 </div>
               </div>
               <div className="h-px w-24 md:w-px md:h-12 bg-gray-200" />

@@ -1,6 +1,6 @@
 import { validateEvent } from '@polar-sh/sdk/webhooks';
 import { NextResponse } from 'next/server';
-import { addPremiumUser, initDatabase } from '@/lib/db';
+import { addPremiumUser } from '@/lib/db';
 
 /**
  * api/webhooks/polar/route.ts
@@ -10,9 +10,6 @@ import { addPremiumUser, initDatabase } from '@/lib/db';
  */
 
 export async function POST(request: Request) {
-  // Ensure DB is ready
-  await initDatabase();
-
   // 1. MUST read as raw text for signature verification
   const body = await request.text();
   
@@ -39,23 +36,38 @@ export async function POST(request: Request) {
 
     console.log(`🔔 Received Polar Webhook: ${event.type}`);
 
-    // 4. Handle relevant events
+    // 4. Handle relevant events with strict validation
     if (event.type === 'order.created') {
       const order = event.data as any;
-      const customerEmail = order.customer_email || order.customer?.email || order.user_email;
-      const orderId = order.id;
+      
+      const isCorrectProduct = order.product_id === '1173754f-fe00-4b1b-aa99-586aad461272';
+      const isPaid = order.status === 'paid';
+      const isUSD = order.currency === 'usd';
 
-      if (customerEmail) {
-        console.log(`🚀 Granting Pro access to: ${customerEmail}`);
-        await addPremiumUser(customerEmail, orderId);
+      if (isCorrectProduct && isPaid && isUSD) {
+        const customerEmail = order.customer_email || order.customer?.email || order.user_email;
+        if (customerEmail) {
+          console.log(`🚀 Granting Pro access to: ${customerEmail}`);
+          await addPremiumUser(customerEmail, order.id);
+        }
+      } else {
+        console.warn(`⚠️ Invalid order payload received: product=${order.product_id}, status=${order.status}, currency=${order.currency}`);
       }
     }
 
     if (event.type === 'subscription.created') {
       const sub = event.data as any;
-      const customerEmail = sub.customer_email || sub.customer?.email || sub.user_email;
-      if (customerEmail) {
-        await addPremiumUser(customerEmail, sub.id);
+      
+      const isCorrectProduct = sub.product_id === '1173754f-fe00-4b1b-aa99-586aad461272';
+      const isUSD = sub.currency === 'usd';
+      // For subscriptions, status might be 'active'
+      const isActive = sub.status === 'active';
+
+      if (isCorrectProduct && isUSD && isActive) {
+        const customerEmail = sub.customer_email || sub.customer?.email || sub.user_email;
+        if (customerEmail) {
+          await addPremiumUser(customerEmail, sub.id);
+        }
       }
     }
 

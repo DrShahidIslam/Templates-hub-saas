@@ -13,7 +13,6 @@ interface NotionExportButtonProps {
 export default function NotionExportButton({ markdownContent }: NotionExportButtonProps) {
   const [copied, setCopied] = useState(false);
   const [isPremium, setIsPremium] = useState(false);
-  const [freeDownloadUsed, setFreeDownloadUsed] = useState(false);
   const [showPaywallModal, setShowPaywallModal] = useState(false);
   const [mounted, setMounted] = useState(false);
 
@@ -28,9 +27,6 @@ export default function NotionExportButton({ markdownContent }: NotionExportButt
         } catch (err) {
           console.error("Auth check failed:", err);
         }
-
-        const used = localStorage.getItem('free_downloads') === '1';
-        if (isMounted) setFreeDownloadUsed(used);
       }
       if (isMounted) setMounted(true);
     };
@@ -43,17 +39,11 @@ export default function NotionExportButton({ markdownContent }: NotionExportButt
   }, []);
 
   const handleExport = async () => {
-    // 1. Strictly verify premium status securely on the server
     const serverVerifiedPremium = await checkPremiumStatus();
     
-    // 2. The Free Tier Check (Soft Gate)
     if (!serverVerifiedPremium) {
-      const hasUsedFree = localStorage.getItem('free_downloads') === '1';
-      
-      if (hasUsedFree) {
-        setShowPaywallModal(true);
-        return;
-      }
+      setShowPaywallModal(true);
+      return;
     }
 
     // 3. ACTUAL EXPORT LOGIC
@@ -61,16 +51,6 @@ export default function NotionExportButton({ markdownContent }: NotionExportButt
       await navigator.clipboard.writeText(markdownContent);
       setCopied(true);
       toast.success("Markdown copied for Notion!");
-      
-      // Update free tier state and trigger toast for anonymous users
-      if (!serverVerifiedPremium) {
-        localStorage.setItem('free_downloads', '1');
-        setFreeDownloadUsed(true);
-        toast('1/1 Free Download Used. Get Pro for unlimited access.', {
-          icon: '🎁',
-          duration: 5000,
-        });
-      }
 
       setTimeout(() => {
         setCopied(false);
@@ -110,16 +90,12 @@ export default function NotionExportButton({ markdownContent }: NotionExportButt
           <>
             <div className="relative">
               <ExternalLink className="w-4 h-4" />
-              {!isPremium && freeDownloadUsed && (
+              {!isPremium && (
                 <Lock className="w-2.5 h-2.5 absolute -top-1 -right-1 text-indigo-600 bg-white rounded-full" />
               )}
             </div>
             <span>
-              {isPremium
-                ? "Export to Notion (Pro)"
-                : !freeDownloadUsed
-                ? "Export to Notion (1 Free)"
-                : "Get Lifetime Access"}
+              {isPremium ? "Export to Notion (Pro)" : "Export to Notion"}
             </span>
             {!isPremium && (
               <span className="ml-auto text-[10px] font-bold text-indigo-600 bg-indigo-50 px-1.5 py-0.5 rounded uppercase tracking-wider">
@@ -152,7 +128,7 @@ export default function NotionExportButton({ markdownContent }: NotionExportButt
               </h2>
               
               <p className="text-gray-500 mb-8 leading-relaxed">
-                You've used your 1 free download! Upgrade to Premium to get unlimited lifetime access to our entire library of 1,800+ SOPs, frameworks, and checklists.
+                This feature is exclusively available for our Pro members. Upgrade to Premium to get unlimited lifetime access to our entire library of 1,800+ SOPs, frameworks, and checklists.
               </p>
 
               <a

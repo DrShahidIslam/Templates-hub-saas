@@ -20,6 +20,16 @@ const getDb = () => {
   return neon(process.env.DATABASE_URL);
 };
 
+// Runtime validation for critical environment variables
+if (process.env.NODE_ENV === 'production') {
+  const requiredEnvs = ['DATABASE_URL', 'POLAR_WEBHOOK_SECRET', 'JWT_SECRET', 'RESEND_API_KEY'];
+  requiredEnvs.forEach(env => {
+    if (!process.env[env]) {
+      throw new Error(`CRITICAL: Environment variable ${env} is missing.`);
+    }
+  });
+}
+
 /**
  * Initialize the database table for premium users.
  * Should be called once or during a migration step.
@@ -37,6 +47,8 @@ export async function initDatabase() {
     `;
     await sql`ALTER TABLE premium_users ADD COLUMN IF NOT EXISTS otp_code VARCHAR(10);`;
     await sql`ALTER TABLE premium_users ADD COLUMN IF NOT EXISTS otp_expires_at TIMESTAMP WITH TIME ZONE;`;
+    await sql`ALTER TABLE premium_users ADD COLUMN IF NOT EXISTS otp_attempts INT DEFAULT 0;`;
+    await sql`ALTER TABLE premium_users ADD COLUMN IF NOT EXISTS otp_last_attempt TIMESTAMP WITH TIME ZONE;`;
     console.log('✅ Database initialized: premium_users table ready.');
   } catch (error) {
     console.error('❌ Failed to initialize database:', error);
@@ -105,11 +117,44 @@ export async function verifyOTP(email: string, code: string): Promise<boolean> {
       WHERE email = ${email.toLowerCase()} 
         AND otp_code = ${code} 
         AND otp_expires_at > NOW()
+        AND otp_attempts < 5
     `;
     return result.length > 0;
   } catch (error) {
     console.error('❌ Error verifying OTP:', error);
     return false;
+  }
+}
+
+/**
+ * Increment OTP attempts for a user.
+ */
+export async function incrementOTPAttempts(email: string) {
+  try {
+    const sql = getDb();
+    await sql`
+      UPDATE premium_users 
+      SET otp_attempts = otp_attempts + 1, otp_last_attempt = NOW() 
+      WHERE email = ${email.toLowerCase()}
+    `;
+  } catch (error) {
+    console.error('❌ Error incrementing OTP attempts:', error);
+  }
+}
+
+/**
+ * Reset OTP attempts for a user.
+ */
+export async function resetOTPAttempts(email: string) {
+  try {
+    const sql = getDb();
+    await sql`
+      UPDATE premium_users 
+      SET otp_attempts = 0, otp_last_attempt = NULL 
+      WHERE email = ${email.toLowerCase()}
+    `;
+  } catch (error) {
+    console.error('❌ Error resetting OTP attempts:', error);
   }
 }
 

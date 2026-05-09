@@ -98,8 +98,8 @@ export default async function BlogPage() {
                     />
                   )}
                   <div>
-                    <p className="text-sm font-bold text-gray-900">{featuredPost.author?.name || 'Dr. Shahid Islam'}</p>
-                    <p className="text-xs text-gray-500">Assistant Professor & Operations Specialist</p>
+                    <p className="text-sm font-bold text-gray-900">{featuredPost.author?.name || 'Julian Vance'}</p>
+                    <p className="text-xs text-gray-500">Chief Architect & Systems Engineer</p>
                   </div>
                 </div>
               </div>

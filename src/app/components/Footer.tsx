@@ -82,7 +82,7 @@ export default function Footer() {
         {/* ── BOTTOM BAR ── */}
         <div className="pt-8 border-t border-gray-100 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-xs text-gray-400">
-            © 2026 Template Registry. All rights reserved. Curated with academic integrity.
+            © 2026 Template Registry. All rights reserved. Curated with systems integrity.
           </p>
         </div>
       </div>

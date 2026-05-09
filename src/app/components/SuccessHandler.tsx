@@ -17,23 +17,18 @@ export default function SuccessHandler() {
     const success = searchParams.get("success");
 
     if (success === "true") {
-      // 1. Persist the 'Pro' status
-      localStorage.setItem("isPremium", "true");
-      localStorage.setItem("templatehub_premium", "true");
-      
-      // 2. Alert the user
+      // 1. Alert the user
       toast.success("Welcome to Pro! Unlimited downloads unlocked.", {
         duration: 5000,
         icon: '🚀',
       });
 
-      // 3. Clean the URL (remove ?success=true)
+      // 2. Clean the URL (remove ?success=true)
       const newUrl = window.location.pathname;
       window.history.replaceState({}, "", newUrl);
 
-      // 4. Force a re-render or notification across the app
-      // We can use a custom event or just let components poll on focus/mount
-      window.dispatchEvent(new Event("storage"));
+      // 3. Refresh the page to ensure server components recognize the new session cookie
+      window.location.reload();
     }
   }, [searchParams]);
 

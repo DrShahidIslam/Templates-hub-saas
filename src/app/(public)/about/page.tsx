@@ -55,7 +55,7 @@ export default function AboutPage() {
               We bridge the gap between academic rigor and business speed. Every template in our library is engineered using evidence-based management principles and peer-reviewed SOP structures.
             </p>
             <p className="text-lg text-gray-500 leading-relaxed mb-10">
-              Curated by an Assistant Professor with a background in clinical operations and structural insights, we ensure that every checklist and policy meets the highest standards of precision and usability.
+              Curated by Julian Vance, our Chief Architect, with a background in clinical operations and structural insights, we ensure that every checklist and policy meets the highest standards of precision and usability.
             </p>
             <Link 
               href="/templates" 

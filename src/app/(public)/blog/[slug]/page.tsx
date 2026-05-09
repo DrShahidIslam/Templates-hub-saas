@@ -80,8 +80,8 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                 />
               )}
               <div>
-                <p className="font-bold text-[#111827]">{post.author?.name || 'Dr. Shahid Islam'}</p>
-                <p className="text-xs text-gray-500">Assistant Professor & Operations Specialist</p>
+                <p className="font-bold text-[#111827]">{post.author?.name || 'Julian Vance'}</p>
+                <p className="text-xs text-gray-500">Chief Architect & Systems Engineer</p>
               </div>
             </div>
             <div className="flex items-center gap-6">
@@ -113,7 +113,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
             <div>
               <h4 className="font-serif text-2xl text-[#111827] mb-2">About the Author</h4>
               <p className="text-gray-500 leading-relaxed text-sm mb-6">
-                Dr. Shahid Islam serves as an Assistant Professor specializing in evidence-based management and operational frameworks. His work focus is on bridging the gap between academic theory and practical business automation.
+                Julian Vance is a systems architect and process engineering expert specialized in developing elite Standard Operating Procedures (SOPs) and fail-safe checklists.
               </p>
               <div className="flex gap-4">
                 <Link 

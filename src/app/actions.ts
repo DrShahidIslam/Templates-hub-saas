@@ -1,9 +1,11 @@
 "use server";
 
-import { isUserPremium, initDatabase, setOTP, verifyOTP, clearOTP, addPremiumUser } from "@/lib/db";
+import { isUserPremium, initDatabase, setOTP, verifyOTP, clearOTP, addPremiumUser, incrementOTPAttempts, resetOTPAttempts } from "@/lib/db";
 import { cookies } from "next/headers";
 import { Resend } from "resend";
 import { Polar } from "@polar-sh/sdk";
+import { SignJWT, jwtVerify } from "jose";
+import crypto from "crypto";
 
 const resend = new Resend(process.env.RESEND_API_KEY);
 const polar = new Polar({ accessToken: process.env.POLAR_ACCESS_TOKEN });
@@ -14,18 +16,39 @@ const polar = new Polar({ accessToken: process.env.POLAR_ACCESS_TOKEN });
  * Server Actions for secure premium verification and data management.
  */
 
+const JWT_SECRET = new TextEncoder().encode(process.env.JWT_SECRET || "fallback-secret-for-dev-only");
+
+async function signSessionToken(email: string) {
+  return await new SignJWT({ email })
+    .setProtectedHeader({ alg: "HS256" })
+    .setIssuedAt()
+    .setExpirationTime("10y")
+    .sign(JWT_SECRET);
+}
+
+async function verifySessionToken(token: string) {
+  try {
+    const { payload } = await jwtVerify(token, JWT_SECRET);
+    return payload.email as string;
+  } catch (e) {
+    return null;
+  }
+}
+
 /**
- * Checks if an email exists in the premium_users database.
- * If no email is provided, it attempts to read the secure 'premium_session' cookie.
+ * Checks if the current session is premium.
+ * Strictly reads the secure 'premium_session' JWT cookie.
  */
-export async function checkPremiumStatus(email?: string): Promise<boolean> {
+export async function checkPremiumStatus(): Promise<boolean> {
   const cookieStore = await cookies();
-  const sessionEmail = cookieStore.get("premium_session")?.value;
+  const token = cookieStore.get("premium_session")?.value;
   
-  const emailToCheck = email || sessionEmail;
-  if (!emailToCheck) return false;
+  if (!token) return false;
   
-  return await isUserPremium(emailToCheck);
+  const email = await verifySessionToken(token);
+  if (!email) return false;
+  
+  return await isUserPremium(email);
 }
 
 /**
@@ -41,8 +64,8 @@ export async function sendOTPAction(email: string) {
     return { success: true };
   }
 
-  // Generate secure 6-digit code
-  const code = Math.floor(100000 + Math.random() * 900000).toString();
+  // Generate secure 6-digit code using crypto.randomInt
+  const code = crypto.randomInt(100000, 999999).toString();
   // Expiry set to 15 minutes from now
   const expiresAt = new Date(Date.now() + 15 * 60 * 1000);
 
@@ -80,14 +103,18 @@ export async function verifyOTPAction(email: string, code: string) {
   const isValid = await verifyOTP(email, code);
   
   if (!isValid) {
+    await incrementOTPAttempts(email);
     return { success: false, error: "Invalid or expired code." };
   }
 
-  // Clear OTP to prevent replay attacks
+  // Clear OTP and reset attempts on success
   await clearOTP(email);
+  await resetOTPAttempts(email);
+
+  const token = await signSessionToken(email);
 
   const cookieStore = await cookies();
-  cookieStore.set("premium_session", email, {
+  cookieStore.set("premium_session", token, {
     maxAge: 60 * 60 * 24 * 365 * 10, // 10 years
     httpOnly: true,
     secure: process.env.NODE_ENV === "production",
@@ -119,9 +146,11 @@ export async function verifyPolarSession(sessionId: string) {
       // Failsafe: Add to DB immediately in case webhook is delayed
       await addPremiumUser(customerEmail, checkout.id);
 
+      const token = await signSessionToken(customerEmail);
+
       // Drop secure session cookie
       const cookieStore = await cookies();
-      cookieStore.set("premium_session", customerEmail, {
+      cookieStore.set("premium_session", token, {
         maxAge: 60 * 60 * 24 * 365 * 10, // 10 years
         httpOnly: true,
         secure: process.env.NODE_ENV === "production",
