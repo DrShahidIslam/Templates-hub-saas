@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Earthquakes
+publishedAt: '2026-05-10T18:48:01.715Z'
+---
 # Standard Operating Procedure: Earthquake Emergency Response
 
 This document outlines the mandatory procedures for all personnel during a seismic event. The primary objective is the preservation of human life through immediate protective actions, followed by orderly evacuation and structured communication. Adherence to these protocols is critical to minimizing injury and ensuring accountability across all departments. All staff must familiarize themselves with this procedure and participate in biannual emergency drills.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For New Employee
+publishedAt: '2026-05-10T18:48:01.874Z'
+---
 # Standard Operating Procedure: New Employee Onboarding
 
 This Standard Operating Procedure (SOP) outlines the standardized process for onboarding a new hire to ensure a seamless, professional, and productive transition into the organization. The primary objective of this procedure is to reduce time-to-productivity, foster company culture alignment, and ensure all administrative and technical requirements are met before or on the employee's start date. Following these steps consistently minimizes turnover and sets clear expectations for the employee’s integration into their respective team.

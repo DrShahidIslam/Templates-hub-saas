@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Template Google Sheets
+publishedAt: '2026-05-10T18:48:01.020Z'
+---
 # Standard Operating Procedure: Employee Onboarding via Google Sheets
 
 This Standard Operating Procedure (SOP) outlines the standardized process for utilizing a Google Sheets-based onboarding template to ensure a seamless transition for new hires. By centralizing documentation, task tracking, and resource allocation in a collaborative environment, this process minimizes administrative bottlenecks, ensures compliance, and enhances the new hire experience. This template serves as the single source of truth for both the People Operations team and the incoming employee during their first 90 days.

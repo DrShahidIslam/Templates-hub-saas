@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template Discord
+publishedAt: '2026-05-10T18:48:01.047Z'
+---
 # Standard Operating Procedure: Discord Server Onboarding Template
 
 This SOP outlines the standardized procedure for setting up, configuring, and maintaining an onboarding flow for a professional Discord community. A well-structured onboarding process is critical for reducing user friction, ensuring compliance with community guidelines, and directing new members to high-value channels immediately upon entry. This template assumes the use of Discord’s native "Onboarding" feature, which replaces legacy manual verification gates.

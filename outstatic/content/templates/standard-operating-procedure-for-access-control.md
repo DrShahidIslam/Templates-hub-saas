@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Access Control
+publishedAt: '2026-05-10T18:48:01.644Z'
+---
 # Standard Operating Procedure: Access Control Management
 
 This document establishes the formal protocol for the provisioning, monitoring, and revocation of physical and logical access to corporate assets. The objective of this SOP is to ensure that only authorized personnel have access to sensitive areas and systems, thereby mitigating risks related to data breaches, asset theft, and operational disruption. Compliance with this procedure is mandatory for all department heads, IT administrators, and security personnel.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Sewage Treatment Plant
+publishedAt: '2026-05-10T18:48:01.938Z'
+---
 # Standard Operating Procedure: Sewage Treatment Plant (STP) Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the efficient and safe operation of the Sewage Treatment Plant (STP). The objective is to ensure the consistent treatment of influent wastewater to meet environmental discharge standards while maintaining equipment longevity and workplace safety. Strict adherence to these procedures is required by all plant operators to prevent system failures, odors, and regulatory non-compliance.

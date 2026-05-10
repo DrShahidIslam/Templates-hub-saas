@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Restaurant Waiter
+publishedAt: '2026-05-10T18:48:01.447Z'
+---
 # Standard Operating Procedure: Professional Table Service
 
 This Standard Operating Procedure (SOP) outlines the professional expectations and systematic workflow for restaurant waitstaff. The objective of this document is to ensure a consistent, high-quality guest experience, maximize operational efficiency, and maintain the highest standards of hygiene and professionalism. Every server is expected to adhere to these guidelines to ensure seamless service flow from the moment a guest arrives until their final departure.

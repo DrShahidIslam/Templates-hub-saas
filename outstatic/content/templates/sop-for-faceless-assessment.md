@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Faceless Assessment
+publishedAt: '2026-05-10T18:48:01.239Z'
+---
 # Standard Operating Procedure: Faceless Assessment Operations
 
 This document outlines the rigorous protocol for managing "Faceless Assessment" cycles—a workflow designed to ensure objectivity, transparency, and efficiency by decoupling the identity of the submitter from the evaluation process. By removing cognitive biases associated with demographics, tenure, or past performance, this SOP ensures that every submission is evaluated strictly on merit and objective criteria. This procedure applies to all internal audit, academic grading, or performance review cycles conducted within the organization.

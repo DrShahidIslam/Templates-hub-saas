@@ -1,3 +1,8 @@
+---
+status: published
+title: Sops For Covid
+publishedAt: '2026-05-10T18:48:01.629Z'
+---
 # Standard Operating Procedure: COVID-19 Workplace Health and Safety
 
 This Standard Operating Procedure (SOP) establishes the mandatory protocols for maintaining a safe work environment during periods of heightened COVID-19 transmission. The objective is to mitigate the risk of viral transmission, ensure business continuity, and protect the health of all employees, contractors, and visitors. All personnel are required to adhere to these guidelines strictly until official notice of protocol adjustment is provided by Management.

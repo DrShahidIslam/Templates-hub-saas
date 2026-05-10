@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Banking Aspirants
+publishedAt: '2026-05-10T18:48:00.638Z'
+---
 # Standard Operating Procedure: Daily Routine for Banking Aspirants
 
 This document outlines a high-performance daily regimen designed for individuals preparing for competitive banking examinations (IBPS, SBI, RBI, etc.). Banking exams demand a unique blend of speed, accuracy, and endurance across Quantitative Aptitude, Reasoning, English, and General Awareness. This SOP serves as a blueprint to cultivate discipline, maximize cognitive retention, and ensure consistent progress toward the goal of clearing the selection process.

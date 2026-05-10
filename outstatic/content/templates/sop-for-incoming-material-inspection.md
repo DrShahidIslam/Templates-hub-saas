@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Incoming Material Inspection
+publishedAt: '2026-05-10T18:48:01.305Z'
+---
 # Standard Operating Procedure: Incoming Material Inspection
 
 ## Introduction

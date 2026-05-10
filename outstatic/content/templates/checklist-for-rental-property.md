@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Rental Property
+publishedAt: '2026-05-10T18:48:00.500Z'
+---
 # Standard Operating Procedure: Rental Property Inspection & Turnover
 
 Maintaining rental properties to a high standard is critical for asset protection, tenant retention, and legal compliance. This Standard Operating Procedure (SOP) provides a rigorous framework for conducting property inspections and managing the turnover process. By adhering to these protocols, property managers can minimize downtime, prevent disputes over security deposits, and ensure the habitability of the premises for incoming residents.

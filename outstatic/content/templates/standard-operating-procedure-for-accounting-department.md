@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Accounting Department
+publishedAt: '2026-05-10T18:48:01.645Z'
+---
 # Standard Operating Procedure: Accounting Department Operations
 
 This document establishes the standardized procedures for the Accounting Department, ensuring financial accuracy, regulatory compliance, and fiscal transparency. The purpose of this SOP is to define the workflow for daily, monthly, and annual financial tasks, providing a consistent framework for record-keeping, reporting, and reconciliation. By adhering to these guidelines, the department mitigates financial risk, maintains the integrity of the general ledger, and provides actionable data to organizational leadership.

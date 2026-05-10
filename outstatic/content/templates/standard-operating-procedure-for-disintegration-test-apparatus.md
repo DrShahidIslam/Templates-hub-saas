@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Disintegration Test Apparatus
+publishedAt: '2026-05-10T18:48:01.705Z'
+---
 # Standard Operating Procedure: Disintegration Test Apparatus
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the operation, calibration, and maintenance of the disintegration test apparatus. This equipment is essential for determining the time required for solid oral dosage forms (tablets, capsules) to disintegrate under controlled conditions simulating the human physiological environment. Adherence to these procedures ensures compliance with pharmacopeial standards (USP/EP/IP) and guarantees the reproducibility and integrity of pharmaceutical quality control data.

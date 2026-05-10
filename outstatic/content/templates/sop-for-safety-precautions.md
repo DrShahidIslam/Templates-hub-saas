@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Safety Precautions
+publishedAt: '2026-05-10T18:48:01.464Z'
+---
 # Standard Operating Procedure: Workplace Safety Protocols
 
 This Standard Operating Procedure (SOP) establishes the mandatory safety requirements and behavioral expectations for all personnel operating within the facility. The objective of this document is to mitigate operational risks, ensure compliance with Occupational Health and Safety (OHS) regulations, and foster a proactive culture of incident prevention. Adherence to these protocols is non-negotiable and applies to all employees, contractors, and visitors.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Y Resistencia A La Insulina
+publishedAt: '2026-05-10T18:48:01.621Z'
+---
 # Standard Operating Procedure: Management of PCOS and Insulin Resistance
 
 This Standard Operating Procedure (SOP) outlines the clinical and lifestyle management framework for patients presenting with Polycystic Ovary Syndrome (PCOS) exacerbated by insulin resistance. PCOS is a complex endocrine disorder that frequently features hyperinsulinemia, which acts as a catalyst for androgen production and metabolic dysfunction. The objective of this protocol is to restore metabolic homeostasis, mitigate symptoms of hyperandrogenism, and improve long-term reproductive and cardiovascular health through a multidisciplinary approach.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Ivf Lab
+publishedAt: '2026-05-10T18:48:01.834Z'
+---
 # Standard Operating Procedure: IVF Laboratory Operations
 
 This Standard Operating Procedure (SOP) serves as the primary operational framework for the In Vitro Fertilization (IVF) laboratory. Its objective is to ensure the highest standards of gamete and embryo handling, environmental stability, and clinical safety. Adherence to these protocols is mandatory for all embryology staff to minimize clinical risk, maintain chain of custody, and optimize laboratory success rates. Deviation from these procedures requires formal authorization from the Laboratory Director.

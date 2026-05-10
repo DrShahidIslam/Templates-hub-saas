@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For University
+publishedAt: '2026-05-10T18:48:01.502Z'
+---
 # Standard Operating Procedure: University Administrative & Operational Excellence
 
 This Standard Operating Procedure (SOP) serves as a foundational guide for university administrative staff, department heads, and operational leads to ensure consistency, efficiency, and compliance across academic and support functions. By standardizing processes—ranging from student enrollment to faculty onboarding and facilities management—this document aims to mitigate operational risk and enhance the overall stakeholder experience. All staff members are expected to adhere to these guidelines to ensure that university resources are utilized effectively and institutional standards are upheld.

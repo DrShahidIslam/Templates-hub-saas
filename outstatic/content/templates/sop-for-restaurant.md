@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Restaurant
+publishedAt: '2026-05-10T18:48:01.448Z'
+---
 # Standard Operating Procedure: Restaurant Daily Operations
 
 This Standard Operating Procedure (SOP) serves as the foundational framework for maintaining excellence in restaurant operations. By standardizing opening, service, and closing procedures, we ensure consistent food quality, safety compliance, and a seamless guest experience. All staff members are expected to adhere to these protocols to minimize waste, maximize labor efficiency, and uphold the brand’s reputation for service excellence.

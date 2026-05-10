@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure Vs Job Aid
+publishedAt: '2026-05-10T18:48:02.029Z'
+---
 # Standard Operating Procedure: Distinguishing Between SOPs and Job Aids
 
 This document outlines the operational criteria for determining when to develop a Standard Operating Procedure (SOP) versus a Job Aid. As an operations professional, it is critical to understand that SOPs define "how we work" (the policy and process), while Job Aids define "how to perform" (the immediate, task-based execution). Selecting the correct document type prevents documentation bloat, increases employee compliance, and streamlines training workflows.

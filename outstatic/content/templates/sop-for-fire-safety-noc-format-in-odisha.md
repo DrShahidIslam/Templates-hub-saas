@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Fire Safety Noc Format In Odisha
+publishedAt: '2026-05-10T18:48:01.249Z'
+---
 # Standard Operating Procedure: Obtaining Fire Safety NOC in Odisha
 
 This Standard Operating Procedure (SOP) outlines the standardized process for procuring a Fire Safety No Objection Certificate (NOC) within the state of Odisha, in accordance with the Odisha Fire Service (OFS) regulations. Adhering to these guidelines ensures compliance with the Odisha Fire Prevention and Fire Safety Rules, minimizing legal risks and ensuring the life safety of occupants. The process is primarily managed through the Odisha Fire Services online portal, promoting transparency and time-bound delivery.

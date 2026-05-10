@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For School Students
+publishedAt: '2026-05-10T18:48:00.756Z'
+---
 # Standard Operating Procedure: Daily Routine Optimization for Students
 
 This Standard Operating Procedure (SOP) is designed to maximize academic performance, physical well-being, and cognitive recovery for students. By implementing a structured, repeatable daily routine, students can reduce decision fatigue, improve time management, and ensure all academic and personal obligations are met with consistency. This document serves as the operational framework for a balanced, high-output day.

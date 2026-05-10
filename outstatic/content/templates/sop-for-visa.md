@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Visa
+publishedAt: '2026-05-10T18:48:01.520Z'
+---
 # Standard Operating Procedure: International Visa Application Process
 
 This Standard Operating Procedure (SOP) outlines the standardized workflow for managing international visa applications to ensure compliance, accuracy, and timely submission. The objective is to mitigate the risk of rejection caused by clerical errors, missing documentation, or missed deadlines. This procedure applies to all personnel responsible for organizing travel logistics and filing visa applications on behalf of the organization or themselves.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Low Porosity Hair
+publishedAt: '2026-05-10T18:48:00.716Z'
+---
 # Standard Operating Procedure: Daily Maintenance for Low Porosity Hair
 
 Low porosity hair is characterized by tightly bound cuticle scales that resist moisture absorption. Because these scales lay flat, water and conditioning agents often sit on the surface rather than penetrating the hair shaft. This SOP outlines a strategic, heat-conscious daily routine designed to maximize hydration, prevent product buildup, and maintain structural integrity. The primary objective is to facilitate moisture entry while ensuring scalp health and long-term hair elasticity.

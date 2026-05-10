@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Microsoft Lists
+publishedAt: '2026-05-10T18:48:00.996Z'
+---
 # Standard Operating Procedure: Microsoft Lists Onboarding & Deployment
 
 This Standard Operating Procedure (SOP) outlines the standardized process for onboarding team members to Microsoft Lists and deploying new list-based workflows within an organization. The objective is to ensure data integrity, maintain consistent folder structures, and maximize productivity through proper configuration, access control, and automation integration. By following this guide, teams will minimize configuration errors and ensure that all stakeholders are aligned on data management expectations.

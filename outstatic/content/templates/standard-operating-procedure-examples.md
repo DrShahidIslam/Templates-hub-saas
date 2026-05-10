@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure Examples
+publishedAt: '2026-05-10T18:48:01.639Z'
+---
 # Standard Operating Procedure: Creating and Managing SOPs
 
 This document outlines the professional standards for developing, maintaining, and auditing Standard Operating Procedures (SOPs) within an organization. An effective SOP ensures consistency, reduces operational risk, and serves as the primary training document for new and existing personnel. By following this framework, departments can ensure that their processes are scalable, compliant, and easy to execute.

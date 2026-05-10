@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Y Embarazo
+publishedAt: '2026-05-10T18:48:01.619Z'
+---
 # Standard Operating Procedure: Clinical Management of PCOS and Pregnancy
 
 This Standard Operating Procedure (SOP) outlines the clinical protocol for managing patients with Polycystic Ovary Syndrome (PCOS) who are attempting to conceive or are currently pregnant. Due to the inherent endocrine complexities of PCOS, including increased risks of gestational diabetes, hypertension, and preterm labor, this document serves as a standardized framework to ensure patient safety, proactive monitoring, and optimized obstetric outcomes.

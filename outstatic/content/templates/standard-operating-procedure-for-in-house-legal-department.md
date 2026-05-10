@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For In House Legal Department
+publishedAt: '2026-05-10T18:48:01.826Z'
+---
 # Standard Operating Procedure: In-House Legal Department Operations
 
 This document outlines the standardized protocols for the in-house legal department to ensure regulatory compliance, risk mitigation, and operational efficiency across the organization. By following these procedures, the department will maintain consistency in document handling, contract lifecycles, and internal advisory functions, ultimately safeguarding the company’s legal interests while supporting business velocity.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Kids Wordwall
+publishedAt: '2026-05-10T18:48:00.708Z'
+---
 # SOP: Daily Routine for Interactive Word Wall Management
 
 This Standard Operating Procedure outlines the systematic approach for maintaining, updating, and facilitating the daily use of a classroom or home-learning "Word Wall." An effective word wall serves as a dynamic, student-centered tool that reinforces literacy, expands vocabulary, and builds independent spelling skills. By following this daily routine, facilitators ensure the environment remains organized, accessible, and pedagogically relevant to the curriculum being taught.

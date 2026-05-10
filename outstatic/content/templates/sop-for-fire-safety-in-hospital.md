@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Fire Safety In Hospital
+publishedAt: '2026-05-10T18:48:01.246Z'
+---
 # Standard Operating Procedure: Fire Safety Management in Healthcare Facilities
 
 This Standard Operating Procedure (SOP) establishes the mandatory protocols for fire prevention, detection, emergency response, and evacuation within the hospital premises. In a healthcare environment, the primary challenge is the protection of non-ambulatory patients and the preservation of critical life-support infrastructure. This document serves as a guideline for all staff, including clinical, administrative, and facilities management personnel, to ensure regulatory compliance and the highest standard of patient safety.

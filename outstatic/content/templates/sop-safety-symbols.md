@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Safety Symbols
+publishedAt: '2026-05-10T18:48:01.613Z'
+---
 # SOP: Standardized Management and Application of Safety Symbols
 
 This Standard Operating Procedure (SOP) establishes the formal protocol for the selection, placement, and maintenance of safety symbols within the facility. Adhering to these guidelines ensures compliance with ANSI Z535 standards, minimizes workplace hazards, and provides clear, immediate visual communication to all personnel. Consistent application of these symbols is critical for maintaining an injury-free environment and meeting regulatory safety audits.

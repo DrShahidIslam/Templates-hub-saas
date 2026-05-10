@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Lathe Machine
+publishedAt: '2026-05-10T18:48:01.349Z'
+---
 # Standard Operating Procedure: Lathe Machine Operation
 
 ## Introduction

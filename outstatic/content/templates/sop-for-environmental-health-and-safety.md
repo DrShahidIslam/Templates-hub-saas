@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Environmental Health And Safety
+publishedAt: '2026-05-10T18:48:01.227Z'
+---
 # Standard Operating Procedure: Environmental Health and Safety (EHS) Management
 
 ## Introduction

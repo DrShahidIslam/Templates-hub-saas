@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Recruitment
+publishedAt: '2026-05-10T18:48:01.438Z'
+---
 # Standard Operating Procedure: Talent Acquisition & Recruitment
 
 This Standard Operating Procedure (SOP) outlines the standardized process for identifying, attracting, vetting, and onboarding top-tier talent. The objective of this procedure is to ensure a consistent, non-discriminatory, and highly efficient recruitment cycle that aligns with organizational goals, reduces time-to-hire, and ensures the successful integration of new team members into the company culture.

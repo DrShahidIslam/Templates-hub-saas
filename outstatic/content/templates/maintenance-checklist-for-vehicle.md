@@ -1,3 +1,8 @@
+---
+status: published
+title: Maintenance Checklist For Vehicle
+publishedAt: '2026-05-10T18:48:00.899Z'
+---
 # Standard Operating Procedure: Comprehensive Vehicle Maintenance
 
 This Standard Operating Procedure (SOP) outlines the mandatory maintenance protocols for all company-operated vehicles. Consistent vehicle maintenance is critical to ensuring operational safety, extending the service life of fleet assets, and minimizing costly emergency repairs. All operators and fleet personnel are required to adhere to these intervals and procedures to maintain compliance with safety standards and manufacturer specifications.

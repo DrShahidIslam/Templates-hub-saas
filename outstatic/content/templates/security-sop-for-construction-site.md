@@ -1,3 +1,8 @@
+---
+status: published
+title: Security Sop For Construction Site
+publishedAt: '2026-05-10T18:48:01.128Z'
+---
 # Standard Operating Procedure: Construction Site Security Protocol
 
 This Standard Operating Procedure (SOP) establishes the mandatory security protocols required to protect construction site assets, personnel, and infrastructure. Effective site security is essential to mitigate the risks of theft, vandalism, unauthorized access, and liability. This document provides a standardized framework for site managers, security personnel, and contractors to maintain a secure environment from project commencement to final handover. All personnel on-site are required to adhere to these procedures to ensure operational continuity and asset integrity.

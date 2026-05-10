@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Accounts Payable
+publishedAt: '2026-05-10T18:48:01.154Z'
+---
 # Standard Operating Procedure: Accounts Payable (AP) Lifecycle
 
 This Standard Operating Procedure (SOP) outlines the standardized process for managing the end-to-end accounts payable cycle, from invoice receipt to final payment disbursement. The objective of this procedure is to ensure financial accuracy, maintain robust internal controls, prevent fraudulent disbursements, and optimize cash flow by ensuring timely payments to vendors. Adherence to these steps is mandatory for all members of the finance team to ensure audit readiness and compliance with corporate accounting policies.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template For New Hires Excel
+publishedAt: '2026-05-10T18:48:01.053Z'
+---
 # Standard Operating Procedure: New Hire Onboarding Management (Excel-Based)
 
 ## Introduction

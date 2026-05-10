@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Antibiotic Zone Reader
+publishedAt: '2026-05-10T18:48:01.161Z'
+---
 # Standard Operating Procedure: Antibiotic Zone Measurement (Zone Reader)
 
 ## Introduction

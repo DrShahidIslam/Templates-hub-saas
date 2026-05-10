@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Healthy Body
+publishedAt: '2026-05-10T18:48:00.690Z'
+---
 # Standard Operating Procedure: Daily Routine for Optimal Health
 
 This Standard Operating Procedure (SOP) serves as a structured framework for maintaining physical and mental well-being through consistent daily habits. By implementing this protocol, individuals can optimize metabolic function, cognitive performance, and long-term health outcomes. The following guidelines are designed to be scalable and sustainable, prioritizing foundational biological needs such as circadian regulation, nutritional intake, and physiological recovery.

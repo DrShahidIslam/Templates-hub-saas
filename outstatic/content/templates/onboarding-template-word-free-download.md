@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template Word Free Download
+publishedAt: '2026-05-10T18:48:01.070Z'
+---
 # Standard Operating Procedure: Standardizing New Hire Onboarding via Word Templates
 
 This Standard Operating Procedure (SOP) outlines the professional protocol for acquiring, customizing, and deploying free Microsoft Word onboarding templates. Utilizing a standardized template ensures that every new hire receives consistent documentation, clear expectations, and a professional introduction to company culture. The goal of this process is to minimize administrative friction while maintaining brand integrity during the critical first week of employment.

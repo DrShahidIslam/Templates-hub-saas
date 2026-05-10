@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Customer Service
+publishedAt: '2026-05-10T18:48:01.199Z'
+---
 # Standard Operating Procedure: Customer Service Excellence
 
 This Standard Operating Procedure (SOP) defines the systematic approach for delivering high-quality customer service. Our objective is to ensure every interaction is professional, efficient, and empathetic, fostering long-term customer loyalty and brand trust. All support staff are expected to adhere to these protocols to maintain consistency across all communication channels.

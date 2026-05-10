@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Admission
+publishedAt: '2026-05-10T18:48:01.157Z'
+---
 # Standard Operating Procedure: Student Admission Process
 
 This Standard Operating Procedure (SOP) outlines the standardized workflow for managing new student admissions. The goal of this process is to ensure data integrity, provide a seamless experience for applicants, and ensure all administrative and regulatory requirements are met before a student is formally enrolled. Adherence to this SOP is mandatory for all members of the Admissions Department to maintain operational consistency and professional service standards.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Children
+publishedAt: '2026-05-10T18:48:00.648Z'
+---
 # Standard Operating Procedure: Daily Childcare Routine
 
 This Standard Operating Procedure (SOP) is designed to streamline household operations by establishing a predictable, high-efficiency daily routine for children. By implementing a structured framework, caregivers can minimize decision fatigue, maximize child development, and ensure all health, hygiene, and educational requirements are met consistently. This routine emphasizes balanced nutrition, physical activity, and adequate rest to optimize overall childhood well-being.

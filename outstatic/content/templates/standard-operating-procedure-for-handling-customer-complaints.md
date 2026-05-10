@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Handling Customer Complaints
+publishedAt: '2026-05-10T18:48:01.805Z'
+---
 # Standard Operating Procedure: Customer Complaint Resolution
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocol for receiving, documenting, and resolving customer complaints. Our goal is to transform negative experiences into opportunities for brand loyalty by ensuring every customer feels heard, respected, and valued. By following this standardized process, team members will maintain consistency, reduce escalation rates, and gather actionable data to improve our products and services.

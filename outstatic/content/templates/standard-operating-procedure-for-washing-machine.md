@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Washing Machine
+publishedAt: '2026-05-10T18:48:01.993Z'
+---
 # Standard Operating Procedure: Washing Machine Maintenance and Operation
 
 This document outlines the professional procedure for operating a commercial or residential washing machine to ensure optimal garment longevity, machine performance, and energy efficiency. Adherence to these protocols prevents mechanical strain, minimizes utility waste, and maintains a sanitary laundry environment.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For G6pd Test
+publishedAt: '2026-05-10T18:48:01.782Z'
+---
 # Standard Operating Procedure: G6PD Quantitative Assay
 
 ### Introduction

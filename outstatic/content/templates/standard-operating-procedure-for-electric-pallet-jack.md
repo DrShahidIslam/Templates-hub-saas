@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Electric Pallet Jack
+publishedAt: '2026-05-10T18:48:01.718Z'
+---
 # Standard Operating Procedure: Electric Pallet Jack (EPJ) Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety protocols, operational steps, and maintenance guidelines for the use of Electric Pallet Jacks (EPJ) within this facility. All operators must be certified, wear appropriate Personal Protective Equipment (PPE), and conduct a pre-shift inspection to ensure the equipment is in safe working order. Failure to adhere to these procedures poses a significant risk to personnel and facility infrastructure.

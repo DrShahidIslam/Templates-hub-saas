@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Phd Admission
+publishedAt: '2026-05-10T18:48:01.407Z'
+---
 # Standard Operating Procedure: PhD Admission Lifecycle Management
 
 This document establishes a formalized framework for managing the end-to-end PhD admission process. As an operations manager, the objective is to ensure institutional rigor, objective candidate evaluation, and seamless communication across faculty review committees and prospective applicants. Adhering to this SOP ensures that the department maintains high academic standards while minimizing administrative bottlenecks and candidate drop-off rates.

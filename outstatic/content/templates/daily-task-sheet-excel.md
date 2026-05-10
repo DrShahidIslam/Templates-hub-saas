@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Task Sheet Excel
+publishedAt: '2026-05-10T18:48:00.846Z'
+---
 Standard Operating Procedure: Daily Task Sheet Management
 
 This Standard Operating Procedure (SOP) outlines the standardized process for utilizing, updating, and maintaining the Daily Task Sheet Excel workbook. The purpose of this document is to ensure operational transparency, optimize individual productivity, and provide management with real-time visibility into project progression. By adhering to this protocol, team members ensure that critical path items are prioritized and that project statuses remain accurate for cross-departmental reporting.

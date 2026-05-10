@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Kf Titrator
+publishedAt: '2026-05-10T18:48:01.331Z'
+---
 # Standard Operating Procedure: Karl Fischer (KF) Titration
 
 This Standard Operating Procedure (SOP) outlines the standardized method for determining the water content of liquid or solid samples using the Karl Fischer titration technique (Coulometric or Volumetric). Proper execution of this SOP is critical to ensure analytical accuracy, maintain equipment longevity, and minimize reagent waste. All operators must adhere to these safety protocols, particularly regarding the handling of hazardous KF reagents, to ensure a controlled and reliable laboratory environment.

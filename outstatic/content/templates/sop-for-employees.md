@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Employees
+publishedAt: '2026-05-10T18:48:01.226Z'
+---
 # Standard Operating Procedure: Employee Onboarding and Lifecycle Management
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for managing employee records, expectations, and operational workflows from the point of hire through departure. The objective is to ensure consistency, mitigate compliance risk, and maintain high standards of organizational efficiency. All department heads and human resources personnel are required to adhere to these procedures to ensure a seamless integration of personnel into the company culture and operational ecosystem.

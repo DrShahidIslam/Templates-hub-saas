@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Selling Your Home
+publishedAt: '2026-05-10T18:48:00.508Z'
+---
 # Standard Operating Procedure: Residential Property Divestment
 
 Selling a residential property is a complex project requiring precise coordination of financial, aesthetic, and legal variables. This Standard Operating Procedure (SOP) serves as a comprehensive framework to maximize property valuation, minimize time-on-market, and ensure regulatory compliance throughout the transaction lifecycle. By following this systematic approach, homeowners can mitigate risk and ensure a streamlined transition from listing to closing.

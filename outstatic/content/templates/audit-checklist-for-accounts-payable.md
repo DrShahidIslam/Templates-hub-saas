@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist For Accounts Payable
+publishedAt: '2026-05-10T18:48:00.333Z'
+---
 # Standard Operating Procedure: Accounts Payable (AP) Audit
 
 This Standard Operating Procedure (SOP) outlines the systematic audit process for the Accounts Payable function to ensure financial integrity, verify internal controls, and prevent fraudulent disbursements. This audit is designed to validate the accuracy of ledger entries, the validity of vendor relationships, and compliance with company procurement and payment policies. Regular execution of this audit is essential for maintaining accurate financial reporting and optimizing cash flow management.

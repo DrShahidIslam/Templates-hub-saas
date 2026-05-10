@@ -1,3 +1,8 @@
+---
+status: published
+title: Security Sop For Hotels
+publishedAt: '2026-05-10T18:48:01.131Z'
+---
 # Standard Operating Procedure: Hotel Security and Safety Protocols
 
 This Standard Operating Procedure (SOP) serves as the foundational framework for maintaining the safety, security, and well-being of guests, staff, and physical assets within our hotel premises. As an expert-led initiative, this document outlines the mandatory procedures for access control, emergency response, surveillance management, and guest privacy. All security personnel and departmental leads are expected to adhere strictly to these protocols to maintain our high standards of risk mitigation and professional excellence.

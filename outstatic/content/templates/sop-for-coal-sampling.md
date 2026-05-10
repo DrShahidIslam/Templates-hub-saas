@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Coal Sampling
+publishedAt: '2026-05-10T18:48:01.192Z'
+---
 # Standard Operating Procedure: Coal Sampling and Quality Assurance
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the representative sampling of coal stockpiles, rail cars, and conveyor belts. The objective of this process is to ensure the collection of unbiased, statistically significant samples that accurately reflect the chemical and physical properties (calorific value, moisture, ash, and sulfur content) of the total coal batch. Adherence to this SOP is critical for contractual compliance, quality control, and operational safety.

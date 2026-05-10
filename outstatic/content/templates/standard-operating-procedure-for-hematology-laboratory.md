@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Hematology Laboratory
+publishedAt: '2026-05-10T18:48:01.807Z'
+---
 # Standard Operating Procedure: Hematology Laboratory Operations
 
 This document outlines the mandatory procedures for the operation of the Hematology Laboratory, ensuring the accuracy, reliability, and safety of patient blood analysis. Adherence to these protocols is critical to maintaining high-quality diagnostic standards, minimizing pre-analytical errors, and ensuring compliance with regulatory bodies. All laboratory personnel must review this document annually and demonstrate competency in the procedures described herein.

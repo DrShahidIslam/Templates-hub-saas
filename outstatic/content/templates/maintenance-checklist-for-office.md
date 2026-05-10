@@ -1,3 +1,8 @@
+---
+status: published
+title: Maintenance Checklist For Office
+publishedAt: '2026-05-10T18:48:00.898Z'
+---
 # Standard Operating Procedure: Office Facility Maintenance
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for ensuring a safe, professional, and fully functional office environment. Regular maintenance is essential to mitigate operational downtime, extend the lifespan of capital assets, and uphold Occupational Health and Safety (OHS) standards. This document serves as a comprehensive guide for facility managers and administrative staff to conduct routine inspections and coordinate necessary repairs.

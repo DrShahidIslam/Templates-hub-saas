@@ -1,3 +1,8 @@
+---
+status: published
+title: Pcos Daily Routine
+publishedAt: '2026-05-10T18:48:01.078Z'
+---
 # Standard Operating Procedure: PCOS Daily Management Routine
 
 This SOP outlines a structured daily regimen designed to help individuals with Polycystic Ovary Syndrome (PCOS) manage hormonal balance, insulin sensitivity, and stress levels. Consistent adherence to this routine is intended to stabilize blood glucose, regulate cortisol, and support long-term metabolic health. Please note that this protocol should be implemented in consultation with your primary healthcare provider or endocrinologist to ensure it aligns with your specific clinical profile.

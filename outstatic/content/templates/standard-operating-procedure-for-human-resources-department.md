@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Human Resources Department
+publishedAt: '2026-05-10T18:48:01.817Z'
+---
 # Standard Operating Procedure: Human Resources Operations
 
 This document outlines the standardized operational framework for the Human Resources (HR) department. The objective of this SOP is to ensure consistency, legal compliance, and operational excellence across the employee lifecycle—from talent acquisition and onboarding to performance management and offboarding. By adhering to these protocols, the HR department maintains organizational stability, mitigates risk, and fosters a productive workplace culture.

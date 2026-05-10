@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Maintenance Checklist For Vmc Machine
+publishedAt: '2026-05-10T18:48:00.609Z'
+---
 # Standard Operating Procedure: Daily VMC Maintenance
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily maintenance routines for Vertical Machining Centers (VMC). Adherence to this checklist ensures maximum machine uptime, prolonged tool life, and consistent dimensional accuracy. Daily maintenance is the first line of defense against catastrophic failure and prevents the accumulation of swarf and coolant residue that can compromise sensitive components. All operators are required to complete these steps at the start and end of their shift.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Platform
+publishedAt: '2026-05-10T18:48:01.001Z'
+---
 # Standard Operating Procedure: Onboarding Checklist Platform Management
 
 This Standard Operating Procedure (SOP) defines the operational framework for managing an onboarding checklist platform. The primary objective of this process is to ensure new hires receive a consistent, high-quality onboarding experience while automating administrative tasks to maintain compliance and reduce time-to-productivity. This document serves as the single source of truth for HR administrators, IT provisioning teams, and department heads responsible for configuring, deploying, and maintaining onboarding workflows.

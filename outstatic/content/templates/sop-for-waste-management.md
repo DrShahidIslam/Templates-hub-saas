@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Waste Management
+publishedAt: '2026-05-10T18:48:01.529Z'
+---
 # Standard Operating Procedure: Waste Management and Disposal
 
 This Standard Operating Procedure (SOP) establishes the mandatory protocol for the collection, segregation, storage, and disposal of waste within this facility. The objective of this policy is to ensure full compliance with environmental regulations, minimize workplace hazards, optimize recycling efforts, and maintain a high standard of sanitation. Adherence to these procedures is required by all employees, contractors, and site visitors to mitigate liability and support corporate sustainability goals.

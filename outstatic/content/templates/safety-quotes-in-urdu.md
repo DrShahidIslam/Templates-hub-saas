@@ -1,3 +1,8 @@
+---
+status: published
+title: Safety Quotes In Urdu
+publishedAt: '2026-05-10T18:48:01.097Z'
+---
 # Standard Operating Procedure: Implementation of Safety Quotes in Urdu
 
 ## Introduction

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Excavation
+publishedAt: '2026-05-10T18:48:01.237Z'
+---
 # Standard Operating Procedure: Excavation Operations
 
 This Standard Operating Procedure (SOP) establishes the mandatory safety, procedural, and compliance requirements for all excavation activities conducted by this organization. Excavation presents significant risks, including cave-ins, underground utility strikes, and hazardous atmosphere exposure. This document ensures that all ground-disturbing activities are performed in accordance with OSHA standards and internal safety protocols to protect personnel, equipment, and subsurface infrastructure.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For New Product Development
+publishedAt: '2026-05-10T18:48:01.374Z'
+---
 # Standard Operating Procedure: New Product Development (NPD)
 
 ## Introduction

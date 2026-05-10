@@ -1,3 +1,8 @@
+---
+status: published
+title: Inspection Checklist For Chain Block
+publishedAt: '2026-05-10T18:48:00.881Z'
+---
 # Standard Operating Procedure: Chain Block Inspection
 
 ## Introduction

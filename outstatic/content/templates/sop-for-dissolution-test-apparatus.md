@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Dissolution Test Apparatus
+publishedAt: '2026-05-10T18:48:01.209Z'
+---
 # Standard Operating Procedure: Dissolution Test Apparatus Operation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the operation, calibration, and maintenance of the Dissolution Test Apparatus. Adherence to these guidelines ensures compliance with USP <711> and <724> standards, guaranteeing the accuracy, reproducibility, and integrity of pharmaceutical dissolution testing. This procedure applies to all laboratory personnel authorized to operate dissolution testing equipment within the quality control department.

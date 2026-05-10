@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure Of Microscope
+publishedAt: '2026-05-10T18:48:02.020Z'
+---
 # Standard Operating Procedure: Compound Light Microscope Operation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the safe and effective operation of light microscopes. Adherence to these guidelines is essential to maintain optical integrity, ensure operator safety, and extend the functional lifespan of precision laboratory equipment. All personnel must demonstrate proficiency in these steps before unsupervised use.

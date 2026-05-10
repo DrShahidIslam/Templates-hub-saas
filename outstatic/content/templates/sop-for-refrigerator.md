@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Refrigerator
+publishedAt: '2026-05-10T18:48:01.439Z'
+---
 # Standard Operating Procedure: Commercial Refrigeration Maintenance and Sanitation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the operation, cleaning, and maintenance of commercial refrigeration units. Consistent adherence to these procedures ensures food safety compliance, optimizes energy efficiency, extends the operational lifespan of the equipment, and minimizes the risk of spoilage or mechanical failure.

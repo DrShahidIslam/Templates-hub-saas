@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template Jira
+publishedAt: '2026-05-10T18:48:01.064Z'
+---
 # Standard Operating Procedure: Jira Onboarding Template Configuration
 
 This SOP defines the standardized process for configuring and deploying a Jira Onboarding Template. The objective is to ensure that new hires, stakeholders, and project members have immediate access to necessary workflows, permissions, and documentation upon joining a team. Consistent onboarding reduces ramp-up time, minimizes administrative friction, and ensures security compliance across all integrated project management lifecycles.

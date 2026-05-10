@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Blood Transfusion
+publishedAt: '2026-05-10T18:48:01.668Z'
+---
 # Standard Operating Procedure: Blood Transfusion Administration
 
 This Standard Operating Procedure (SOP) outlines the mandatory clinical process for the safe administration of blood components. The objective is to prevent transfusion-related adverse events, primarily those resulting from patient misidentification or incompatibility. All personnel involved in the transfusion process must adhere strictly to these protocols, ensuring dual-verification, physiological monitoring, and appropriate documentation at every stage of the procedure.

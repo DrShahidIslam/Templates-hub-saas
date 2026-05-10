@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template Asana
+publishedAt: '2026-05-10T18:48:01.045Z'
+---
 # Standard Operating Procedure: New Hire Onboarding via Asana
 
 This Standard Operating Procedure (SOP) outlines the standardized process for deploying and managing the New Hire Onboarding template within Asana. The objective of this procedure is to ensure a consistent, high-quality onboarding experience, reduce administrative overhead for People Operations, and provide new team members with clear visibility into their first 30-60-90 days. Adherence to this protocol ensures that all logistical, technical, and cultural requirements are met prior to and during the employee's first week.

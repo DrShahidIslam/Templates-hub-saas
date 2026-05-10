@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Admission To Class X And Class Xii
+publishedAt: '2026-05-10T18:48:01.650Z'
+---
 # Standard Operating Procedure: Admission Process for Class X and Class XII
 
 This document outlines the formalized procedures for managing admissions into Class X and Class XII. Given the high-stakes nature of board-affiliated years, this SOP ensures regulatory compliance, academic eligibility verification, and seamless integration of students into the school environment. The objective is to maintain administrative integrity while ensuring all mandatory documentation meets the standards set by the relevant Education Board (e.g., CBSE/ICSE/State Board).

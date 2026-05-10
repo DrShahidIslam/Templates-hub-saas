@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Restaurant Manager
+publishedAt: '2026-05-10T18:48:01.444Z'
+---
 # Standard Operating Procedure: Restaurant General Manager Daily Operations
 
 This Standard Operating Procedure (SOP) outlines the essential responsibilities of a Restaurant General Manager to ensure seamless operations, consistent food quality, and exceptional guest experiences. By adhering to this protocol, managers will maintain high standards of health safety, financial accountability, and staff performance, ultimately driving profitability and operational excellence.

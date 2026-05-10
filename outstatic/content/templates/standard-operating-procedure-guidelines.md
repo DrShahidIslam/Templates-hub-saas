@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure Guidelines
+publishedAt: '2026-05-10T18:48:02.005Z'
+---
 # Standard Operating Procedure (SOP) Development Guidelines
 
 ## Purpose

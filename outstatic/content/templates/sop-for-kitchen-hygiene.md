@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Kitchen Hygiene
+publishedAt: '2026-05-10T18:48:01.335Z'
+---
 # Standard Operating Procedure: Kitchen Hygiene & Sanitation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for maintaining a sanitary kitchen environment to prevent foodborne illness, ensure regulatory compliance, and uphold operational excellence. Adherence to these standards is non-negotiable for all staff members. This procedure covers daily cleaning routines, chemical handling, and cross-contamination prevention strategies necessary to maintain a Gold-Standard food service facility.

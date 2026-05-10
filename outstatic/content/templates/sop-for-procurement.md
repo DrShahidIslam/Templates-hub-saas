@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Procurement
+publishedAt: '2026-05-10T18:48:01.413Z'
+---
 # Standard Operating Procedure: Procurement Management
 
 This Standard Operating Procedure (SOP) outlines the standardized process for the procurement of goods and services within the organization. The objective of this document is to ensure fiscal responsibility, maintain supply chain transparency, and guarantee that all acquired assets meet organizational quality and compliance standards. Adherence to this SOP is mandatory for all personnel involved in the requisition, approval, and acquisition of company resources.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Nabh
+publishedAt: '2026-05-10T18:48:01.369Z'
+---
 # Standard Operating Procedure: NABH Accreditation Readiness and Compliance
 
 This Standard Operating Procedure (SOP) serves as a strategic framework for healthcare organizations aiming to achieve and maintain National Accreditation Board for Hospitals & Healthcare Providers (NABH) standards. The objective is to foster a culture of quality, patient safety, and clinical excellence through standardized processes, continuous monitoring, and systematic documentation. Adherence to this SOP ensures that the facility consistently meets the structural, procedural, and outcome-based requirements mandated by NABH accreditation cycles.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist For Medical Device Facility
+publishedAt: '2026-05-10T18:48:00.353Z'
+---
 # Standard Operating Procedure: Medical Device Facility Quality Audit
 
 This Standard Operating Procedure (SOP) outlines the requirements for conducting a comprehensive quality audit of a medical device manufacturing facility. This audit is designed to ensure compliance with global regulatory standards, including ISO 13485:2016, 21 CFR Part 820 (Quality System Regulation), and relevant local health authority mandates. The objective is to verify that the Quality Management System (QMS) is not only documented but effectively implemented, maintained, and capable of ensuring the safety and performance of medical devices throughout their lifecycle.

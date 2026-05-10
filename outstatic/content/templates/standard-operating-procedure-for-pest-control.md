@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Pest Control
+publishedAt: '2026-05-10T18:48:01.884Z'
+---
 # Standard Operating Procedure: Integrated Pest Management (IPM)
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for maintaining a pest-free environment within the facility. The objective is to utilize an Integrated Pest Management (IPM) approach, which prioritizes preventative maintenance, exclusion, and sanitation over the indiscriminate use of chemical pesticides. Compliance with this SOP is required for all facility management staff and contracted pest control operators (PCOs) to ensure regulatory compliance, health safety, and operational continuity.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Flexibility
+publishedAt: '2026-05-10T18:48:00.672Z'
+---
 # Standard Operating Procedure: Daily Flexibility & Mobility Routine
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily protocol for maintaining musculoskeletal integrity, joint range of motion, and tissue health. By adhering to this structured routine, practitioners will mitigate the risk of repetitive strain injuries, improve functional movement patterns, and optimize recovery cycles. This protocol is designed to be scalable based on individual physical requirements and time constraints, ensuring a consistent baseline for systemic flexibility.

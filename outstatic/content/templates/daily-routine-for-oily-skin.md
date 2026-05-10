@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Oily Skin
+publishedAt: '2026-05-10T18:48:00.738Z'
+---
 # Standard Operating Procedure: Daily Routine for Oily Skin
 
 ## Overview

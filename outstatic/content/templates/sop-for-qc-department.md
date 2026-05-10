@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Qc Department
+publishedAt: '2026-05-10T18:48:01.418Z'
+---
 # Standard Operating Procedure: Quality Control (QC) Department Operations
 
 ## Introduction

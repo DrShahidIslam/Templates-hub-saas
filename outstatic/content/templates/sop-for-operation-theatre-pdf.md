@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Operation Theatre Pdf
+publishedAt: '2026-05-10T18:48:01.393Z'
+---
 # Standard Operating Procedure: Operating Theatre (OT) Management
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the management, safety, and operational efficiency of the Operating Theatre. Adherence to these guidelines is critical to maintaining a sterile environment, ensuring patient safety, and optimizing surgical throughput. This document serves as a standardized reference for all surgical staff, anesthesia providers, and nursing personnel to minimize intraoperative risks and streamline clinical workflows.

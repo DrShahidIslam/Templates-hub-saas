@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Xrd
+publishedAt: '2026-05-10T18:48:01.566Z'
+---
 # Standard Operating Procedure: X-Ray Diffraction (XRD) Analysis
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety protocols, operational steps, and maintenance requirements for the operation of the X-Ray Diffraction (XRD) system. XRD is a powerful analytical technique used to determine the crystallographic structure of materials. Given that this equipment utilizes high-voltage X-ray radiation, strict adherence to radiation safety guidelines and instrument-specific protocols is required to ensure operator safety and data integrity.

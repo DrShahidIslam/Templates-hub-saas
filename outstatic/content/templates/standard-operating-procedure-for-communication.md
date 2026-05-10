@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Communication
+publishedAt: '2026-05-10T18:48:01.685Z'
+---
 # Standard Operating Procedure: Organizational Communication
 
 Effective communication is the cornerstone of operational excellence. This Standard Operating Procedure (SOP) establishes the frameworks, channels, and expectations for all internal and external correspondence. By standardizing our communication protocols, we minimize ambiguity, ensure timely decision-making, and uphold the professional integrity of the organization. This document applies to all employees and stakeholders, providing a roadmap for choosing the right medium for the right message.

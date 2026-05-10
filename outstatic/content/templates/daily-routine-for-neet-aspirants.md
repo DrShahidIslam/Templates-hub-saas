@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Neet Aspirants
+publishedAt: '2026-05-10T18:48:00.726Z'
+---
 # Standard Operating Procedure (SOP): NEET Examination Preparation Routine
 
 This document outlines the standardized operational framework for NEET aspirants to optimize cognitive performance, maximize syllabus coverage, and ensure consistent academic output. Adherence to this routine is designed to balance rigorous conceptual study with regular assessment, minimizing burnout while maintaining the high-intensity focus required for medical entrance preparation.

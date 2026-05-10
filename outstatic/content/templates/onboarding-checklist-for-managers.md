@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist For Managers
+publishedAt: '2026-05-10T18:48:00.964Z'
+---
 # Standard Operating Procedure: Manager Onboarding Excellence
 
 Effective manager onboarding is a critical strategic process that directly correlates to team retention, productivity, and cultural alignment. This SOP provides a comprehensive framework to ensure new managers are equipped with the administrative access, organizational context, and leadership expectations required to thrive in their new role. By following this systematic approach, the organization ensures a seamless transition that minimizes downtime and fosters early leadership success.

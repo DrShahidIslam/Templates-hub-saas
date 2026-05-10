@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Gks
+publishedAt: '2026-05-10T18:48:01.271Z'
+---
 # Standard Operating Procedure: Global Knowledge Systems (GKS) Management
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the configuration, maintenance, and synchronization of Global Knowledge Systems (GKS). The objective of this procedure is to ensure data integrity, cross-departmental alignment, and the seamless integration of institutional knowledge assets. Compliance with these steps is required for all operations personnel to mitigate information silos and ensure real-time accuracy of shared knowledge repositories.

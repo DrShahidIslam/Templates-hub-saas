@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Starting A Small Business
+publishedAt: '2026-05-10T18:48:00.512Z'
+---
 # Standard Operating Procedure: Small Business Launch Framework
 
 This Standard Operating Procedure (SOP) serves as a strategic roadmap for entrepreneurs transitioning from ideation to operational launch. The objective of this document is to provide a structured, risk-mitigated approach to establishing a legal, financial, and market-ready business entity. By adhering to this phased checklist, founders ensure compliance with regulatory requirements, optimization of capital allocation, and the establishment of a sustainable operational infrastructure.

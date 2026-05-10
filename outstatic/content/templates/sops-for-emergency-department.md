@@ -1,3 +1,8 @@
+---
+status: published
+title: Sops For Emergency Department
+publishedAt: '2026-05-10T18:48:01.631Z'
+---
 # Standard Operating Procedure: Emergency Department Intake and Stabilization
 
 This document outlines the standardized protocols for Emergency Department (ED) operations, focusing on the critical transition from patient arrival to definitive stabilization. Adherence to these procedures is mandatory to ensure clinical excellence, patient safety, and operational efficiency. The primary objective is to facilitate rapid assessment, accurate triage, and seamless multidisciplinary collaboration during high-acuity interventions.

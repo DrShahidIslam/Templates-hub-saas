@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Uconn
+publishedAt: '2026-05-10T18:48:01.029Z'
+---
 # Standard Operating Procedure: University of Connecticut (UConn) New Employee Onboarding
 
 This Standard Operating Procedure (SOP) outlines the mandatory onboarding workflow for new hires joining the University of Connecticut. The objective is to ensure institutional compliance, technical provisioning, and organizational integration. Adherence to this protocol minimizes administrative delays and ensures that all faculty and staff have the necessary tools to perform their duties on their first day. Hiring managers and departmental administrators must initiate these steps at least two weeks prior to the employee’s start date.

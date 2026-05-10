@@ -1,3 +1,8 @@
+---
+status: published
+title: Security Sop For Residential Society
+publishedAt: '2026-05-10T18:48:01.133Z'
+---
 # Standard Operating Procedure: Residential Society Security Operations
 
 This Standard Operating Procedure (SOP) serves as the primary operational framework for maintaining a secure, safe, and regulated environment within the residential society. It is designed to standardize the conduct of security personnel, streamline visitor management, and provide clear protocols for emergency responses. Adherence to these guidelines is mandatory for all security staff to ensure the protection of residents, assets, and society infrastructure.

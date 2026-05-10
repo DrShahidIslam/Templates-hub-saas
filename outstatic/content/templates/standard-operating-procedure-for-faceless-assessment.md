@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Faceless Assessment
+publishedAt: '2026-05-10T18:48:01.750Z'
+---
 # Standard Operating Procedure: Faceless Assessment Operations
 
 This Standard Operating Procedure (SOP) defines the operational framework for conducting a "Faceless Assessment"—a methodology designed to eliminate bias by decoupling the identity of the applicant or subject from the evaluation process. By prioritizing objective data, anonymous submissions, and structured scoring criteria, this process ensures meritocratic decision-making. This SOP applies to all recruitment, procurement, and performance evaluation workflows where impartiality is a core requirement.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Cmu
+publishedAt: '2026-05-10T18:48:00.939Z'
+---
 # Standard Operating Procedure: CMU New Hire Onboarding
 
 The objective of this onboarding SOP is to provide a seamless, standardized, and professional integration process for all new hires at Carnegie Mellon University (CMU). By following this structured workflow, hiring managers and department administrators ensure that new employees are administratively compliant, technologically equipped, and culturally integrated from day one. This process is designed to minimize transition friction, uphold university security standards, and optimize immediate productivity.

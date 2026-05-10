@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Piles Patient
+publishedAt: '2026-05-10T18:48:00.742Z'
+---
 # Standard Operating Procedure: Daily Management Routine for Hemorrhoids (Piles)
 
 This Standard Operating Procedure (SOP) outlines a comprehensive daily routine designed to manage symptoms, reduce inflammation, and promote the healing of hemorrhoids. Adherence to this protocol is intended to minimize rectal pressure, soften stool consistency, and prevent exacerbation of the condition through structured hygiene and lifestyle management. This is a supportive protocol and does not replace medical advice from a gastroenterologist or colorectal specialist.

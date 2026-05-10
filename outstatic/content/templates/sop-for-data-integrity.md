@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Data Integrity
+publishedAt: '2026-05-10T18:48:01.202Z'
+---
 # Standard Operating Procedure: Data Integrity Management
 
 Data integrity is the cornerstone of reliable business intelligence and operational excellence. This SOP establishes the standardized framework for ensuring that organizational data remains accurate, consistent, and reliable throughout its entire lifecycle—from creation and transmission to storage and archival. By adhering to these protocols, the organization minimizes the risk of corruption, unauthorized alteration, or system-induced anomalies, thereby safeguarding decision-making capabilities and regulatory compliance.

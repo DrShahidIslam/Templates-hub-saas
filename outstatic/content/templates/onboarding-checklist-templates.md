@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Templates
+publishedAt: '2026-05-10T18:48:01.026Z'
+---
 # Standard Operating Procedure: Developing and Maintaining Onboarding Checklist Templates
 
 This SOP outlines the standardized process for creating, auditing, and optimizing onboarding checklist templates. As an operations leader, the goal of these templates is to eliminate institutional knowledge silos, ensure regulatory and procedural compliance, and accelerate the "time-to-productivity" for new hires. By following this framework, your organization will transition from ad-hoc onboarding to a scalable, repeatable, and high-performance integration system.

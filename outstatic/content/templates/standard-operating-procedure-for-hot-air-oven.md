@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Hot Air Oven
+publishedAt: '2026-05-10T18:48:01.811Z'
+---
 # Standard Operating Procedure: Operation and Maintenance of Hot Air Oven
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the safe and efficient operation of the Hot Air Oven. Designed for laboratory and industrial sterilization or drying processes, this document ensures consistency in thermal treatment while prioritizing user safety and equipment longevity. All personnel must review this document thoroughly before operating the unit to prevent thermal injury, sample degradation, or mechanical failure.

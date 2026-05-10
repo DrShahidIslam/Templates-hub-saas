@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist For Health And Safety
+publishedAt: '2026-05-10T18:48:00.350Z'
+---
 # Standard Operating Procedure: Health and Safety Audit
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for conducting a comprehensive Health and Safety (H&S) audit. The objective of this audit is to identify workplace hazards, verify compliance with local regulatory requirements (e.g., OSHA, HSE), and ensure that all preventative measures are functioning as intended. This document serves as a baseline to mitigate risk, protect organizational assets, and foster a culture of safety.

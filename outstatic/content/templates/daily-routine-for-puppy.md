@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Puppy
+publishedAt: '2026-05-10T18:48:00.753Z'
+---
 # Standard Operating Procedure: Daily Puppy Management
 
 Effective puppy management requires consistency, structure, and proactive oversight to ensure physical health, behavioral development, and house-training success. This SOP outlines the standardized daily routine designed to facilitate rapid socialization, consistent bladder training, and the establishment of a calm, well-adjusted canine temperament. By adhering to this protocol, caregivers can minimize household accidents, reduce destructive behaviors, and foster a strong human-animal bond.

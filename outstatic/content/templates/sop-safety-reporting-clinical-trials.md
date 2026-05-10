@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Safety Reporting Clinical Trials
+publishedAt: '2026-05-10T18:48:01.607Z'
+---
 # Standard Operating Procedure: Safety Reporting in Clinical Trials
 
 ## Introduction

@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Log For Baby
+publishedAt: '2026-05-10T18:48:00.607Z'
+---
 # Standard Operating Procedure: Daily Infant Care Documentation
 
 This Standard Operating Procedure (SOP) establishes a standardized framework for tracking an infant’s daily activities, including feeding, sleep, diaper changes, and health milestones. Consistent documentation is critical for maintaining routine, ensuring nutritional intake, monitoring health trends, and facilitating seamless communication between primary caregivers, childcare providers, or medical professionals. By adhering to this protocol, caregivers ensure that the infant's physiological needs are met with precision and that any anomalies are identified and addressed immediately.

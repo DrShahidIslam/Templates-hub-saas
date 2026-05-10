@@ -1,3 +1,8 @@
+---
+status: published
+title: Security Sop For Factory
+publishedAt: '2026-05-10T18:48:01.130Z'
+---
 # Standard Operating Procedure: Factory Security Management
 
 This Standard Operating Procedure (SOP) establishes the mandatory security protocols for the protection of personnel, intellectual property, physical assets, and supply chain integrity within our factory premises. Effective security is foundational to operational continuity; this document outlines the rigorous standards required to mitigate unauthorized access, prevent internal and external theft, and ensure a rapid, coordinated response to security incidents. All personnel and third-party contractors are required to adhere to these guidelines to maintain a safe and compliant working environment.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Meetings
+publishedAt: '2026-05-10T18:48:01.863Z'
+---
 # Standard Operating Procedure: Meeting Management Excellence
 
 Effective meetings are the lifeblood of organizational productivity, yet they are frequently misused. This Standard Operating Procedure (SOP) is designed to standardize the meeting lifecycle, ensuring that every session has a clear purpose, a structured agenda, and actionable outcomes. By adhering to these protocols, teams will minimize "meeting fatigue," maximize participant engagement, and ensure that time investment translates directly into business value.

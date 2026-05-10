@@ -1,3 +1,8 @@
+---
+status: published
+title: Examples Of Onboarding Templates
+publishedAt: '2026-05-10T18:48:00.858Z'
+---
 # Standard Operating Procedure: Employee Onboarding Template Management
 
 This SOP outlines the standardized process for creating, maintaining, and deploying professional onboarding templates. The objective is to ensure a consistent, high-quality experience for all new hires while reducing administrative overhead for HR and department managers. By utilizing structured templates, the organization ensures regulatory compliance, cultural integration, and rapid time-to-productivity for every new team member.

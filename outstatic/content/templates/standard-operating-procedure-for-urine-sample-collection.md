@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Urine Sample Collection
+publishedAt: '2026-05-10T18:48:01.975Z'
+---
 # Standard Operating Procedure: Urine Sample Collection
 
 This Standard Operating Procedure (SOP) outlines the rigorous protocols required for the collection of urine specimens to ensure clinical accuracy, patient safety, and sample integrity. Strict adherence to these procedures is essential to prevent specimen contamination, minimize pre-analytical errors, and maintain compliance with healthcare regulations. All personnel must follow universal precautions throughout the duration of the collection process to mitigate biohazard exposure.

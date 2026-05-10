@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist For Drug Industries
+publishedAt: '2026-05-10T18:48:00.346Z'
+---
 # Standard Operating Procedure: Quality Audit Protocol for Pharmaceutical Manufacturing
 
 This Standard Operating Procedure (SOP) outlines the comprehensive requirements for conducting internal and external quality audits within pharmaceutical manufacturing facilities. The primary objective of this audit is to ensure rigorous adherence to Current Good Manufacturing Practices (cGMP), 21 CFR Part 210/211, and ICH Q10 guidelines. By following this systematic approach, the organization maintains product integrity, patient safety, and regulatory compliance, ensuring the facility remains in a constant state of inspection readiness.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Equipment
+publishedAt: '2026-05-10T18:48:01.233Z'
+---
 # Standard Operating Procedure: Equipment Lifecycle Management
 
 This Standard Operating Procedure (SOP) establishes the mandatory protocol for the acquisition, operation, maintenance, and decommissioning of organizational equipment. The objective is to maximize asset uptime, ensure operator safety, maintain compliance with regulatory standards, and optimize the total cost of ownership through rigorous tracking and proactive maintenance. All personnel authorized to handle company equipment are required to adhere to these guidelines to ensure consistency and operational excellence.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Purchase Department
+publishedAt: '2026-05-10T18:48:01.416Z'
+---
 # Standard Operating Procedure: Procurement and Purchasing Operations
 
 This Standard Operating Procedure (SOP) outlines the standardized framework for the Procurement Department to ensure transparency, cost-efficiency, and operational continuity. The objective is to establish a rigorous procurement lifecycle—from initial requisition to final vendor payment—thereby mitigating financial risk, preventing supply chain disruptions, and maintaining high standards of vendor compliance. All personnel involved in the purchasing cycle must adhere to these guidelines to maintain fiscal accountability and regulatory audit readiness.

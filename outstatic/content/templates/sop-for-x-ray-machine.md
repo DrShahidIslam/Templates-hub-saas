@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For X Ray Machine
+publishedAt: '2026-05-10T18:48:01.554Z'
+---
 # Standard Operating Procedure: X-Ray Machine Operation
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety protocols and operational requirements for the routine use of diagnostic X-Ray imaging equipment. Compliance with these procedures is essential to ensure high-quality diagnostic imaging while maintaining strict adherence to ALARA (As Low As Reasonably Achievable) radiation safety principles. All operators must hold valid certification and must ensure that both staff and patients are shielded from unnecessary exposure.

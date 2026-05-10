@@ -1,3 +1,8 @@
+---
+status: published
+title: Jd Onboarding Checklist
+publishedAt: '2026-05-10T18:48:00.891Z'
+---
 # Standard Operating Procedure: New Hire Onboarding (JD/Job Description Integration)
 
 This Standard Operating Procedure (SOP) outlines the standardized framework for onboarding a new hire based on the specific requirements, competencies, and deliverables outlined in their Job Description (JD). The objective is to bridge the gap between the recruitment promise and operational reality, ensuring every new team member is equipped with the tools, knowledge, and performance benchmarks necessary to succeed from Day 1. Consistent execution of this process minimizes turnover, shortens the time-to-productivity, and reinforces organizational culture.

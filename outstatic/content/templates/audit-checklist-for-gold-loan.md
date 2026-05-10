@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist For Gold Loan
+publishedAt: '2026-05-10T18:48:00.348Z'
+---
 # Standard Operating Procedure: Gold Loan Audit Protocol
 
 This Standard Operating Procedure (SOP) serves as a comprehensive framework for conducting internal audits of gold loan portfolios. The objective is to ensure institutional compliance, mitigate risk associated with asset valuation, verify the physical security of collateral, and maintain regulatory adherence. By following this systematic approach, auditors can ensure that all gold loan disbursements are backed by legitimate collateral, appraised accurately, and stored with maximum security.

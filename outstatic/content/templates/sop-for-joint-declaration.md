@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Joint Declaration
+publishedAt: '2026-05-10T18:48:01.328Z'
+---
 # Standard Operating Procedure: Joint Declaration Process
 
 This Standard Operating Procedure (SOP) outlines the standardized process for preparing, verifying, and submitting a Joint Declaration (JD) to correct information in statutory records, such as Provident Fund (PF) accounts or other government databases. The objective of this procedure is to ensure 100% data accuracy, minimize rejection rates by authorities, and maintain compliance with regulatory requirements. Adherence to this process is mandatory for all personnel involved in administrative record management.

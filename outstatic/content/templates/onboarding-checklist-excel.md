@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Excel
+publishedAt: '2026-05-10T18:48:00.949Z'
+---
 # Standard Operating Procedure: Employee Onboarding via Excel Tracker
 
 ## Introduction

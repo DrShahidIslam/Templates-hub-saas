@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Chemotherapy
+publishedAt: '2026-05-10T18:48:01.677Z'
+---
 # Standard Operating Procedure: Safe Administration of Chemotherapy
 
 This Standard Operating Procedure (SOP) outlines the mandatory clinical requirements, safety protocols, and administrative workflows for the preparation and administration of chemotherapy agents. Given the high-alert nature of these medications, this document prioritizes patient safety, caregiver protection, and the prevention of medication errors through a rigorous "double-check" verification system. Strict adherence to these steps is required to maintain compliance with oncology nursing standards and hazardous drug handling regulations (USP <800>).

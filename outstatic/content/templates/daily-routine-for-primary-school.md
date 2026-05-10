@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Primary School
+publishedAt: '2026-05-10T18:48:00.750Z'
+---
 # Standard Operating Procedure: Daily Routine for Primary School Operations
 
 This document outlines the standardized daily operational routine for primary school staff, designed to ensure a consistent, safe, and high-quality educational environment. By adhering to these procedures, faculty and administration can maximize instructional time, maintain student welfare, and ensure a seamless flow of daily activities. Adherence to this SOP is mandatory for all staff to maintain institutional excellence and safety compliance.

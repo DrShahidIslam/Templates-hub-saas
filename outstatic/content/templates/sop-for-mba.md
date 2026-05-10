@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Mba
+publishedAt: '2026-05-10T18:48:01.364Z'
+---
 # Standard Operating Procedure: Master of Business Administration (MBA) Application Process
 
 This Standard Operating Procedure (SOP) outlines the strategic workflow for researching, preparing, and submitting competitive MBA applications. The objective is to maximize candidate positioning through structured milestone management, rigorous testing, and intentional storytelling. Whether targeting Top-tier (M7) programs or regional institutions, this document ensures consistency, mitigates administrative errors, and optimizes the quality of deliverables across the application lifecycle.

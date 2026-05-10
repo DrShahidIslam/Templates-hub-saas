@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Ordering Stock In Pharmacy
+publishedAt: '2026-05-10T18:48:01.396Z'
+---
 # Standard Operating Procedure: Pharmacy Stock Procurement
 
 This Standard Operating Procedure (SOP) defines the systematic process for ordering pharmaceutical stock to ensure optimal inventory levels, minimize wastage due to expiration, and maintain continuous patient care. By adhering to this protocol, the pharmacy will achieve a balance between maintaining high service levels and managing operational cash flow effectively through data-driven procurement cycles.

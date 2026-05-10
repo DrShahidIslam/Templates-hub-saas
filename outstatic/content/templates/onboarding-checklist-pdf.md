@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Pdf
+publishedAt: '2026-05-10T18:48:01.000Z'
+---
 # Standard Operating Procedure: Employee Onboarding Documentation & PDF Management
 
 Effective onboarding is the cornerstone of employee retention and operational excellence. This SOP outlines the standardized process for creating, distributing, and archiving the "Onboarding Checklist PDF." The objective is to ensure every new hire receives a consistent, compliant, and professional induction experience, while maintaining a clear audit trail for HR compliance.

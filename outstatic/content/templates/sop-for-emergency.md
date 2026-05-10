@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Emergency
+publishedAt: '2026-05-10T18:48:01.225Z'
+---
 # Standard Operating Procedure: Emergency Response Protocol
 
 This Standard Operating Procedure (SOP) establishes the mandatory guidelines for responding to emergency situations within the facility. The objective of this protocol is to ensure the preservation of human life, the safety of all personnel, the stabilization of the environment, and the orderly evacuation or lockdown of the premises. All employees are expected to familiarize themselves with these procedures to facilitate a swift, calm, and coordinated response during a crisis.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Work Onboarding Checklist
+publishedAt: '2026-05-10T18:48:02.046Z'
+---
 # Standard Operating Procedure: Employee Onboarding Process
 
 The objective of this onboarding SOP is to standardize the integration of new hires into our organization, ensuring they are equipped with the necessary tools, cultural alignment, and operational knowledge to reach full productivity as efficiently as possible. A structured onboarding experience reduces turnover, clarifies expectations, and fosters immediate engagement. This procedure applies to all hiring managers, HR personnel, and IT staff involved in the lifecycle of a new hire from offer acceptance to the end of the 90-day probationary period.

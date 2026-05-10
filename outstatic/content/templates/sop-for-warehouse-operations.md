@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Warehouse Operations
+publishedAt: '2026-05-10T18:48:01.524Z'
+---
 # Standard Operating Procedure: Warehouse Operations
 
 This Standard Operating Procedure (SOP) outlines the standardized protocols for day-to-day warehouse operations, including receiving, storage, inventory control, and order fulfillment. The primary objective of this document is to ensure operational efficiency, maintain inventory accuracy, and uphold the highest standards of workplace safety. All personnel are required to adhere to these guidelines to minimize shrinkage, optimize workflow, and ensure seamless delivery to the end customer.

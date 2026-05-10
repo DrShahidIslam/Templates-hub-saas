@@ -1,3 +1,8 @@
+---
+status: published
+title: Inspection Checklist For Commercial Building
+publishedAt: '2026-05-10T18:48:00.882Z'
+---
 # Standard Operating Procedure: Commercial Building Inspection
 
 This Standard Operating Procedure (SOP) outlines the professional requirements for conducting a comprehensive inspection of a commercial property. The objective is to identify maintenance requirements, safety hazards, and structural deficiencies that could impact operational continuity, insurance compliance, or asset value. This document serves as the primary protocol for facility managers, property inspectors, and maintenance supervisors to ensure systematic and thorough assessment of all physical assets.

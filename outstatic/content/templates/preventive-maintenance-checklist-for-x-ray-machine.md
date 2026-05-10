@@ -1,3 +1,8 @@
+---
+status: published
+title: Preventive Maintenance Checklist For X Ray Machine
+publishedAt: '2026-05-10T18:48:01.081Z'
+---
 # Standard Operating Procedure: Preventive Maintenance for X-Ray Systems
 
 ## Introduction

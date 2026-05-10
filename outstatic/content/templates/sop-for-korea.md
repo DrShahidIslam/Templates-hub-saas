@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Korea
+publishedAt: '2026-05-10T18:48:01.339Z'
+---
 # Standard Operating Procedure: Business Operations and Travel to South Korea
 
 This SOP outlines the essential requirements, protocols, and best practices for conducting business operations and professional travel within the Republic of Korea (South Korea). Adhering to these guidelines ensures compliance with local regulations, facilitates effective cross-cultural communication, and optimizes operational efficiency for team members operating within the Korean market.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Inspection Checklist For Backhoe
+publishedAt: '2026-05-10T18:48:00.870Z'
+---
 # Standard Operating Procedure: Backhoe Loader Pre-Operation Inspection
 
 This Standard Operating Procedure (SOP) outlines the mandatory pre-operation inspection requirements for backhoe loaders. Ensuring the integrity of the hydraulic systems, structural components, and safety features is critical to preventing mechanical failure, minimizing downtime, and ensuring the safety of the operator and surrounding personnel. All operators must complete this inspection prior to the start of each shift; findings must be logged in the equipment maintenance file.

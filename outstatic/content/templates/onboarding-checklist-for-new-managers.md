@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist For New Managers
+publishedAt: '2026-05-10T18:48:00.974Z'
+---
 # Standard Operating Procedure: New Manager Onboarding
 
 The transition into a leadership role is a critical inflection point for both the individual and the organization. Effective onboarding for new managers ensures they are equipped with the cultural context, operational knowledge, and leadership resources necessary to lead their teams effectively from day one. This SOP serves as a standardized roadmap to accelerate time-to-productivity, minimize team friction, and establish clear expectations for performance and culture.

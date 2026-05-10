@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Zubeen Garg
+publishedAt: '2026-05-10T18:48:01.580Z'
+---
 # Standard Operating Procedure: Event Management & Artist Liaison for Zubeen Garg
 
 This Standard Operating Procedure (SOP) outlines the professional protocols, technical requirements, and logistical coordination necessary to facilitate a high-profile performance by Zubeen Garg. As an artist of immense cultural impact and technical complexity, Zubeen Garg requires a streamlined, organized approach to ensure both the safety of the artist and the delivery of a world-class production. This document serves as the definitive guide for tour managers, venue coordinators, and event production teams.

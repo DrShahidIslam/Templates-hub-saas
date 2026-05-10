@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Fire Alarm System
+publishedAt: '2026-05-10T18:48:01.756Z'
+---
 # Standard Operating Procedure: Fire Alarm System Management
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the monitoring, testing, and emergency response associated with the facility's Fire Alarm Control Panel (FACP). Ensuring the integrity of this system is critical for life safety, regulatory compliance, and property protection. All designated personnel must be fully trained on the location, status indicators, and emergency silencing procedures outlined herein to minimize response times and prevent accidental false alarms during maintenance activities.

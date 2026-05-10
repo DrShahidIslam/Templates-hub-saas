@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template Powerpoint
+publishedAt: '2026-05-10T18:48:01.069Z'
+---
 # Standard Operating Procedure: Employee Onboarding PowerPoint Template Management
 
 This Standard Operating Procedure (SOP) defines the standardized process for creating, maintaining, and deploying the corporate Onboarding PowerPoint template. The objective of this document is to ensure that all new hires receive a consistent, brand-aligned, and high-quality introduction to the organization, regardless of the department or facilitator. Adherence to this protocol minimizes instructional inconsistency, upholds corporate identity, and ensures that critical organizational information is disseminated effectively during the first week of employment.

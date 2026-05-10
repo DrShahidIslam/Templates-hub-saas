@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Oos In Pharma
+publishedAt: '2026-05-10T18:48:01.390Z'
+---
 # Standard Operating Procedure: Management of Out-of-Specification (OOS) Results in Pharmaceutical Manufacturing
 
 This Standard Operating Procedure (SOP) outlines the mandatory requirements and systematic approach for handling, investigating, and reporting Out-of-Specification (OOS) results within the quality control laboratory. An OOS result is defined as any test result that falls outside the established acceptance criteria stated in drug master files, pharmacopeia, or internal specifications. Adherence to this procedure is critical to ensure product safety, identity, strength, quality, and purity, while maintaining compliance with cGMP (current Good Manufacturing Practices) and regulatory expectations (FDA, EMA, ICH).

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Truck Drivers
+publishedAt: '2026-05-10T18:48:01.964Z'
+---
 # Standard Operating Procedure: Professional Truck Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for all truck drivers to ensure safety, regulatory compliance, and operational efficiency. Adherence to these procedures is critical for the protection of company assets, the maintenance of legal roadworthiness, and the safety of the public. Failure to follow these steps may result in disciplinary action or the loss of commercial driving privileges.

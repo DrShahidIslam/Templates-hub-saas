@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Universal Testing Machine
+publishedAt: '2026-05-10T18:48:01.969Z'
+---
 # Standard Operating Procedure: Universal Testing Machine (UTM) Operation
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety protocols and operational steps required to operate the Universal Testing Machine (UTM). The purpose of this document is to ensure consistent, accurate data acquisition, prevent equipment damage, and maintain a safe working environment for all laboratory personnel. All operators must undergo documented training and safety induction before utilizing the equipment independently.

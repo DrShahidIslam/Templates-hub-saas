@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Y Endometriosis
+publishedAt: '2026-05-10T18:48:01.620Z'
+---
 # Standard Operating Procedure (SOP): Clinical Management of Endometriosis
 
 This Standard Operating Procedure (SOP) outlines the clinical and administrative framework for the assessment, diagnosis, and management of patients presenting with suspected or confirmed endometriosis. The objective is to standardize the patient journey—from initial screening to long-term chronic disease management—ensuring clinical excellence, evidence-based intervention, and improved quality of life for the patient.

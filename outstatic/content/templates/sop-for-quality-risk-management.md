@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Quality Risk Management
+publishedAt: '2026-05-10T18:48:01.431Z'
+---
 # Standard Operating Procedure: Quality Risk Management (QRM)
 
 ## Purpose and Scope

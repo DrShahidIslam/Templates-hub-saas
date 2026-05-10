@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Store Keeper
+publishedAt: '2026-05-10T18:48:01.950Z'
+---
 # Standard Operating Procedure: Storekeeper Operations
 
 ## Introduction

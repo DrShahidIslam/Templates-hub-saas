@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Safety Committee Meeting
+publishedAt: '2026-05-10T18:48:01.454Z'
+---
 # Standard Operating Procedure: Safety Committee Meeting
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for conducting an effective Safety Committee Meeting. The primary objective is to maintain a proactive safety culture, ensure regulatory compliance, and systematically address workplace hazards. By adhering to this structure, the committee will facilitate open communication, drive accountability, and track the resolution of safety-related issues to mitigate organizational risk.

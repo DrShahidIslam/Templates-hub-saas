@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine Diet Chart
+publishedAt: '2026-05-10T18:48:00.616Z'
+---
 # Standard Operating Procedure: Daily Nutritional Management & Routine Execution
 
 This Standard Operating Procedure (SOP) outlines the standardized framework for maintaining a consistent, high-performance daily diet routine. Effective nutritional management is a cornerstone of operational efficiency, mental clarity, and long-term health. By following this structured approach, you ensure that caloric intake, macronutrient distribution, and hydration goals are met with precision, minimizing decision fatigue and maximizing metabolic consistency.

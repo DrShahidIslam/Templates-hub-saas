@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Electrical Work Pdf
+publishedAt: '2026-05-10T18:48:01.722Z'
+---
 # Standard Operating Procedure: Electrical Work Safety and Execution
 
 This Standard Operating Procedure (SOP) establishes the mandatory safety protocols and operational workflow for conducting electrical work within this facility. Adherence to these procedures is critical to mitigating the risk of electrical shock, arc flash incidents, and equipment damage. All personnel performing electrical tasks must possess the appropriate licensure and ensure that all work complies with the National Electrical Code (NEC) and Occupational Safety and Health Administration (OSHA) standards. This document serves as the primary guide for both planning and executing electrical maintenance, installation, and troubleshooting tasks.

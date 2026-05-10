@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Anaesthesia
+publishedAt: '2026-05-10T18:48:01.158Z'
+---
 # Standard Operating Procedure: Clinical Anaesthesia Administration
 
 This Standard Operating Procedure (SOP) outlines the mandatory clinical workflow for the safe administration of anaesthesia. Its primary objective is to standardize preoperative assessment, equipment verification, induction, maintenance, and emergence to minimize perioperative morbidity and ensure patient safety. Adherence to these protocols is required for all licensed anaesthesia providers to maintain compliance with institutional safety standards and clinical best practices.

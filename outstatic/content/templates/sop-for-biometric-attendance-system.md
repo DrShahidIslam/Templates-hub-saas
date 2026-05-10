@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Biometric Attendance System
+publishedAt: '2026-05-10T18:48:01.174Z'
+---
 # Standard Operating Procedure: Biometric Attendance System Management
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the administration, enrollment, and daily maintenance of the biometric attendance system. The objective is to ensure accurate timekeeping, data integrity, and compliance with organizational labor policies while maintaining a seamless experience for all personnel. Adherence to these guidelines is critical for payroll accuracy and security audit readiness.

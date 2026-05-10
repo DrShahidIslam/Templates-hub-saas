@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Excavation Work
+publishedAt: '2026-05-10T18:48:01.236Z'
+---
 # Standard Operating Procedure: Excavation Operations
 
 This Standard Operating Procedure (SOP) establishes the mandatory safety, technical, and regulatory requirements for all excavation activities conducted by this organization. The objective is to prevent cave-ins, structural failures, utility strikes, and personnel injury. This SOP applies to all employees and contractors involved in earthwork, trenching, or shoring operations. Adherence to these protocols is non-negotiable and must be verified by the site supervisor before any ground-breaking activities commence.

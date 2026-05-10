@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Fire Emergency
+publishedAt: '2026-05-10T18:48:01.765Z'
+---
 # Standard Operating Procedure: Fire Emergency Response
 
 The purpose of this Standard Operating Procedure (SOP) is to ensure the safety of all personnel, visitors, and contractors in the event of a fire. This document establishes clear protocols for fire detection, alarm activation, evacuation, and post-incident reporting. Strict adherence to these procedures is mandatory to minimize risk, prevent injury, and ensure organizational compliance with fire safety regulations. All personnel must familiarize themselves with their designated exit routes and assembly points upon hire and during annual refresher training.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Hvac Maintenance
+publishedAt: '2026-05-10T18:48:01.818Z'
+---
 # Standard Operating Procedure: HVAC Preventative Maintenance
 
 ## Purpose and Scope

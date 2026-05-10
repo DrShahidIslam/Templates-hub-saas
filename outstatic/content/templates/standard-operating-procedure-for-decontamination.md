@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Decontamination
+publishedAt: '2026-05-10T18:48:01.695Z'
+---
 # Standard Operating Procedure: Facility and Equipment Decontamination
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the decontamination of surfaces, equipment, and environment within this facility. Adherence to these procedures is critical to ensuring a safe working environment, mitigating cross-contamination risks, and complying with health and safety regulatory standards. This document applies to all personnel, contractors, and visitors tasked with cleaning or sanitizing sensitive areas.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Hr
+publishedAt: '2026-05-10T18:48:01.298Z'
+---
 # Standard Operating Procedure: Human Resources Lifecycle Management
 
 This document outlines the standardized operational framework for Human Resources functions within the organization. The objective of this SOP is to ensure compliance, foster organizational consistency, and provide a seamless experience for both candidates and existing employees. By adhering to these procedures, the HR department maintains legal integrity, optimizes talent management, and reinforces the company culture through structured administrative workflows.

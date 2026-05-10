@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Check In Questions
+publishedAt: '2026-05-10T18:48:00.931Z'
+---
 # SOP: New Hire Onboarding Check-In Protocol
 
 The onboarding check-in process is a critical touchpoint designed to assess a new hire's integration, address early-stage friction, and reinforce organizational culture. By conducting structured, empathetic, and data-driven check-ins, managers can significantly reduce time-to-productivity and increase long-term employee retention. This SOP outlines the professional standard for conducting check-ins during the first 30, 60, and 90 days of employment.

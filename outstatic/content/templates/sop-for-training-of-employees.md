@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Training Of Employees
+publishedAt: '2026-05-10T18:48:01.488Z'
+---
 # Standard Operating Procedure: Employee Training & Development
 
 This Standard Operating Procedure (SOP) outlines the formal process for onboarding, upskilling, and professional development training within the organization. The objective of this procedure is to ensure that all employees possess the necessary skills, knowledge, and compliance awareness to perform their roles effectively, safely, and in alignment with company standards. Consistent training protocols reduce turnover, improve operational efficiency, and maintain a high standard of output across all departments.

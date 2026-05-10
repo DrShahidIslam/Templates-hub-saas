@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist For Board Members
+publishedAt: '2026-05-10T18:48:00.951Z'
+---
 # Standard Operating Procedure: Board Member Onboarding
 
 The onboarding of a new board member is a critical governance function that ensures incoming directors are legally, operationally, and culturally prepared to contribute effectively from their first meeting. This SOP outlines the structured process for integrating new board members, designed to minimize the learning curve, mitigate risk, and foster immediate strategic alignment. Effective onboarding serves to protect the organization’s integrity while empowering directors to fulfill their fiduciary duties with confidence.

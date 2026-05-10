@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Quantitative Research
+publishedAt: '2026-05-10T18:48:01.434Z'
+---
 # Standard Operating Procedure: Quantitative Research Methodology
 
 This Standard Operating Procedure (SOP) outlines the rigorous, systematic process for conducting quantitative research. The objective of this document is to ensure data integrity, statistical validity, and reproducibility across all research projects. Adherence to these procedures minimizes bias, ensures ethical compliance, and provides a clear audit trail from initial hypothesis formulation to final data dissemination.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Adhd
+publishedAt: '2026-05-10T18:48:00.634Z'
+---
 # Standard Operating Procedure: Daily Executive Function Management (ADHD)
 
 This SOP is designed to provide a structured, low-friction framework for managing daily tasks for individuals with ADHD. By externalizing cognitive load into a repeatable system, this routine minimizes decision fatigue, reduces the impact of executive dysfunction, and creates consistent "anchor points" throughout the day. Adherence to this protocol is intended to prioritize momentum over perfection, focusing on system maintenance rather than task mastery.

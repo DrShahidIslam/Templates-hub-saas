@@ -1,3 +1,8 @@
+---
+status: published
+title: What Is An Onboarding Checklist
+publishedAt: '2026-05-10T18:48:02.042Z'
+---
 # Standard Operating Procedure: Employee Onboarding Lifecycle
 
 ## Introduction

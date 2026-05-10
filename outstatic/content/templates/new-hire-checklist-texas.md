@@ -1,3 +1,8 @@
+---
+status: published
+title: New Hire Checklist Texas
+publishedAt: '2026-05-10T18:48:00.922Z'
+---
 # Standard Operating Procedure: New Hire Onboarding (Texas Operations)
 
 This Standard Operating Procedure (SOP) outlines the mandatory administrative, legal, and operational requirements for onboarding a new employee in the State of Texas. Because Texas is an "at-will" employment state, maintaining meticulous documentation regarding the employment relationship, state-specific tax disclosures, and safety compliance is critical for risk mitigation. This SOP ensures that every hire is integrated efficiently while maintaining full compliance with both Texas state labor laws and federal requirements.

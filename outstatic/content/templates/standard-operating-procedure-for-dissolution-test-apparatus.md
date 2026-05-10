@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Dissolution Test Apparatus
+publishedAt: '2026-05-10T18:48:01.707Z'
+---
 # Standard Operating Procedure: Dissolution Test Apparatus
 
 This Standard Operating Procedure (SOP) defines the systematic process for operating, calibrating, and maintaining dissolution test apparatus (USP Apparatus 1 or 2). Proper execution of this protocol is essential to ensure regulatory compliance, data integrity, and the reproducibility of drug release profiles. All personnel must be trained on this SOP before operating the equipment, and all activities must be recorded in the equipment logbook.

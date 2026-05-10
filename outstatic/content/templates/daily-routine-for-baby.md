@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Baby
+publishedAt: '2026-05-10T18:48:00.637Z'
+---
 # Standard Operating Procedure: Daily Infant Care Routine
 
 This Standard Operating Procedure (SOP) serves as a comprehensive operational framework for the daily management and care of an infant. Designed to ensure consistency, safety, and emotional well-being, this routine balances physiological needs—nutrition, hygiene, and sleep—with developmental stimulation. By adhering to this structured protocol, caregivers can maintain predictability, minimize stressors, and ensure all developmental milestones are supported through a reliable daily cadence.

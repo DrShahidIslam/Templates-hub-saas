@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Retirement Planning
+publishedAt: '2026-05-10T18:48:00.502Z'
+---
 # Standard Operating Procedure: Comprehensive Retirement Planning
 
 Effective retirement planning is a strategic process that requires the alignment of financial assets, lifestyle goals, and risk management. This SOP serves as a foundational framework for individuals to organize, evaluate, and optimize their financial trajectory toward retirement. By following this structured approach, you ensure systematic oversight of your capital allocation, tax liabilities, and long-term liquidity requirements.

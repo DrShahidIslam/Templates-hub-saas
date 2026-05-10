@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine Video For Adults
+publishedAt: '2026-05-10T18:48:00.836Z'
+---
 # Standard Operating Procedure: Daily Routine Video Production for Adults
 
 This Standard Operating Procedure (SOP) outlines the professional requirements for producing high-quality, engaging "daily routine" video content tailored for an adult audience. The objective is to provide value, inspiration, or lifestyle insights while maintaining visual consistency and narrative flow. By following this structured approach, creators ensure efficient production cycles, high viewer retention, and clear brand alignment.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Guest House
+publishedAt: '2026-05-10T18:48:01.802Z'
+---
 # Standard Operating Procedure: Guest House Operations
 
 This Standard Operating Procedure (SOP) outlines the professional requirements for maintaining high standards of hospitality, safety, and cleanliness within the guest house. Its purpose is to ensure a consistent, seamless experience for every guest from arrival through departure. By adhering to these protocols, staff members provide an environment that is welcoming, efficient, and operationally excellent.

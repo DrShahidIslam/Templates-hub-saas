@@ -1,3 +1,8 @@
+---
+status: published
+title: Fire Safety Sop For Laboratory
+publishedAt: '2026-05-10T18:48:00.861Z'
+---
 # Standard Operating Procedure: Laboratory Fire Safety
 
 ## Introduction

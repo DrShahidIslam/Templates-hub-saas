@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine Questions For Interview
+publishedAt: '2026-05-10T18:48:00.816Z'
+---
 # Standard Operating Procedure: Daily Interview Routine
 
 This Standard Operating Procedure (SOP) outlines the professional framework for conducting daily job interviews. As an operations manager, consistency is the key to talent acquisition. This document provides a standardized routine to ensure every candidate experience is uniform, data-driven, and aligned with organizational core competencies, regardless of the role or department.

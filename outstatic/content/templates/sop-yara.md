@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Yara
+publishedAt: '2026-05-10T18:48:01.623Z'
+---
 # Standard Operating Procedure: YARA Rule Lifecycle Management (SOP-YARA)
 
 This document outlines the standardized process for the development, testing, deployment, and maintenance of YARA (Yet Another Ridiculous Acronym) rules within our security operations environment. Following this SOP ensures that detection engineering remains consistent, false positives are minimized, and all signature-based detection mechanisms are scalable and performant. Adherence to these guidelines is mandatory for all security analysts and threat hunters to maintain the integrity of our incident response and threat detection pipelines.

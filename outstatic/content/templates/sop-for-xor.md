@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Xor
+publishedAt: '2026-05-10T18:48:01.563Z'
+---
 # Standard Operating Procedure: Bitwise XOR Execution and Validation
 
 This Standard Operating Procedure (SOP) defines the operational framework for performing the Bitwise Exclusive OR (XOR) operation. XOR is a fundamental logical operation that yields a true output only when the inputs differ. This document serves as the authoritative guide for engineers and developers to ensure consistent implementation, data masking, and error checking during system integration or algorithm development.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Planning A Wedding
+publishedAt: '2026-05-10T18:48:00.487Z'
+---
 # Standard Operating Procedure: Comprehensive Wedding Planning Framework
 
 This document outlines the systematic process for planning a wedding, designed to minimize logistical friction, manage budget allocation, and ensure all critical milestones are met. As an operations manager, the objective is to treat the wedding as a high-stakes project requiring meticulous resource management, stakeholder communication, and contingency planning. By following this phased approach, planners can reduce decision fatigue and ensure a seamless execution on the event date.

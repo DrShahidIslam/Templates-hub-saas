@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Checklistxlsx
+publishedAt: '2026-05-10T18:48:00.606Z'
+---
 # Standard Operating Procedure: Daily Checklist Management (daily_checklist.xlsx)
 
 ## Overview

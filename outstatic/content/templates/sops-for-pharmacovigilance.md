@@ -1,3 +1,8 @@
+---
+status: published
+title: Sops For Pharmacovigilance
+publishedAt: '2026-05-10T18:48:01.635Z'
+---
 # Standard Operating Procedure: Pharmacovigilance (PV) Case Processing and Reporting
 
 This Standard Operating Procedure (SOP) outlines the mandatory framework for the collection, assessment, documentation, and regulatory reporting of Adverse Events (AEs) and Serious Adverse Events (SAEs). As an expert operations requirement, this document ensures organizational compliance with Good Pharmacovigilance Practices (GVP) and international regulatory standards (e.g., EMA, FDA, ICH E2B), aiming to minimize patient risk through proactive safety monitoring and timely signal detection.

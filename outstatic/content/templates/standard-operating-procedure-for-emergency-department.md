@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Emergency Department
+publishedAt: '2026-05-10T18:48:01.724Z'
+---
 # Standard Operating Procedure: Emergency Department Patient Management
 
 This Standard Operating Procedure (SOP) outlines the systemic framework for the management of patients within the Emergency Department (ED). The primary objective of this protocol is to ensure the rapid assessment, stabilization, and disposition of patients while maintaining the highest standards of safety, clinical accuracy, and operational efficiency. This procedure applies to all nursing, medical, and ancillary staff operating within the ED environment.

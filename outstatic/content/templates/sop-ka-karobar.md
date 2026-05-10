@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Ka Karobar
+publishedAt: '2026-05-10T18:48:01.587Z'
+---
 # Standard Operating Procedure (SOP): Establishing and Managing a 'Sop ka Karobar' (Wholesale/Retail Supply Business)
 
 This SOP outlines the professional framework required to establish and operate a successful supply-based business (*Karobar*). Whether dealing in FMCG, raw materials, or specialized goods, success relies on strict inventory control, transparent financial record-keeping, and proactive client relationship management. By following these standardized protocols, you ensure operational scalability, minimize wastage, and maintain a competitive advantage in the local market.

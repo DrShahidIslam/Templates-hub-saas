@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Oxy Acetylene Cutting
+publishedAt: '2026-05-10T18:48:01.883Z'
+---
 # Standard Operating Procedure: Oxy-Acetylene Cutting
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety protocols and operational steps for the manual oxy-acetylene cutting process. Oxy-acetylene cutting involves the exothermic chemical reaction of oxygen with base metal at elevated temperatures; due to the presence of high-pressure flammable gases and intense thermal energy, adherence to this procedure is critical to prevent fires, explosions, and personal injury. All operators must be trained, authorized, and equipped with the appropriate Personal Protective Equipment (PPE) before commencing work.

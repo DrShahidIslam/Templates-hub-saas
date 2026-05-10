@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Waste Segregation
+publishedAt: '2026-05-10T18:48:01.530Z'
+---
 # Standard Operating Procedure: Waste Segregation and Management
 
 This Standard Operating Procedure (SOP) establishes the mandatory protocol for the systematic separation, handling, and disposal of waste generated within this facility. Effective waste segregation is critical to maintaining regulatory compliance, minimizing environmental impact, reducing disposal costs, and ensuring a safe, hygienic workspace for all personnel. All staff members are responsible for adhering to these guidelines to ensure that recyclable materials are diverted from landfills and hazardous waste is treated with appropriate caution.

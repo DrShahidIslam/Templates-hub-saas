@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For A 3 Year Old
+publishedAt: '2026-05-10T18:48:00.631Z'
+---
 # Standard Operating Procedure: Daily Routine Management (Age 3)
 
 The following Standard Operating Procedure (SOP) is designed to optimize the daily operations of a 3-year-old child's schedule. At this developmental stage, the focus is on establishing predictability, fostering autonomy, and ensuring consistent biological needs (sleep, nutrition, and hygiene) are met. By following this structured protocol, caregivers can minimize decision fatigue, reduce behavioral friction, and provide a secure, developmentally appropriate environment.

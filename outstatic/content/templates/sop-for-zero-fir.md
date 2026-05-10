@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Zero Fir
+publishedAt: '2026-05-10T18:48:01.571Z'
+---
 # Standard Operating Procedure: Zero FIR Registration
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocol for handling and registering a Zero FIR (First Information Report). A Zero FIR allows a victim to report a crime at any police station, regardless of jurisdiction. It is a critical legal mechanism designed to ensure that jurisdictional technicalities do not delay urgent investigation or evidence collection. Adherence to this SOP ensures compliance with legal mandates, protection of victim rights, and seamless transfer of case files to the appropriate jurisdictional authority.

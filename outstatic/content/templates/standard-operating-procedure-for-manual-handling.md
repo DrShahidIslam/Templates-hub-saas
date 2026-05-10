@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Manual Handling
+publishedAt: '2026-05-10T18:48:01.859Z'
+---
 # Standard Operating Procedure: Manual Handling
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety protocols for the manual handling of objects in the workplace. Manual handling—defined as the transporting or supporting of a load by hand or bodily force—remains a leading cause of workplace injury. The primary objective of this procedure is to reduce the risk of musculoskeletal disorders (MSDs) and acute injuries by ensuring that all personnel assess, plan, and execute lifting operations in accordance with ergonomic best practices. Compliance with these procedures is mandatory for all employees.

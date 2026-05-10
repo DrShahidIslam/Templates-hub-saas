@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Drone
+publishedAt: '2026-05-10T18:48:01.711Z'
+---
 # Standard Operating Procedure: Unmanned Aerial Vehicle (UAV) Flight Operations
 
 ## Purpose and Scope

@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Software
+publishedAt: '2026-05-10T18:48:01.006Z'
+---
 # Standard Operating Procedure: Implementation of Onboarding Checklist Software
 
 This Standard Operating Procedure (SOP) outlines the standardized process for selecting, configuring, and deploying onboarding checklist software to streamline the employee induction experience. By automating administrative tasks and centralizing documentation, this procedure aims to reduce "time-to-productivity," ensure regulatory compliance, and deliver a consistent, high-quality onboarding experience for all new hires.

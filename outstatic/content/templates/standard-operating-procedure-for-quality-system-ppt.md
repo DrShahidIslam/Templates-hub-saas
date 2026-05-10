@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Quality System Ppt
+publishedAt: '2026-05-10T18:48:01.908Z'
+---
 # Standard Operating Procedure: Quality System Presentation Development
 
 This Standard Operating Procedure (SOP) outlines the professional requirements for developing, structuring, and delivering a presentation concerning a Quality Management System (QMS). The objective is to ensure that all stakeholders—ranging from executive leadership to front-line employees—receive a clear, consistent, and audit-ready overview of quality objectives, compliance mandates, and operational performance metrics.

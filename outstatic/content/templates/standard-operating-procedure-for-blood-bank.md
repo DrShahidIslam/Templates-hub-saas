@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Blood Bank
+publishedAt: '2026-05-10T18:48:01.663Z'
+---
 # Standard Operating Procedure: Blood Bank Operations
 
 This Standard Operating Procedure (SOP) outlines the rigorous protocols required for the collection, testing, storage, and distribution of blood and blood components. The objective of this document is to ensure the safety, purity, and potency of all blood products, minimizing the risk of transfusion-transmitted infections and transfusion reactions. All personnel must strictly adhere to these guidelines to maintain compliance with regulatory standards (e.g., AABB, FDA, or local health authority guidelines) and to guarantee patient safety.

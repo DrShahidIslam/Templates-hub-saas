@@ -1,3 +1,8 @@
+---
+status: published
+title: Security Sop Kya Hai
+publishedAt: '2026-05-10T18:48:01.142Z'
+---
 # Standard Operating Procedure: Implementation of Security SOPs
 
 A Security Standard Operating Procedure (SOP) is a codified document that outlines the specific, repeatable actions required to maintain the safety, integrity, and operational continuity of an organization’s physical and digital assets. In professional operations management, a security SOP serves as the "single source of truth," ensuring that all personnel—from front-line guards to executive leadership—respond to routine duties and emergency incidents with standardized precision, thereby minimizing human error and legal liability.

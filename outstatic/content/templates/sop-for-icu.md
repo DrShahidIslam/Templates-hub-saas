@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Icu
+publishedAt: '2026-05-10T18:48:01.301Z'
+---
 # Standard Operating Procedure: Intensive Care Unit (ICU) Patient Management
 
 The Intensive Care Unit (ICU) is a high-acuity environment requiring rigorous adherence to clinical protocols to ensure patient safety, minimize complications, and optimize recovery outcomes. This SOP outlines the standardized workflow for the comprehensive management of critically ill patients, emphasizing multidisciplinary collaboration, infection control, and continuous hemodynamic monitoring. All personnel must strictly follow these guidelines to ensure consistency in care delivery, regardless of patient census or staff turnover.

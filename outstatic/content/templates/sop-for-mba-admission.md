@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Mba Admission
+publishedAt: '2026-05-10T18:48:01.363Z'
+---
 # Standard Operating Procedure: MBA Admissions Lifecycle
 
 This Standard Operating Procedure (SOP) outlines the standardized framework for managing the end-to-end MBA admission process. It is designed to ensure operational excellence, maintain high data integrity, and provide a seamless experience for prospective candidates. By following this protocol, the admissions team will consistently evaluate applicants against institutional criteria while optimizing conversion rates and maintaining compliance with internal governance standards.

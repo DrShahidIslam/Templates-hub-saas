@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Free
+publishedAt: '2026-05-10T18:48:00.987Z'
+---
 # Standard Operating Procedure: New Employee Onboarding
 
 This Standard Operating Procedure (SOP) outlines the standardized process for onboarding new employees to ensure a seamless, professional, and productive transition into the organization. The objective of this document is to eliminate administrative bottlenecks, foster cultural alignment, and ensure the new hire is equipped with the necessary tools and information to contribute effectively from their first day. This checklist serves as a master template to be utilized by HR, department heads, and IT support teams.

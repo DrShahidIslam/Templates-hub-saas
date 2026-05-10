@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Grade 2
+publishedAt: '2026-05-10T18:48:00.685Z'
+---
 # Standard Operating Procedure: Daily Routine for Grade 2
 
 This Standard Operating Procedure (SOP) serves as a comprehensive framework for maintaining a productive, engaging, and disciplined learning environment for second-grade students. By standardizing the daily flow, educators can minimize transition time, reduce behavioral friction, and maximize academic instructional minutes. This routine is designed to balance rigorous core curriculum requirements with the developmental need for movement, socialization, and socio-emotional check-ins.

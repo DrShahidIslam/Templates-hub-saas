@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Quality System In India
+publishedAt: '2026-05-10T18:48:01.903Z'
+---
 # Standard Operating Procedure: Quality Management System (QMS) Compliance in India
 
 ## Introduction

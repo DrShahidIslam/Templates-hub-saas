@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist For Leaders
+publishedAt: '2026-05-10T18:48:00.963Z'
+---
 # Standard Operating Procedure: Executive & Leadership Onboarding
 
 This Standard Operating Procedure (SOP) outlines the strategic onboarding process for incoming leaders. The objective is to transition new leadership talent from an external hire to a high-impact contributor by aligning them with organizational culture, operational rhythms, and strategic imperatives within their first 90 days. A successful onboarding process reduces time-to-productivity, fosters early psychological safety, and ensures the leader is fully equipped to drive their specific business unit objectives.

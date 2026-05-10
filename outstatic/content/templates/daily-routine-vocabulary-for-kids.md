@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine Vocabulary For Kids
+publishedAt: '2026-05-10T18:48:00.840Z'
+---
 # Standard Operating Procedure: Daily Routine Vocabulary Acquisition for Children
 
 This SOP provides a structured pedagogical framework for integrating daily routine vocabulary into a child’s environment. By leveraging the "Contextual Immersion Method," caregivers can transform mundane daily activities into high-retention learning opportunities. This procedure focuses on consistent labeling, physical anchoring, and repetitive modeling to ensure long-term linguistic retention and functional application.

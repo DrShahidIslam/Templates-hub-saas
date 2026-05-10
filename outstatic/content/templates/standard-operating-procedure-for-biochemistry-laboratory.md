@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Biochemistry Laboratory
+publishedAt: '2026-05-10T18:48:01.661Z'
+---
 # Standard Operating Procedure: Biochemistry Laboratory Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety protocols, equipment handling procedures, and experimental workflows required to maintain a safe and efficient biochemistry laboratory environment. Adherence to these guidelines is essential to ensure the integrity of research data, the protection of laboratory personnel, and compliance with institutional biosafety and chemical hygiene regulations. All staff, researchers, and students must review this document thoroughly before commencing any laboratory activities.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Inspection Checklist For Building Construction
+publishedAt: '2026-05-10T18:48:00.873Z'
+---
 # Standard Operating Procedure: Building Construction Inspection
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for conducting comprehensive site inspections during building construction. The objective is to ensure that all structural, mechanical, and safety elements align with approved architectural blueprints, local building codes, and safety regulations. Regular, documented inspections are critical to mitigating project risks, avoiding costly rework, and ensuring long-term structural integrity and compliance.

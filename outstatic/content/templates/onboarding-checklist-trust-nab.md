@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Trust Nab
+publishedAt: '2026-05-10T18:48:01.028Z'
+---
 # Standard Operating Procedure: Trust Onboarding Process (NAB)
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for onboarding a new Trust entity with National Australia Bank (NAB). Adhering to these steps ensures full compliance with Anti-Money Laundering (AML) and Know Your Customer (KYC) regulations, streamlines the application process, and minimizes delays caused by incomplete documentation. This document is intended for Relationship Managers, Operations Officers, and administrative support staff responsible for client intake.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Ximb Bhubaneswar
+publishedAt: '2026-05-10T18:48:01.558Z'
+---
 # Standard Operating Procedure: Academic and Administrative Excellence at XIMB Bhubaneswar
 
 This Standard Operating Procedure (SOP) outlines the systemic framework for students, faculty, and administrative staff at Xavier Institute of Management, Bhubaneswar (XIMB). The objective is to maintain operational efficiency, uphold the institution’s Jesuit values, and ensure a seamless academic experience. This guide covers daily conduct, institutional protocols, and resource management to optimize performance within the XIMB ecosystem.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Receiving Goods
+publishedAt: '2026-05-10T18:48:01.916Z'
+---
 # Standard Operating Procedure: Receiving Goods
 
 The efficient and accurate receipt of goods is the foundation of effective inventory management and supply chain reliability. This Standard Operating Procedure (SOP) outlines the mandatory protocols for inspecting, documenting, and processing incoming shipments to ensure that inventory records are precise, damage is minimized, and vendor accountability is maintained. Strict adherence to this process is required to prevent financial discrepancies and operational bottlenecks.

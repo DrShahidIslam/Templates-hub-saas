@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist For Canteen
+publishedAt: '2026-05-10T18:48:00.343Z'
+---
 # Standard Operating Procedure: Canteen Hygiene and Operational Audit
 
 This Standard Operating Procedure (SOP) outlines the mandatory auditing process for the canteen facility to ensure compliance with health, safety, and quality standards. As an operations manager, the objective of this audit is to mitigate foodborne illness risks, ensure structural integrity, and maintain operational efficiency. This audit must be conducted on a monthly basis by the designated facility manager or a health and safety officer, with all non-conformities addressed within 48 hours of discovery.

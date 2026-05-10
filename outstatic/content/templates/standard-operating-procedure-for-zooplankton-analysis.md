@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Zooplankton Analysis
+publishedAt: '2026-05-10T18:48:02.004Z'
+---
 # Standard Operating Procedure: Zooplankton Analysis
 
 This Standard Operating Procedure (SOP) outlines the standardized methodology for the identification, enumeration, and biomass estimation of zooplankton samples collected from aquatic environments. Accurate zooplankton analysis is critical for assessing ecosystem health, monitoring trophic dynamics, and understanding water quality. This protocol assumes samples have been preserved in 4% buffered formalin or 70% ethanol and are ready for laboratory processing.

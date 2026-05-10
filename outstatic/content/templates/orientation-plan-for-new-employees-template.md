@@ -1,3 +1,8 @@
+---
+status: published
+title: Orientation Plan For New Employees Template
+publishedAt: '2026-05-10T18:48:01.077Z'
+---
 # Standard Operating Procedure: New Employee Orientation Plan
 
 ## Overview

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Purchase Orders
+publishedAt: '2026-05-10T18:48:01.895Z'
+---
 # Standard Operating Procedure: Purchase Order (PO) Management
 
 ## Introduction

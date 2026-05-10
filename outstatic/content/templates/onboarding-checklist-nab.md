@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Nab
+publishedAt: '2026-05-10T18:48:00.998Z'
+---
 # Standard Operating Procedure: New Account/Associate Business (NAB) Onboarding
 
 This Standard Operating Procedure (SOP) outlines the standardized process for the onboarding of a New Account or Business (NAB) entity. As an Operations Manager, the objective is to ensure that all administrative, compliance, and operational requirements are met with precision. A seamless onboarding experience is critical to mitigating risk, ensuring regulatory adherence, and establishing a professional baseline for long-term account management. This SOP is designed to be executed by the Operations Team in coordination with Sales and Legal departments.

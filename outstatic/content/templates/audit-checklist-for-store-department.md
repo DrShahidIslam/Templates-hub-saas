@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist For Store Department
+publishedAt: '2026-05-10T18:48:00.361Z'
+---
 # Standard Operating Procedure: Store Department Audit
 
 This Standard Operating Procedure (SOP) defines the systematic process for conducting a comprehensive audit of the store/inventory department. The objective of this audit is to ensure inventory accuracy, optimize storage conditions, verify compliance with safety protocols, and identify discrepancies in stock valuation. By adhering to these procedures, the organization minimizes shrinkage, reduces carrying costs, and ensures operational continuity.

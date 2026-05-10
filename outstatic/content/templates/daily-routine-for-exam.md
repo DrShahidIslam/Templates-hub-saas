@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Exam
+publishedAt: '2026-05-10T18:48:00.664Z'
+---
 # Standard Operating Procedure: Daily Exam Preparation Routine
 
 This Standard Operating Procedure (SOP) is designed to optimize cognitive performance, mitigate test-day anxiety, and ensure maximum retention during high-stakes exam periods. By following this structured routine, students can transition from passive information intake to active, high-recall execution. This protocol emphasizes the balance between intense focus, physiological maintenance, and systematic review to ensure peak mental readiness.

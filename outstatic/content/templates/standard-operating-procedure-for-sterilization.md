@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Sterilization
+publishedAt: '2026-05-10T18:48:01.949Z'
+---
 # Standard Operating Procedure: Instrument Sterilization
 
 This Standard Operating Procedure (SOP) outlines the rigorous protocols required to achieve total microbial destruction, including bacterial spores, on reusable medical or laboratory instruments. The objective of this procedure is to ensure patient and personnel safety by maintaining a sterile chain of custody from pre-cleaning through to storage. Adherence to these guidelines is mandatory for all personnel handling critical and semi-critical devices to prevent cross-contamination and ensure the longevity of high-precision equipment.

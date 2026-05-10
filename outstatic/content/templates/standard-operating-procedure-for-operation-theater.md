@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Operation Theater
+publishedAt: '2026-05-10T18:48:01.882Z'
+---
 # Standard Operating Procedure: Operating Theater (OT) Management
 
 The Operating Theater (OT) is a high-stakes environment where precision, sterility, and communication are paramount to patient safety. This Standard Operating Procedure (SOP) outlines the mandatory workflows for preparing, conducting, and concluding surgical procedures. By strictly adhering to these protocols, the surgical team minimizes the risk of Surgical Site Infections (SSIs), ensures equipment readiness, and maintains a seamless transition between cases. This document serves as the governing standard for all clinical and support staff within the OT suite.

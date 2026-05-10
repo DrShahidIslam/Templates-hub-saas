@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Software Development
+publishedAt: '2026-05-10T18:48:01.939Z'
+---
 # Standard Operating Procedure: Software Development Lifecycle (SDLC)
 
 This Standard Operating Procedure (SOP) defines the systematic approach for developing, deploying, and maintaining software within our organization. By standardizing these processes, we ensure code quality, maintain security standards, facilitate team collaboration, and minimize technical debt. All engineers, product managers, and QA specialists are required to adhere to these workflows to guarantee consistent and reliable delivery of technical solutions.

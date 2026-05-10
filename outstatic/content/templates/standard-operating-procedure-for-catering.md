@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Catering
+publishedAt: '2026-05-10T18:48:01.674Z'
+---
 # Standard Operating Procedure: Catering Operations
 
 This Standard Operating Procedure (SOP) serves as the operational blueprint for executing high-quality, safe, and efficient catering services. It is designed to ensure consistency across all client events, ranging from intimate corporate lunches to large-scale banquet functions. Adherence to these protocols is mandatory to maintain our brand reputation for excellence, health department compliance, and superior customer service. All staff members are responsible for reviewing these procedures prior to every shift.

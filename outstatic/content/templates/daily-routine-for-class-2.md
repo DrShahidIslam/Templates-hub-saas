@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Class 2
+publishedAt: '2026-05-10T18:48:00.652Z'
+---
 # Standard Operating Procedure: Daily Routine for Class 2
 
 This Standard Operating Procedure (SOP) outlines the daily operational workflow for a Class 2 environment. Designed to maximize instructional time while fostering student independence, this routine ensures a consistent structure that supports cognitive development and social-emotional growth. All staff members are expected to follow these procedures to maintain a predictable, high-functioning classroom atmosphere that minimizes transitions and optimizes student engagement.

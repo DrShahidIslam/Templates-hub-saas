@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Manufacturing
+publishedAt: '2026-05-10T18:48:01.360Z'
+---
 # Standard Operating Procedure: General Manufacturing Operations
 
 This document establishes the standardized workflow for manufacturing processes to ensure consistency, quality control, and operational efficiency. Adherence to this SOP is mandatory for all production personnel to minimize waste, optimize resource allocation, and ensure compliance with safety and quality management standards. This procedure covers the lifecycle of a production run from pre-manufacturing preparation to post-production cleanup and documentation.

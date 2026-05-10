@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Safety Operating Procedure
+publishedAt: '2026-05-10T18:48:01.604Z'
+---
 # Standard Operating Procedure: General Workplace Safety & Operational Protocol
 
 ## 1. Introduction

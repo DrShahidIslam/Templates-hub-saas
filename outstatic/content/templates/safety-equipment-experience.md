@@ -1,3 +1,8 @@
+---
+status: published
+title: Safety Equipment Experience
+publishedAt: '2026-05-10T18:48:01.089Z'
+---
 # Standard Operating Procedure: Safety Equipment Familiarization and Verification
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocol for ensuring all personnel are thoroughly trained, equipped, and confident in the utilization of site-specific safety equipment. The primary objective is to mitigate workplace hazards by fostering a culture of competency-based safety. This document serves as a baseline for onboarding new staff and conducting periodic refresher training to ensure compliance with OSHA regulations and internal risk management standards.

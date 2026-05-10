@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Billing Process
+publishedAt: '2026-05-10T18:48:01.171Z'
+---
 # Standard Operating Procedure: Billing and Invoicing Process
 
 This Standard Operating Procedure (SOP) outlines the mandatory workflow for generating, verifying, and distributing client invoices to ensure financial accuracy, maintain healthy cash flow, and uphold professional standards. Adherence to this process is critical for minimizing payment delays, reducing billing disputes, and maintaining clean financial records. All billing personnel are responsible for executing these steps with 100% precision before the scheduled invoicing cycle.

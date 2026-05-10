@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Immunization
+publishedAt: '2026-05-10T18:48:01.825Z'
+---
 # Standard Operating Procedure: Immunization Administration
 
 This Standard Operating Procedure (SOP) outlines the mandatory clinical protocols for the safe, effective, and efficient administration of vaccines. Adherence to these guidelines is essential to maintain the cold chain, ensure patient safety, minimize adverse reactions, and uphold accurate clinical documentation. All staff members authorized to administer immunizations must be trained annually on these procedures and remain current with regional and national health authority guidelines.

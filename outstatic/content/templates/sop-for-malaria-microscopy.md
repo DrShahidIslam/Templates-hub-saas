@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Malaria Microscopy
+publishedAt: '2026-05-10T18:48:01.358Z'
+---
 # Standard Operating Procedure: Malaria Microscopy
 
 This Standard Operating Procedure (SOP) outlines the standardized clinical protocol for the laboratory diagnosis of malaria via thick and thin blood film examination. As the "gold standard" for malaria diagnostics, microscopy requires rigorous adherence to slide preparation, staining, and analytical techniques to ensure high sensitivity and specificity. This document is intended for trained laboratory technologists to ensure consistent diagnostic accuracy, minimize reporting errors, and maintain clinical safety standards.

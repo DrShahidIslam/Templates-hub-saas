@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Qc
+publishedAt: '2026-05-10T18:48:01.419Z'
+---
 # Standard Operating Procedure: Quality Control (QC) Inspection Process
 
 This Standard Operating Procedure (SOP) establishes the mandatory framework for conducting Quality Control (QC) inspections to ensure all products meet organizational standards before moving to the next stage of the supply chain or reaching the end-user. Adherence to this process is critical to minimizing defect rates, maintaining brand integrity, and ensuring compliance with regulatory requirements. This document applies to all QC personnel and should be utilized for every batch or unit designated for inspection.

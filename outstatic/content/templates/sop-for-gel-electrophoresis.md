@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Gel Electrophoresis
+publishedAt: '2026-05-10T18:48:01.264Z'
+---
 # Standard Operating Procedure: Agarose Gel Electrophoresis
 
 ## Introduction

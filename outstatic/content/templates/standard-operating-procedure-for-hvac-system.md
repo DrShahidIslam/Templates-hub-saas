@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Hvac System
+publishedAt: '2026-05-10T18:48:01.819Z'
+---
 # Standard Operating Procedure: HVAC System Maintenance and Operation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the operation, routine inspection, and preventive maintenance of the facility’s Heating, Ventilation, and Air Conditioning (HVAC) systems. Adherence to these procedures ensures optimal climate control, extends equipment lifecycle, minimizes energy consumption, and maintains compliance with indoor air quality (IAQ) safety standards. All maintenance activities must be logged in the facility maintenance management system (CMMS) upon completion.

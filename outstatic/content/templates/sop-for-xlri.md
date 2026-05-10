@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Xlri
+publishedAt: '2026-05-10T18:48:01.562Z'
+---
 # Standard Operating Procedure: XLRI Admission and Academic Lifecycle Management
 
 This Standard Operating Procedure (SOP) outlines the standardized operational framework for managing the lifecycle of an XLRI (Xavier School of Management) candidate—from the initial XAT (Xavier Aptitude Test) application phase through the rigorous admission cycle and into academic registration. This document ensures institutional compliance, data integrity, and a seamless student experience by codifying the administrative workflows required to maintain the high standards associated with the institution.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Safety Officer
+publishedAt: '2026-05-10T18:48:01.603Z'
+---
 # Standard Operating Procedure: Safety Officer Oversight
 
 The role of the Safety Officer is critical to maintaining a zero-harm culture and ensuring organizational compliance with federal, state, and local health and safety regulations. This SOP outlines the systematic approach required to monitor workplace conditions, enforce safety protocols, and mitigate risks proactively. By adhering to these procedures, the Safety Officer ensures the protection of personnel, assets, and the operational continuity of the facility.

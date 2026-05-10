@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For A 1 Year Old
+publishedAt: '2026-05-10T18:48:00.629Z'
+---
 # Standard Operating Procedure: Daily Routine for a 1-Year-Old
 
 This Standard Operating Procedure (SOP) serves as a structured framework for managing the daily requirements of a one-year-old child. At this developmental milestone, infants require consistency, physical nourishment, structured play, and adequate rest to support rapid cognitive and motor development. By standardizing these operational tasks, caregivers can ensure that the child’s nutritional, hygiene, and emotional needs are met predictably, reducing stress for both the child and the guardian.

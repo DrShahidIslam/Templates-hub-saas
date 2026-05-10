@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Quality System Scope
+publishedAt: '2026-05-10T18:48:01.911Z'
+---
 # Standard Operating Procedure: Defining and Maintaining Quality System Scope
 
 This Standard Operating Procedure (SOP) establishes the formal framework for defining, documenting, and reviewing the scope of an organization’s Quality Management System (QMS). Establishing a clear scope is a foundational requirement for international standards (such as ISO 9001:2015), ensuring that all relevant internal and external issues, stakeholder requirements, and operational boundaries are clearly identified. This document ensures that the scope remains accurate, aligned with strategic direction, and effectively communicated across all departments.

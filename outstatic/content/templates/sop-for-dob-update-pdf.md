@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Dob Update Pdf
+publishedAt: '2026-05-10T18:48:01.211Z'
+---
 # Standard Operating Procedure: Date of Birth (DOB) Update via PDF Documentation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for processing, verifying, and updating a Date of Birth (DOB) record within the organizational database using submitted PDF documentation. Ensuring accuracy in DOB records is critical for regulatory compliance, data integrity, and identity verification. Personnel are expected to adhere to this workflow to mitigate the risks of unauthorized data alteration and ensure a secure audit trail.

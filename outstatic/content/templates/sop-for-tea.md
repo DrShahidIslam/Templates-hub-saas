@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Tea
+publishedAt: '2026-05-10T18:48:01.481Z'
+---
 # Standard Operating Procedure: Premium Hot Tea Preparation
 
 This Standard Operating Procedure (SOP) outlines the standardized process for preparing high-quality hot tea. The objective is to ensure consistency in temperature, steeping time, and flavor profile, maintaining organizational standards for beverage service. By adhering to these protocols, staff will deliver a uniform experience that minimizes waste and optimizes sensory quality for the end consumer.

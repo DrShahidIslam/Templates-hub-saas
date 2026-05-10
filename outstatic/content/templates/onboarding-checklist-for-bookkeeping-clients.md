@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist For Bookkeeping Clients
+publishedAt: '2026-05-10T18:48:00.952Z'
+---
 # Standard Operating Procedure: Bookkeeping Client Onboarding
 
 This Standard Operating Procedure (SOP) outlines the standardized process for onboarding new bookkeeping clients to ensure a seamless transition, accurate data migration, and clear alignment of expectations. By following this protocol, the firm ensures that all security protocols are met, financial software is properly configured, and communication channels are established from day one. This process is designed to minimize friction for the client while maximizing the accuracy of the financial foundation.

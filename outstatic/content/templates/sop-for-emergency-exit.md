@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Emergency Exit
+publishedAt: '2026-05-10T18:48:01.224Z'
+---
 # Standard Operating Procedure: Emergency Exit Management and Maintenance
 
 This Standard Operating Procedure (SOP) establishes the mandatory protocols for the maintenance, inspection, and utilization of emergency exits within our facilities. Ensuring that all egress points remain unobstructed, clearly marked, and fully functional is a critical life-safety requirement. Adherence to this SOP is non-negotiable to ensure compliance with local fire codes, OSHA standards, and—most importantly—the safety of all personnel and visitors in the event of an emergency.

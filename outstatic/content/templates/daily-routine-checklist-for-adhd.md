@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine Checklist For Adhd
+publishedAt: '2026-05-10T18:48:00.613Z'
+---
 # Standard Operating Procedure: Daily Executive Function Management
 
 This SOP is designed to provide a structured, low-friction framework for individuals managing ADHD. The primary objective is to externalize executive function—offloading the cognitive burden of memory, prioritization, and task initiation onto a documented system. By following this daily routine, you will reduce decision fatigue, minimize "analysis paralysis," and create a predictable rhythm that stabilizes daily output. Use this document as your "external brain" to ensure essential tasks are captured and executed consistently.

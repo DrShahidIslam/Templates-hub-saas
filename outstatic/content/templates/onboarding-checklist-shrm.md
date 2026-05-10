@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Shrm
+publishedAt: '2026-05-10T18:48:01.004Z'
+---
 # Standard Operating Procedure: Strategic Employee Onboarding
 
 This Standard Operating Procedure (SOP) outlines the standardized framework for onboarding new employees, aligned with SHRM (Society for Human Resource Management) best practices. The objective is to foster a seamless transition that maximizes employee engagement, clarifies role expectations, and ensures total compliance with organizational policies. By utilizing this structured approach, the organization reduces "time-to-productivity," improves retention rates, and ensures that every new hire feels culturally integrated from Day One.

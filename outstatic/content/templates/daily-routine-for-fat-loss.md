@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Fat Loss
+publishedAt: '2026-05-10T18:48:00.669Z'
+---
 # Standard Operating Procedure: Daily Routine for Sustainable Fat Loss
 
 ## Introduction

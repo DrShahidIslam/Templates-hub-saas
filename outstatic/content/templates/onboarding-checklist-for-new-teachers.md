@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist For New Teachers
+publishedAt: '2026-05-10T18:48:00.976Z'
+---
 # Standard Operating Procedure: New Teacher Onboarding
 
 Effective onboarding is the cornerstone of staff retention and instructional excellence. This SOP is designed to transition new faculty members into our school community by providing them with the administrative, pedagogical, and cultural tools required to succeed from Day 1. The objective is to reduce operational anxiety and allow the teacher to focus on building student relationships and delivering high-quality instruction. This checklist should be initiated 30 days prior to the start date and completed within the first 60 days of employment.

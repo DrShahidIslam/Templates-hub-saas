@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Referrals
+publishedAt: '2026-05-10T18:48:01.920Z'
+---
 # Standard Operating Procedure: Professional Referral Management
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for managing, tracking, and converting incoming and outgoing professional referrals. The objective of this document is to ensure a seamless experience for the client, maintain professional accountability, and maximize the success rate of every referred lead. Adherence to these steps is required to preserve brand reputation and foster strong professional partnerships.

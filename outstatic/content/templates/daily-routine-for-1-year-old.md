@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For 1 Year Old
+publishedAt: '2026-05-10T18:48:00.619Z'
+---
 # Standard Operating Procedure: Daily Routine for a 1-Year-Old
 
 This Standard Operating Procedure (SOP) outlines the optimal daily structure for a 12-month-old toddler, designed to balance nutritional intake, restorative sleep, and sensory development. At this developmental milestone, the primary objective is to transition from infant-led feeding to a consistent, family-aligned schedule while fostering independence and emotional security. Following this routine ensures physiological needs are met while maintaining a predictable environment conducive to healthy neurodevelopment.

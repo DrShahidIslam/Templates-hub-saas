@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Safety Topic
+publishedAt: '2026-05-10T18:48:01.614Z'
+---
 # Standard Operating Procedure: Safety Topic Presentation & Execution
 
 This Standard Operating Procedure (SOP) outlines the formal process for selecting, developing, and delivering a safety topic (often referred to as a "Toolbox Talk" or "Safety Moment") within a professional operations environment. The objective is to foster a proactive safety culture by ensuring that all team members receive consistent, relevant, and actionable information regarding site-specific hazards and regulatory compliance.

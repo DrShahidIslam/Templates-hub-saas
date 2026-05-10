@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Presiding Officer
+publishedAt: '2026-05-10T18:48:00.490Z'
+---
 # Standard Operating Procedure: Presiding Officer Duties
 
 The role of the Presiding Officer is pivotal to the integrity, efficiency, and legality of any formal meeting or election process. This SOP outlines the comprehensive responsibilities required to maintain order, ensure adherence to governing bylaws (such as Robert’s Rules of Order), and facilitate equitable participation among all stakeholders. The following checklist serves as the definitive guide for executing these duties with professionalism and impartiality.

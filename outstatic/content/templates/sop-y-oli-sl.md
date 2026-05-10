@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Y Oli Sl
+publishedAt: '2026-05-10T18:48:01.620Z'
+---
 # Standard Operating Procedure: Y-OLI-SL (Yield Optimization & Line Inventory Synchronization Logic)
 
 This document outlines the professional protocol for the Y-OLI-SL process, designed to harmonize line-side inventory levels with real-time production yield data. Adherence to this SOP ensures minimized material waste, optimized cycle times, and consistent inventory accuracy across the manufacturing floor. This process should be executed by Lead Operators or Production Supervisors at the commencement of each shift or during critical line re-configuration.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template Google Docs
+publishedAt: '2026-05-10T18:48:01.061Z'
+---
 # Standard Operating Procedure: New Hire Onboarding Template Management
 
 This Standard Operating Procedure (SOP) outlines the standardized process for creating, maintaining, and deploying Google Docs onboarding templates. By utilizing a centralized, version-controlled template system, your organization ensures that every new hire receives a consistent, professional, and comprehensive welcome experience, regardless of their department or role. Following these steps minimizes administrative friction and guarantees that all critical compliance, culture, and technical information is disseminated effectively on Day 1.

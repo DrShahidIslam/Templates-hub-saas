@@ -1,3 +1,8 @@
+---
+status: published
+title: Inspection Checklist For Air Compressor
+publishedAt: '2026-05-10T18:48:00.868Z'
+---
 # Standard Operating Procedure: Air Compressor Inspection
 
 This Standard Operating Procedure (SOP) outlines the mandatory inspection protocols for industrial air compressors to ensure operational safety, peak efficiency, and the longevity of mechanical components. Regular inspections are critical to identifying potential failure points—such as oil leaks, belt degradation, or pressure buildup—before they result in costly downtime or catastrophic system failure. All technicians must strictly adhere to Lockout/Tagout (LOTO) procedures when performing internal inspections or maintenance.

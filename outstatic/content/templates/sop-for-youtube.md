@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Youtube
+publishedAt: '2026-05-10T18:48:01.570Z'
+---
 # Standard Operating Procedure: YouTube Content Production & Management
 
 This Standard Operating Procedure (SOP) serves as the definitive framework for the end-to-end management of a YouTube channel. By standardizing the workflow from ideation to post-publication analysis, this document ensures consistent content quality, optimal search engine optimization (SEO), and sustained audience engagement. All team members must adhere to these steps to maintain operational efficiency and brand integrity.

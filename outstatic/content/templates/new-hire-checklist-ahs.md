@@ -1,3 +1,8 @@
+---
+status: published
+title: New Hire Checklist Ahs
+publishedAt: '2026-05-10T18:48:00.902Z'
+---
 # Standard Operating Procedure: New Hire Onboarding (AHS)
 
 This Standard Operating Procedure (SOP) outlines the mandatory onboarding workflow for new employees within the AHS division. The objective of this process is to ensure a seamless integration, compliance with operational standards, and immediate productivity. This checklist must be completed by the assigned Hiring Manager or Department Lead in conjunction with HR to ensure all logistical, technical, and cultural requirements are met prior to and during the first week of employment.

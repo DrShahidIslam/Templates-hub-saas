@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template Design
+publishedAt: '2026-05-10T18:48:01.046Z'
+---
 # Standard Operating Procedure: Onboarding Template Design
 
 This document establishes the standardized workflow for designing, developing, and deploying high-impact onboarding templates. As an operations lead, your goal is to ensure that every new hire experience is consistent, scalable, and emotionally engaging. A well-designed onboarding template acts as the architectural blueprint for cultural integration and role-specific readiness, reducing time-to-productivity while increasing retention rates.

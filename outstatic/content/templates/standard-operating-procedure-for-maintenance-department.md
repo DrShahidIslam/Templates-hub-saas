@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Maintenance Department
+publishedAt: '2026-05-10T18:48:01.856Z'
+---
 # Standard Operating Procedure: Maintenance Department Operations
 
 This Standard Operating Procedure (SOP) establishes the foundational protocols for the Maintenance Department to ensure the operational integrity, safety, and longevity of facility assets. By standardizing maintenance workflows—ranging from routine preventative inspections to urgent emergency repairs—this document provides a roadmap for minimizing equipment downtime, reducing overhead costs, and ensuring full compliance with occupational health and safety regulations. All personnel are required to adhere to these procedures to maintain a culture of accountability and professional excellence.

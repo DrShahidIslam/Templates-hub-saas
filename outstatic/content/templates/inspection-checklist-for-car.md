@@ -1,3 +1,8 @@
+---
+status: published
+title: Inspection Checklist For Car
+publishedAt: '2026-05-10T18:48:00.880Z'
+---
 # Standard Operating Procedure: Vehicle Inspection Protocol
 
 This Standard Operating Procedure (SOP) outlines the mandatory requirements for conducting a comprehensive vehicle inspection. Whether preparing for a long-distance trip, routine maintenance, or a pre-purchase evaluation, following this structured approach ensures mechanical reliability, optimal safety, and the early detection of costly repairs. Technicians and vehicle owners should perform these checks in a well-lit, level environment with the engine cold to ensure accuracy and personal safety.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Laser Cutting Machine
+publishedAt: '2026-05-10T18:48:01.347Z'
+---
 # Standard Operating Procedure: Laser Cutting Machine Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety protocols, operational workflows, and maintenance requirements for the safe and efficient use of industrial laser cutting equipment. Adherence to these guidelines is essential to prevent equipment damage, ensure material quality, and—most importantly—maintain a safe working environment for all personnel. All operators must be certified by the facility manager before independent use of this machine.

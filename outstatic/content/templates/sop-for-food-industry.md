@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Food Industry
+publishedAt: '2026-05-10T18:48:01.252Z'
+---
 # Standard Operating Procedure: Food Safety and Quality Assurance
 
 This Standard Operating Procedure (SOP) outlines the essential protocols for maintaining hygiene, safety, and operational excellence within a food production environment. Adherence to these guidelines is mandatory to ensure compliance with health regulations, prevent cross-contamination, and deliver consistent, high-quality products to consumers. All staff members are responsible for upholding these standards throughout every shift.

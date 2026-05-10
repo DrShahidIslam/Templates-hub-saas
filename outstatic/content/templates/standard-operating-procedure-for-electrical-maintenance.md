@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Electrical Maintenance
+publishedAt: '2026-05-10T18:48:01.720Z'
+---
 # Standard Operating Procedure: Electrical Maintenance
 
 This Standard Operating Procedure (SOP) establishes the mandatory protocols for performing electrical maintenance across all facility assets. The primary objective of this procedure is to ensure the safety of personnel, maintain equipment reliability, and ensure full compliance with NFPA 70E and OSHA 1910.333 standards. All electrical work must be performed by qualified personnel only, utilizing documented Lockout/Tagout (LOTO) procedures and appropriate Personal Protective Equipment (PPE).

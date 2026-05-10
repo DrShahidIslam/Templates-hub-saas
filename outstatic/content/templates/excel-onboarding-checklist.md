@@ -1,3 +1,8 @@
+---
+status: published
+title: Excel Onboarding Checklist
+publishedAt: '2026-05-10T18:48:00.859Z'
+---
 # Standard Operating Procedure: New Hire Excel Proficiency Onboarding
 
 This Standard Operating Procedure (SOP) outlines the mandatory onboarding process for ensuring all new employees reach the required level of Excel proficiency necessary for their role. As data-driven decision-making is core to our operations, this structured training ensures that new team members are equipped with the foundational and advanced tools required to maintain data integrity, streamline workflows, and generate accurate analytical reporting from day one.

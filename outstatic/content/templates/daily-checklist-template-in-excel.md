@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Checklist Template In Excel
+publishedAt: '2026-05-10T18:48:00.603Z'
+---
 # Standard Operating Procedure: Daily Checklist Template Management
 
 This Standard Operating Procedure (SOP) outlines the standardized process for creating, maintaining, and utilizing a daily checklist template within Microsoft Excel. The objective of this document is to ensure operational consistency, minimize human error, and facilitate efficient task tracking across team workflows. By utilizing a structured Excel template, management can ensure that critical daily functions are performed with high reliability and that historical data is preserved for performance auditing.

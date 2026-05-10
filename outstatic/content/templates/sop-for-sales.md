@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Sales
+publishedAt: '2026-05-10T18:48:01.466Z'
+---
 # Standard Operating Procedure: Sales Lifecycle Management
 
 This Standard Operating Procedure (SOP) defines the standardized workflow for managing the sales lifecycle, from initial lead qualification to contract execution. By adhering to this process, the sales team ensures consistency in client communication, accuracy in pipeline forecasting, and a higher conversion rate through systematic engagement. This document is intended for all sales representatives, account executives, and sales management personnel.

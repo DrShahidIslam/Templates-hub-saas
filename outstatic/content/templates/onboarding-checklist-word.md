@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Word
+publishedAt: '2026-05-10T18:48:01.038Z'
+---
 # Standard Operating Procedure: Employee Onboarding Documentation
 
 This document outlines the professional procedure for generating, managing, and executing an employee onboarding checklist using Microsoft Word. A structured onboarding process is essential for ensuring organizational compliance, accelerating time-to-productivity for new hires, and fostering a positive first impression. This SOP ensures that all administrative, technical, and cultural requirements are met systematically before and during the employee's first week.

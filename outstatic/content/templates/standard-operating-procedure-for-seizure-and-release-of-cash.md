@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Seizure And Release Of Cash
+publishedAt: '2026-05-10T18:48:01.937Z'
+---
 # Standard Operating Procedure: Seizure and Release of Cash
 
 ## Introduction

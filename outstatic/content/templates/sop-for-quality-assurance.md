@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Quality Assurance
+publishedAt: '2026-05-10T18:48:01.424Z'
+---
 # Standard Operating Procedure: Quality Assurance Protocol
 
 This Quality Assurance (QA) Standard Operating Procedure (SOP) serves as the definitive framework for ensuring that all products and services delivered by the organization consistently meet established safety, performance, and excellence standards. By standardizing our inspection and verification processes, we aim to minimize defects, reduce operational waste, and ensure 100% compliance with client specifications and regulatory requirements. This document applies to all department heads, quality control inspectors, and operational staff involved in the production and delivery cycle.

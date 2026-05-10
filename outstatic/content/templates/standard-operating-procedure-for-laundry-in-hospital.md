@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Laundry In Hospital
+publishedAt: '2026-05-10T18:48:01.848Z'
+---
 # Standard Operating Procedure: Hospital Laundry Management
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the collection, handling, processing, and distribution of hospital linens. Given the high-risk nature of clinical environments, this SOP is designed to prevent cross-contamination, ensure the eradication of pathogens through thermal and chemical disinfection, and maintain the highest standards of hygiene for patient safety and infection control.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist For Supervisors
+publishedAt: '2026-05-10T18:48:00.981Z'
+---
 # Standard Operating Procedure: Supervisor Onboarding Protocol
 
 This Standard Operating Procedure (SOP) outlines the mandatory onboarding process for newly promoted or hired supervisors. The objective of this protocol is to ensure that supervisors are integrated into the organizational culture, possess a deep understanding of operational workflows, and are equipped with the leadership tools necessary to manage their teams effectively from day one. Adherence to this checklist ensures consistency, reduces administrative friction, and accelerates the time-to-productivity for personnel in management roles.

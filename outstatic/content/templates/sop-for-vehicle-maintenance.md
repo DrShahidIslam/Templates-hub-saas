@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Vehicle Maintenance
+publishedAt: '2026-05-10T18:48:01.514Z'
+---
 # Standard Operating Procedure: Fleet Vehicle Maintenance
 
 This Standard Operating Procedure (SOP) establishes the systematic protocol for the inspection, servicing, and preventative maintenance of all company-owned vehicles. The objective is to ensure maximum fleet uptime, operator safety, and compliance with manufacturer specifications and regulatory standards. Adherence to this procedure is mandatory for all fleet managers, drivers, and maintenance technicians to mitigate the risk of mechanical failure and prolong the operational lifespan of company assets.

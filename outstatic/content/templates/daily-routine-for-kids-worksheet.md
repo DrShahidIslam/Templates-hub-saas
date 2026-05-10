@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Kids Worksheet
+publishedAt: '2026-05-10T18:48:00.709Z'
+---
 # Standard Operating Procedure: Daily Routine Management System
 
 This SOP outlines the standardized process for implementing and maintaining a structured daily routine for children using a visual worksheet system. The objective of this protocol is to foster child independence, reduce executive function load, and provide predictable structure to the household environment. By following this systematic approach, parents and caregivers can ensure consistent expectations and minimize daily friction regarding task completion.

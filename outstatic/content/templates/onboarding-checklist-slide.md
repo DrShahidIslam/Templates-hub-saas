@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Slide
+publishedAt: '2026-05-10T18:48:01.005Z'
+---
 # Standard Operating Procedure: Employee Onboarding Presentation Slide Deck
 
 This document serves as the formal SOP for creating, maintaining, and delivering an effective "New Hire Onboarding" slide deck. The objective of this presentation is to provide new team members with a standardized, professional, and engaging introduction to the company culture, operational expectations, and essential internal resources. Consistency in this delivery ensures that every employee—regardless of department—starts their journey with the same foundational knowledge and organizational context.

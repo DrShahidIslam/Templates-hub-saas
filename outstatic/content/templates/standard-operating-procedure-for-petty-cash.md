@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Petty Cash
+publishedAt: '2026-05-10T18:48:01.885Z'
+---
 # Standard Operating Procedure: Petty Cash Management
 
 This Standard Operating Procedure (SOP) establishes the formal guidelines for the administration, utilization, and reconciliation of petty cash funds. The purpose of this document is to ensure fiscal accountability, prevent misappropriation, and maintain accurate financial records for small-value operational expenses. Adherence to these procedures is mandatory for all employees authorized to handle or request petty cash.

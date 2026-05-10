@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Safety Training
+publishedAt: '2026-05-10T18:48:01.615Z'
+---
 # Standard Operating Procedure: Employee Safety Training
 
 This Standard Operating Procedure (SOP) establishes the formal framework for delivering, tracking, and verifying safety training across the organization. The primary objective is to ensure that every employee, regardless of role, possesses the knowledge and competence required to mitigate workplace hazards, comply with regulatory requirements (such as OSHA or equivalent local bodies), and maintain a culture of proactive risk management. Adherence to this SOP is mandatory for all department heads and safety officers.

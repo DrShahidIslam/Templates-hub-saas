@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Food Truck
+publishedAt: '2026-05-10T18:48:01.774Z'
+---
 # Standard Operating Procedure: Food Truck Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the daily operation, maintenance, and safety of our mobile food service unit. Adherence to these procedures ensures consistent food quality, operational efficiency, and full compliance with local health department regulations. Every team member is responsible for maintaining these standards to guarantee the safety of our customers and the longevity of our equipment.

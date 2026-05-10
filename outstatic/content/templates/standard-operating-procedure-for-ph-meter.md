@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Ph Meter
+publishedAt: '2026-05-10T18:48:01.886Z'
+---
 # Standard Operating Procedure: pH Meter Calibration and Operation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the preparation, calibration, and operation of laboratory pH meters. Precise pH measurement is critical for analytical accuracy, experimental reproducibility, and regulatory compliance. Adherence to these steps ensures electrode longevity, minimizes measurement drift, and maintains the integrity of chemical samples. All personnel must complete this training before operating pH equipment.

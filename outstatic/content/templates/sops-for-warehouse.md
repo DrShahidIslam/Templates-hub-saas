@@ -1,3 +1,8 @@
+---
+status: published
+title: Sops For Warehouse
+publishedAt: '2026-05-10T18:48:01.636Z'
+---
 # Standard Operating Procedure: Warehouse Operational Excellence
 
 This Standard Operating Procedure (SOP) serves as the foundational framework for maintaining safety, inventory accuracy, and workflow efficiency within our warehouse facility. The primary objective of this document is to standardize daily operations, minimize shrinkage, optimize throughput, and ensure full compliance with Occupational Safety and Health Administration (OSHA) regulations. All personnel are required to adhere to these procedures to ensure a seamless supply chain lifecycle, from inbound receiving to final outbound dispatch.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Weighing Balance Calibration
+publishedAt: '2026-05-10T18:48:01.541Z'
+---
 # Standard Operating Procedure: Analytical Balance Calibration
 
 This Standard Operating Procedure (SOP) defines the systematic process for the calibration of laboratory analytical balances to ensure accuracy, precision, and compliance with Good Laboratory Practice (GLP) and ISO/IEC 17025 standards. Regular calibration is critical to minimize measurement uncertainty and ensure the integrity of experimental data. All personnel authorized to operate weighing equipment must adhere to these protocols to maintain instrument traceability and reliability.

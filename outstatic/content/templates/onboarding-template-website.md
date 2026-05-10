@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template Website
+publishedAt: '2026-05-10T18:48:01.069Z'
+---
 # Standard Operating Procedure: Website Template Onboarding
 
 This Standard Operating Procedure (SOP) outlines the standardized process for onboarding a new client or internal project team onto a website template. The objective is to ensure consistent deployment, technical optimization, and brand alignment, minimizing setup time while maximizing design integrity. Following this protocol ensures that all security, SEO, and functional requirements are met before a site goes live.

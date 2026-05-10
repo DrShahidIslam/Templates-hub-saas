@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Nab Company
+publishedAt: '2026-05-10T18:48:00.998Z'
+---
 # Standard Operating Procedure: New Account Broker (NAB) Employee Onboarding
 
 This Standard Operating Procedure (SOP) outlines the standardized process for onboarding new employees at NAB Company. The objective is to ensure a seamless transition for new hires, fostering high engagement, full system access, and rapid integration into the organizational culture. This SOP applies to all department managers and HR personnel tasked with welcoming new talent.

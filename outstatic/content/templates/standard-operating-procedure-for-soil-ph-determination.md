@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Soil Ph Determination
+publishedAt: '2026-05-10T18:48:01.942Z'
+---
 # Standard Operating Procedure: Soil pH Determination
 
 This Standard Operating Procedure (SOP) outlines the standardized methodology for determining the pH level of soil samples using the potentiometric method (pH meter). Accurate soil pH measurement is critical for assessing nutrient availability, microbial activity, and potential toxicity levels. This procedure is designed to ensure consistency, minimize operator error, and maintain high data integrity across laboratory analysis cycles.

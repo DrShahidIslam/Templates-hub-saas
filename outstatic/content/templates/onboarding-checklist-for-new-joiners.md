@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist For New Joiners
+publishedAt: '2026-05-10T18:48:00.973Z'
+---
 # Standard Operating Procedure: New Hire Onboarding
 
 ## Introduction

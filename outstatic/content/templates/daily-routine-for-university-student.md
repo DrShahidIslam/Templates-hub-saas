@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For University Student
+publishedAt: '2026-05-10T18:48:00.777Z'
+---
 # Standard Operating Procedure: University Student Daily Success Protocol
 
 ## 1. Introduction

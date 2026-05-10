@@ -1,3 +1,8 @@
+---
+status: published
+title: Maintenance Checklist For Machinery
+publishedAt: '2026-05-10T18:48:00.896Z'
+---
 # Standard Operating Procedure: Machinery Preventive Maintenance
 
 This Standard Operating Procedure (SOP) establishes a standardized framework for the scheduled inspection, cleaning, and upkeep of facility machinery. The primary objective of this protocol is to ensure operational continuity, extend asset lifecycle, and maintain strict compliance with occupational health and safety standards. All maintenance personnel must adhere to these steps to mitigate the risk of unplanned downtime and mechanical failure.

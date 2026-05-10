@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Change Control
+publishedAt: '2026-05-10T18:48:01.189Z'
+---
 # Standard Operating Procedure: Change Control Management
 
 This document establishes the formal framework for the evaluation, approval, and implementation of changes within our organizational infrastructure. The purpose of this Change Control SOP is to ensure that all modifications—whether technical, procedural, or organizational—are documented, risk-assessed, and executed with minimal disruption to business continuity. By standardizing this process, we mitigate the risk of unauthorized changes, ensure compliance with regulatory standards, and maintain the integrity of our operational environment.

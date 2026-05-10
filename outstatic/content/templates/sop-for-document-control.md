@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Document Control
+publishedAt: '2026-05-10T18:48:01.215Z'
+---
 # Standard Operating Procedure: Document Control Management
 
 This Document Control SOP defines the standardized process for the creation, review, approval, distribution, and archival of organizational documentation. The objective is to ensure that all personnel have access to the most current, accurate, and authorized versions of operational procedures, thereby minimizing risk, ensuring regulatory compliance, and maintaining organizational consistency. Adherence to this protocol is mandatory for all departments to prevent the use of obsolete or unapproved information.

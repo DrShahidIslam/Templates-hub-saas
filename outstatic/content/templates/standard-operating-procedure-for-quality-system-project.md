@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Quality System Project
+publishedAt: '2026-05-10T18:48:01.910Z'
+---
 # Standard Operating Procedure: Quality System Implementation Project
 
 ## Introduction

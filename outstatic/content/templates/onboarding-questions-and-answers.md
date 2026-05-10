@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Questions And Answers
+publishedAt: '2026-05-10T18:48:01.043Z'
+---
 # Standard Operating Procedure: Employee Onboarding Q&A Process
 
 This Standard Operating Procedure (SOP) outlines the standardized process for managing, documenting, and responding to onboarding questions from new hires. The objective is to ensure that all new team members receive consistent, accurate, and timely information while fostering an environment of psychological safety. By centralizing the Q&A process, we minimize operational friction, reduce administrative burden on managers, and accelerate the time-to-productivity for every new recruit.

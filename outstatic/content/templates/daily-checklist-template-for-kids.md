@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Checklist Template For Kids
+publishedAt: '2026-05-10T18:48:00.601Z'
+---
 # Standard Operating Procedure: Daily Routine Management (Youth Development)
 
 ## Purpose and Scope

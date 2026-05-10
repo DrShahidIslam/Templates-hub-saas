@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Checklist It
+publishedAt: '2026-05-10T18:48:00.590Z'
+---
 # Standard Operating Procedure: Daily IT Infrastructure Maintenance
 
 This Standard Operating Procedure (SOP) serves as the daily operational blueprint for IT departments to ensure optimal infrastructure health, data integrity, and security posture. By performing these systematic checks, the IT team minimizes downtime, prevents critical service failures, and ensures that all mission-critical systems remain available for organizational operations. Adherence to this checklist is mandatory for all system administrators and IT support staff to maintain a standardized environment.

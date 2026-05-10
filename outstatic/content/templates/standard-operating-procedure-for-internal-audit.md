@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Internal Audit
+publishedAt: '2026-05-10T18:48:01.829Z'
+---
 # Standard Operating Procedure: Internal Audit Execution
 
 The purpose of this Internal Audit SOP is to provide a standardized, transparent, and rigorous framework for evaluating the effectiveness of internal controls, risk management, and governance processes within the organization. By adhering to this procedure, the Internal Audit team ensures that findings are data-driven, objective, and actionable, thereby facilitating continuous operational improvement and ensuring institutional compliance with regulatory and internal standards.

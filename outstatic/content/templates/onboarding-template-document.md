@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template Document
+publishedAt: '2026-05-10T18:48:01.047Z'
+---
 # Standard Operating Procedure: New Hire Onboarding Template Documentation
 
 This Standard Operating Procedure (SOP) outlines the mandatory process for creating, updating, and deploying the New Hire Onboarding Template. The goal of this document is to ensure a standardized, consistent, and professional experience for all incoming employees, reducing administrative friction and accelerating "time-to-productivity." This protocol must be followed by HR leads and department managers to maintain organizational compliance and cultural alignment.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Microsoft
+publishedAt: '2026-05-10T18:48:00.997Z'
+---
 # Standard Operating Procedure: Microsoft 365 Employee Onboarding
 
 This Standard Operating Procedure (SOP) outlines the mandatory technical and administrative workflow for onboarding a new employee into the Microsoft 365 (M365) ecosystem. Effective onboarding is critical to maintaining organizational security, ensuring immediate productivity, and providing a seamless "Day One" experience. Following this standardized process mitigates risk, prevents configuration drift, and ensures compliance with company data governance policies.

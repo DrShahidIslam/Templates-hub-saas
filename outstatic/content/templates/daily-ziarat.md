@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Ziarat
+publishedAt: '2026-05-10T18:48:00.849Z'
+---
 # Standard Operating Procedure: Daily Ziarat Management
 
 The daily Ziarat (visitation) process is a sacred and logistical undertaking that requires a blend of spiritual reverence and operational precision. This SOP is designed to ensure that visitors experience a seamless, respectful, and organized environment while maintaining the sanctity of the site. By standardizing the workflow from pre-opening preparations to post-visit sanitization, we ensure consistent quality of service and preserve the physical integrity of the historical site.

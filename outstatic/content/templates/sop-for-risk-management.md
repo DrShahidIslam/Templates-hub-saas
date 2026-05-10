@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Risk Management
+publishedAt: '2026-05-10T18:48:01.450Z'
+---
 # Standard Operating Procedure: Organizational Risk Management
 
 ## Introduction

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Triage
+publishedAt: '2026-05-10T18:48:01.963Z'
+---
 # Standard Operating Procedure: Clinical Triage Operations
 
 This Standard Operating Procedure (SOP) outlines the standardized framework for the clinical triage process. The objective is to ensure that every patient is assessed efficiently, accurately, and safely, prioritizing care based on clinical urgency rather than the order of arrival. Adherence to this protocol minimizes risk, optimizes resource allocation, and ensures regulatory compliance in high-pressure environments.

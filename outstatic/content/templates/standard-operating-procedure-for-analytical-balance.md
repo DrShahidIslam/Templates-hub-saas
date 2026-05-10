@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Analytical Balance
+publishedAt: '2026-05-10T18:48:01.653Z'
+---
 # Standard Operating Procedure: Analytical Balance Operation
 
 ## Introduction

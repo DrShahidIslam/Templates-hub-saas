@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure Kkm
+publishedAt: '2026-05-10T18:48:02.015Z'
+---
 # Standard Operating Procedure: KKM (Kementerian Kesihatan Malaysia) Compliance and Regulatory Reporting
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for ensuring organizational compliance with the Ministry of Health Malaysia (KKM) standards. Adherence to these procedures is critical for maintaining licensure, ensuring product safety, and mitigating legal risks. All staff members involved in procurement, storage, distribution, and regulatory reporting are required to execute these steps with absolute precision to maintain alignment with current national health regulations.

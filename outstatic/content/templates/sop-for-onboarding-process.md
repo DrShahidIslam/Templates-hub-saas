@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Onboarding Process
+publishedAt: '2026-05-10T18:48:01.388Z'
+---
 # Standard Operating Procedure: New Hire Onboarding Process
 
 ## Introduction

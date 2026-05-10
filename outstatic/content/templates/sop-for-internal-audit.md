@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Internal Audit
+publishedAt: '2026-05-10T18:48:01.310Z'
+---
 # Standard Operating Procedure: Internal Audit Execution
 
 ## Overview

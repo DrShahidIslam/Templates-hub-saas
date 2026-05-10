@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine Letter For Class 5
+publishedAt: '2026-05-10T18:48:00.807Z'
+---
 # Standard Operating Procedure: Daily Routine Management (Class 5)
 
 This Standard Operating Procedure (SOP) is designed to provide a structured, efficient framework for the daily routine of a Class 5 student. At this developmental stage, students are transitioning toward greater academic independence. This document ensures that essential tasks—ranging from morning preparation to evening study habits—are completed consistently, fostering accountability, time management, and a balanced lifestyle.

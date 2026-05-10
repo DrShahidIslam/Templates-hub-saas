@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Oxygen Administration
+publishedAt: '2026-05-10T18:48:00.480Z'
+---
 # Standard Operating Procedure: Oxygen Administration
 
 This Standard Operating Procedure (SOP) outlines the clinical protocol for the safe and effective administration of supplemental oxygen to patients in respiratory distress or hypoxemic states. Adherence to these guidelines ensures patient safety, minimizes the risk of combustion, and maintains compliance with medical safety standards. All staff must confirm a physician’s order or follow established emergency clinical protocols prior to initiation.

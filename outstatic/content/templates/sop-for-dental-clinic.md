@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Dental Clinic
+publishedAt: '2026-05-10T18:48:01.203Z'
+---
 # Standard Operating Procedure: Dental Clinic Daily Operations
 
 This Standard Operating Procedure (SOP) serves as the operational framework for maintaining clinical excellence, patient safety, and administrative efficiency within the dental practice. Adherence to these protocols ensures compliance with health regulations, maximizes chair-side productivity, and guarantees a seamless patient experience from check-in to post-operative follow-up. All staff members are required to familiarize themselves with these procedures to maintain consistency in patient care and infection control standards.

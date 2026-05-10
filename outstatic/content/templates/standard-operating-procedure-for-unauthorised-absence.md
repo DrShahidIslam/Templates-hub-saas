@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Unauthorised Absence
+publishedAt: '2026-05-10T18:48:01.967Z'
+---
 # Standard Operating Procedure: Handling Unauthorised Absence
 
 This Standard Operating Procedure (SOP) outlines the formal process for identifying, documenting, and responding to instances of unauthorised absence (AWOL). The objective is to ensure consistent, fair, and compliant management of employee attendance while protecting operational continuity and mitigating legal risk. Adherence to this procedure is mandatory for all department managers and HR personnel to ensure due process is followed before any disciplinary action is initiated.

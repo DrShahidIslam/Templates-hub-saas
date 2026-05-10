@@ -1,3 +1,8 @@
+---
+status: published
+title: Inspection Checklist For First Aid Kit
+publishedAt: '2026-05-10T18:48:00.886Z'
+---
 # Standard Operating Procedure: First Aid Kit Inspection & Maintenance
 
 Effective management of first aid equipment is critical for workplace safety, regulatory compliance, and emergency preparedness. This SOP outlines the mandatory requirements for inspecting, restocking, and maintaining first aid kits to ensure all supplies remain sterile, functional, and within their expiration dates. By adhering to this protocol, the organization minimizes liability and ensures that responders have reliable tools during a medical emergency.

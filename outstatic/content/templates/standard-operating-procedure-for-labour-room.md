@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Labour Room
+publishedAt: '2026-05-10T18:48:01.847Z'
+---
 # Standard Operating Procedure: Labor and Delivery Unit Management
 
 This Standard Operating Procedure (SOP) outlines the clinical and administrative protocols for the Labor Room to ensure the highest standards of maternal and neonatal safety. The primary objective is to provide a standardized framework for patient admission, intrapartum monitoring, delivery procedures, and immediate postpartum care, thereby reducing clinical errors, optimizing resource allocation, and ensuring aseptic conditions. All personnel—including obstetricians, midwives, nurses, and support staff—are required to adhere to these guidelines to maintain clinical excellence and emergency preparedness.

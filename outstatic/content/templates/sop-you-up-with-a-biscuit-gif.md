@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop You Up With A Biscuit Gif
+publishedAt: '2026-05-10T18:48:01.625Z'
+---
 # Standard Operating Procedure: Execution and Integration of the "Sop You Up With a Biscuit" GIF
 
 This document outlines the professional standards and procedural requirements for the procurement, deployment, and utilization of the "Sop You Up With a Biscuit" GIF. This asset serves as a high-engagement, culturally resonant communication tool intended for use in informal professional correspondence, team-building channels, or lighthearted interpersonal feedback. Adherence to this SOP ensures brand alignment, contextual appropriateness, and optimal delivery of the GIF’s intended emotional resonance.

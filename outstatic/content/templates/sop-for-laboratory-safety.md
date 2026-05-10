@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Laboratory Safety
+publishedAt: '2026-05-10T18:48:01.342Z'
+---
 # Standard Operating Procedure: Laboratory Safety and Compliance
 
 This Standard Operating Procedure (SOP) establishes the mandatory safety protocols and operational standards required to maintain a secure, compliant, and efficient laboratory environment. Adherence to these guidelines is critical to minimizing occupational hazards, preventing chemical or biological exposure, and ensuring the integrity of research data. All laboratory personnel, visitors, and contractors must review this document and sign the acknowledgement form before entering any controlled laboratory zone.

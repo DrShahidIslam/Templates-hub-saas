@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Korea Student Visa
+publishedAt: '2026-05-10T18:48:01.338Z'
+---
 # Standard Operating Procedure: South Korea Student Visa (D-2) Application
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for successfully securing a D-2 Student Visa for South Korea. As an operations manager, I emphasize that the South Korean immigration process is strictly document-based; minor discrepancies in financial proof or academic verification are common causes for rejection. Adherence to this structured checklist is critical to ensuring compliance with the Ministry of Justice (MOJ) requirements and avoiding processing delays.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Interview
+publishedAt: '2026-05-10T18:48:01.313Z'
+---
 # Standard Operating Procedure: Candidate Interview Process
 
 The candidate interview process is a critical function in talent acquisition, serving as both a diagnostic tool for assessing competency and a branding exercise for the organization. This SOP outlines a standardized, bias-mitigated framework for conducting interviews to ensure that every candidate is evaluated consistently, professionally, and in alignment with organizational values. Adhering to this protocol minimizes hiring errors, ensures legal compliance, and provides an exceptional candidate experience.

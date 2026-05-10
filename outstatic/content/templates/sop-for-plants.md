@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Plants
+publishedAt: '2026-05-10T18:48:01.411Z'
+---
 # Standard Operating Procedure: Botanical Care and Maintenance
 
 This Standard Operating Procedure (SOP) outlines the mandatory guidelines for the care, maintenance, and health monitoring of indoor and greenhouse plant collections. The objective of this protocol is to ensure optimal growth, aesthetic presentation, and long-term viability of all plant assets. Adherence to these procedures is required to mitigate risks of pest infestation, root decay, and environmental stress.

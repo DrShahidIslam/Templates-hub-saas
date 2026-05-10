@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Kitchen Operation
+publishedAt: '2026-05-10T18:48:01.336Z'
+---
 # Standard Operating Procedure: Professional Kitchen Operations
 
 ## Introduction

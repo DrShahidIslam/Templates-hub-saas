@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Year
+publishedAt: '2026-05-10T18:48:00.546Z'
+---
 # Standard Operating Procedure: Annual Operational Review and Planning
 
 This Standard Operating Procedure (SOP) outlines the comprehensive requirements for conducting a successful year-end operational audit and subsequent planning for the upcoming fiscal year. The objective of this process is to assess organizational performance against established Key Performance Indicators (KPIs), reconcile financial and administrative accounts, and strategically align resources for long-term growth. Adherence to this checklist ensures operational continuity, regulatory compliance, and a proactive posture for the year ahead.

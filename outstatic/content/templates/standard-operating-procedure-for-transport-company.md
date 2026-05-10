@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Transport Company
+publishedAt: '2026-05-10T18:48:01.959Z'
+---
 # Standard Operating Procedure: Transport & Logistics Operations
 
 ## Introduction

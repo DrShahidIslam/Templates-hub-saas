@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Community Pharmacy Pdf
+publishedAt: '2026-05-10T18:48:01.686Z'
+---
 # Standard Operating Procedure: Document Management for Community Pharmacy
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the creation, maintenance, version control, and accessibility of pharmacy documentation. Maintaining a standardized system for SOPs is critical for ensuring regulatory compliance (GPhC/State Board), patient safety, and operational efficiency. All pharmacy staff must adhere to these guidelines to ensure that institutional knowledge is preserved and that every team member follows uniform practices in medication dispensing, clinical services, and administrative tasks.

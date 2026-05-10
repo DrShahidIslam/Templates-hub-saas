@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Viscometer
+publishedAt: '2026-05-10T18:48:01.521Z'
+---
 # Standard Operating Procedure: Operation and Maintenance of the Viscometer
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the safe and accurate operation of the viscometer. Consistent adherence to these procedures ensures precision in fluid viscosity measurements, preserves the integrity of the instrument, and maintains laboratory safety standards. All personnel operating this equipment must be trained and familiar with the specific calibration requirements and chemical compatibility of the samples tested.

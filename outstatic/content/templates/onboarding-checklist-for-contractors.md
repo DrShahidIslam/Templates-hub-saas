@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist For Contractors
+publishedAt: '2026-05-10T18:48:00.956Z'
+---
 # Standard Operating Procedure: Contractor Onboarding
 
 Effective contractor onboarding is essential to ensuring organizational security, legal compliance, and immediate productivity. This SOP outlines the standardized process for integrating external talent into your team, ensuring that all contractual, technical, and cultural requirements are met before the project start date. By following this protocol, managers minimize operational friction and ensure contractors are fully equipped to deliver results from Day 1.

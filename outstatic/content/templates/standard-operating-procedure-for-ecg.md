@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Ecg
+publishedAt: '2026-05-10T18:48:01.716Z'
+---
 Standard Operating Procedure: 12-Lead Electrocardiogram (ECG) Acquisition
 
 This Standard Operating Procedure (SOP) outlines the clinical requirements for performing a 12-lead ECG. The objective is to ensure high-quality signal acquisition, minimize artifact interference, and maintain patient safety and comfort. Adherence to this protocol is critical for the accurate diagnostic interpretation of cardiac electrical activity and the prevention of clinical misdiagnosis.

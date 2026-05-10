@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Company
+publishedAt: '2026-05-10T18:48:01.196Z'
+---
 # Standard Operating Procedure: Establishing and Maintaining Corporate SOPs
 
 This document serves as the master framework for developing, implementing, and auditing Standard Operating Procedures (SOPs) within the organization. A robust SOP library ensures operational consistency, reduces human error, facilitates seamless onboarding, and maintains regulatory compliance. By standardizing our internal processes, we transition from reactive firefighting to proactive, scalable growth.

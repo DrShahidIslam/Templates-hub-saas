@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboard Documents Pia
+publishedAt: '2026-05-10T18:48:00.929Z'
+---
 # Standard Operating Procedure: Document Onboarding for Personal Identification Authentication (PIA)
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the collection, verification, and secure storage of Personal Identification Authentication (PIA) documents during the onboarding phase. Adherence to these guidelines ensures organizational compliance with data privacy regulations (such as GDPR, CCPA, or local equivalents), minimizes identity fraud risks, and establishes a robust audit trail for all new entity or personnel registrations.

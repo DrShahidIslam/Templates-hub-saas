@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Dob Update
+publishedAt: '2026-05-10T18:48:01.213Z'
+---
 # Standard Operating Procedure: Date of Birth (DOB) Update Protocol
 
 This Standard Operating Procedure (SOP) outlines the mandatory verification and documentation process for updating a user’s Date of Birth (DOB) within our organizational database. Accuracy in DOB recording is critical for regulatory compliance, data integrity, and cross-departmental record synchronization. All personnel responsible for administrative account management must adhere strictly to these steps to mitigate the risk of identity fraud and ensure data auditability.

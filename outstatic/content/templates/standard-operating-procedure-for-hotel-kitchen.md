@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Hotel Kitchen
+publishedAt: '2026-05-10T18:48:01.813Z'
+---
 # Standard Operating Procedure: Hotel Kitchen Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for hotel kitchen staff to ensure food safety, operational efficiency, and consistent quality of service. Adherence to these guidelines is critical to maintaining health department compliance, minimizing food waste, and delivering a superior guest experience. All kitchen personnel, from executive chefs to stewards, are responsible for upholding these standards during every shift.

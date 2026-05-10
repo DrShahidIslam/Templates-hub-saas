@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure Of Pnp
+publishedAt: '2026-05-10T18:48:02.021Z'
+---
 # Standard Operating Procedure (SOP): Pick and Place (PnP) Operations
 
 This Standard Operating Procedure defines the systematic process for operating automated Pick and Place (PnP) machinery during printed circuit board (PCB) assembly. The objective of this SOP is to ensure high-precision component placement, minimize downtime, and maintain rigorous quality control standards. Adherence to these protocols is mandatory for all machine operators and production technicians to prevent equipment damage, reduce rework, and ensure optimal throughput.

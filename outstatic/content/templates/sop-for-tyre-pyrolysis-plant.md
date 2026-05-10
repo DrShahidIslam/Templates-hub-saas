@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Tyre Pyrolysis Plant
+publishedAt: '2026-05-10T18:48:01.493Z'
+---
 # Standard Operating Procedure: Tyre Pyrolysis Plant Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory operational and safety protocols for the thermal degradation of waste tyres via pyrolysis. The objective is to ensure optimal conversion efficiency of tyre feedstock into pyrolysis oil, carbon black, steel wire, and syngas while maintaining the highest safety standards to mitigate fire, explosion, and emission risks. Adherence to this document is compulsory for all plant operators and maintenance personnel to ensure regulatory compliance and operational longevity.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Safety Sop Sample
+publishedAt: '2026-05-10T18:48:01.114Z'
+---
 # Standard Operating Procedure: General Workplace Safety Compliance
 
 ## Introduction

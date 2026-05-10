@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Hbl
+publishedAt: '2026-05-10T18:48:01.042Z'
+---
 # Standard Operating Procedure: House Bill of Lading (HBL) Onboarding
 
 The House Bill of Lading (HBL) onboarding process is a critical function in logistics operations, serving as the formal transition point where a freight forwarder or NVOCC assumes contractual responsibility for the carriage of goods. This SOP is designed to ensure accuracy in documentation, compliance with international trade regulations, and seamless integration of carrier and shipper data into our Transport Management System (TMS). Adherence to this protocol minimizes liability, prevents customs clearance delays, and ensures professional alignment between the agent, carrier, and ultimate consignee.

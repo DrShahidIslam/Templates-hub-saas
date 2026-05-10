@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist For Hiring Managers
+publishedAt: '2026-05-10T18:48:00.959Z'
+---
 # Standard Operating Procedure: New Hire Onboarding for Hiring Managers
 
 Effective onboarding is the cornerstone of employee retention, engagement, and long-term productivity. This Standard Operating Procedure (SOP) is designed to provide hiring managers with a structured, repeatable framework to transition new hires from "signed offer" to "fully integrated team member." By following this process, managers ensure that logistical hurdles are cleared before day one and that the new employee feels welcomed, informed, and equipped to contribute to the organization immediately.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Dob
+publishedAt: '2026-05-10T18:48:01.214Z'
+---
 # Standard Operating Procedure: Date of Birth (DOB) Verification and Documentation
 
 This Standard Operating Procedure (SOP) outlines the rigorous process for verifying, recording, and updating an individual’s Date of Birth (DOB) within our organizational systems. Accurate DOB tracking is critical for compliance with data privacy regulations, age-restricted service delivery, identity verification, and maintaining the integrity of our master data records. All personnel handling sensitive personal information must adhere to these guidelines to ensure data accuracy and security.

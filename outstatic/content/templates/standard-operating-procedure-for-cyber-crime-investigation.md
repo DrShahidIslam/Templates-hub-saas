@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Cyber Crime Investigation
+publishedAt: '2026-05-10T18:48:01.690Z'
+---
 # Standard Operating Procedure: Cyber Crime Investigation
 
 This Standard Operating Procedure (SOP) outlines the professional, forensically sound methodology required to investigate cyber-related incidents. The objective is to identify the scope of the breach, preserve volatile and non-volatile evidence, and maintain a verifiable chain of custody to ensure that findings are admissible in legal proceedings. This document serves as the primary protocol for security analysts and forensic investigators operating within a structured corporate or law enforcement environment.

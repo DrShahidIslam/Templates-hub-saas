@@ -1,3 +1,8 @@
+---
+status: published
+title: Inspection Checklist For Buying An Apartment
+publishedAt: '2026-05-10T18:48:00.879Z'
+---
 # Standard Operating Procedure: Apartment Inspection & Procurement
 
 As an operations manager, I define a successful property acquisition as one governed by rigorous due diligence and objective data collection. Buying an apartment is often the largest financial transaction an individual will undertake; therefore, emotional decision-making must be mitigated by a systematic, technical inspection process. This SOP provides a comprehensive framework to identify structural deficiencies, operational liabilities, and potential cost centers before committing to a purchase agreement.

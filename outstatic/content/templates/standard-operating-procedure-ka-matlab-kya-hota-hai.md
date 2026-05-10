@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure Ka Matlab Kya Hota Hai
+publishedAt: '2026-05-10T18:48:02.012Z'
+---
 # SOP: Standard Operating Procedure (SOP) Definition and Implementation Process
 
 ### Introduction

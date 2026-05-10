@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Air Handling Unit
+publishedAt: '2026-05-10T18:48:01.651Z'
+---
 # Standard Operating Procedure: Air Handling Unit (AHU) Maintenance and Operation
 
 This document establishes the mandatory operational and maintenance procedures for the facility's Air Handling Units (AHUs). Adherence to these protocols ensures optimal indoor air quality, maximizes energy efficiency, maintains equipment longevity, and ensures safety for all technical personnel. This SOP applies to all mechanical maintenance staff and HVAC contractors responsible for the facility’s climate control infrastructure.

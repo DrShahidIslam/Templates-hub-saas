@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist For New Employees
+publishedAt: '2026-05-10T18:48:00.968Z'
+---
 # Standard Operating Procedure: New Employee Onboarding
 
 ## Introduction

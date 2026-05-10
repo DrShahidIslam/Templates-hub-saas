@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Safety Riding
+publishedAt: '2026-05-10T18:48:01.610Z'
+---
 # Standard Operating Procedure: Safety Riding Protocols
 
 This Standard Operating Procedure (SOP) establishes the mandatory safety requirements and behavioral expectations for all personnel operating motorcycles for professional or commuting purposes. The objective of this protocol is to mitigate risk, ensure rider readiness, and maintain organizational compliance with road safety regulations. Adherence to these guidelines is non-negotiable, as safety remains our primary operational priority.

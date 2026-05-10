@@ -1,3 +1,8 @@
+---
+status: published
+title: Safety Policy In Aviation
+publishedAt: '2026-05-10T18:48:01.094Z'
+---
 # Standard Operating Procedure: Aviation Safety Management System (SMS)
 
 ## Introduction

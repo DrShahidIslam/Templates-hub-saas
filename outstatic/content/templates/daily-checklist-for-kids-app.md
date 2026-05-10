@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Checklist For Kids App
+publishedAt: '2026-05-10T18:48:00.573Z'
+---
 # Standard Operating Procedure: Daily Content and Performance Monitoring for Kids App
 
 This SOP defines the standardized daily workflow for ensuring the integrity, safety, and operational health of our kids' application. Given the sensitive nature of user data and the strict compliance requirements for COPPA (Children's Online Privacy Protection Act) and GDPR-K, this protocol ensures that all digital assets, engagement features, and safety guardrails are functioning optimally. Operations managers and community moderators must adhere to these steps to maintain a secure and engaging environment for our young users.

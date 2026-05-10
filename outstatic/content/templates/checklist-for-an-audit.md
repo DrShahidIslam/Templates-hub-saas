@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For An Audit
+publishedAt: '2026-05-10T18:48:00.388Z'
+---
 # Standard Operating Procedure: Internal Audit Preparation and Execution
 
 This document outlines the professional requirements for conducting a comprehensive operational audit. An audit is a critical diagnostic tool used to ensure organizational compliance, identify operational inefficiencies, and mitigate systemic risks. Following this SOP ensures that the audit process is systematic, transparent, and produces actionable data for senior leadership. Adherence to this procedure is mandatory for all department heads and internal audit personnel.

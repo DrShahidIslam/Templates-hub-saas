@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Temperature Mapping
+publishedAt: '2026-05-10T18:48:01.485Z'
+---
 # Standard Operating Procedure: Temperature Mapping for Controlled Storage Environments
 
 ## 1. Introduction

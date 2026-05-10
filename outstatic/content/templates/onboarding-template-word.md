@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template Word
+publishedAt: '2026-05-10T18:48:01.071Z'
+---
 # Standard Operating Procedure: Employee Onboarding Template Management
 
 This Standard Operating Procedure (SOP) outlines the standardized process for creating, managing, and distributing the Microsoft Word-based Employee Onboarding Template. As an Operations Manager, your goal is to ensure that all new hires receive a consistent, professional, and comprehensive welcome package. This SOP ensures that documentation remains version-controlled, error-free, and aligned with current company policies, minimizing administrative friction during the transition period.

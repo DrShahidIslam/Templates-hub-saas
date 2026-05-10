@@ -1,3 +1,8 @@
+---
+status: published
+title: Safety Sop List
+publishedAt: '2026-05-10T18:48:01.109Z'
+---
 # Standard Operating Procedure: Safety Management and Compliance
 
 This Standard Operating Procedure (SOP) outlines the mandatory framework for establishing, maintaining, and auditing safety protocols within the organization. The primary objective is to cultivate a proactive safety culture, minimize workplace hazards, and ensure full compliance with Occupational Safety and Health Administration (OSHA) and internal regulatory standards. All employees and management are required to adhere to these procedures to maintain a secure and incident-free operational environment.

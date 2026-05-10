@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Face Cleansing
+publishedAt: '2026-05-10T18:48:00.665Z'
+---
 # Standard Operating Procedure: Daily Facial Cleansing Routine
 
 ## Overview

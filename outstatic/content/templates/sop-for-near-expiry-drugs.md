@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Near Expiry Drugs
+publishedAt: '2026-05-10T18:48:01.372Z'
+---
 # Standard Operating Procedure: Near-Expiry Drug Management
 
 This Standard Operating Procedure (SOP) establishes a rigorous framework for identifying, documenting, and managing pharmaceutical inventory approaching its expiration date. Effective management of near-expiry stock is critical to ensuring patient safety, maintaining regulatory compliance, and minimizing financial loss due to product wastage. This protocol applies to all pharmacy staff, inventory managers, and logistics personnel responsible for the receipt, storage, and distribution of medications.

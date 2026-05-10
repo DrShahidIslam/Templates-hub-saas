@@ -1,3 +1,8 @@
+---
+status: published
+title: Security Sop For Corporate Office
+publishedAt: '2026-05-10T18:48:01.129Z'
+---
 # Standard Operating Procedure: Corporate Office Security
 
 This Standard Operating Procedure (SOP) establishes the mandatory security protocols for our corporate office environment. The primary objective of this document is to safeguard company assets, protect intellectual property, and ensure the physical safety of all employees, contractors, and visitors. All personnel are expected to adhere strictly to these guidelines to maintain a secure, professional, and compliant workplace. Failure to follow these procedures compromises the integrity of our operational environment.

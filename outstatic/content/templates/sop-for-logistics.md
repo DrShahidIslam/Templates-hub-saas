@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Logistics
+publishedAt: '2026-05-10T18:48:01.355Z'
+---
 # Standard Operating Procedure: Logistics and Supply Chain Execution
 
 This Standard Operating Procedure (SOP) outlines the comprehensive lifecycle of logistics operations, from initial procurement and inbound receiving to final outbound distribution. The objective of this document is to ensure operational efficiency, minimize transit delays, maintain inventory accuracy, and optimize cost-to-serve ratios. By following this standardized workflow, the logistics department will achieve consistency across all touchpoints, reduce human error, and enhance client satisfaction through reliable fulfillment timelines.

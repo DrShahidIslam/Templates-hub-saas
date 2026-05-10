@@ -1,3 +1,8 @@
+---
+status: published
+title: New Hire Checklist Royal Caribbean
+publishedAt: '2026-05-10T18:48:00.920Z'
+---
 # Standard Operating Procedure: New Hire Onboarding – Royal Caribbean Group
 
 This Standard Operating Procedure (SOP) outlines the mandatory onboarding workflow for new employees joining the Royal Caribbean Group. As a global leader in the cruise industry, our onboarding process is designed to ensure seamless integration into our safety-first culture, operational excellence standards, and hospitality-focused service model. Whether joining shipboard or shoreside teams, this checklist ensures that every new hire is fully equipped, compliant, and culturally aligned from day one.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure Jollibee
+publishedAt: '2026-05-10T18:48:02.009Z'
+---
 # Standard Operating Procedure: Jollibee Store Operations Excellence
 
 This Standard Operating Procedure (SOP) outlines the mandatory guidelines for maintaining the gold standard of Jollibee’s "Joy of Eating" experience. This document serves as a blueprint for store managers and crew members to ensure consistency, food safety, and operational efficiency across all service touchpoints. Adherence to these protocols is non-negotiable to uphold the brand's reputation for quality, service, and cleanliness (QSC).

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Genexpert
+publishedAt: '2026-05-10T18:48:01.792Z'
+---
 # Standard Operating Procedure: GeneXpert Diagnostic Testing
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the operation of the GeneXpert System for molecular diagnostic testing. Adherence to these procedures is critical to ensure operator safety, maintain sample integrity, and guarantee the accuracy of results. This document is intended for trained laboratory personnel responsible for the processing of clinical specimens using GeneXpert technology.

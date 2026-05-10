@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Biomedical Engineering Department
+publishedAt: '2026-05-10T18:48:01.662Z'
+---
 # Standard Operating Procedure: Biomedical Engineering Department Management
 
 The Biomedical Engineering (BME) Department serves as the critical backbone of healthcare facility operations, ensuring that all medical technology remains safe, functional, and compliant with regulatory standards. This SOP establishes a standardized framework for the lifecycle management of medical devices, including procurement, preventative maintenance, corrective repairs, and decommissioning. The objective is to maximize equipment uptime, minimize clinical risk, and maintain strict adherence to The Joint Commission (TJC), NFPA, and FDA regulatory mandates.

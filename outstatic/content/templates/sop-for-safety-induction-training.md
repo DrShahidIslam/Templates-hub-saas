@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Safety Induction Training
+publishedAt: '2026-05-10T18:48:01.463Z'
+---
 # Standard Operating Procedure: Safety Induction Training
 
 This Standard Operating Procedure (SOP) outlines the mandatory requirements for conducting safety induction training for all new employees, contractors, and site visitors. The objective of this training is to ensure that all individuals entering the premises are fully cognizant of site-specific hazards, emergency procedures, and regulatory requirements. Failure to adhere to these protocols compromises the integrity of our safety culture and increases organizational liability. All personnel must complete this induction prior to commencing work or accessing restricted operational areas.

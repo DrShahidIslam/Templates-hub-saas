@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Qms
+publishedAt: '2026-05-10T18:48:01.420Z'
+---
 # Standard Operating Procedure: Quality Management System (QMS) Implementation and Maintenance
 
 This Standard Operating Procedure (SOP) outlines the requirements, responsibilities, and systematic processes necessary to establish, maintain, and continually improve a robust Quality Management System (QMS). A well-implemented QMS ensures that products and services consistently meet customer requirements, satisfy regulatory standards, and drive operational excellence through process optimization and risk-based thinking.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist For New Clients
+publishedAt: '2026-05-10T18:48:00.965Z'
+---
 # Standard Operating Procedure: New Client Onboarding
 
 The onboarding process is the most critical phase in the client lifecycle, setting the tone for the long-term professional relationship. This SOP is designed to ensure a seamless transition from the sales pipeline to active service delivery, minimizing friction, reducing time-to-value, and establishing clear expectations. By standardizing this process, we guarantee that no technical or administrative detail is overlooked, thereby increasing client retention and satisfaction from day one.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Of Nadra
+publishedAt: '2026-05-10T18:48:01.588Z'
+---
 # Standard Operating Procedure: NADRA Identity Management and Documentation
 
 This Standard Operating Procedure (SOP) outlines the professional protocol for managing National Database and Registration Authority (NADRA) identity operations, including the application, processing, and verification of CNIC (Computerized National Identity Card), NICOP, and FRC (Family Registration Certificate) documents. As an operations manager, the goal is to ensure high data integrity, minimize processing time, and maintain strict adherence to governmental identity verification standards to prevent fraud and administrative backlog.

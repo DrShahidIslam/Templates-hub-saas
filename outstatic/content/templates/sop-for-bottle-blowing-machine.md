@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Bottle Blowing Machine
+publishedAt: '2026-05-10T18:48:01.180Z'
+---
 # Standard Operating Procedure: PET Bottle Blowing Machine Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety, preparation, and operational protocols for the semi-automatic or automatic PET bottle blowing process. Adherence to these guidelines ensures optimal machine performance, consistent bottle quality, and the prevention of workplace accidents. This document is intended for trained operators only; any deviation must be authorized by the shift supervisor.

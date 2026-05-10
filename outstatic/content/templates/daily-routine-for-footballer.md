@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Footballer
+publishedAt: '2026-05-10T18:48:00.676Z'
+---
 # Standard Operating Procedure: Professional Footballer Daily Routine
 
 This Standard Operating Procedure (SOP) outlines the optimal daily structure for a professional footballer. Maintaining a rigorous, high-performance routine is critical for physical recovery, cognitive sharpness, and long-term durability. This protocol is designed to ensure every hour is leveraged to maximize athletic output while minimizing injury risk. Adherence to this structured approach provides the consistency necessary to compete at an elite level.

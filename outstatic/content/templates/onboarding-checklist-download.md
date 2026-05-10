@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Download
+publishedAt: '2026-05-10T18:48:00.945Z'
+---
 # Standard Operating Procedure: Employee Onboarding Documentation & Checklist Distribution
 
 ## Introduction

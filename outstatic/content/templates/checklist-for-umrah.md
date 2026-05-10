@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Umrah
+publishedAt: '2026-05-10T18:48:00.528Z'
+---
 # Standard Operating Procedure: Umrah Preparation and Execution
 
 This Standard Operating Procedure (SOP) outlines the professional requirements for organizing and executing a pilgrimage to Makkah. Effective preparation for Umrah requires a systematic approach to logistical documentation, spiritual readiness, and physical endurance. By following this structured checklist, pilgrims can minimize environmental stressors and focus on the primary objective of their journey: spiritual devotion and the performance of rites according to the Sunnah.

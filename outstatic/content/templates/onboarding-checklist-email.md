@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Email
+publishedAt: '2026-05-10T18:48:00.946Z'
+---
 # Standard Operating Procedure: New Hire Onboarding Email
 
 This SOP defines the standardized process for drafting and distributing the New Hire Onboarding Email. The goal of this communication is to minimize first-day anxiety, ensure the new hire feels welcomed, and provide all necessary administrative and logistical information required for a seamless transition into the company. This email serves as the official "digital handshake" prior to the employee’s start date.

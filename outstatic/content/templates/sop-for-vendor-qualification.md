@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Vendor Qualification
+publishedAt: '2026-05-10T18:48:01.515Z'
+---
 # Standard Operating Procedure: Vendor Qualification and Onboarding
 
 This Standard Operating Procedure (SOP) establishes the mandatory framework for vetting, evaluating, and approving new vendors to ensure they meet our organization’s quality, safety, ethical, and financial standards. The objective of this process is to mitigate operational risk, ensure supply chain stability, and maintain compliance with regulatory requirements. All department heads and procurement officers are responsible for strictly adhering to these protocols before any purchase orders or contracts are executed.

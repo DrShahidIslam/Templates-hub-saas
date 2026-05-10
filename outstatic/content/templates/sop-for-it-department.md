@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For It Department
+publishedAt: '2026-05-10T18:48:01.315Z'
+---
 # Standard Operating Procedure: IT Department Operations
 
 This Standard Operating Procedure (SOP) serves as the foundational framework for the Information Technology Department. Its purpose is to ensure the stable, secure, and efficient delivery of technical services, maintain infrastructure integrity, and provide consistent support to organizational stakeholders. By adhering to these standardized workflows, the IT department minimizes downtime, mitigates cybersecurity risks, and facilitates scalable growth across all business units.

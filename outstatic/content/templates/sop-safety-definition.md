@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Safety Definition
+publishedAt: '2026-05-10T18:48:01.594Z'
+---
 # Standard Operating Procedure: Organizational Safety Definition
 
 ## Introduction

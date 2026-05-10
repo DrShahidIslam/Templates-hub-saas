@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine Letter For Class 4
+publishedAt: '2026-05-10T18:48:00.806Z'
+---
 # Standard Operating Procedure: Daily Routine Management (Grade 4)
 
 ## Overview

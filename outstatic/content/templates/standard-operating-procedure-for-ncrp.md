@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Ncrp
+publishedAt: '2026-05-10T18:48:01.870Z'
+---
 # Standard Operating Procedure: Non-Conformance Reporting Process (NCRP)
 
 This Standard Operating Procedure (SOP) outlines the formal process for identifying, documenting, investigating, and resolving non-conformances within the organization. A non-conformance occurs when a product, service, or process deviates from established requirements, specifications, or quality standards. The goal of this process is to restore compliance, mitigate risk, and implement corrective actions to prevent recurrence, ensuring adherence to internal quality management systems and external regulatory requirements.

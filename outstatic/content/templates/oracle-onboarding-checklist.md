@@ -1,3 +1,8 @@
+---
+status: published
+title: Oracle Onboarding Checklist
+publishedAt: '2026-05-10T18:48:01.074Z'
+---
 # Standard Operating Procedure: Oracle System Onboarding
 
 This Standard Operating Procedure (SOP) defines the systematic process for onboarding new users, administrators, or business units into the Oracle ERP/Cloud environment. Proper onboarding ensures that security compliance, segregation of duties (SoD), and operational efficiency are maintained from day one. This document serves as the authoritative guide for IT administrators, system owners, and departmental leads to ensure that access provisioning is audited, secure, and aligned with organizational role-based access control (RBAC) policies.

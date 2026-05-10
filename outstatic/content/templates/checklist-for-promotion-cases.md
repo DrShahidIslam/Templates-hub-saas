@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Promotion Cases
+publishedAt: '2026-05-10T18:48:00.492Z'
+---
 # Standard Operating Procedure: Promotion Review & Approval Process
 
 This document establishes the standardized procedure for evaluating, processing, and finalizing employee promotion cases. Adhering to this SOP ensures that all promotion decisions are merit-based, data-driven, equitable, and compliant with organizational policies. The objective is to maintain transparency and consistency across departments, minimizing bias and ensuring that the promotion process supports long-term talent retention and organizational growth.

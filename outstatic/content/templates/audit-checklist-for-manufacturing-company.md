@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist For Manufacturing Company
+publishedAt: '2026-05-10T18:48:00.352Z'
+---
 # Standard Operating Procedure: Manufacturing Operational Audit
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for conducting a comprehensive operational audit within our manufacturing facility. The objective of this audit is to ensure full compliance with quality management systems (QMS), verify workplace safety standards, assess equipment efficiency, and validate supply chain integrity. By performing systematic, periodic audits, the organization minimizes downtime, mitigates regulatory risk, and fosters a culture of continuous improvement.

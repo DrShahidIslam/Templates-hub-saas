@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist For Garment Industry
+publishedAt: '2026-05-10T18:48:00.347Z'
+---
 # Standard Operating Procedure: Comprehensive Garment Industry Audit
 
 This Standard Operating Procedure (SOP) outlines the mandatory audit framework for evaluating manufacturing facilities within the garment industry. The objective is to ensure full compliance with international labor standards, quality assurance protocols, occupational health and safety (OHS) requirements, and environmental sustainability mandates. Adherence to this SOP mitigates supply chain risk, protects brand reputation, and guarantees product consistency.

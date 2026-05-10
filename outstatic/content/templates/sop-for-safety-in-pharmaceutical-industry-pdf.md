@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Safety In Pharmaceutical Industry Pdf
+publishedAt: '2026-05-10T18:48:01.459Z'
+---
 # Standard Operating Procedure: Workplace Safety and Hazard Control in Pharmaceutical Manufacturing
 
 ## Introduction

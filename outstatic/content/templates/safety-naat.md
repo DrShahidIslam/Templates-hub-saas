@@ -1,3 +1,8 @@
+---
+status: published
+title: Safety Naat
+publishedAt: '2026-05-10T18:48:01.092Z'
+---
 # Standard Operating Procedure: Safety NAAT (Nucleic Acid Amplification Testing)
 
 This SOP outlines the mandatory protocols for performing Nucleic Acid Amplification Testing (NAAT) within a clinical or research laboratory setting. NAAT is a highly sensitive molecular technique used to detect genetic material (DNA/RNA) of pathogens. Due to the high risk of cross-contamination—which can lead to false-positive results—strict adherence to directional workflow, environmental controls, and standardized handling procedures is required to maintain diagnostic integrity and personnel safety.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Counselling
+publishedAt: '2026-05-10T18:48:01.688Z'
+---
 # Standard Operating Procedure: Professional Counselling Sessions
 
 This Standard Operating Procedure (SOP) outlines the professional requirements, clinical workflow, and ethical standards necessary for conducting effective counselling sessions. It is designed to ensure consistency in client care, maintain regulatory compliance, and uphold the highest standards of safety and therapeutic rapport. Every counsellor, regardless of modality, is expected to adhere to these procedures to provide a secure environment that fosters client growth and facilitates clinical objectives.

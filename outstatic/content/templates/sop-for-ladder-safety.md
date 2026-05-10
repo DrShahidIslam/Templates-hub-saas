@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Ladder Safety
+publishedAt: '2026-05-10T18:48:01.345Z'
+---
 # Standard Operating Procedure: Ladder Safety
 
 This Standard Operating Procedure (SOP) establishes the mandatory safety protocols for the use of portable ladders in the workplace. To mitigate the risk of falls, injuries, and fatalities, all personnel must strictly adhere to these guidelines. Compliance with this SOP is required for every task involving ladder work, regardless of the duration or height of the job. It is the responsibility of every employee to perform a pre-use inspection and ensure that the chosen ladder is appropriate for the task and environment.

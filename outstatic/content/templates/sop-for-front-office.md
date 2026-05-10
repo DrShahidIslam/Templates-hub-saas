@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Front Office
+publishedAt: '2026-05-10T18:48:01.260Z'
+---
 # Standard Operating Procedure: Front Office Operations
 
 ## Introduction

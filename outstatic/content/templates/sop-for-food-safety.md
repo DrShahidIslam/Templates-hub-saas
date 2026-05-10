@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Food Safety
+publishedAt: '2026-05-10T18:48:01.253Z'
+---
 # Standard Operating Procedure: Food Safety and Hygiene Management
 
 ## Introduction

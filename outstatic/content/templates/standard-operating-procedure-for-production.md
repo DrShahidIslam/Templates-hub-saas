@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Production
+publishedAt: '2026-05-10T18:48:01.892Z'
+---
 # Standard Operating Procedure: Production Workflow
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for managing production cycles, ensuring consistency, quality control, and workplace safety. This document is designed to streamline operations from raw material intake to final packaging, minimizing downtime and maximizing output efficiency. All production personnel are required to adhere to these guidelines to maintain operational integrity and compliance with company safety standards.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Safety House
+publishedAt: '2026-05-10T18:48:01.601Z'
+---
 # Standard Operating Procedure: Safety House Facility Management
 
 This Standard Operating Procedure (SOP) defines the operational protocols, safety standards, and maintenance requirements for the Safety House. The objective is to maintain a secure, compliant, and hazard-free environment for all occupants and personnel. Adherence to these procedures is mandatory to minimize liability, prevent workplace injuries, and ensure operational continuity.

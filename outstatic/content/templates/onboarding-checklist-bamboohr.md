@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Bamboohr
+publishedAt: '2026-05-10T18:48:00.935Z'
+---
 # Standard Operating Procedure: New Hire Onboarding via BambooHR
 
 This Standard Operating Procedure (SOP) outlines the standardized process for onboarding new employees using BambooHR. The objective is to ensure a seamless, professional, and compliant transition for every new hire, leveraging BambooHR’s automated workflows to reduce administrative burden and enhance the employee experience. By following this protocol, People Operations teams can ensure that data integrity is maintained, access rights are provisioned timely, and the new hire feels welcomed and prepared from day one.

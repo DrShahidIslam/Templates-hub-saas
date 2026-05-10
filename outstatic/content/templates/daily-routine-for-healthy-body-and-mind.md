@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Healthy Body And Mind
+publishedAt: '2026-05-10T18:48:00.689Z'
+---
 # Standard Operating Procedure: Daily Holistic Wellness Routine
 
 ## Objective

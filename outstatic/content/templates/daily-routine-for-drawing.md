@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Drawing
+publishedAt: '2026-05-10T18:48:00.658Z'
+---
 # Standard Operating Procedure: Daily Drawing Routine
 
 This Standard Operating Procedure (SOP) outlines a structured, professional framework for maintaining a consistent and productive daily drawing practice. By standardizing the environment, preparation, and execution phases, an artist can reduce cognitive friction, improve technical proficiency, and foster long-term creative discipline. This routine is designed to be scalable, whether the user is a professional illustrator or an emerging artist focused on skill acquisition.

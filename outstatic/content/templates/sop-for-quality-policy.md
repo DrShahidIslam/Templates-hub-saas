@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Quality Policy
+publishedAt: '2026-05-10T18:48:01.429Z'
+---
 # Standard Operating Procedure: Establishing and Maintaining the Quality Policy
 
 ## Introduction

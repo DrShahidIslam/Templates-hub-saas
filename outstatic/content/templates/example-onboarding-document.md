@@ -1,3 +1,8 @@
+---
+status: published
+title: Example Onboarding Document
+publishedAt: '2026-05-10T18:48:00.857Z'
+---
 # Standard Operating Procedure: New Hire Onboarding Process
 
 This document outlines the standardized procedure for onboarding new employees to ensure a seamless integration into the company culture, operational workflows, and technical infrastructure. The objective of this SOP is to minimize time-to-productivity, guarantee compliance with internal policies, and foster a professional environment where new hires feel equipped and valued from day one.

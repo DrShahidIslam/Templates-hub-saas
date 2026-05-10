@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Job Description In Pharma
+publishedAt: '2026-05-10T18:48:01.322Z'
+---
 # Standard Operating Procedure: Creation and Approval of Job Descriptions (Pharma/Biotech)
 
 ## Introduction

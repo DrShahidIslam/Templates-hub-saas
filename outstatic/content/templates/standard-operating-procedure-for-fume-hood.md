@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Fume Hood
+publishedAt: '2026-05-10T18:48:01.781Z'
+---
 # Standard Operating Procedure: Laboratory Fume Hood Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety protocols for the operation, maintenance, and monitoring of chemical fume hoods. As the primary engineering control for laboratory personnel, the fume hood must be used correctly to prevent the inhalation of hazardous vapors, aerosols, or gases. Adherence to these procedures is critical to maintaining a safe work environment and ensuring compliance with regulatory health and safety standards.

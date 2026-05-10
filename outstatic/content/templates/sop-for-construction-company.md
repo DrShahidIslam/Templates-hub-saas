@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Construction Company
+publishedAt: '2026-05-10T18:48:01.197Z'
+---
 # Standard Operating Procedure: Construction Project Management
 
 This Standard Operating Procedure (SOP) establishes the mandatory framework for managing construction projects from the pre-construction phase through final project closeout. Its purpose is to ensure consistent delivery, minimize financial risk, uphold rigorous safety standards, and maintain quality control across all project lifecycles. By adhering to these protocols, project managers and site superintendents will ensure operational alignment with company standards, regulatory requirements, and client expectations.

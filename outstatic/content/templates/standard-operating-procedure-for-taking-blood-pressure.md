@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Taking Blood Pressure
+publishedAt: '2026-05-10T18:48:01.952Z'
+---
 # Standard Operating Procedure: Blood Pressure Measurement
 
 This document outlines the clinical standard for obtaining an accurate, reliable, and reproducible blood pressure (BP) measurement in a clinical or home-health setting. Accurate BP monitoring is fundamental to the diagnosis and management of hypertension and cardiovascular risk. Failure to adhere to standardized protocol—such as incorrect cuff sizing or patient positioning—can lead to clinically significant errors, often resulting in over- or under-diagnosis. All practitioners must follow these steps to ensure patient safety and data integrity.

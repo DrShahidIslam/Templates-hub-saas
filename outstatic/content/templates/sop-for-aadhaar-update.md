@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Aadhaar Update
+publishedAt: '2026-05-10T18:48:01.151Z'
+---
 # Standard Operating Procedure: Aadhaar Data Update Process
 
 This Standard Operating Procedure (SOP) outlines the standardized workflow for processing Aadhaar demographic and biometric updates. As an Operations Manager, the objective is to ensure data integrity, maintain strict adherence to UIDAI (Unique Identification Authority of India) protocols, and minimize rejection rates due to documentation errors. This guide serves as the definitive reference for enrollment operators and center managers to ensure a seamless experience for the resident while maintaining compliance with regulatory standards.

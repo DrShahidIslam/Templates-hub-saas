@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Washing Hands Properly
+publishedAt: '2026-05-10T18:48:01.992Z'
+---
 # Standard Operating Procedure: Proper Hand Hygiene Protocol
 
 Effective hand hygiene is the single most important practice for preventing the transmission of pathogens, ensuring cross-contamination control, and maintaining a safe environment for employees and clients alike. This SOP outlines the standardized, evidence-based procedure for handwashing as recommended by public health authorities. All personnel are required to adhere to these steps whenever hands are visibly soiled, before handling food, after using the restroom, or after interacting with potentially contaminated surfaces.

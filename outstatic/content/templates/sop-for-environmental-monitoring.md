@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Environmental Monitoring
+publishedAt: '2026-05-10T18:48:01.231Z'
+---
 # Standard Operating Procedure: Environmental Monitoring (EM)
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for performing Environmental Monitoring within controlled areas. The primary objective is to maintain microbiological and physical control of the environment to ensure product quality and regulatory compliance. This procedure applies to all personnel responsible for sampling air, surfaces, and personnel in ISO-classified cleanrooms. Strict adherence to these steps is required to minimize human-borne contamination and ensure data integrity.

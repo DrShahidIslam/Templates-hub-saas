@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For X Ray Room
+publishedAt: '2026-05-10T18:48:02.002Z'
+---
 # Standard Operating Procedure: X-Ray Room Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the safe, efficient, and regulatory-compliant operation of the X-Ray suite. As an expert-managed facility, our priority is the optimization of image quality while strictly adhering to the ALARA (As Low As Reasonably Achievable) principle to ensure radiation protection for patients, staff, and the general public. All personnel must review these guidelines to maintain compliance with departmental safety standards and legal diagnostic imaging requirements.

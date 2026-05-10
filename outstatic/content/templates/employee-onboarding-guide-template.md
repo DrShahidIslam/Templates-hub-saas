@@ -1,3 +1,8 @@
+---
+status: published
+title: Employee Onboarding Guide Template
+publishedAt: '2026-05-10T18:48:00.855Z'
+---
 # Standard Operating Procedure: Employee Onboarding Guide
 
 Effective onboarding is the cornerstone of employee retention, productivity, and cultural integration. This Standard Operating Procedure (SOP) outlines the standardized process for transitioning a new hire from signed offer letter to fully integrated team member. The goal of this guide is to ensure administrative compliance, provide necessary technological access, and foster a welcoming experience that aligns the new hire with organizational objectives.

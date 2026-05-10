@@ -1,3 +1,8 @@
+---
+status: published
+title: What Is A Daily Checklist
+publishedAt: '2026-05-10T18:48:02.040Z'
+---
 # Standard Operating Procedure: The Daily Checklist Protocol
 
 ## Introduction

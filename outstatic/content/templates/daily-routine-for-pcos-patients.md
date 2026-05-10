@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Pcos Patients
+publishedAt: '2026-05-10T18:48:00.741Z'
+---
 # Standard Operating Procedure: Daily Routine for PCOS Management
 
 This Standard Operating Procedure (SOP) outlines the evidence-based daily protocol for individuals diagnosed with Polycystic Ovary Syndrome (PCOS). The objective is to stabilize blood glucose levels, manage hyperandrogenism through stress and hormone regulation, and support metabolic health. Consistency is the primary operational requirement for symptomatic relief and long-term endocrine balance.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist Ai
+publishedAt: '2026-05-10T18:48:00.325Z'
+---
 # Standard Operating Procedure: Artificial Intelligence Audit Protocol
 
 This Standard Operating Procedure (SOP) outlines the rigorous framework required to conduct a comprehensive audit of Artificial Intelligence (AI) systems. As AI adoption scales, ensuring these systems operate with transparency, accuracy, fairness, and security is paramount to mitigating operational, legal, and reputational risks. This document serves as the mandatory guide for quality assurance, compliance, and technical leads to evaluate the lifecycle, data integrity, and ethical deployment of AI models within the organization.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Glassware Cleaning
+publishedAt: '2026-05-10T18:48:01.272Z'
+---
 # Standard Operating Procedure: Laboratory Glassware Cleaning
 
 ## Purpose and Scope

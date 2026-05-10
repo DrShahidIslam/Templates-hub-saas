@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Accounts Payable Process
+publishedAt: '2026-05-10T18:48:01.646Z'
+---
 # Standard Operating Procedure: Accounts Payable (AP) Process
 
 ## Introduction

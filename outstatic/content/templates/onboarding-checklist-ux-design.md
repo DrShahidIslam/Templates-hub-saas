@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Ux Design
+publishedAt: '2026-05-10T18:48:01.035Z'
+---
 # Standard Operating Procedure: UX Design Onboarding
 
 The goal of this onboarding process is to integrate new UX designers into the product team by aligning them with our design systems, brand identity, collaborative workflows, and technical constraints. A structured onboarding experience ensures that new team members can transition from a supportive role to a self-sufficient contributor while maintaining design consistency and velocity. This SOP covers everything from administrative setup to the delivery of their first project milestone.

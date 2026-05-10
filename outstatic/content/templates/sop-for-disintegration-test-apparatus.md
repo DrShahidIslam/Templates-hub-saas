@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Disintegration Test Apparatus
+publishedAt: '2026-05-10T18:48:01.205Z'
+---
 # Standard Operating Procedure: Disintegration Test Apparatus
 
 This Standard Operating Procedure (SOP) defines the systematic process for the operation, calibration, and maintenance of the Disintegration Test Apparatus. This instrument is critical for determining compliance with pharmacopeial standards by measuring the time required for solid oral dosage forms to disintegrate under controlled conditions. Strict adherence to this procedure ensures data integrity, instrument longevity, and regulatory compliance in accordance with cGMP standards.

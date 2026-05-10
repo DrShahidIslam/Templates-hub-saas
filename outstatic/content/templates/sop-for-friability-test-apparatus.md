@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Friability Test Apparatus
+publishedAt: '2026-05-10T18:48:01.257Z'
+---
 # Standard Operating Procedure: Friability Testing (Tablet Durability)
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for operating the friability test apparatus. Friability testing is a critical quality control measure designed to evaluate the physical integrity of uncoated tablets by measuring their resistance to abrasion and shock during handling, packaging, and shipping. Adherence to this procedure ensures compliance with USP <1216> standards and ensures that the data generated is reproducible, accurate, and audit-ready.

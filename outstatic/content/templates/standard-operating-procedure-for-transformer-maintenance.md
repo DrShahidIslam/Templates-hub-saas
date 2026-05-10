@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Transformer Maintenance
+publishedAt: '2026-05-10T18:48:01.958Z'
+---
 # Standard Operating Procedure: Power Transformer Maintenance
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the inspection, testing, and preventative maintenance of power transformers. The objective of this procedure is to ensure operational reliability, extend asset lifecycle, and mitigate the risk of catastrophic failure. All maintenance activities must be performed by qualified electrical personnel adhering strictly to OSHA and NFPA 70E safety standards. Failure to follow these guidelines may result in equipment damage, environmental hazard, or severe personnel injury.

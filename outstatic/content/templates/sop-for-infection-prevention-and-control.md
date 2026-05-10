@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Infection Prevention And Control
+publishedAt: '2026-05-10T18:48:01.308Z'
+---
 # Standard Operating Procedure: Infection Prevention and Control (IPC)
 
 ## Introduction

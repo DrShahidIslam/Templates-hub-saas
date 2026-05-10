@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Me
+publishedAt: '2026-05-10T18:48:00.717Z'
+---
 # Standard Operating Procedure: Daily Personal Optimization Routine
 
 This SOP establishes a standardized daily operating rhythm designed to maximize cognitive output, physical health, and long-term goal alignment. By implementing this structured framework, you will minimize decision fatigue, reduce the impact of reactive tasks, and ensure that high-leverage activities receive dedicated focus time. Adherence to these protocols is intended to create a sustainable "system of record" for your personal productivity.

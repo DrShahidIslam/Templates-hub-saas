@@ -1,3 +1,8 @@
+---
+status: published
+title: Inspection Checklist For Crane
+publishedAt: '2026-05-10T18:48:00.885Z'
+---
 # Standard Operating Procedure: Crane Inspection and Safety Verification
 
 ## Introduction

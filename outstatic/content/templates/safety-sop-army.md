@@ -1,3 +1,8 @@
+---
+status: published
+title: Safety Sop Army
+publishedAt: '2026-05-10T18:48:01.099Z'
+---
 # Standard Operating Procedure: Unit Safety and Risk Management
 
 This Standard Operating Procedure (SOP) establishes the mandatory framework for integrating safety into all military training, administrative, and operational activities. The objective is to preserve the force by identifying, assessing, and mitigating hazards throughout the mission lifecycle. Compliance with these procedures is essential to ensure operational readiness, prevent preventable loss of life or equipment, and maintain compliance with Department of the Army (DA) safety directives and OSHA requirements.

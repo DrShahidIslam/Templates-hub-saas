@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Offshore Derivatives Instruments
+publishedAt: '2026-05-10T18:48:01.881Z'
+---
 # Standard Operating Procedure: Offshore Derivatives Instruments (ODI) Management
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the lifecycle management, reporting, and compliance monitoring of Offshore Derivatives Instruments (ODIs), including Participatory Notes (P-Notes). Given the stringent regulatory frameworks governing cross-border derivatives—specifically under SEBI (Foreign Portfolio Investors) Regulations—this document ensures that all transactions are executed with full transparency, robust Know-Your-Customer (KYC) standards, and precise regulatory reporting to mitigate legal and reputational risks.

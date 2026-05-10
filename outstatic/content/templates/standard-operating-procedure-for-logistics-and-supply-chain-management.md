@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Logistics And Supply Chain Management
+publishedAt: '2026-05-10T18:48:01.852Z'
+---
 # Standard Operating Procedure: Logistics and Supply Chain Management
 
 ## Introduction

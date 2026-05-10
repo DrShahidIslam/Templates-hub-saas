@@ -1,3 +1,8 @@
+---
+status: published
+title: It Onboarding Checklist For New Hires
+publishedAt: '2026-05-10T18:48:00.890Z'
+---
 # Standard Operating Procedure: IT Onboarding for New Hires
 
 This Standard Operating Procedure (SOP) defines the systematic process for provisioning, securing, and configuring IT resources for new employees. The objective is to ensure that every new hire has a seamless, secure, and productive experience starting from their first day. By standardizing this workflow, the IT department minimizes downtime, maintains security compliance, and ensures that hardware and software access are tailored to the specific role of the new team member.

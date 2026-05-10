@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist For Private Limited Company
+publishedAt: '2026-05-10T18:48:00.356Z'
+---
 # Standard Operating Procedure: Annual Statutory Audit Preparation
 
 This Standard Operating Procedure (SOP) serves as a comprehensive framework for private limited companies to prepare for their annual statutory audit. The objective is to ensure financial transparency, compliance with local accounting standards (such as GAAP/IFRS), and the timely submission of audit reports. Adherence to this checklist minimizes audit queries, reduces the risk of non-compliance penalties, and facilitates a seamless transition from financial year-end to the filing of audited financial statements.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist For Project Management
+publishedAt: '2026-05-10T18:48:00.357Z'
+---
 # Standard Operating Procedure: Project Management Audit
 
 This Standard Operating Procedure (SOP) defines the systematic approach for auditing project management processes, documentation, and performance. The purpose of this audit is to ensure alignment with organizational standards, identify operational bottlenecks, verify budgetary compliance, and mitigate risks. By following this protocol, project leads and auditors can maintain high-quality delivery standards and ensure that all project artifacts remain audit-ready throughout the project lifecycle.

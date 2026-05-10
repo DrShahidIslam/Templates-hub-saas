@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Australia
+publishedAt: '2026-05-10T18:48:00.934Z'
+---
 # Standard Operating Procedure: Employee Onboarding (Australia)
 
 This Standard Operating Procedure (SOP) outlines the mandatory compliance, administrative, and cultural steps required to onboard a new employee in Australia. Adhering to this process ensures full compliance with the Fair Work Act 2009, Australian Taxation Office (ATO) requirements, and Superannuation Guarantee (SG) legislation, while providing a seamless transition for the incoming team member.

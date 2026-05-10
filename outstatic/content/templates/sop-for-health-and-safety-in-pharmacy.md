@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Health And Safety In Pharmacy
+publishedAt: '2026-05-10T18:48:01.284Z'
+---
 # Standard Operating Procedure: Health and Safety in Pharmacy Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety protocols required to maintain a secure, compliant, and hazard-free environment within the pharmacy. The primary objective is to protect staff, patients, and sensitive pharmaceutical inventory by mitigating physical, chemical, and biological risks. Adherence to these guidelines is non-negotiable and essential for meeting regulatory standards and ensuring professional excellence in medication management.

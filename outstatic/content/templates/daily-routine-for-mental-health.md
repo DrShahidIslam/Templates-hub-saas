@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Mental Health
+publishedAt: '2026-05-10T18:48:00.719Z'
+---
 # Standard Operating Procedure: Daily Mental Health Maintenance
 
 This Standard Operating Procedure (SOP) outlines a structured framework for managing daily mental health. Designed to minimize cognitive load and stabilize emotional regulation, this protocol utilizes evidence-based habits to improve focus, reduce stress, and sustain long-term psychological resilience. Adherence to this routine serves as a preventative maintenance strategy, ensuring optimal performance and well-being.

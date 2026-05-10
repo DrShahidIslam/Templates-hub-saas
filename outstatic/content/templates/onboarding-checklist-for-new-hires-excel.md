@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist For New Hires Excel
+publishedAt: '2026-05-10T18:48:00.969Z'
+---
 # SOP: New Hire Onboarding via Excel Tracking System
 
 This Standard Operating Procedure (SOP) outlines the standardized process for utilizing the master New Hire Onboarding Excel template to ensure a seamless, compliant, and welcoming integration for all incoming employees. As an Operations Manager, maintaining a centralized tracking document is critical for visibility across departments (HR, IT, Facilities, and Management), ensuring no onboarding requirements are overlooked during the transition from offer acceptance to full productivity.

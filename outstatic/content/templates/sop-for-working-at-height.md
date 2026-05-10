@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Working At Height
+publishedAt: '2026-05-10T18:48:01.551Z'
+---
 # Standard Operating Procedure: Working at Height
 
 This Standard Operating Procedure (SOP) establishes the mandatory safety requirements and operational protocols for any task performed at an elevation where a fall could result in injury. The objective of this policy is to eliminate fall hazards through engineering controls, administrative procedures, and the correct utilization of Personal Fall Arrest Systems (PFAS). Compliance is mandatory for all employees and contractors to ensure a zero-incident work environment.

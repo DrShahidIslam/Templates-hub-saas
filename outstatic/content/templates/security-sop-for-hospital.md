@@ -1,3 +1,8 @@
+---
+status: published
+title: Security Sop For Hospital
+publishedAt: '2026-05-10T18:48:01.131Z'
+---
 # Standard Operating Procedure: Hospital Security Operations
 
 This Standard Operating Procedure (SOP) establishes the mandatory security protocols for hospital facilities to ensure the protection of patients, medical staff, visitors, and sensitive organizational assets. The objective of this document is to maintain a safe, therapeutic environment while mitigating risks associated with unauthorized access, workplace violence, infant abduction, and the protection of controlled substances. All security personnel are required to adhere to these guidelines to ensure consistency, accountability, and rapid response across all clinical and administrative areas.

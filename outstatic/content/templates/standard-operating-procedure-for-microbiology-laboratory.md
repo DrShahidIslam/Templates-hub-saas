@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Microbiology Laboratory
+publishedAt: '2026-05-10T18:48:01.865Z'
+---
 # Standard Operating Procedure: Microbiology Laboratory Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for ensuring a safe, sterile, and compliant microbiology laboratory environment. Adherence to these procedures is critical to prevent cross-contamination, ensure the accuracy of analytical results, and maintain compliance with Biosafety Level (BSL) standards. This document serves as the foundation for daily laboratory operations, including equipment maintenance, aseptic techniques, and waste management.

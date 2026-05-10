@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist For It Department
+publishedAt: '2026-05-10T18:48:00.961Z'
+---
 # Standard Operating Procedure: IT Department New Hire Onboarding
 
 The objective of this onboarding process is to ensure that every new IT team member is fully integrated into our technical infrastructure, security protocols, and cultural environment within their first week. This SOP establishes a standardized workflow to minimize downtime, ensure strict adherence to cybersecurity compliance, and provide a seamless transition from "hire" to "productive contributor." Failure to adhere to these steps can result in access gaps, security vulnerabilities, or a fragmented onboarding experience for the employee.

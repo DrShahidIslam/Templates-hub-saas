@@ -1,3 +1,8 @@
+---
+status: published
+title: Employee Onboarding Checklist For Managers
+publishedAt: '2026-05-10T18:48:00.854Z'
+---
 # Standard Operating Procedure: Employee Onboarding for Managers
 
 ## Introduction

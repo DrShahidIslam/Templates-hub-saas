@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Zubeen Kshetra
+publishedAt: '2026-05-10T18:48:01.581Z'
+---
 # Standard Operating Procedure: Zubeen Kshetra Management
 
 This Standard Operating Procedure (SOP) defines the operational framework for the management, maintenance, and oversight of Zubeen Kshetra. As a specialized zone of operation, Zubeen Kshetra requires strict adherence to environmental safety, logistical coordination, and asset integrity protocols to ensure optimal performance and regulatory compliance. This document serves as the primary reference for all personnel responsible for site operations, safety audits, and resource allocation.

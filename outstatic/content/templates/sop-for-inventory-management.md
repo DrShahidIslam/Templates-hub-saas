@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Inventory Management
+publishedAt: '2026-05-10T18:48:01.314Z'
+---
 # Standard Operating Procedure: Inventory Management
 
 This Standard Operating Procedure (SOP) establishes a standardized framework for managing inventory levels, tracking stock movements, and ensuring data accuracy across all storage facilities. Effective inventory management is critical to minimizing carrying costs, preventing stockouts, and maximizing operational efficiency. This document applies to all staff involved in procurement, warehousing, and inventory reconciliation.

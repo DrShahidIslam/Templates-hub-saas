@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Hospital Pharmacy Pdf
+publishedAt: '2026-05-10T18:48:01.289Z'
+---
 # Standard Operating Procedure: Hospital Pharmacy Medication Management
 
 This Standard Operating Procedure (SOP) outlines the standardized processes for the receipt, storage, preparation, dispensing, and verification of medications within a clinical hospital pharmacy setting. Adherence to these protocols is critical to maintaining patient safety, ensuring regulatory compliance (e.g., Joint Commission, ASHP standards), and minimizing the risk of medication errors. All pharmacy personnel must adhere to these steps to maintain an unbroken chain of custody and pharmaceutical integrity.

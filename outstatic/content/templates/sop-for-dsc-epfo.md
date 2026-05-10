@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Dsc Epfo
+publishedAt: '2026-05-10T18:48:01.217Z'
+---
 # Standard Operating Procedure: DSC Management for EPFO Portal
 
 This Standard Operating Procedure (SOP) outlines the standardized process for managing, registering, and updating Digital Signature Certificates (DSC) on the Employees' Provident Fund Organisation (EPFO) Employer Portal. Maintaining an active and valid DSC is critical for ensuring compliance, authorizing monthly ECRs (Electronic Challan-cum-Returns), and executing employer-related transactions without disruption. Adherence to this procedure minimizes the risk of portal lockouts and administrative bottlenecks.

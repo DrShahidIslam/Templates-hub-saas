@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Ex India Leave In Railway
+publishedAt: '2026-05-10T18:48:01.235Z'
+---
 # Standard Operating Procedure: Ex-India Leave Application for Railway Employees
 
 This Standard Operating Procedure (SOP) outlines the mandatory administrative protocol for Indian Railway employees intending to travel abroad while on leave. As per the Railway Services (Conduct) Rules, prior sanction from the competent authority is mandatory for all Ex-India leave applications. This procedure ensures compliance with Department of Personnel and Training (DoPT) guidelines, vigilance clearance, and travel authorization, mitigating risks associated with unauthorized foreign travel or security clearances.

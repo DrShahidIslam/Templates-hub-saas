@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Singapore
+publishedAt: '2026-05-10T18:48:01.005Z'
+---
 # Standard Operating Procedure: Employee Onboarding (Singapore)
 
 This Standard Operating Procedure (SOP) outlines the mandatory administrative, legal, and cultural integration steps required to onboard a new hire in Singapore. Ensuring compliance with the Ministry of Manpower (MOM) regulations, the Central Provident Fund (CPF) Board, and IRAS tax requirements is critical to maintaining operational integrity and avoiding statutory penalties. This document serves as a roadmap for HR and hiring managers to provide a seamless transition for new employees from offer acceptance to post-probation integration.

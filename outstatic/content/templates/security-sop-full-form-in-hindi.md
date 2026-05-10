@@ -1,3 +1,8 @@
+---
+status: published
+title: Security Sop Full Form In Hindi
+publishedAt: '2026-05-10T18:48:01.138Z'
+---
 # Standard Operating Procedure: Security SOP Implementation
 
 ## Introduction

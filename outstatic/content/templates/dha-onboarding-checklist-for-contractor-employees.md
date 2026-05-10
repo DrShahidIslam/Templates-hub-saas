@@ -1,3 +1,8 @@
+---
+status: published
+title: Dha Onboarding Checklist For Contractor Employees
+publishedAt: '2026-05-10T18:48:00.851Z'
+---
 # Standard Operating Procedure: DHA Contractor Onboarding
 
 This Standard Operating Procedure (SOP) outlines the mandatory requirements and administrative workflow for onboarding contractor personnel within the Defense Health Agency (DHA). The objective is to ensure that all non-government personnel are properly vetted, provisioned with necessary access, and fully briefed on security protocols before commencing official duties. Adherence to these steps is critical for maintaining compliance with Department of Defense (DoD) cybersecurity standards and facility safety regulations.

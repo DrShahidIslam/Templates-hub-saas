@@ -1,3 +1,8 @@
+---
+status: published
+title: Security Sop Sample
+publishedAt: '2026-05-10T18:48:01.146Z'
+---
 # Standard Operating Procedure: Facility Security & Access Control
 
 This Standard Operating Procedure (SOP) establishes the mandatory protocols for maintaining site security, monitoring access points, and responding to unauthorized activity. The objective is to ensure the safety of all personnel, protect physical and intellectual assets, and maintain a verifiable audit trail of facility ingress and egress. This document applies to all security staff, facility managers, and contractors operating within the premises.

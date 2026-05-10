@@ -1,3 +1,8 @@
+---
+status: published
+title: Ximb Sop
+publishedAt: '2026-05-10T18:48:02.048Z'
+---
 # Standard Operating Procedure: XIMB (Xavier Institute of Management, Bhubaneswar) Operational Workflow
 
 This Standard Operating Procedure (SOP) outlines the standardized operational framework for managing internal academic and administrative processes within XIMB. This document is designed to ensure consistency, accountability, and operational efficiency across faculty, administrative staff, and student-led committees. Adherence to these protocols is mandatory for maintaining the institutional standards of excellence.

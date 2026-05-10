@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Ui
+publishedAt: '2026-05-10T18:48:01.032Z'
+---
 # Standard Operating Procedure: UI Onboarding Checklist Implementation
 
 This Standard Operating Procedure (SOP) outlines the professional methodology for designing, implementing, and optimizing UI-based onboarding sequences. The objective of this process is to minimize time-to-value (TTV) for new users, reduce churn, and drive feature adoption through progressive disclosure and contextual guidance. By following these steps, product and operations teams can ensure a friction-less transition from user acquisition to product mastery.

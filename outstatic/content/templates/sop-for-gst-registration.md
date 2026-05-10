@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Gst Registration
+publishedAt: '2026-05-10T18:48:01.282Z'
+---
 # Standard Operating Procedure: GST Registration
 
 This Standard Operating Procedure (SOP) outlines the standardized process for obtaining Goods and Services Tax (GST) registration for a business entity in India. Adherence to this procedure ensures compliance with the Central Goods and Services Tax Act, minimizes the risk of application rejection, and ensures that the business is tax-compliant from its inception. This document is intended for finance managers, business owners, and tax consultants responsible for corporate statutory filings.

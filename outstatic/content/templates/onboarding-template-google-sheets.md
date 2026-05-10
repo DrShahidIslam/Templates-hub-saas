@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template Google Sheets
+publishedAt: '2026-05-10T18:48:01.062Z'
+---
 # Standard Operating Procedure: New Hire Onboarding via Google Sheets
 
 This SOP outlines the standardized procedure for utilizing the Centralized Onboarding Google Sheets template. The objective is to provide a consistent, high-visibility framework that ensures every new hire receives a seamless transition into the organization. By maintaining a single source of truth, department heads and HR can track progress, assign responsibilities, and ensure compliance with internal administrative requirements without duplicating communication or missing critical setup milestones.

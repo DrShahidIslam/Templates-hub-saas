@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Gas Chromatography
+publishedAt: '2026-05-10T18:48:01.785Z'
+---
 # Standard Operating Procedure: Gas Chromatography (GC) Analysis
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the operation of Gas Chromatography (GC) systems. GC is a sophisticated analytical technique used to separate and quantify volatile chemical components within a mixture. Adherence to this procedure ensures the integrity of analytical data, the longevity of the instrument, and the safety of all laboratory personnel. All users must be trained and authorized before operating the equipment.

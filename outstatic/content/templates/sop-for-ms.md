@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Ms
+publishedAt: '2026-05-10T18:48:01.368Z'
+---
 # Standard Operating Procedure: Management System (MS) Administration
 
 This Standard Operating Procedure (SOP) defines the operational framework for maintaining, auditing, and optimizing the Management System (MS). The objective of this document is to ensure consistency, regulatory compliance, and continuous improvement across all organizational processes. Adherence to this SOP is mandatory for all personnel involved in quality assurance, process documentation, and operational oversight.

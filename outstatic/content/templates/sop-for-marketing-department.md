@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Marketing Department
+publishedAt: '2026-05-10T18:48:01.361Z'
+---
 # Standard Operating Procedure: Marketing Department Operations
 
 This Standard Operating Procedure (SOP) defines the operational framework for the Marketing Department, ensuring consistency, brand alignment, and high-performance output across all campaigns. By standardizing workflows from project inception through post-mortem analysis, this document empowers the team to execute multi-channel strategies efficiently while maintaining rigorous quality control standards and data-driven accountability.

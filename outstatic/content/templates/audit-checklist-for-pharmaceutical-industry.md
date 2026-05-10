@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist For Pharmaceutical Industry
+publishedAt: '2026-05-10T18:48:00.354Z'
+---
 # Standard Operating Procedure: Pharmaceutical Quality Audit
 
 ## Introduction

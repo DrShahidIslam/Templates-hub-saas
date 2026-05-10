@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Bomb Threat
+publishedAt: '2026-05-10T18:48:01.669Z'
+---
 # Standard Operating Procedure: Bomb Threat Response
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocol for all personnel in the event of a bomb threat received via telephone, electronic communication, or in-person. The primary objective of this procedure is to ensure the safety of all occupants, facilitate a coordinated emergency response, and preserve forensic evidence. All staff are required to maintain composure, prioritize life safety over property, and adhere strictly to the chain of communication established below.

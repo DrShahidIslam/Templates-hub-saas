@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For One Year Old
+publishedAt: '2026-05-10T18:48:00.739Z'
+---
 # Standard Operating Procedure: Daily Routine for a One-Year-Old
 
 Effective management of a one-year-old’s daily schedule is essential for physical development, emotional stability, and cognitive growth. At this stage, the child is transitioning from infant nutrition to table foods and moving toward a single, predictable midday nap. This SOP outlines a standardized framework designed to ensure consistency, safety, and optimal environmental conditions for a thriving toddler. Caregivers should prioritize adherence to these time blocks while maintaining the flexibility required to respond to the child’s individual cues.

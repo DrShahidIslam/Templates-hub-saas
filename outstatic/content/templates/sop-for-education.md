@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Education
+publishedAt: '2026-05-10T18:48:01.218Z'
+---
 # Standard Operating Procedure: Educational Content Delivery and Quality Assurance
 
 This Standard Operating Procedure (SOP) outlines the standardized framework for the planning, creation, and delivery of educational content within our organization. By adhering to these protocols, instructors and content creators ensure consistency, pedagogical effectiveness, and a high-quality learning experience for all students. This SOP applies to all instructors, instructional designers, and program managers responsible for curriculum management and classroom delivery.

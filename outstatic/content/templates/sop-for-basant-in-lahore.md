@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Basant In Lahore
+publishedAt: '2026-05-10T18:48:01.169Z'
+---
 # Standard Operating Procedure: Basant Festival Coordination (Lahore)
 
 This Standard Operating Procedure (SOP) serves as the primary operational framework for managing logistics, safety protocols, and event execution during the Basant festival in Lahore. Given the high-density nature of this event, this SOP prioritizes public safety, infrastructure integrity, and regulatory compliance. All team members must adhere to these guidelines to ensure a seamless experience while mitigating the inherent risks associated with high-altitude kite flying, rooftop gatherings, and large-scale crowd movement.

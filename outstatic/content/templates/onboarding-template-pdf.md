@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template Pdf
+publishedAt: '2026-05-10T18:48:01.067Z'
+---
 # Standard Operating Procedure: Employee Onboarding Template (PDF) Management
 
 This Standard Operating Procedure (SOP) outlines the standardized process for creating, distributing, and managing the digital onboarding template in PDF format. The goal of this document is to ensure that every new hire receives a consistent, professional, and comprehensive welcome experience, minimizing administrative friction while ensuring compliance with company documentation standards. By utilizing a master PDF template, we maintain version control and provide new hires with a high-quality reference manual for their first week.

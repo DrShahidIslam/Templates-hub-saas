@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Tvk
+publishedAt: '2026-05-10T18:48:01.492Z'
+---
 # Standard Operating Procedure: TVK Management Protocol
 
 This Standard Operating Procedure (SOP) defines the systematic approach for the execution and management of TVK (Task Verification & Key-performance-tracking). The purpose of this document is to ensure consistency, eliminate operational silos, and guarantee that all TVK activities align with organizational quality standards. Adherence to these steps is mandatory for all personnel involved in the TVK lifecycle to maintain data integrity and project efficiency.

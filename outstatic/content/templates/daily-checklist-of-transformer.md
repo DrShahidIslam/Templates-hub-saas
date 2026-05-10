@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Checklist Of Transformer
+publishedAt: '2026-05-10T18:48:00.595Z'
+---
 # Standard Operating Procedure: Daily Transformer Inspection
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily inspection requirements for electrical transformers to ensure optimal performance, longevity, and safety. Routine physical checks are critical for detecting early signs of degradation, such as leaks, abnormal sounds, or thermal anomalies, thereby preventing catastrophic failures and unplanned downtime. All personnel conducting these checks must wear appropriate Personal Protective Equipment (PPE) and adhere strictly to facility safety protocols.

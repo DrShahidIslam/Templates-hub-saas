@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Food
+publishedAt: '2026-05-10T18:48:00.673Z'
+---
 # Standard Operating Procedure: Daily Food Operations & Safety Protocol
 
 This SOP establishes a standardized daily routine for the management, preparation, and service of food within our facility. Adherence to these protocols is mandatory to ensure compliance with health department regulations, minimize food waste, and uphold the highest standards of culinary excellence and hygiene. All personnel are expected to execute these tasks with precision, documenting all temperature and sanitation logs as required by our safety management system.

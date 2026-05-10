@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Lkg Students
+publishedAt: '2026-05-10T18:48:00.715Z'
+---
 # Standard Operating Procedure: Daily Routine Management for LKG Students
 
 This Standard Operating Procedure (SOP) is designed to provide a structured, efficient, and developmentally appropriate daily routine for Lower Kindergarten (LKG) students. By establishing consistent transitions and clear expectations, educators and caregivers can foster independence, emotional security, and cognitive engagement in young learners. This protocol emphasizes the balance between structured academic learning, physical activity, and essential personal care, ensuring a holistic environment that supports early childhood development.

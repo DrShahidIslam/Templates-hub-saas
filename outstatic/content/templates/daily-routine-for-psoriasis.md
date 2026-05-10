@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Psoriasis
+publishedAt: '2026-05-10T18:48:00.752Z'
+---
 # Standard Operating Procedure: Daily Psoriasis Management Routine
 
 ## Introduction

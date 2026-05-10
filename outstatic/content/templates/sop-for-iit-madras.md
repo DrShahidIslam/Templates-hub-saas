@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Iit Madras
+publishedAt: '2026-05-10T18:48:01.303Z'
+---
 # Standard Operating Procedure: Academic and Operational Engagement with IIT Madras
 
 This document outlines the standardized workflow for engaging with the Indian Institute of Technology (IIT) Madras for research collaborations, industrial partnerships, or recruitment activities. As one of India’s premier technical institutes, IIT Madras operates under a structured ecosystem requiring strict adherence to administrative protocols, intellectual property guidelines, and campus engagement policies. Following these procedures ensures professional alignment with the institute’s Research Park (IITMRP) and central administrative offices.

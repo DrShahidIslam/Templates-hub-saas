@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Mechanical Engineering
+publishedAt: '2026-05-10T18:48:01.861Z'
+---
 # Standard Operating Procedure: Mechanical Engineering Design & Execution
 
 This Standard Operating Procedure (SOP) defines the systematic workflow for mechanical engineering projects, ensuring consistency, safety, and regulatory compliance. This protocol is designed to mitigate design risks, ensure structural integrity, and optimize manufacturing processes from the conceptual phase through to final validation. Adherence to this SOP is mandatory for all engineering personnel to maintain organizational quality standards and project timelines.

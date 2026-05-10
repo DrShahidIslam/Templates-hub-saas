@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Unauthorised Absence
+publishedAt: '2026-05-10T18:48:01.498Z'
+---
 # Standard Operating Procedure: Handling Unauthorised Absence
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocol for managing employees who are absent from work without prior approval or notification. The primary objective is to maintain operational continuity, ensure consistent and fair application of company policy, and mitigate legal risks through rigorous documentation. Managers must remain objective, maintain clear communication channels, and ensure that every action taken is recorded in the employee’s personnel file.

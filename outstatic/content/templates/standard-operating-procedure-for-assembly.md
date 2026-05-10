@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Assembly
+publishedAt: '2026-05-10T18:48:01.654Z'
+---
 # Standard Operating Procedure: Assembly Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the assembly of components into finished products. The objective of this document is to ensure consistency, maximize operational efficiency, maintain high quality standards, and prioritize personnel safety. Adherence to these procedures is required for all production staff to minimize variance, reduce rework, and ensure that every unit meets defined engineering specifications.

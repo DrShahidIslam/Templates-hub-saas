@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Teachers
+publishedAt: '2026-05-10T18:48:00.763Z'
+---
 # Standard Operating Procedure: Daily Routine for Educators
 
 This Standard Operating Procedure (SOP) outlines the daily operational framework for teaching staff to ensure classroom readiness, student engagement, and professional compliance. By adhering to this structured routine, educators can maximize instructional time, minimize behavioral disruptions, and maintain a consistent learning environment that supports student success. This document serves as the baseline for operational excellence and should be adapted to the specific grade-level or subject-matter requirements of the department.

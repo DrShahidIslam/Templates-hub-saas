@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Spectrophotometer
+publishedAt: '2026-05-10T18:48:01.946Z'
+---
 # Standard Operating Procedure: UV-Vis Spectrophotometer Operation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the safe and accurate operation of the UV-Vis Spectrophotometer. Adherence to these procedures is essential to ensure measurement precision, maintain instrument calibration, and protect the optical integrity of the equipment. This document applies to all laboratory personnel authorized to utilize the spectrophotometer for analytical quantification and qualitative scanning.

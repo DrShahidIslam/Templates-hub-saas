@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Pharmacy
+publishedAt: '2026-05-10T18:48:01.405Z'
+---
 # Standard Operating Procedure: Pharmacy Operations Management
 
 This document outlines the professional standards and mandatory protocols for daily pharmacy operations. As an expert operations manager, the goal of this SOP is to ensure maximum patient safety, regulatory compliance (HIPAA/FDA/State Board), and operational efficiency. Adherence to these procedures is non-negotiable to maintain licensure and provide high-quality pharmaceutical care.

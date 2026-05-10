@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Water Tank Cleaning
+publishedAt: '2026-05-10T18:48:01.997Z'
+---
 # Standard Operating Procedure: Potable Water Tank Maintenance and Sanitation
 
 ## Introduction

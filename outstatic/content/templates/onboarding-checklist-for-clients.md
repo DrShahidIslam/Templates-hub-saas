@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist For Clients
+publishedAt: '2026-05-10T18:48:00.954Z'
+---
 # Standard Operating Procedure: Client Onboarding Excellence
 
 Effective client onboarding is the bridge between a successful sales process and long-term retention. This SOP is designed to ensure a seamless, professional, and consistent transition for every new client. By standardizing the initial engagement phase, we reduce time-to-value, clarify expectations, and build the foundational trust necessary for a high-performing partnership. The objective of this process is to move the client from "signed contract" to "fully operational" with zero friction.

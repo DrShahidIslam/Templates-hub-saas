@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template Powerapps
+publishedAt: '2026-05-10T18:48:01.068Z'
+---
 # SOP: Power Apps Template Onboarding and Deployment
 
 This Standard Operating Procedure (SOP) outlines the standardized process for deploying, configuring, and onboarding new Power Apps templates within the organizational environment. Proper onboarding ensures that applications are secure, compliant with data governance policies, and optimized for performance before being released to the end-user base. By following this protocol, teams maintain architectural consistency and minimize technical debt during the transition from development to production.

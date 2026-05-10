@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Loading And Unloading Fuel
+publishedAt: '2026-05-10T18:48:01.851Z'
+---
 # Standard Operating Procedure: Loading and Unloading Fuel
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety protocols and operational steps for the loading and unloading of liquid fuels. Adherence to these procedures is critical to prevent static discharge, spills, environmental contamination, and fire hazards. All personnel involved in these operations must possess the required certifications and wear appropriate Personal Protective Equipment (PPE) at all times.

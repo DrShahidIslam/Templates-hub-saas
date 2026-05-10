@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Aihr
+publishedAt: '2026-05-10T18:48:00.932Z'
+---
 # Standard Operating Procedure: AIHR Onboarding Process
 
 This Standard Operating Procedure (SOP) outlines the standardized process for onboarding new employees or team members onto the AIHR (Academy to Innovate HR) platform. Effective onboarding ensures that users gain immediate access to their designated certification tracks, understand the platform’s navigation, and are prepared to engage with the curriculum to maximize their professional development ROI. Following these steps ensures consistency, access security, and learner readiness.

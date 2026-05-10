@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Class 1 To 5
+publishedAt: '2026-05-10T18:48:00.649Z'
+---
 # Standard Operating Procedure: Daily Classroom Routine (Grades 1–5)
 
 This document outlines the standardized operational framework for managing daily classroom activities for primary school students (Grades 1–5). The primary objective is to cultivate a consistent, predictable, and engaging learning environment that maximizes instructional time while fostering student independence and emotional well-being. Adherence to this routine ensures that both faculty and students maintain focus, reduce transition anxiety, and adhere to institutional safety and academic standards.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Maintenance Checklist For Lathe Machine
+publishedAt: '2026-05-10T18:48:00.895Z'
+---
 # Standard Operating Procedure: Lathe Machine Preventative Maintenance
 
 This Standard Operating Procedure (SOP) outlines the mandatory maintenance protocols for industrial lathe machines. Adherence to this schedule is critical to ensuring operational precision, extending the lifespan of machine components, and maintaining a safe working environment. Operators and maintenance technicians must perform these checks according to the specified frequency (daily, weekly, and monthly) to prevent unplanned downtime, minimize catastrophic mechanical failure, and ensure adherence to ISO/ASME quality standards.

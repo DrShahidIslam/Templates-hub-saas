@@ -1,3 +1,8 @@
+---
+status: published
+title: Maintenance Checklist For Forklift
+publishedAt: '2026-05-10T18:48:00.895Z'
+---
 # SOP: Forklift Preventive Maintenance Inspection
 
 This Standard Operating Procedure (SOP) establishes the mandatory protocol for conducting daily pre-shift inspections of industrial forklifts. Consistent maintenance is critical to operational safety, minimizing equipment downtime, and ensuring compliance with OSHA 1910.178 standards. All operators must complete this inspection before operating the machinery; if a defect is identified, the forklift must be tagged out of service immediately and reported to maintenance management.

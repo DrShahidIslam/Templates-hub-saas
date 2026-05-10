@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Safety Briefing
+publishedAt: '2026-05-10T18:48:01.592Z'
+---
 # Standard Operating Procedure: Safety Briefing Protocols
 
 This Standard Operating Procedure (SOP) outlines the mandatory requirements for conducting a safety briefing before the commencement of any high-risk activity, shift, or project phase. The objective of this briefing is to ensure that all personnel are aware of site-specific hazards, emergency procedures, and the necessary personal protective equipment (PPE) required to mitigate risk. Adherence to this SOP is mandatory for all supervisors and team leaders to ensure compliance with occupational health and safety regulations and to foster a culture of proactive injury prevention.

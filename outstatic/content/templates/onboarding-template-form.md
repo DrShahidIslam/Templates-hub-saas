@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template Form
+publishedAt: '2026-05-10T18:48:01.057Z'
+---
 # Standard Operating Procedure: New Hire Onboarding Template Form
 
 This Standard Operating Procedure (SOP) outlines the standardized process for utilizing the New Hire Onboarding Template Form to ensure a seamless transition for incoming employees. By utilizing this template, the organization ensures data integrity, legal compliance, and a high-touch cultural integration. All hiring managers and HR personnel are required to follow this workflow to guarantee that every new hire receives consistent provisioning, administrative setup, and role-based training documentation.

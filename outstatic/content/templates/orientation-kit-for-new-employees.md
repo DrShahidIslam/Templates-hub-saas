@@ -1,3 +1,8 @@
+---
+status: published
+title: Orientation Kit For New Employees
+publishedAt: '2026-05-10T18:48:01.076Z'
+---
 # Standard Operating Procedure: New Employee Orientation Kit Assembly
 
 The New Employee Orientation Kit serves as the first physical touchpoint between the company culture and the incoming staff member. An effective kit reduces anxiety, accelerates the onboarding process, and ensures that all new hires possess the necessary tools to be productive from day one. This SOP outlines the standardized procedure for assembling, customizing, and delivering comprehensive orientation kits to ensure a consistent, professional, and welcoming onboarding experience.

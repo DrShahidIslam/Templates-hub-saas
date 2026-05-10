@@ -1,3 +1,8 @@
+---
+status: published
+title: Qa Testing Checklist
+publishedAt: '2026-05-10T18:48:01.082Z'
+---
 # Standard Operating Procedure: Quality Assurance Testing Protocol
 
 This Quality Assurance (QA) Testing Procedure is designed to ensure that all software releases meet rigorous standards for functionality, reliability, and user experience. By implementing this standardized workflow, the QA team mitigates the risk of production defects, ensures cross-functional alignment, and maintains a consistent baseline for software quality. This document serves as the mandatory checklist for all features and bug fixes prior to deployment.

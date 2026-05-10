@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Bacterial Culture
+publishedAt: '2026-05-10T18:48:01.656Z'
+---
 # Standard Operating Procedure: Bacterial Culture Techniques
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the aseptic cultivation of bacteria in a laboratory environment. Proper adherence to these procedures is critical to ensure the viability of cultures, maintain experimental reproducibility, and prevent cross-contamination or the release of biological agents. All personnel must strictly observe biosafety cabinet (BSC) requirements and utilize appropriate personal protective equipment (PPE) throughout the process.

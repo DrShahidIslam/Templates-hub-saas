@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Needle Stick Injury
+publishedAt: '2026-05-10T18:48:01.872Z'
+---
 # Standard Operating Procedure: Management of Needle Stick Injuries (NSI)
 
 This Standard Operating Procedure (SOP) outlines the mandatory clinical and administrative protocol for managing a percutaneous injury (needle stick) or contact with blood/body fluids. The objective is to standardize the emergency response to mitigate the risk of bloodborne pathogen transmission—specifically HIV, Hepatitis B (HBV), and Hepatitis C (HCV)—through rapid assessment, prophylactic intervention, and diligent documentation. Immediate adherence to these steps is critical for the safety of both the healthcare provider and the patient.

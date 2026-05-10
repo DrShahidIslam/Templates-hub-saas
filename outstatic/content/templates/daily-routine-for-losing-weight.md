@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Losing Weight
+publishedAt: '2026-05-10T18:48:00.715Z'
+---
 # Standard Operating Procedure: Daily Weight Management Routine
 
 ### Overview

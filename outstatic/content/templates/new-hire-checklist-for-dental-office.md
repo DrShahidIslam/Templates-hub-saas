@@ -1,3 +1,8 @@
+---
+status: published
+title: New Hire Checklist For Dental Office
+publishedAt: '2026-05-10T18:48:00.908Z'
+---
 # Standard Operating Procedure: Dental Office New Hire Onboarding
 
 The successful integration of a new team member is critical to maintaining high standards of patient care, operational efficiency, and team morale. This SOP outlines the structured process for onboarding dental office personnel, ensuring that all clinical, administrative, and compliance requirements are met during their first week and beyond. By following this standardized protocol, the practice minimizes turnover, mitigates regulatory risk, and ensures the new hire is fully equipped to contribute to the patient experience from day one.

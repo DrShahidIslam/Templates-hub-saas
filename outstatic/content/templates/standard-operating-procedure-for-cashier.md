@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Cashier
+publishedAt: '2026-05-10T18:48:01.672Z'
+---
 # Standard Operating Procedure: Cashier Operations
 
 This Standard Operating Procedure (SOP) outlines the professional expectations, technical workflows, and safety protocols required for the cashier position. The objective of this document is to ensure consistent service delivery, accurate financial reconciliation, and a seamless customer checkout experience. All cashiers are expected to adhere to these guidelines to maintain operational excellence and mitigate the risk of loss or error.

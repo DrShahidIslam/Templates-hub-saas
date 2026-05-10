@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Medical Assistant
+publishedAt: '2026-05-10T18:48:01.861Z'
+---
 # Standard Operating Procedure: Medical Assistant Clinical Excellence
 
 This Standard Operating Procedure (SOP) outlines the core clinical and administrative responsibilities required of a Medical Assistant (MA) to ensure patient safety, workflow efficiency, and clinical compliance. Adherence to these protocols is mandatory to maintain high standards of patient care, minimize clinical risk, and facilitate seamless operations within the healthcare facility.

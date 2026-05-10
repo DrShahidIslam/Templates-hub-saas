@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Tissue Processing
+publishedAt: '2026-05-10T18:48:01.955Z'
+---
 # Standard Operating Procedure: Histology Tissue Processing
 
 This Standard Operating Procedure (SOP) outlines the standardized workflow for the automated dehydration, clearing, and infiltration of biological tissue samples. The objective of this procedure is to transition fixed tissue specimens into paraffin wax blocks, ensuring structural integrity, optimal morphology, and compatibility with microtomy. Strict adherence to this protocol is mandatory to prevent tissue desiccation, shrinkage, or under-processing, which can compromise diagnostic accuracy.

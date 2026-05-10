@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Refrigerator
+publishedAt: '2026-05-10T18:48:01.921Z'
+---
 # Standard Operating Procedure: Refrigerator Maintenance and Operations
 
 ## Introduction

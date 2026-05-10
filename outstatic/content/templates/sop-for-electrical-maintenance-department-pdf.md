@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Electrical Maintenance Department Pdf
+publishedAt: '2026-05-10T18:48:01.219Z'
+---
 # Standard Operating Procedure: Electrical Maintenance Department
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the Electrical Maintenance Department to ensure the safe, efficient, and reliable operation of all facility electrical systems. The objective of this document is to standardize maintenance practices, mitigate the risk of electrical hazards, ensure compliance with OSHA and NFPA 70E standards, and maximize the operational lifespan of critical infrastructure. All personnel are required to adhere to these procedures strictly, prioritizing lockout/tagout (LOTO) safety and documentation integrity.

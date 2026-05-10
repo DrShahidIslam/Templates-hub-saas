@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Logistics
+publishedAt: '2026-05-10T18:48:01.854Z'
+---
 # Standard Operating Procedure: Logistics and Supply Chain Execution
 
 This Standard Operating Procedure (SOP) defines the systematic workflow for managing inbound and outbound logistics, ensuring operational efficiency, inventory accuracy, and timely delivery. This document serves as the primary reference for warehouse supervisors, logistics coordinators, and inventory management teams to maintain high service levels while minimizing overhead costs.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Electrical Safety
+publishedAt: '2026-05-10T18:48:01.220Z'
+---
 # Standard Operating Procedure: Electrical Safety Management
 
 ## Purpose and Scope

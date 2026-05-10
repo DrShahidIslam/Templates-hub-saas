@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Cleaning
+publishedAt: '2026-05-10T18:48:01.191Z'
+---
 # Standard Operating Procedure: General Facility Sanitation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for maintaining a high standard of cleanliness and hygiene within the facility. The objective of this document is to ensure a safe, organized, and sanitary environment for all employees and visitors by establishing consistent cleaning routines. Adherence to these procedures minimizes the spread of pathogens, prolongs the lifespan of facility assets, and fosters a professional atmosphere conducive to productivity.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For General Practice
+publishedAt: '2026-05-10T18:48:01.789Z'
+---
 # Standard Operating Procedure: General Practice Operations
 
 This Standard Operating Procedure (SOP) serves as the foundational framework for maintaining high-quality clinical care, operational efficiency, and regulatory compliance within our general practice. By standardizing administrative and clinical workflows, we ensure consistent patient outcomes, mitigate risk, and maintain a seamless experience for both staff and patients. Adherence to these protocols is mandatory for all personnel to ensure safe, ethical, and efficient healthcare delivery.

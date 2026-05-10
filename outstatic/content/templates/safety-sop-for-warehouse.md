@@ -1,3 +1,8 @@
+---
+status: published
+title: Safety Sop For Warehouse
+publishedAt: '2026-05-10T18:48:01.104Z'
+---
 # Standard Operating Procedure: Warehouse Safety and Hazard Mitigation
 
 This Standard Operating Procedure (SOP) establishes the mandatory safety protocols for all personnel operating within the warehouse facility. The primary objective is to maintain a zero-incident work environment by standardizing practices related to material handling, equipment operation, emergency response, and ergonomic awareness. Compliance with these procedures is non-negotiable and is designed to protect employees, minimize equipment downtime, and ensure regulatory adherence.

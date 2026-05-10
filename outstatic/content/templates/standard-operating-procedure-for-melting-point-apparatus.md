@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Melting Point Apparatus
+publishedAt: '2026-05-10T18:48:01.864Z'
+---
 # Standard Operating Procedure: Operation of Melting Point Apparatus
 
 This Standard Operating Procedure (SOP) outlines the safe and accurate operation of the digital or capillary melting point apparatus. Precision in determining melting points is critical for verifying the purity of crystalline substances and identifying unknown compounds. Following this procedure ensures equipment longevity, minimizes user error, and provides reproducible, high-quality data. All personnel must wear appropriate Personal Protective Equipment (PPE), including safety glasses and a lab coat, throughout the operation.

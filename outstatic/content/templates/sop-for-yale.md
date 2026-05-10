@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Yale
+publishedAt: '2026-05-10T18:48:01.568Z'
+---
 # Standard Operating Procedure: Yale Smart Lock Management & Maintenance
 
 This Standard Operating Procedure (SOP) outlines the professional requirements for the installation, operation, and security administration of Yale smart lock systems. As an operations manager, it is critical to ensure that physical security remains robust while maintaining ease of access for authorized personnel. This document serves as the single source of truth for property managers and security officers overseeing Yale-integrated environments.

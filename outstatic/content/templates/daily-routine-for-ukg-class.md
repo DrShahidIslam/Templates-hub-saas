@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Ukg Class
+publishedAt: '2026-05-10T18:48:00.768Z'
+---
 # Standard Operating Procedure: Daily Routine for UKG Class
 
 ## Introduction

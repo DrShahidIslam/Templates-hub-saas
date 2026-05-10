@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Office Cleaning
+publishedAt: '2026-05-10T18:48:01.880Z'
+---
 # Standard Operating Procedure: Office Cleaning & Sanitation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for maintaining a clean, hygienic, and professional office environment. The objective of this document is to ensure consistency, prevent the spread of pathogens, and maintain workspace aesthetics that reflect organizational standards. All cleaning staff are required to adhere to these procedures to ensure the health and safety of employees and visitors while extending the longevity of office furniture and infrastructure.

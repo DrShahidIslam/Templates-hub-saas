@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Sop
+publishedAt: '2026-05-10T18:48:01.473Z'
+---
 # Standard Operating Procedure: Standard Operating Procedure (SOP) Development
 
 This document serves as the master SOP for the creation, review, and maintenance of all operational documentation within the organization. By standardizing the methodology for drafting SOPs, we ensure consistency, minimize operational risk, and provide clear, actionable guidance for all team members. All new procedures must adhere to this framework to ensure regulatory compliance and process efficiency.

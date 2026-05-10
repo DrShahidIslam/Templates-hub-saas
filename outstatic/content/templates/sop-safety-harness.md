@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Safety Harness
+publishedAt: '2026-05-10T18:48:01.599Z'
+---
 # Standard Operating Procedure: Fall Protection Harness Inspection and Donning
 
 This Standard Operating Procedure (SOP) establishes the mandatory protocol for the inspection, fitting, and utilization of full-body safety harnesses. Adherence to these guidelines is critical to ensuring compliance with OSHA 1910.140 and 1926.503 standards. Every user must perform a visual and tactile inspection before each use to confirm equipment integrity; failure to do so may result in catastrophic injury or death in the event of a fall.

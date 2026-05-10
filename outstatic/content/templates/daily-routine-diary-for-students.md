@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine Diary For Students
+publishedAt: '2026-05-10T18:48:00.614Z'
+---
 # Standard Operating Procedure: Daily Routine Management for Students
 
 ## Purpose and Overview

@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Checklist Format For Housekeeping Pdf
+publishedAt: '2026-05-10T18:48:00.586Z'
+---
 # Standard Operating Procedure: Daily Housekeeping Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily protocols for maintaining high-level cleanliness, hygiene, and room readiness. By utilizing this structured checklist, housekeeping staff ensure consistency across all units, minimize liability, and uphold the property’s reputation for excellence. This document serves as a master template to be exported as a PDF for daily distribution to the housekeeping team.

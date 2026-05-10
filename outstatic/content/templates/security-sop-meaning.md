@@ -1,3 +1,8 @@
+---
+status: published
+title: Security Sop Meaning
+publishedAt: '2026-05-10T18:48:01.144Z'
+---
 # Standard Operating Procedure: Establishing and Maintaining Security SOPs
 
 ## Introduction

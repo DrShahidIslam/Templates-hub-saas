@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Quality System Definition
+publishedAt: '2026-05-10T18:48:01.902Z'
+---
 # Standard Operating Procedure: Quality System Definition
 
 This document outlines the formalized process for defining, structuring, and implementing a Quality Management System (QMS) within an organization. A robust quality system provides the framework for consistent output, regulatory compliance, and continuous process improvement. By following this SOP, stakeholders ensure that all operational activities align with organizational objectives and external quality standards (such as ISO 9001, AS9100, or FDA 21 CFR Part 820). This procedure is intended for Quality Managers, Operations leads, and Department Heads responsible for maintaining organizational integrity.

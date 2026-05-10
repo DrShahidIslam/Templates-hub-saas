@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Office Staff
+publishedAt: '2026-05-10T18:48:01.385Z'
+---
 # Standard Operating Procedure: Daily Office Operations
 
 This Standard Operating Procedure (SOP) outlines the professional expectations, daily workflows, and administrative responsibilities for office staff. The primary objective is to maintain a seamless, organized, and professional environment that supports organizational productivity. All staff members are expected to adhere to these protocols to ensure consistency in client interactions, facility management, and internal communication.

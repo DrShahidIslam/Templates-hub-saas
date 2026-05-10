@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Dob Update In Aadhaar
+publishedAt: '2026-05-10T18:48:01.210Z'
+---
 # Standard Operating Procedure (SOP): Date of Birth (DOB) Update in Aadhaar
 
 This Standard Operating Procedure outlines the mandatory protocols and procedural steps for updating the Date of Birth (DOB) in an Aadhaar record. As the Date of Birth is a critical demographic field, the Unique Identification Authority of India (UIDAI) maintains strict governance over these updates. Adherence to this SOP ensures compliance with data integrity standards, prevents fraudulent identity claims, and minimizes the likelihood of request rejection due to documentation mismatch.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template App
+publishedAt: '2026-05-10T18:48:01.044Z'
+---
 # Standard Operating Procedure: Onboarding Template App Implementation
 
 This Standard Operating Procedure (SOP) outlines the standardized process for deploying, customizing, and maintaining the Onboarding Template App. The objective of this procedure is to ensure a consistent, professional, and efficient onboarding experience for all new hires by utilizing a centralized digital workflow. By following these steps, department heads and HR leads will minimize administrative bottlenecks, ensure compliance with documentation requirements, and accelerate time-to-productivity for every new team member.

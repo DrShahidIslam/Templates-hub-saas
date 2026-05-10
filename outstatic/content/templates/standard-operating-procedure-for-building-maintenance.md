@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Building Maintenance
+publishedAt: '2026-05-10T18:48:01.671Z'
+---
 # Standard Operating Procedure: Comprehensive Building Maintenance
 
 This Standard Operating Procedure (SOP) establishes a systematic framework for maintaining the physical integrity, safety, and functionality of building assets. Effective maintenance management ensures a safe environment for occupants, extends the lifecycle of mechanical and structural systems, and mitigates the risk of costly emergency repairs. This document is intended for facilities managers, maintenance technicians, and custodial staff to ensure consistent, high-quality operations.

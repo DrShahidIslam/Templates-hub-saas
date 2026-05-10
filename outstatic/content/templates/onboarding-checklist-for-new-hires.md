@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist For New Hires
+publishedAt: '2026-05-10T18:48:00.972Z'
+---
 # Standard Operating Procedure: New Hire Onboarding
 
 The onboarding process is a critical operational bridge between recruitment and full productivity. This SOP outlines a standardized, consistent approach to integrating new talent into the organization, ensuring that every hire is equipped with the necessary resources, cultural context, and operational knowledge to succeed. By following this structured workflow, the organization minimizes downtime, increases employee retention, and ensures compliance with company policies from Day 1.

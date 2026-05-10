@@ -1,3 +1,8 @@
+---
+status: published
+title: Safety Sop Manual
+publishedAt: '2026-05-10T18:48:01.110Z'
+---
 # Standard Operating Procedure: Safety Manual Management
 
 This Standard Operating Procedure (SOP) outlines the rigorous process for creating, maintaining, and distributing the organizational Safety Manual. The objective is to ensure that all safety documentation remains compliant with regulatory standards, reflects current operational hazards, and is accessible to all personnel. This procedure acts as the backbone of our workplace safety culture, ensuring that every employee understands their responsibilities in mitigating risk and maintaining a secure environment.

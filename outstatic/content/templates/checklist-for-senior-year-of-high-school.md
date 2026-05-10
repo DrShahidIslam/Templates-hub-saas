@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Senior Year Of High School
+publishedAt: '2026-05-10T18:48:00.509Z'
+---
 # Standard Operating Procedure: Senior Year Academic & Post-Secondary Milestones
 
 Senior year is the critical transition period between secondary education and post-secondary endeavors. This Standard Operating Procedure (SOP) serves as a comprehensive roadmap for students and parents to manage academic requirements, college admissions, financial aid, and essential life-skill preparation. Adherence to this structured timeline ensures all deadlines are met, anxiety is minimized, and the transition to the next phase of development is executed with maximum efficiency.

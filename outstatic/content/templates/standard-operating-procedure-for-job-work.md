@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Job Work
+publishedAt: '2026-05-10T18:48:01.838Z'
+---
 # Standard Operating Procedure: Job Work Management
 
 This Standard Operating Procedure (SOP) defines the systematic process for managing job work—the outsourcing of specific production stages or services to external vendors. Effective job work management is critical for maintaining quality control, ensuring regulatory compliance (such as GST/tax tracking for material movement), and safeguarding inventory accuracy. This document ensures that all raw materials, components, and finished goods are tracked seamlessly from dispatch to final receipt.

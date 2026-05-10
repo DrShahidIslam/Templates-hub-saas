@@ -1,3 +1,8 @@
+---
+status: published
+title: Safety Sop In Pharma
+publishedAt: '2026-05-10T18:48:01.107Z'
+---
 # Standard Operating Procedure: Pharmaceutical Facility Safety & Hazard Control
 
 This Standard Operating Procedure (SOP) establishes the mandatory safety protocols for operations within a pharmaceutical manufacturing environment. The objective is to maintain a zero-incident culture, ensure compliance with Good Manufacturing Practices (GMP) and Occupational Safety and Health Administration (OSHA) standards, and protect personnel from chemical, biological, and physical hazards inherent in the production of medicinal products. All personnel, including permanent staff, contractors, and visitors, must adhere to these guidelines to mitigate risk and ensure facility integrity.

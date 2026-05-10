@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Good Documentation Practices
+publishedAt: '2026-05-10T18:48:01.274Z'
+---
 # Standard Operating Procedure: Good Documentation Practices (GDP)
 
 ## Purpose and Scope

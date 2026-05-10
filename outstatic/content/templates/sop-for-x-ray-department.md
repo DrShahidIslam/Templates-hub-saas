@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For X Ray Department
+publishedAt: '2026-05-10T18:48:01.553Z'
+---
 # Standard Operating Procedure: Radiology Imaging Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the safe, efficient, and diagnostic-quality operation of the X-ray department. These procedures are designed to ensure patient safety, minimize ionizing radiation exposure (ALARA principle), and maintain regulatory compliance. All radiology staff, including technologists and clinical assistants, must adhere to these guidelines to ensure consistency in image acquisition and departmental workflow.

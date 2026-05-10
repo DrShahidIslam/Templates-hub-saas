@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist For Bank Guarantee
+publishedAt: '2026-05-10T18:48:00.340Z'
+---
 # Standard Operating Procedure: Bank Guarantee Audit
 
 This Standard Operating Procedure (SOP) outlines the mandatory audit requirements for validating, monitoring, and managing Bank Guarantees (BGs). As a critical financial instrument, a Bank Guarantee represents a significant liability for the organization; therefore, it is imperative to ensure that every instrument is authentic, legally binding, and aligned with internal risk management policies. This audit process is designed to mitigate operational risk, ensure compliance with treasury mandates, and prevent fraudulent activity.

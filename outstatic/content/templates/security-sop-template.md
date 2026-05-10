@@ -1,3 +1,8 @@
+---
+status: published
+title: Security Sop Template
+publishedAt: '2026-05-10T18:48:01.148Z'
+---
 # Standard Operating Procedure: Security Protocols Template
 
 This document provides a robust, scalable framework for establishing, maintaining, and auditing security operations within an organization. As an operations manager, the goal is to standardize responses, mitigate vulnerabilities, and ensure compliance with industry safety standards. This SOP template serves as a foundational guide; it should be customized to align with your specific facility requirements, regulatory mandates, and risk profile.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Analytical Balance
+publishedAt: '2026-05-10T18:48:01.159Z'
+---
 # Standard Operating Procedure: Analytical Balance Operation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the operation, maintenance, and verification of analytical balances in the laboratory. Analytical balances are precision instruments designed for high-accuracy mass measurement; therefore, strict adherence to these procedures is required to ensure data integrity, prevent instrument damage, and maintain a safe working environment. Improper handling can result in significant drift, measurement errors, and permanent damage to the weighing mechanism.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Uv Spectrophotometer
+publishedAt: '2026-05-10T18:48:01.507Z'
+---
 # Standard Operating Procedure: UV-Visible Spectrophotometer Operation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the safe and accurate operation of the UV-Visible Spectrophotometer. Adherence to these guidelines is essential to maintain instrument integrity, ensure the accuracy of photometric measurements, and provide reliable analytical data for laboratory research. All personnel must complete instrument-specific training before attempting to operate the system independently.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Ximb
+publishedAt: '2026-05-10T18:48:01.561Z'
+---
 # Standard Operating Procedure: XIMB Administrative Protocol
 
 This Standard Operating Procedure (SOP) outlines the standardized operational framework for the XIMB (X-Institutional Management & Batch) processing cycle. This document ensures consistent data integrity, streamlined workflow execution, and adherence to institutional compliance standards. All personnel involved in the XIMB lifecycle are expected to follow these procedures to minimize operational friction and maximize institutional output.

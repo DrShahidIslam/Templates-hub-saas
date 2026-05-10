@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine Video For Kids
+publishedAt: '2026-05-10T18:48:00.838Z'
+---
 # Standard Operating Procedure: Daily Routine Video Production for Kids
 
 This SOP outlines the standardized workflow for producing engaging, high-quality, and educational daily routine content tailored for a pediatric audience. The objective is to maintain consistency, safety, and viewer retention while fostering positive habits through visual storytelling. Every production must prioritize clarity, enthusiastic delivery, and age-appropriate pacing to ensure maximum impact on the target demographic.

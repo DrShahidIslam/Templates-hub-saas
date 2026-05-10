@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Obstetrics And Gynecology
+publishedAt: '2026-05-10T18:48:01.880Z'
+---
 # Standard Operating Procedure: Obstetrics & Gynecology Clinical Operations
 
 This Standard Operating Procedure (SOP) outlines the clinical and administrative requirements for the delivery of high-quality, patient-centered care within an Obstetrics and Gynecology (OB/GYN) setting. The objective is to standardize clinical workflows, ensure patient safety, maintain regulatory compliance, and uphold the highest standards of evidence-based practice. This document applies to all clinical staff, including physicians, registered nurses, medical assistants, and administrative personnel, and is designed to mitigate risk while optimizing patient outcomes across both outpatient clinic settings and inpatient delivery suites.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For X Ray
+publishedAt: '2026-05-10T18:48:02.002Z'
+---
 # Standard Operating Procedure: Diagnostic X-Ray Imaging
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for performing diagnostic X-ray imaging. The objective of this procedure is to ensure high-quality diagnostic images while strictly adhering to the ALARA (As Low As Reasonably Achievable) principle to minimize radiation exposure to patients and staff. All personnel operating X-ray equipment must hold current certification and follow institutional safety guidelines.

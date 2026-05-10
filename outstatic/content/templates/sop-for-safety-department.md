@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Safety Department
+publishedAt: '2026-05-10T18:48:01.455Z'
+---
 # Standard Operating Procedure: Safety Department Operations
 
 This Standard Operating Procedure (SOP) outlines the core operational requirements, compliance mandates, and procedural oversight responsibilities for the Safety Department. The objective of this document is to ensure a consistent, proactive approach to hazard mitigation, regulatory compliance, and the promotion of a "Safety-First" culture across all organizational levels. Adherence to these protocols is mandatory for all safety personnel to maintain legal standards and minimize operational risk.

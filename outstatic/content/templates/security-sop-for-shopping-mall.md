@@ -1,3 +1,8 @@
+---
+status: published
+title: Security Sop For Shopping Mall
+publishedAt: '2026-05-10T18:48:01.135Z'
+---
 # Standard Operating Procedure: Shopping Mall Security Operations
 
 This Standard Operating Procedure (SOP) outlines the comprehensive security protocols designed to ensure the safety of patrons, tenants, and assets within the shopping mall environment. It establishes a standardized framework for access control, emergency response, surveillance monitoring, and incident reporting. All security personnel are required to adhere to these procedures to maintain a secure, professional, and welcoming atmosphere while mitigating risks associated with theft, unauthorized access, and public safety threats.

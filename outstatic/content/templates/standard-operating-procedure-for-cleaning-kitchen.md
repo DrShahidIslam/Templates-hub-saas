@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Cleaning Kitchen
+publishedAt: '2026-05-10T18:48:01.682Z'
+---
 # Standard Operating Procedure: Professional Kitchen Sanitation
 
 Maintaining a pristine kitchen environment is the cornerstone of food safety, operational efficiency, and regulatory compliance. This SOP outlines the systematic approach required to sanitize, organize, and maintain kitchen facilities to meet health department standards. This procedure is designed to minimize cross-contamination, extend the lifespan of culinary equipment, and ensure a safe, high-performance workspace for all staff members.

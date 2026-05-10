@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Vehicle Use
+publishedAt: '2026-05-10T18:48:01.982Z'
+---
 # Standard Operating Procedure: Organizational Vehicle Use
 
 This Standard Operating Procedure (SOP) establishes the mandatory protocols for the safe, efficient, and professional use of company-owned or leased vehicles. The objective of this policy is to minimize operational risk, ensure compliance with local traffic regulations, maintain vehicle longevity, and uphold the organization’s professional reputation. All employees authorized to operate company vehicles are expected to adhere to these guidelines without exception.

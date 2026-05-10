@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Magnetic Stirrer
+publishedAt: '2026-05-10T18:48:01.355Z'
+---
 # Standard Operating Procedure: Operation of Magnetic Stirrer
 
 This Standard Operating Procedure (SOP) outlines the safe and effective operation of a laboratory magnetic stirrer. Proper usage ensures consistent homogenization of chemical solutions, maintains laboratory safety, and extends the service life of the equipment. All personnel must review this document and confirm competency with the laboratory supervisor before initial use.

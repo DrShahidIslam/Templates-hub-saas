@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop You Up With A Biscuit
+publishedAt: '2026-05-10T18:48:01.627Z'
+---
 # Standard Operating Procedure: Optimal Biscuit-to-Gravy Absorption (SOP-BGA)
 
 This document outlines the professional-grade protocol for the maneuver colloquially known as "sopping up with a biscuit." The objective of this procedure is to maximize the structural integrity of the biscuit while ensuring the highest possible yield of residual gravy, sauce, or protein drippings from the plate surface. Execution of this SOP ensures zero wastage of culinary assets and a superior tactile dining experience.

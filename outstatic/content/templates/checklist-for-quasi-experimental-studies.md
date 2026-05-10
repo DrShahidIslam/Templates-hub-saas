@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Quasi Experimental Studies
+publishedAt: '2026-05-10T18:48:00.497Z'
+---
 # Standard Operating Procedure: Implementation of Quasi-Experimental Studies
 
 This Standard Operating Procedure (SOP) outlines the essential rigorous framework for conducting quasi-experimental studies. Unlike randomized controlled trials (RCTs), quasi-experimental designs lack random assignment to treatment and control groups. Consequently, they require meticulous attention to baseline equivalence, selection bias mitigation, and robust statistical control to ensure internal validity. This document serves as a guide for researchers and operations managers to maintain data integrity and methodological transparency throughout the study lifecycle.

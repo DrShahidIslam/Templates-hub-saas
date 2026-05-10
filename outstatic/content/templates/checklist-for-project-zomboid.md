@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Project Zomboid
+publishedAt: '2026-05-10T18:48:00.491Z'
+---
 # Standard Operating Procedure: Survival Protocol for Project Zomboid
 
 The objective of this Standard Operating Procedure (SOP) is to maximize survival longevity and resource efficiency within the Kentucky exclusion zone. Survival in Project Zomboid is an exercise in risk mitigation; this checklist provides a structural framework for initial character spawning, base fortification, and sustainable long-term logistics. By adhering to this protocol, operators will reduce cognitive load during high-stress encounters and ensure mission continuity.

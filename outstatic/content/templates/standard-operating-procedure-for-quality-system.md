@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Quality System
+publishedAt: '2026-05-10T18:48:01.914Z'
+---
 # Standard Operating Procedure: Quality Management System (QMS) Maintenance
 
 ## 1. Introduction

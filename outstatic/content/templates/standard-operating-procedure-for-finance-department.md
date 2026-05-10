@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Finance Department
+publishedAt: '2026-05-10T18:48:01.753Z'
+---
 # Standard Operating Procedure: Finance Department Financial Operations
 
 ## Introduction

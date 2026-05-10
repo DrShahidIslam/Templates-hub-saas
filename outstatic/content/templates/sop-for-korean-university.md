@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Korean University
+publishedAt: '2026-05-10T18:48:01.340Z'
+---
 # Standard Operating Procedure: International Student Enrollment (Korean University)
 
 This Standard Operating Procedure (SOP) outlines the standardized workflow for prospective international students aiming to secure admission into a South Korean university. Given the rigorous nature of South Korean academic administration, adherence to specific documentation standards, apostille requirements, and visa processing timelines is critical for success. This document serves as a roadmap to navigate the transition from initial research to final enrollment, ensuring compliance with both university admissions offices and the Ministry of Justice (MOJ) immigration regulations.

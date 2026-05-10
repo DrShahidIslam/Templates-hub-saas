@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist California
+publishedAt: '2026-05-10T18:48:00.936Z'
+---
 # Standard Operating Procedure: California Employee Onboarding
 
 This Standard Operating Procedure (SOP) outlines the mandatory compliance and administrative protocols for onboarding new employees in the state of California. Given California’s stringent labor laws—including specific requirements for wage notices, harassment prevention training, and localized payroll tax filings—adherence to this checklist is critical to mitigate legal liability and ensure a seamless integration for the new hire.

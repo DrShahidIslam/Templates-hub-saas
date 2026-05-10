@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Kitchen Department
+publishedAt: '2026-05-10T18:48:01.334Z'
+---
 # Standard Operating Procedure: Kitchen Operations Management
 
 This Standard Operating Procedure (SOP) serves as the foundational guide for the kitchen department to ensure culinary excellence, food safety, and operational efficiency. By standardizing processes from inventory management to final plating, this document aims to minimize waste, maintain health code compliance, and ensure a consistent guest experience. All kitchen staff are required to adhere to these protocols to maintain the highest standards of safety and professional output.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Needle Stick Injury
+publishedAt: '2026-05-10T18:48:01.373Z'
+---
 # Standard Operating Procedure: Management of Needle Stick and Sharps Injuries
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocol for managing occupational exposure to bloodborne pathogens via needle stick or sharps injuries. The objective of this procedure is to minimize the risk of infection transmission (such as HIV, HBV, and HCV) through immediate first aid, rapid medical assessment, and rigorous documentation. All staff must prioritize immediate action and report the incident to their supervisor without delay.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Nicu
+publishedAt: '2026-05-10T18:48:01.380Z'
+---
 # Standard Operating Procedure: Neonatal Intensive Care Unit (NICU) Clinical Operations
 
 This Standard Operating Procedure (SOP) outlines the critical clinical and operational workflows required to maintain the highest standard of care within the Neonatal Intensive Care Unit. The primary objective of this document is to ensure patient safety, minimize neonatal morbidity, and standardize care delivery across multi-disciplinary teams. All staff must adhere to these protocols to maintain regulatory compliance and foster a high-reliability environment.

@@ -1,3 +1,8 @@
+---
+status: published
+title: How To Make A Daily Checklist
+publishedAt: '2026-05-10T18:48:00.864Z'
+---
 # Standard Operating Procedure: Creating an Effective Daily Checklist
 
 This Standard Operating Procedure (SOP) outlines the methodology for designing a high-impact daily checklist. An effective checklist is more than a to-do list; it is a cognitive offloading tool designed to ensure operational consistency, reduce mental fatigue, and guarantee that critical tasks are completed with precision. By following this framework, personnel will transition from reactive multitasking to proactive, structured workflow management.

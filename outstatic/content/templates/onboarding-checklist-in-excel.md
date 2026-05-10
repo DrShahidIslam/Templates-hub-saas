@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist In Excel
+publishedAt: '2026-05-10T18:48:00.992Z'
+---
 # Standard Operating Procedure: Employee Onboarding via Excel Tracker
 
 This SOP outlines the standardized procedure for utilizing the "Employee Onboarding Excel Tracker" to ensure a consistent, compliant, and welcoming transition for all new hires. By centralizing documentation and task tracking within a single workbook, Operations Managers can eliminate manual follow-ups, maintain audit trails, and ensure that every department—from IT to HR—is aligned during the critical first 30 days of employment.

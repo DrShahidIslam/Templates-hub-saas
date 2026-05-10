@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Unauthorized Wilful Absence
+publishedAt: '2026-05-10T18:48:01.968Z'
+---
 # Standard Operating Procedure: Handling Unauthorized Willful Absence
 
 This Standard Operating Procedure (SOP) outlines the formal process for addressing unauthorized, willful absence from the workplace. An "unauthorized willful absence" is defined as any instance where an employee is absent from their scheduled shift without prior approval, fails to provide timely notification, or exceeds granted leave without justification. The objective of this procedure is to ensure equitable treatment, maintain operational continuity, document instances of non-compliance, and provide a structured framework for corrective action while remaining compliant with labor laws and company policy.

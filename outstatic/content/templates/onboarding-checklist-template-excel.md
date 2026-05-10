@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Template Excel
+publishedAt: '2026-05-10T18:48:01.014Z'
+---
 # Standard Operating Procedure: New Hire Onboarding Template Management
 
 This Standard Operating Procedure (SOP) outlines the standardized process for creating, maintaining, and utilizing an Excel-based onboarding checklist. A centralized, digital onboarding template ensures that every new hire receives a consistent, high-quality orientation experience, reduces administrative overhead for HR and department managers, and minimizes the risk of missing critical compliance or integration steps. By treating the Excel template as a "living document," organizations can scale their onboarding processes effectively while maintaining accountability and visibility across multiple departments.

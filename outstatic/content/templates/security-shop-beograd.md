@@ -1,3 +1,8 @@
+---
+status: published
+title: Security Shop Beograd
+publishedAt: '2026-05-10T18:48:01.123Z'
+---
 # Standard Operating Procedure: Retail Security Operations (Security Shop Beograd)
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for daily operations at Security Shop Beograd. The objective is to maintain a high standard of security, customer service, and inventory accuracy while ensuring compliance with local Serbian trade laws and security equipment regulations. All staff members are required to adhere to these procedures to minimize risk, prevent internal theft, and ensure a professional retail environment.

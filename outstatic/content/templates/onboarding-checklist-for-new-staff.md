@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist For New Staff
+publishedAt: '2026-05-10T18:48:00.975Z'
+---
 # Standard Operating Procedure: New Hire Onboarding
 
 The objective of this onboarding SOP is to standardize the integration of new team members, ensuring they are culturally aligned, operationally prepared, and administratively cleared to contribute from day one. A structured onboarding process reduces turnover, minimizes ramp-up time, and fosters immediate employee engagement. This document serves as the master guide for hiring managers and HR personnel to execute a seamless transition for all incoming staff.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template For Sharepoint
+publishedAt: '2026-05-10T18:48:01.056Z'
+---
 # Standard Operating Procedure: SharePoint Onboarding & Provisioning
 
 This document outlines the standardized process for onboarding new users, project teams, or departments into the SharePoint environment. Consistent execution of this SOP ensures proper permission management, document architecture integrity, and alignment with organizational governance policies. By following these steps, administrators prevent "permission sprawl" and ensure that sensitive data remains secure while remaining accessible to those who require it.

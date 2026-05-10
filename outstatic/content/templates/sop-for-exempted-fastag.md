@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Exempted Fastag
+publishedAt: '2026-05-10T18:48:01.238Z'
+---
 # Standard Operating Procedure: Processing Exempted FASTag Requests
 
 ## Introduction

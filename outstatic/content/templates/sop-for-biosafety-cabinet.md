@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Biosafety Cabinet
+publishedAt: '2026-05-10T18:48:01.175Z'
+---
 # Standard Operating Procedure: Biosafety Cabinet (BSC) Operation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the safe and effective operation of a Class II Biosafety Cabinet. The primary objective of this equipment is to provide personnel, product, and environmental protection by filtering exhausted air through HEPA filters and maintaining laminar airflow. All laboratory personnel must adhere to these guidelines to maintain a sterile environment, prevent cross-contamination, and ensure user safety when handling biological or hazardous agents.

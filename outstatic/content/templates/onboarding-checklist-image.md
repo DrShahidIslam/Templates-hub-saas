@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Image
+publishedAt: '2026-05-10T18:48:00.991Z'
+---
 # Standard Operating Procedure: Employee Onboarding Image & Documentation Protocol
 
 Effective employee onboarding is the cornerstone of organizational culture, operational efficiency, and legal compliance. This SOP outlines the standardized process for creating, managing, and distributing the "Onboarding Checklist Image"—a visual roadmap designed to guide new hires through their first 30 days. By centralizing this information into a high-visibility, professional graphic, the organization ensures that new team members maintain clarity, reduce cognitive load, and engage with key milestones immediately upon arrival.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Tray Dryer
+publishedAt: '2026-05-10T18:48:01.490Z'
+---
 # Standard Operating Procedure: Tray Dryer Operations
 
 This Standard Operating Procedure (SOP) defines the systematic process for the operation, monitoring, and maintenance of the industrial Tray Dryer. Proper execution of these steps ensures optimal moisture removal, prevents cross-contamination, maintains product integrity, and adheres to safety protocols. All operators must be trained and authorized before initiating the drying process.

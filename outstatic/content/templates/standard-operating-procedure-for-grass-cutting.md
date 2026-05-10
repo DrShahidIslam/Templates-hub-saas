@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Grass Cutting
+publishedAt: '2026-05-10T18:48:01.797Z'
+---
 # Standard Operating Procedure: Professional Grounds Maintenance (Grass Cutting)
 
 ## Introduction

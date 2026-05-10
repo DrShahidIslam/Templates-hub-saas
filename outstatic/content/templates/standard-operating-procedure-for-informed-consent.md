@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Informed Consent
+publishedAt: '2026-05-10T18:48:01.828Z'
+---
 # Standard Operating Procedure: Informed Consent Process
 
 This Standard Operating Procedure (SOP) establishes the formal requirements and best practices for obtaining informed consent in professional, clinical, or research settings. The objective of this process is to ensure that all participants or patients possess a comprehensive understanding of the nature, risks, benefits, and alternatives of a proposed procedure or study, thereby upholding ethical standards and legal compliance. Adherence to this protocol is mandatory to protect the autonomy of the participant and the institutional integrity of the organization.

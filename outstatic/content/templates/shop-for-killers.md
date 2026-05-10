@@ -1,3 +1,8 @@
+---
+status: published
+title: Shop For Killers
+publishedAt: '2026-05-10T18:48:01.150Z'
+---
 # Standard Operating Procedure: Strategic Talent Acquisition for High-Performance Roles
 
 ## Introduction

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Icp Oes
+publishedAt: '2026-05-10T18:48:01.821Z'
+---
 # Standard Operating Procedure: Inductively Coupled Plasma Optical Emission Spectroscopy (ICP-OES)
 
 This Standard Operating Procedure (SOP) provides the mandatory guidelines for the safe, accurate, and efficient operation of the Inductively Coupled Plasma Optical Emission Spectroscopy (ICP-OES) instrument. Adherence to these protocols ensures analytical precision, maintains instrument longevity, and upholds laboratory safety standards. All users must be trained and authorized prior to operating this equipment; failure to follow these procedures may result in damage to the torch, nebulizer, or optical system.

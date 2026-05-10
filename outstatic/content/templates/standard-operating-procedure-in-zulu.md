@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure In Zulu
+publishedAt: '2026-05-10T18:48:02.007Z'
+---
 # Standard Operating Procedure (SOP): Ukudala Nokugcina Izinqubo Ezisebenzayo (Standard Operating Procedures)
 
 Lolu mbhalo uhlinzeka ngomhlahlandlela obanzi wokudala, ukubhalwa, kanye nokusetshenziswa kwezinqubo ezisebenzayo (SOPs) ngolimi lwesiZulu. Inhloso ukunikeza abasebenzi imiyalelo ecacile, ehlelekile, futhi elula ukuyiqonda ukuze kuqinisekiswe ukusebenza kahle, ukuphepha, kanye nezinga eliphezulu lomsebenzi kuzo zonke izigaba zebhizinisi.

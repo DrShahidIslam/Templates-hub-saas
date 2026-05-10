@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Template Canva
+publishedAt: '2026-05-10T18:48:01.011Z'
+---
 # SOP: Onboarding Checklist Template Management via Canva
 
 This Standard Operating Procedure (SOP) outlines the professional workflow for creating, maintaining, and deploying employee onboarding checklists using Canva. Utilizing Canva for onboarding ensures that new hires receive visually engaging, brand-aligned, and structured documentation that facilitates a seamless transition into the company. This guide covers the end-to-end process from template selection to final distribution.

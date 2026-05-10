@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist For Warehouse
+publishedAt: '2026-05-10T18:48:00.366Z'
+---
 # Standard Operating Procedure: Warehouse Audit Protocols
 
 This Standard Operating Procedure (SOP) defines the systematic approach to conducting a comprehensive warehouse audit. The primary objective is to verify inventory accuracy, assess facility safety compliance, evaluate operational efficiency, and identify potential risks to supply chain continuity. By adhering to this rigorous audit framework, management ensures high-level inventory integrity, mitigates shrinkage, and maintains compliance with OSHA and industry-standard safety regulations. This process should be executed quarterly to maintain peak operational performance.

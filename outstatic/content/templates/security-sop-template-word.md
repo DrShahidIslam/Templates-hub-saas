@@ -1,3 +1,8 @@
+---
+status: published
+title: Security Sop Template Word
+publishedAt: '2026-05-10T18:48:01.148Z'
+---
 # Standard Operating Procedure: Developing and Maintaining Security SOP Documents
 
 This document outlines the professional framework for creating, standardizing, and updating Security Standard Operating Procedures (SOPs). By following this structure, organizations ensure that physical and digital security protocols are clear, actionable, and compliant with industry standards. This SOP template is designed to minimize human error and ensure operational continuity during high-stress security incidents.

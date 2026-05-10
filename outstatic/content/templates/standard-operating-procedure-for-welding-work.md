@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Welding Work
+publishedAt: '2026-05-10T18:48:02.000Z'
+---
 # Standard Operating Procedure: Safe Welding Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety protocols, equipment preparation, and execution steps required to conduct welding operations. As an operations manager, the goal of this document is to ensure a zero-incident work environment, maintain consistent weld quality, and comply with all regulatory occupational health and safety (OHS) standards. Failure to adhere to these guidelines may result in fire hazards, electrical shock, or long-term health complications for personnel.

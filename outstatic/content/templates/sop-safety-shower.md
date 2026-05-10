@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Safety Shower
+publishedAt: '2026-05-10T18:48:01.611Z'
+---
 # Standard Operating Procedure: Emergency Safety Shower & Eyewash Station Operation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the effective operation, activation, and maintenance of emergency safety shower and eyewash units. Proper utilization of these facilities is critical for mitigating chemical exposure, thermal burns, or particulate injuries. All personnel working with hazardous materials must be trained to locate and operate these stations within a 10-second travel time of the hazard zone.

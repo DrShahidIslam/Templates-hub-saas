@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Vacuum Cleaner
+publishedAt: '2026-05-10T18:48:01.978Z'
+---
 # Standard Operating Procedure: Vacuum Cleaner Maintenance and Operation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the safe and efficient operation and maintenance of industrial and commercial-grade vacuum cleaners. Adherence to these guidelines ensures optimal suction performance, extends the lifespan of the equipment, and minimizes health and safety risks to the operator. All personnel responsible for floor care must be trained on this procedure before operating the equipment.

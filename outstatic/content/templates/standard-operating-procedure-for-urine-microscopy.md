@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Urine Microscopy
+publishedAt: '2026-05-10T18:48:01.974Z'
+---
 # Standard Operating Procedure: Urine Microscopy Analysis
 
 This Standard Operating Procedure (SOP) outlines the standardized clinical process for performing microscopic examination of urine sediment. Proper execution of this procedure is critical for the accurate identification of cells, casts, crystals, and microorganisms, which are essential for the diagnostic evaluation of renal and urological conditions. This protocol must be performed by trained laboratory personnel in accordance with established biosafety guidelines and quality control standards.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Ups
+publishedAt: '2026-05-10T18:48:01.972Z'
+---
 # Standard Operating Procedure: Uninterruptible Power Supply (UPS) Maintenance and Management
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the inspection, monitoring, and maintenance of Uninterruptible Power Supply (UPS) systems within the facility. The objective of this procedure is to ensure continuous power availability for critical infrastructure, extend the service life of internal battery modules, and minimize the risk of unplanned downtime due to power fluctuations or hardware failure. All personnel responsible for facility maintenance or IT infrastructure are required to adhere to these guidelines to maintain hardware integrity and safety compliance.

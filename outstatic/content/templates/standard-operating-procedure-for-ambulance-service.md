@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Ambulance Service
+publishedAt: '2026-05-10T18:48:01.652Z'
+---
 # Standard Operating Procedure: Emergency Ambulance Service Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for ambulance personnel during pre-hospital emergency medical service (EMS) operations. Its primary objective is to ensure the safety of the crew, the efficient delivery of life-saving care, and the systematic documentation of patient encounters. All personnel must adhere to these guidelines to maintain clinical excellence, legal compliance, and operational readiness.

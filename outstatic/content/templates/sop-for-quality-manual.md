@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Quality Manual
+publishedAt: '2026-05-10T18:48:01.428Z'
+---
 # Standard Operating Procedure: Quality Manual Development and Maintenance
 
 This Standard Operating Procedure (SOP) defines the mandatory process for creating, reviewing, approving, and maintaining the corporate Quality Manual. The Quality Manual serves as the primary document governing the Quality Management System (QMS), ensuring alignment with regulatory standards (such as ISO 9001:2015), operational transparency, and consistent organizational performance. Adherence to this procedure is required for all department heads and quality assurance personnel to maintain certification and operational excellence.

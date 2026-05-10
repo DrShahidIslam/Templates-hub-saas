@@ -1,3 +1,8 @@
+---
+status: published
+title: Maintenance Checklist For Diesel Generator
+publishedAt: '2026-05-10T18:48:00.893Z'
+---
 # Standard Operating Procedure: Diesel Generator Preventative Maintenance
 
 This Standard Operating Procedure (SOP) outlines the mandatory maintenance requirements for industrial diesel generator sets to ensure operational reliability, longevity, and compliance with safety standards. Adherence to this schedule is critical to preventing engine failure during power outages and ensuring that all standby power systems are ready for immediate load activation. All maintenance activities must be logged in the equipment service record.

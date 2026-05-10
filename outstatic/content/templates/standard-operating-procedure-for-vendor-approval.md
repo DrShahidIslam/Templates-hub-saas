@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Vendor Approval
+publishedAt: '2026-05-10T18:48:01.983Z'
+---
 # Standard Operating Procedure: Vendor Approval Process
 
 ## Introduction

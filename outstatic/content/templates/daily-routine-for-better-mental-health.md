@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Better Mental Health
+publishedAt: '2026-05-10T18:48:00.641Z'
+---
 # Standard Operating Procedure: Daily Mental Health Maintenance Protocol
 
 Effective mental health management requires the same level of operational rigor as high-performance business processes. This SOP outlines a systematic approach to daily habits designed to regulate the nervous system, optimize cognitive function, and build long-term psychological resilience. By treating these practices as non-negotiable operational requirements rather than optional self-care, you ensure consistent output and minimize the risk of burnout.

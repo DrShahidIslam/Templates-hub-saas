@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Urinalysis
+publishedAt: '2026-05-10T18:48:01.973Z'
+---
 # Standard Operating Procedure: Urinalysis Testing
 
 This Standard Operating Procedure (SOP) outlines the standardized process for the collection, handling, and analysis of urine specimens to ensure clinical accuracy, diagnostic reliability, and adherence to biosafety protocols. By following these rigorous guidelines, laboratory personnel minimize pre-analytical errors, maintain sample integrity, and guarantee consistent results across all testing cycles. This protocol applies to all clinical staff performing manual reagent strip testing or automated urinalysis in this facility.

@@ -1,3 +1,8 @@
+---
+status: published
+title: New Hire Checklist Amazon
+publishedAt: '2026-05-10T18:48:00.903Z'
+---
 # Standard Operating Procedure: New Hire Onboarding Process
 
 This document outlines the standardized workflow for onboarding a new hire at Amazon. The goal is to ensure a seamless integration, providing the necessary technical access, physical resources, and cultural orientation to ensure the new team member is productive and compliant from Day 1. By following this protocol, managers ensure that all logistical hurdles are cleared before the employee arrives, minimizing downtime and fostering a positive initial experience.

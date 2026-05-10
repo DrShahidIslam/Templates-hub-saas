@@ -1,3 +1,8 @@
+---
+status: published
+title: Security Sop For Schools
+publishedAt: '2026-05-10T18:48:01.134Z'
+---
 # Standard Operating Procedure: Comprehensive School Security Protocol
 
 This Standard Operating Procedure (SOP) establishes a rigorous framework for maintaining a safe and secure educational environment. The objective is to mitigate risks, protect students and staff, and ensure a rapid, coordinated response to potential security threats. All personnel are expected to familiarize themselves with these protocols, which serve as the baseline for operational excellence and site safety. Consistency, vigilance, and strict adherence to access control measures are the primary pillars of this security strategy.

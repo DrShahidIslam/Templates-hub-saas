@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Diesel Generator
+publishedAt: '2026-05-10T18:48:01.702Z'
+---
 # Standard Operating Procedure: Diesel Generator Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the safe and efficient operation of industrial diesel generators. Adherence to these procedures is critical to ensure personnel safety, maintain equipment longevity, and guarantee power reliability during grid outages or scheduled maintenance. All operators must be trained and authorized before interacting with generator controls or fuel systems.

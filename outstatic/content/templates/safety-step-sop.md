@@ -1,3 +1,8 @@
+---
+status: published
+title: Safety Step Sop
+publishedAt: '2026-05-10T18:48:01.119Z'
+---
 # Standard Operating Procedure: Safety Step Protocol
 
 This document outlines the mandatory procedures for identifying, assessing, and mitigating operational hazards during facility tasks. Adherence to this protocol is critical for maintaining an injury-free work environment, ensuring regulatory compliance, and upholding organizational standards. This procedure applies to all employees, contractors, and visitors operating within high-risk work zones.

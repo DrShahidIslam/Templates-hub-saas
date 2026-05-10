@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Nhrc Internship
+publishedAt: '2026-05-10T18:48:01.379Z'
+---
 # Standard Operating Procedure: NHRC Internship Application & Execution
 
 This Standard Operating Procedure (SOP) serves as a comprehensive guide for students and researchers applying for and participating in the internship programs at the National Human Rights Commission (NHRC) of India. The NHRC internship is a highly competitive, merit-based program aimed at sensitizing students to human rights issues. This document outlines the professional requirements, administrative expectations, and procedural milestones necessary to successfully secure and complete an internship tenure.

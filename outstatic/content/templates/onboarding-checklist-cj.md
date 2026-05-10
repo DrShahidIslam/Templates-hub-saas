@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Cj
+publishedAt: '2026-05-10T18:48:00.938Z'
+---
 # Standard Operating Procedure: Employee Onboarding (CJ)
 
 This Standard Operating Procedure (SOP) outlines the comprehensive process for onboarding new hires into the "CJ" department. The objective of this protocol is to ensure a seamless transition for new team members, guaranteeing they are equipped with the necessary access, documentation, and cultural integration required to reach full productivity within their first 30 days. Adherence to this checklist is mandatory for all hiring managers to maintain consistency and operational excellence.

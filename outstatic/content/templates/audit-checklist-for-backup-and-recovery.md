@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist For Backup And Recovery
+publishedAt: '2026-05-10T18:48:00.336Z'
+---
 # Standard Operating Procedure: Backup and Recovery Audit
 
 This Standard Operating Procedure (SOP) outlines the mandatory requirements for conducting a comprehensive audit of an organization’s backup and disaster recovery (BDR) infrastructure. The objective of this audit is to verify data integrity, confirm alignment with Recovery Time Objectives (RTO) and Recovery Point Objectives (RPO), and ensure that all critical business assets are protected against data loss, cyberattacks, and system failures. Adherence to this procedure is critical for maintaining business continuity and regulatory compliance.

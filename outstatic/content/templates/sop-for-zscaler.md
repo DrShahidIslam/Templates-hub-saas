@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Zscaler
+publishedAt: '2026-05-10T18:48:01.577Z'
+---
 # Standard Operating Procedure: Zscaler Cloud Security Administration
 
 This Standard Operating Procedure (SOP) defines the operational framework for managing the Zscaler platform (ZIA/ZPA). As an expert operations manager, the goal of this document is to ensure a secure, high-availability posture while maintaining optimal end-user connectivity. This procedure covers policy deployment, traffic management, and system health monitoring to minimize latency and mitigate cyber threats across the enterprise environment.

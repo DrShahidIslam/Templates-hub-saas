@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Safety Shoes
+publishedAt: '2026-05-10T18:48:01.611Z'
+---
 # Standard Operating Procedure: Safety Footwear Compliance and Maintenance
 
 ## Introduction

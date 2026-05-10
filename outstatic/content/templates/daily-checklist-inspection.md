@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Checklist Inspection
+publishedAt: '2026-05-10T18:48:00.590Z'
+---
 # Standard Operating Procedure: Daily Facility Inspection
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily inspection protocol for facility operations. The objective of this procedure is to ensure that all workspaces, equipment, and safety systems remain in optimal condition, mitigating operational risks and maintaining regulatory compliance. Adherence to this checklist is critical for sustaining organizational standards, promoting workplace safety, and preemptively identifying maintenance requirements before they escalate into costly downtime.

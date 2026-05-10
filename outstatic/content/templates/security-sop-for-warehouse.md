@@ -1,3 +1,8 @@
+---
+status: published
+title: Security Sop For Warehouse
+publishedAt: '2026-05-10T18:48:01.136Z'
+---
 # Standard Operating Procedure: Warehouse Security Management
 
 This Standard Operating Procedure (SOP) establishes the mandatory security protocols for warehouse operations to protect personnel, inventory, and infrastructure from theft, unauthorized access, and environmental risks. The objective is to maintain a "zero-loss" environment through a layered defense strategy, combining physical barriers, technological surveillance, and rigorous human-element verification. Adherence to these protocols is critical for maintaining supply chain integrity and operational continuity.

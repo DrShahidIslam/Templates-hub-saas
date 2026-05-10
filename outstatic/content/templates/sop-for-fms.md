@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Fms
+publishedAt: '2026-05-10T18:48:01.251Z'
+---
 # Standard Operating Procedure: Facilities Management Services (FMS)
 
 ## Introduction

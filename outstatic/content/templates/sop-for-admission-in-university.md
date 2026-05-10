@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Admission In University
+publishedAt: '2026-05-10T18:48:01.156Z'
+---
 # Standard Operating Procedure: University Admissions Process
 
 This Standard Operating Procedure (SOP) outlines the standardized workflow for managing university admissions. The primary objective of this document is to ensure a seamless, transparent, and efficient transition for prospective students from initial inquiry to final enrollment. By adhering to this protocol, the admissions department will minimize administrative bottlenecks, maintain data integrity, and ensure compliance with institutional academic standards.

@@ -1,3 +1,8 @@
+---
+status: published
+title: It Audit Checklist For Banks
+publishedAt: '2026-05-10T18:48:00.888Z'
+---
 # Standard Operating Procedure: IT Audit for Financial Institutions
 
 This Standard Operating Procedure (SOP) provides a comprehensive framework for conducting an Information Technology audit within a banking environment. Given the highly regulated nature of the financial sector—governed by standards such as GLBA, SOX, PCI-DSS, and Basel III—this audit focuses on ensuring data integrity, system availability, and robust cybersecurity posture. The objective is to identify control gaps, mitigate operational risks, and ensure adherence to both internal policies and statutory regulatory requirements.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template For New Hires
+publishedAt: '2026-05-10T18:48:01.054Z'
+---
 # Standard Operating Procedure: New Hire Onboarding Excellence
 
 This Standard Operating Procedure (SOP) outlines the standardized process for welcoming and integrating new employees into the organization. The objective of this workflow is to ensure a consistent, professional, and efficient onboarding experience that minimizes time-to-productivity, fosters cultural alignment, and ensures all administrative and technical requirements are met before the employee’s first day. By following these steps, we ensure that every new team member feels valued, supported, and fully equipped to contribute to our mission from day one.

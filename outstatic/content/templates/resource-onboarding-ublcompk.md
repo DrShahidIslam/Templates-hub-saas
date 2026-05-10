@@ -1,3 +1,8 @@
+---
+status: published
+title: Resource Onboarding Ublcompk
+publishedAt: '2026-05-10T18:48:01.087Z'
+---
 # Standard Operating Procedure: Resource Onboarding (UBL)
 
 This Standard Operating Procedure (SOP) outlines the standardized framework for integrating new personnel into the United Bank Limited (UBL) ecosystem. The objective of this process is to ensure that all incoming resources—whether permanent staff or contractual consultants—are equipped with the necessary system access, compliance clearances, and organizational context to contribute effectively from Day 1. Adherence to these protocols is mandatory to maintain UBL’s rigorous security standards and operational efficiency.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist For Water For Injection
+publishedAt: '2026-05-10T18:48:00.367Z'
+---
 # Standard Operating Procedure: Quality Audit of Water for Injection (WFI)
 
 ## Introduction

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Occupational Health And Safety
+publishedAt: '2026-05-10T18:48:01.384Z'
+---
 # Standard Operating Procedure: Occupational Health and Safety (OHS) Management
 
 This Standard Operating Procedure (SOP) outlines the mandatory framework for maintaining a safe and healthy workplace environment. The objective is to identify, evaluate, and mitigate risks to prevent occupational injuries, illnesses, and property damage. Adherence to these protocols is compulsory for all employees, contractors, and visitors, ensuring compliance with local regulatory requirements and industry best practices.

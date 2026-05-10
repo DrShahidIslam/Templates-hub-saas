@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Tooth Extraction
+publishedAt: '2026-05-10T18:48:01.956Z'
+---
 # Standard Operating Procedure: Routine Dental Extraction
 
 This Standard Operating Procedure (SOP) outlines the clinical protocol for a routine dental extraction to ensure patient safety, minimize post-operative complications, and maintain aseptic standards. This document is intended for use by licensed dental professionals and clinical support staff. Adherence to these steps ensures consistency in care, optimal healing outcomes, and the mitigation of surgical risks such as nerve injury, alveolar osteitis, or fractured roots.

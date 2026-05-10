@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Hiv Testing
+publishedAt: '2026-05-10T18:48:01.808Z'
+---
 # Standard Operating Procedure: HIV Diagnostic Testing
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for performing HIV diagnostic testing in a clinical or community-based setting. The objective of this procedure is to ensure the highest standards of patient safety, diagnostic accuracy, data privacy, and ethical counseling. All personnel involved in the testing process must adhere strictly to Universal Precautions and maintain patient confidentiality in accordance with local health regulations and HIPAA/GDPR standards.

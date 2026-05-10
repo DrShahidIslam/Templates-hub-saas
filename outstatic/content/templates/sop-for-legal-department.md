@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Legal Department
+publishedAt: '2026-05-10T18:48:01.351Z'
+---
 # Standard Operating Procedure: Legal Department Operations
 
 This Standard Operating Procedure (SOP) serves as the primary framework for the Legal Department to ensure regulatory compliance, mitigate organizational risk, and provide efficient counsel to internal stakeholders. By adhering to these standardized workflows, the department will maintain consistency in document management, contract lifecycles, and cross-departmental communications, thereby safeguarding the company’s legal and financial interests.

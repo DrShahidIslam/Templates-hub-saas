@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Jd
+publishedAt: '2026-05-10T18:48:01.320Z'
+---
 # Standard Operating Procedure: Job Description (JD) Development and Approval
 
 This Standard Operating Procedure (SOP) outlines the standardized process for developing, refining, and approving Job Descriptions (JDs) within the organization. The objective is to ensure that every role is clearly defined, aligned with departmental goals, compliant with labor regulations, and structured to attract high-quality talent. Adhering to this process minimizes role ambiguity, ensures pay equity, and supports effective performance management.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Healthy Lifestyle
+publishedAt: '2026-05-10T18:48:00.691Z'
+---
 # Standard Operating Procedure: Daily Routine for Optimal Health
 
 ## Introduction

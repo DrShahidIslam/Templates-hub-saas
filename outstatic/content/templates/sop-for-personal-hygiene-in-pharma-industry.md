@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Personal Hygiene In Pharma Industry
+publishedAt: '2026-05-10T18:48:01.401Z'
+---
 # Standard Operating Procedure: Personnel Hygiene and Gowning in Pharmaceutical Manufacturing
 
 Effective personnel hygiene is the primary defense against microbial and particulate contamination in pharmaceutical manufacturing environments. This SOP establishes the mandatory standards for personal health, cleanliness, and gowning protocols required for all employees entering Controlled Areas (CAs) and Cleanrooms (Grades A-D). Adherence to these procedures is essential to ensure product integrity, patient safety, and full compliance with cGMP (current Good Manufacturing Practices) and ISO 14644 standards.

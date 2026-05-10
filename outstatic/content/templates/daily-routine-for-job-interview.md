@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Job Interview
+publishedAt: '2026-05-10T18:48:00.699Z'
+---
 # Standard Operating Procedure: Daily Interview Execution Protocol
 
 This SOP establishes a rigorous, repeatable framework for candidates to ensure peak performance during job interviews. By standardizing the preparation, execution, and post-interview debriefing processes, candidates can mitigate stress, project professionalism, and maximize their conversion rate. This protocol is designed to be applied 24 hours prior to, and throughout the duration of, any professional interview engagement.

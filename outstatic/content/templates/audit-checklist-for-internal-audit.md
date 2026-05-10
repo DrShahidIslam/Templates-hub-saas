@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist For Internal Audit
+publishedAt: '2026-05-10T18:48:00.351Z'
+---
 # Standard Operating Procedure: Internal Audit Execution
 
 ## Overview

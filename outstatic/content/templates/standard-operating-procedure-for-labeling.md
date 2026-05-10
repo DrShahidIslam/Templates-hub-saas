@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Labeling
+publishedAt: '2026-05-10T18:48:01.842Z'
+---
 # Standard Operating Procedure: Inventory Labeling and Identification
 
 This Standard Operating Procedure (SOP) establishes the mandatory protocol for the labeling of inventory, assets, and outgoing shipments within our facility. Consistent, accurate, and durable labeling is essential for maintaining inventory accuracy, ensuring supply chain traceability, and facilitating efficient warehouse logistics. Adherence to this procedure reduces picking errors, prevents mis-shipments, and ensures compliance with industry-standard safety and identification requirements.

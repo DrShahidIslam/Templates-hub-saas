@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Gel Electrophoresis
+publishedAt: '2026-05-10T18:48:01.787Z'
+---
 # Standard Operating Procedure: Agarose Gel Electrophoresis
 
 This Standard Operating Procedure (SOP) outlines the standardized method for the separation of nucleic acids (DNA/RNA) based on size using agarose gel electrophoresis. Proper execution of these steps ensures high-resolution separation, reproducibility, and safety. All personnel must adhere to these guidelines to maintain laboratory integrity and protect against chemical hazards associated with ethidium bromide or alternative nucleic acid stains.

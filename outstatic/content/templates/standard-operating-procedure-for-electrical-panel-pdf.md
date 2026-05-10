@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Electrical Panel Pdf
+publishedAt: '2026-05-10T18:48:01.721Z'
+---
 # Standard Operating Procedure: Electrical Panel Maintenance and Inspection
 
 This document establishes the mandatory protocol for the inspection, maintenance, and documentation of electrical distribution panels within the facility. Adherence to this SOP ensures compliance with NFPA 70E (Standard for Electrical Safety in the Workplace), minimizes the risk of arc flash incidents, and prevents unplanned downtime due to equipment failure. All personnel performing these tasks must be qualified, authorized, and equipped with the appropriate Personal Protective Equipment (PPE) as dictated by the site’s current arc flash hazard analysis.

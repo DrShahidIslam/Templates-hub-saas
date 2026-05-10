@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Hospital
+publishedAt: '2026-05-10T18:48:01.290Z'
+---
 # Standard Operating Procedure: Hospital Operational Excellence and Patient Safety
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for maintaining operational integrity, clinical quality, and patient safety within a hospital environment. The primary objective is to ensure standardized care delivery, minimize clinical errors, and maintain strict regulatory compliance across all departments. This document serves as the foundation for daily operations, emergency preparedness, and facility management.

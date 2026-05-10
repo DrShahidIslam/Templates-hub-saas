@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine Checklist For Kids
+publishedAt: '2026-05-10T18:48:00.613Z'
+---
 # Standard Operating Procedure: Daily Routine Management (Childhood Edition)
 
 ## Introduction

@@ -1,3 +1,8 @@
+---
+status: published
+title: Inspection Checklist For A House
+publishedAt: '2026-05-10T18:48:00.867Z'
+---
 # Standard Operating Procedure: Residential Property Inspection
 
 This Standard Operating Procedure (SOP) provides a comprehensive framework for conducting a systematic inspection of a residential property. Whether for real estate due diligence, maintenance scheduling, or pre-move-in assessment, this protocol ensures that no critical structural or functional component is overlooked. By following this standardized methodology, stakeholders can identify potential hazards, estimate repair costs, and assess the long-term viability of the building’s systems.

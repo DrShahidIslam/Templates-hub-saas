@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Teams
+publishedAt: '2026-05-10T18:48:01.010Z'
+---
 # Standard Operating Procedure: Team Onboarding Process
 
 This Standard Operating Procedure (SOP) outlines the standardized process for onboarding new team members to ensure a seamless integration into the company culture, operational workflows, and technical environment. Effective onboarding is critical to reducing time-to-productivity, fostering long-term employee retention, and ensuring that all security and compliance protocols are met from day one. Managers and team leads are expected to follow these steps sequentially to provide a consistent and welcoming experience for every new hire.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template For Managers
+publishedAt: '2026-05-10T18:48:01.051Z'
+---
 # Standard Operating Procedure: New Manager Onboarding
 
 This Standard Operating Procedure (SOP) serves as a comprehensive framework for the effective onboarding of newly hired or promoted managers. The objective is to standardize the transition process, ensuring that new leaders are culturally aligned, operationally enabled, and equipped with the necessary resources to lead their teams effectively within their first 90 days. A structured onboarding process is critical to reducing "time-to-productivity" and increasing long-term retention of leadership talent.

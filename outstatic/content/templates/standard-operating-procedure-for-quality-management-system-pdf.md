@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Quality Management System Pdf
+publishedAt: '2026-05-10T18:48:01.900Z'
+---
 # Standard Operating Procedure: Quality Management System (QMS) Documentation Control
 
 ## Introduction

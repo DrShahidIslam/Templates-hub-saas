@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist In Oracle Hcm Cloud
+publishedAt: '2026-05-10T18:48:00.993Z'
+---
 # Standard Operating Procedure: New Hire Onboarding in Oracle HCM Cloud
 
 This Standard Operating Procedure (SOP) outlines the standardized process for onboarding new employees within Oracle HCM Cloud. Effective onboarding is critical for operational efficiency, ensuring that new hires are provisioned with the correct access, compensation data, and organizational alignment from day one. This document is intended for HR Specialists, HR Business Partners, and System Administrators responsible for maintaining data integrity during the lifecycle of an employee record.

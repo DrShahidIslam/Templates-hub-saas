@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Laundry Pdf
+publishedAt: '2026-05-10T18:48:01.849Z'
+---
 # Standard Operating Procedure: Professional Laundry Management
 
 This Standard Operating Procedure (SOP) outlines the professional protocols for the collection, sorting, laundering, and distribution of linens and garments. The objective of this procedure is to maintain operational efficiency, preserve textile longevity, and ensure the highest standards of hygiene and presentation. This document serves as the master reference for all staff members involved in laundry operations.

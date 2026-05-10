@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure Of Centrifuge Pdf
+publishedAt: '2026-05-10T18:48:02.019Z'
+---
 # Standard Operating Procedure: Laboratory Centrifuge Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety protocols, operational steps, and maintenance requirements for the use of laboratory centrifuges. Adherence to these procedures is critical to ensure operator safety, prevent mechanical failure, and maintain the integrity of laboratory samples. Failure to follow these guidelines may result in sample loss, equipment damage, or severe laboratory accidents caused by rotor imbalance or tube failure.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Nebulizer
+publishedAt: '2026-05-10T18:48:01.871Z'
+---
 # Standard Operating Procedure: Nebulizer Administration
 
 This Standard Operating Procedure (SOP) outlines the professional requirements for the preparation, administration, and maintenance of nebulizer treatments. The objective of this protocol is to ensure patient safety, prevent cross-contamination, and maximize the therapeutic efficacy of aerosolized medication delivery. All operators must adhere to these steps to maintain clinical standards and equipment longevity.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Hvac Validation
+publishedAt: '2026-05-10T18:48:01.299Z'
+---
 # Standard Operating Procedure: HVAC System Validation
 
 ## Introduction

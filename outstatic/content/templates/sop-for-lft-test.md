@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Lft Test
+publishedAt: '2026-05-10T18:48:01.352Z'
+---
 # Standard Operating Procedure: Liver Function Test (LFT) Execution
 
 This Standard Operating Procedure (SOP) outlines the standardized clinical protocol for performing a Liver Function Test (LFT), a diagnostic blood panel used to assess the health of the liver. The primary objective of this SOP is to ensure specimen integrity, minimize pre-analytical errors, and maintain strict patient safety standards throughout the phlebotomy and processing phases. Adherence to these guidelines is mandatory for all laboratory personnel to ensure accurate diagnostic reporting.

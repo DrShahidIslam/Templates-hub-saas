@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Template For New Hires
+publishedAt: '2026-05-10T18:48:01.017Z'
+---
 # Standard Operating Procedure: New Hire Onboarding Process
 
 ## Introduction

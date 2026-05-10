@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Fire Safety In Pharmaceutical Industry
+publishedAt: '2026-05-10T18:48:01.248Z'
+---
 # Standard Operating Procedure: Fire Safety Management in Pharmaceutical Manufacturing
 
 ## Introduction

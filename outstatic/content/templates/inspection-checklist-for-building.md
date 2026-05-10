@@ -1,3 +1,8 @@
+---
+status: published
+title: Inspection Checklist For Building
+publishedAt: '2026-05-10T18:48:00.875Z'
+---
 # Standard Operating Procedure: Building Inspection and Facility Audit
 
 This Standard Operating Procedure (SOP) outlines the professional requirements for conducting a comprehensive building inspection. The objective of this audit is to identify structural, mechanical, and safety deficiencies, ensure regulatory compliance, and maintain the operational integrity of the asset. This protocol should be utilized by facility managers, inspectors, or site supervisors to standardize reporting, minimize liability, and establish a preventative maintenance schedule based on empirical data.

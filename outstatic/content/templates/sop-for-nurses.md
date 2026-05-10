@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Nurses
+publishedAt: '2026-05-10T18:48:01.383Z'
+---
 # Standard Operating Procedure: Clinical Nursing Workflow and Patient Care
 
 This Standard Operating Procedure (SOP) serves as a comprehensive framework for clinical nursing staff to ensure consistent, safe, and evidence-based patient care. Adherence to these protocols is mandatory to maintain institutional compliance, minimize clinical errors, and uphold the highest standards of patient safety. This document outlines the expected workflow from shift intake through documentation and handoff, ensuring that every patient receives a standardized level of excellence throughout their care cycle.

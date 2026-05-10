@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Autistic Child Pdf
+publishedAt: '2026-05-10T18:48:00.636Z'
+---
 # Standard Operating Procedure: Daily Routine Management for Autistic Children
 
 This Standard Operating Procedure (SOP) is designed to provide a structured, predictable, and supportive framework for managing the daily routine of an autistic child. By establishing consistent transitions and clear visual expectations, this routine aims to reduce anxiety, minimize sensory overwhelm, and foster independence. The following protocol serves as a baseline that should be customized to the child’s specific sensory needs, communication style, and developmental milestones.

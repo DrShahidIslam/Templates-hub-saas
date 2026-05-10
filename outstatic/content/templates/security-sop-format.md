@@ -1,3 +1,8 @@
+---
+status: published
+title: Security Sop Format
+publishedAt: '2026-05-10T18:48:01.137Z'
+---
 # Standard Operating Procedure: Developing Security SOPs
 
 This document establishes the standardized framework for creating, maintaining, and updating security Standard Operating Procedures (SOPs). Security SOPs are critical living documents designed to minimize risk, ensure regulatory compliance, and provide staff with clear, actionable instructions for both routine operations and emergency response. Adherence to this format ensures consistency across departments, simplifies training, and creates a defensible audit trail for organizational safety.

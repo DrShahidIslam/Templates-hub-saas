@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Bank Reconciliation
+publishedAt: '2026-05-10T18:48:01.659Z'
+---
 # Standard Operating Procedure: Monthly Bank Reconciliation
 
 This Standard Operating Procedure (SOP) outlines the mandatory process for reconciling company bank accounts against internal general ledger (GL) records. The objective of this procedure is to ensure financial accuracy, detect unauthorized transactions, prevent fraud, and maintain compliance with audit requirements. This process must be completed within five (5) business days following the close of each calendar month.

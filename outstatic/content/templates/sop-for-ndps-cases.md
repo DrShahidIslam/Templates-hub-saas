@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Ndps Cases
+publishedAt: '2026-05-10T18:48:01.371Z'
+---
 # Standard Operating Procedure: Handling of Narcotic Drugs and Psychotropic Substances (NDPS) Cases
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the detection, seizure, documentation, and evidentiary processing of cases under the Narcotic Drugs and Psychotropic Substances (NDPS) Act. Given the stringent nature of legal requirements and the potential for defense challenges regarding procedural lapses, this document ensures the integrity of the chain of custody, the legality of the search and seizure process, and the admissibility of evidence in court. Adherence to these guidelines is non-negotiable to ensure successful prosecution and compliance with statutory mandates.

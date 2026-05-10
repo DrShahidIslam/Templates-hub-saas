@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Gst Compliance
+publishedAt: '2026-05-10T18:48:01.801Z'
+---
 # Standard Operating Procedure: GST Compliance Management
 
 This Standard Operating Procedure (SOP) outlines the mandatory workflows, internal controls, and documentation requirements necessary to maintain ongoing Goods and Services Tax (GST) compliance. As an operations manager, the objective of this document is to ensure timely filing, accurate tax calculation, and seamless reconciliation of input tax credits (ITC) to mitigate financial penalties and audit exposure. All personnel involved in the finance and accounting lifecycle are required to adhere to these protocols stringently.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Joint Declaration In Epfo
+publishedAt: '2026-05-10T18:48:01.327Z'
+---
 # Standard Operating Procedure: Processing EPFO Joint Declarations
 
 This Standard Operating Procedure (SOP) outlines the standardized process for submitting and tracking a Joint Declaration (JD) with the Employees’ Provident Fund Organisation (EPFO). A Joint Declaration is a formal request submitted by an employee and employer to correct discrepancies in member details—such as Name, Date of Birth, Date of Joining/Exit, or Father’s Name—to ensure alignment with Aadhar-linked KYC data and to prevent future claim rejections.

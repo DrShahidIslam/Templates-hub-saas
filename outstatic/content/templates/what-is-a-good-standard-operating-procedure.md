@@ -1,3 +1,8 @@
+---
+status: published
+title: What Is A Good Standard Operating Procedure
+publishedAt: '2026-05-10T18:48:02.041Z'
+---
 # SOP-001: Standard Operating Procedure Development Guidelines
 
 This document outlines the professional requirements for developing a high-quality Standard Operating Procedure (SOP). An effective SOP serves as the primary mechanism for institutional knowledge transfer, process consistency, and risk mitigation. By following these guidelines, stakeholders can ensure that documentation is actionable, sustainable, and strictly aligned with organizational goals.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Neet Dropper
+publishedAt: '2026-05-10T18:48:00.727Z'
+---
 # Standard Operating Procedure: Daily Academic Optimization for NEET Droppers
 
 This SOP is designed to transform the daily routine of a NEET dropper into a high-performance system. The objective is to eliminate decision fatigue, minimize cognitive load, and maximize syllabus coverage through structured deep-work sessions. As an operations manager for your own success, your primary focus is consistent execution of the following workflow, treating your preparation as a professional full-time occupation rather than a passive academic endeavor.

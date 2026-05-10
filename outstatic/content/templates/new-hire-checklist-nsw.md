@@ -1,3 +1,8 @@
+---
+status: published
+title: New Hire Checklist Nsw
+publishedAt: '2026-05-10T18:48:00.918Z'
+---
 # Standard Operating Procedure: New Hire Onboarding (NSW)
 
 This Standard Operating Procedure (SOP) outlines the mandatory administrative, legal, and operational steps required to successfully onboard a new employee in New South Wales. Adhering to this process ensures full compliance with the Fair Work Act 2009, NSW Work Health and Safety (WHS) regulations, and industry-specific award obligations, while simultaneously fostering a positive employee experience from day one.

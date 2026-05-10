@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Soil Nitrogen Kjeldahl Method
+publishedAt: '2026-05-10T18:48:01.941Z'
+---
 # Standard Operating Procedure: Soil Nitrogen Determination (Kjeldahl Method)
 
 The Kjeldahl method remains the gold standard for determining total nitrogen (TN) in soil samples, specifically measuring organic and ammoniacal nitrogen. The process involves the digestion of soil with concentrated sulfuric acid in the presence of a catalyst, followed by distillation of the resulting ammonium sulfate, and final titration of the liberated ammonia. As an expert operations manager, I emphasize that accuracy in this procedure relies heavily on precision in reagent preparation, consistent temperature control during digestion, and meticulous glassware maintenance to prevent cross-contamination.

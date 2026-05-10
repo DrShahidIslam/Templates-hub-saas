@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist For Volunteers
+publishedAt: '2026-05-10T18:48:00.982Z'
+---
 # Standard Operating Procedure: Volunteer Onboarding
 
 ## Introduction

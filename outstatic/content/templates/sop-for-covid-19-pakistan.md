@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Covid 19 Pakistan
+publishedAt: '2026-05-10T18:48:01.197Z'
+---
 # Standard Operating Procedure: COVID-19 Health & Safety Protocols (Pakistan)
 
 This document outlines the mandatory operating procedures for maintaining a safe work environment in compliance with guidelines issued by the National Command and Operation Center (NCOC) and the Ministry of National Health Services, Regulations and Coordination (MoNHSRC), Pakistan. The objective of this SOP is to minimize transmission risks, ensure business continuity, and protect the workforce through rigorous hygiene, social distancing, and reactive management strategies.

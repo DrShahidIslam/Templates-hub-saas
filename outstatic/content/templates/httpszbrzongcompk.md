@@ -1,3 +1,8 @@
+---
+status: published
+title: Httpszbrzongcompk
+publishedAt: '2026-05-10T18:48:00.865Z'
+---
 # Standard Operating Procedure: Zong Business Resource (ZBR) Portal Management
 
 This Standard Operating Procedure (SOP) outlines the professional methodology for managing corporate telecommunications services via the Zong Business Resource (ZBR) portal. The ZBR platform serves as the centralized dashboard for enterprise account administrators to monitor usage, manage subscriptions, oversee bulk billing, and request service modifications. Adherence to this protocol ensures data accuracy, cost optimization, and operational continuity for organizational mobile assets.

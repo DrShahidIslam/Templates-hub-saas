@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Vendor Selection
+publishedAt: '2026-05-10T18:48:01.985Z'
+---
 # Standard Operating Procedure: Vendor Selection
 
 This Standard Operating Procedure (SOP) outlines the formal process for identifying, evaluating, and selecting third-party vendors. The objective is to ensure that all procurement decisions are data-driven, mitigate operational risk, align with organizational goals, and provide the best value regarding cost, quality, and reliability. This process must be followed for all new vendor contracts exceeding the defined procurement threshold to maintain transparency and fiscal responsibility.

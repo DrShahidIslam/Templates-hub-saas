@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Uk
+publishedAt: '2026-05-10T18:48:01.033Z'
+---
 # Standard Operating Procedure: Employee Onboarding (UK Operations)
 
 This Standard Operating Procedure (SOP) outlines the mandatory framework for onboarding new employees within UK-based operations. The objective is to ensure full legal compliance with HMRC and Home Office regulations, facilitate seamless technical provisioning, and integrate new hires into the company culture effectively. Adherence to this protocol minimizes administrative errors, protects the business from statutory non-compliance, and establishes a foundation for long-term employee retention.

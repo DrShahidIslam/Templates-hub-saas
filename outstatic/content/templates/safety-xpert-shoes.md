@@ -1,3 +1,8 @@
+---
+status: published
+title: Safety Xpert Shoes
+publishedAt: '2026-05-10T18:48:01.120Z'
+---
 # Standard Operating Procedure: Safety Xpert Footwear Management
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the selection, inspection, maintenance, and disposal of Safety Xpert footwear. As an operations manager, it is critical to ensure that all personnel are equipped with compliant Personal Protective Equipment (PPE) to mitigate workplace hazards such as compression, impact, and slip-related injuries. Adherence to these procedures ensures organizational compliance with OSHA/ISO safety standards and maximizes the operational lifespan of the footwear.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Disposal Of Expired Drugs Pdf
+publishedAt: '2026-05-10T18:48:01.207Z'
+---
 # Standard Operating Procedure: Disposal of Expired Pharmaceuticals
 
 This Standard Operating Procedure (SOP) establishes the mandatory protocol for the identification, segregation, documentation, and final disposal of expired, damaged, or recalled pharmaceutical products. Adherence to this procedure is critical to ensure compliance with environmental regulations, prevent the diversion of controlled substances, and mitigate legal or health risks associated with the mishandling of pharmaceutical waste. This process applies to all pharmacy staff, clinical departments, and inventory managers.

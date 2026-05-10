@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Zone Reader
+publishedAt: '2026-05-10T18:48:01.576Z'
+---
 # Standard Operating Procedure: Zone Reader Calibration and Operational Monitoring
 
 This Standard Operating Procedure (SOP) defines the systematic process for the operation, monitoring, and troubleshooting of Zone Reader systems. As a critical component of infrastructure security and logistics tracking, the Zone Reader must maintain 99.9% uptime to ensure accurate data capture, asset visibility, and personnel safety. All personnel operating this equipment must adhere to these guidelines to maintain hardware integrity and data signal precision.

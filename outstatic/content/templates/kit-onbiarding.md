@@ -1,3 +1,8 @@
+---
+status: published
+title: Kit Onbiarding
+publishedAt: '2026-05-10T18:48:00.892Z'
+---
 # Standard Operating Procedure: Employee Hardware & Software Kit Onboarding
 
 Effective kit onboarding is the foundation of a new employee’s productivity and professional integration. This SOP outlines the standardized process for provisioning, configuring, and deploying hardware and software assets to ensure every new hire has a seamless Day 1 experience. By following this protocol, IT and Operations teams minimize downtime, maintain security compliance, and ensure hardware inventory accuracy.

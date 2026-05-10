@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Zubeen Garg Program
+publishedAt: '2026-05-10T18:48:01.579Z'
+---
 # Standard Operating Procedure: Zubeen Garg Live Performance Production
 
 This Standard Operating Procedure (SOP) outlines the operational requirements, technical specifications, and logistical coordination necessary to successfully execute a live concert featuring Zubeen Garg. Given the high-energy nature of his performances and the specific requirements for sound, lighting, and fan management, this document ensures consistency, safety, and a premium audience experience across all tour venues.

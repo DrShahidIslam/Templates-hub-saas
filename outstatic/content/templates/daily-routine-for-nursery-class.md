@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Nursery Class
+publishedAt: '2026-05-10T18:48:00.732Z'
+---
 # Standard Operating Procedure: Daily Nursery Operations
 
 This Standard Operating Procedure (SOP) is designed to ensure a safe, structured, and nurturing environment for nursery-aged children. By standardizing daily routines, staff can minimize transition anxiety, maximize learning opportunities, and maintain regulatory compliance regarding hygiene and safety. This document serves as the primary guideline for all nursery practitioners to facilitate consistent, high-quality care throughout the academic day.

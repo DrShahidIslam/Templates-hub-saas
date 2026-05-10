@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist For Statutory Audit
+publishedAt: '2026-05-10T18:48:00.359Z'
+---
 # Standard Operating Procedure: Statutory Audit Preparation
 
 This Standard Operating Procedure (SOP) outlines the systematic approach required to prepare for a statutory audit. A statutory audit is a legally required review of the accuracy of a company's financial records, statements, and internal controls. The objective of this procedure is to ensure transparency, regulatory compliance, and a seamless audit engagement by maintaining organized documentation and facilitating timely communication between the organization and external auditors.

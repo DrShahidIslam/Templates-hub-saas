@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template Free
+publishedAt: '2026-05-10T18:48:01.060Z'
+---
 # SOP: Standardizing Employee Onboarding via Template
 
 This Standard Operating Procedure (SOP) outlines the mandatory process for utilizing, customizing, and deploying the company’s "Onboarding Template." The objective of this procedure is to ensure a consistent, professional, and efficient welcome for every new hire, minimizing administrative friction while maximizing role integration and cultural alignment. Following this SOP ensures that all documentation, access, and training requirements are met prior to and during the employee's first week.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Mig Welding
+publishedAt: '2026-05-10T18:48:01.867Z'
+---
 # Standard Operating Procedure: Gas Metal Arc Welding (GMAW/MIG)
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety protocols, equipment preparation, and operational steps required to perform Gas Metal Arc Welding (GMAW). Adherence to this procedure ensures high-quality weld integrity, minimizes equipment wear, and maintains a zero-incident work environment. All operators must verify their personal protective equipment (PPE) and machine calibration before commencing any welding activity.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Spotify
+publishedAt: '2026-05-10T18:48:01.007Z'
+---
 # Standard Operating Procedure: New Hire Onboarding (Spotify)
 
 This Standard Operating Procedure (SOP) serves as the comprehensive framework for integrating new hires into the Spotify ecosystem. Designed to ensure operational excellence, cultural alignment, and immediate productivity, this onboarding process focuses on "The Spotify Way"—fostering autonomy, cross-functional collaboration, and creative innovation. Managers and People Operations leads must utilize this checklist to facilitate a seamless transition from offer acceptance to full integration within the "Squad" structure.

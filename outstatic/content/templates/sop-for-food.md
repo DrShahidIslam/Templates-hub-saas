@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Food
+publishedAt: '2026-05-10T18:48:01.254Z'
+---
 # Standard Operating Procedure: Food Safety and Preparation Excellence
 
 This Standard Operating Procedure (SOP) outlines the rigorous protocols required for the handling, preparation, and storage of food items within our facility. The objective is to maintain the highest standards of culinary quality while ensuring full compliance with health department regulations and food safety guidelines. Adherence to these procedures is mandatory for all personnel to mitigate the risk of foodborne illnesses and ensure consistent product output.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template Figma
+publishedAt: '2026-05-10T18:48:01.049Z'
+---
 # Standard Operating Procedure: Figma Onboarding Template Management
 
 This SOP outlines the standardized process for deploying, maintaining, and customizing Figma onboarding templates to ensure a seamless integration experience for new hires. By utilizing a centralized, repeatable template, operations and design teams can reduce administrative overhead, ensure consistency in documentation, and accelerate the "time-to-productivity" for new team members. This procedure applies to all departmental onboarding flows managed within the Figma ecosystem.

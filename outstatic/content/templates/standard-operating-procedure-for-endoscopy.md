@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Endoscopy
+publishedAt: '2026-05-10T18:48:01.726Z'
+---
 # Standard Operating Procedure: Endoscopy Clinical Workflow
 
 This Standard Operating Procedure (SOP) outlines the mandatory clinical and technical workflow for performing endoscopic procedures. Adherence to this protocol is critical to ensuring patient safety, maintaining the sterility of sensitive equipment, and achieving optimal diagnostic and therapeutic outcomes. All personnel involved in the endoscopy suite, including physicians, registered nurses, and technicians, must follow these steps to maintain compliance with institutional and regulatory standards.

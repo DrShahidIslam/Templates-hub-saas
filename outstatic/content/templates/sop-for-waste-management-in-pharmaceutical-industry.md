@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Waste Management In Pharmaceutical Industry
+publishedAt: '2026-05-10T18:48:01.528Z'
+---
 # Standard Operating Procedure: Pharmaceutical Waste Management
 
 ## Introduction

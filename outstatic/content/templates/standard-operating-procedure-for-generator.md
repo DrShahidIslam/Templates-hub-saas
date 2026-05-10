@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Generator
+publishedAt: '2026-05-10T18:48:01.790Z'
+---
 # Standard Operating Procedure: Emergency Backup Generator Maintenance & Operation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the safe, reliable, and efficient operation of onsite backup power generation systems. Adherence to these procedures is critical to ensuring operational continuity during grid failures and extending the service life of the generator unit. All personnel tasked with operating or maintaining this equipment must read, understand, and comply with these guidelines.

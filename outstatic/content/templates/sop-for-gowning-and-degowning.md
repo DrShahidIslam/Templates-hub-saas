@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Gowning And Degowning
+publishedAt: '2026-05-10T18:48:01.278Z'
+---
 # Standard Operating Procedure: Gowning and Degowning Protocol
 
 ## Introduction

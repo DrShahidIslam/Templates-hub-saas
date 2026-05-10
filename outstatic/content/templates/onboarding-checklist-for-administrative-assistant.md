@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist For Administrative Assistant
+publishedAt: '2026-05-10T18:48:00.950Z'
+---
 # Standard Operating Procedure: Administrative Assistant Onboarding
 
 The goal of this onboarding SOP is to ensure that all new Administrative Assistants are fully integrated into the team, equipped with the necessary tools, and aligned with company culture within their first two weeks. A structured onboarding process minimizes administrative friction, sets clear performance expectations, and empowers the new hire to provide immediate, high-value support to the leadership team and the organization at large.

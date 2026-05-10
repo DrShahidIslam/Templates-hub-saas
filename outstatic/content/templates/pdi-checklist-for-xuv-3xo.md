@@ -1,3 +1,8 @@
+---
+status: published
+title: Pdi Checklist For Xuv 3xo
+publishedAt: '2026-05-10T18:48:01.079Z'
+---
 # Standard Operating Procedure: Pre-Delivery Inspection (PDI) for Mahindra XUV 3XO
 
 This Standard Operating Procedure (SOP) serves as a comprehensive guide for conducting a professional Pre-Delivery Inspection (PDI) for the Mahindra XUV 3XO. The objective is to ensure the vehicle meets all quality, safety, and operational standards before it is transferred from the dealership to the customer. A thorough PDI minimizes post-delivery complaints, enhances customer satisfaction, and ensures that all technological and mechanical features of the XUV 3XO are functioning as intended.

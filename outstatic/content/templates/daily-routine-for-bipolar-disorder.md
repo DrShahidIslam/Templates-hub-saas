@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Bipolar Disorder
+publishedAt: '2026-05-10T18:48:00.642Z'
+---
 # Standard Operating Procedure: Daily Routine Management for Bipolar Disorder
 
 Effective management of Bipolar Disorder relies heavily on the stabilization of circadian rhythms, consistent medication adherence, and proactive mood monitoring. This Standard Operating Procedure (SOP) is designed to provide a structured framework for daily self-regulation. By implementing this routine, the individual reduces the physiological and psychological triggers that precipitate mood episodes, fostering long-term stability and executive function.

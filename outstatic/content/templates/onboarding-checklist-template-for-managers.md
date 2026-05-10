@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Template For Managers
+publishedAt: '2026-05-10T18:48:01.016Z'
+---
 # Standard Operating Procedure: New Hire Onboarding Template
 
 This SOP provides a comprehensive framework for managers to ensure a seamless, professional, and productive integration for new team members. Effective onboarding is not merely an administrative exercise; it is a strategic process designed to accelerate time-to-productivity, clarify expectations, and foster long-term employee engagement. Managers should utilize this checklist to standardize the experience, ensuring no critical step—from technical access to cultural integration—is overlooked.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Nps Withdrawal
+publishedAt: '2026-05-10T18:48:01.381Z'
+---
 # Standard Operating Procedure: National Pension System (NPS) Withdrawal
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols and administrative requirements for initiating and executing an NPS withdrawal request. As an Operations Manager, it is critical to ensure that all subscribers adhere to PFRDA guidelines to minimize processing delays and avoid tax liabilities. This document serves as the definitive guide for internal operations teams and subscribers to facilitate a compliant, error-free exit from the NPS scheme.

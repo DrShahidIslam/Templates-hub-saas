@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Safety In Factory
+publishedAt: '2026-05-10T18:48:01.457Z'
+---
 # Standard Operating Procedure: Workplace Safety and Hazard Mitigation
 
 This Standard Operating Procedure (SOP) establishes the mandatory safety protocols required to maintain a secure, compliant, and hazard-free environment within the factory floor. The objective of this policy is to minimize workplace injuries, ensure adherence to regulatory standards (such as OSHA or equivalent local bodies), and foster a culture of proactive risk management. Every employee, contractor, and visitor is required to strictly observe these guidelines to ensure continuous operational excellence and personnel welfare.

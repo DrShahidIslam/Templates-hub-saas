@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine Questions For Esl
+publishedAt: '2026-05-10T18:48:00.815Z'
+---
 # Standard Operating Procedure: Daily Routine Conversational Framework for ESL Learners
 
 This SOP outlines the standardized methodology for facilitating "Daily Routine" inquiries in an ESL classroom setting. The objective is to transition students from basic vocabulary recall to complex, narrative-based English communication. By following this structured routine, educators can ensure consistent cognitive development, improve student fluency, and establish a comfortable environment for active participation.

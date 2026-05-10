@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Pharmacovigilance
+publishedAt: '2026-05-10T18:48:01.887Z'
+---
 # Standard Operating Procedure: Pharmacovigilance (PV) Operations
 
 This Standard Operating Procedure (SOP) defines the mandatory processes for the systematic collection, detection, assessment, monitoring, and prevention of adverse effects associated with pharmaceutical products. The primary objective of this SOP is to ensure global regulatory compliance, uphold patient safety, and maintain the integrity of the safety database. This procedure applies to all internal staff, third-party vendors, and stakeholders involved in the intake and processing of safety information.

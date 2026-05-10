@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Hotel Sales And Marketing Department
+publishedAt: '2026-05-10T18:48:01.813Z'
+---
 # Standard Operating Procedure: Hotel Sales & Marketing Excellence
 
 This document establishes the standardized framework for the Hotel Sales & Marketing Department to ensure consistent lead generation, effective account management, and strategic market positioning. The objective of this SOP is to align team activities with revenue targets, uphold brand standards, and maximize RevPAR (Revenue Per Available Room) through disciplined outreach, performance tracking, and cross-departmental collaboration.

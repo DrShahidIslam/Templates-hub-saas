@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Canada Student Visa
+publishedAt: '2026-05-10T18:48:01.184Z'
+---
 # Standard Operating Procedure: Canada Student Visa Application (Study Permit)
 
 This Standard Operating Procedure (SOP) outlines the professional requirements and systematic process for applying for a Canadian Study Permit. Given the complexity of Immigration, Refugees and Citizenship Canada (IRCC) requirements, this guide is designed to ensure maximum document compliance, financial transparency, and clear articulation of study intent to minimize the risk of application refusal.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Security
+publishedAt: '2026-05-10T18:48:01.936Z'
+---
 # Standard Operating Procedure: Physical and Digital Security Protocols
 
 This Standard Operating Procedure (SOP) establishes the mandatory security framework for maintaining the integrity, safety, and confidentiality of our organizational assets. It is designed to provide security personnel and employees with a structured methodology for threat detection, incident response, and site access control. Adherence to these protocols is critical to minimizing risk, ensuring regulatory compliance, and maintaining a secure operational environment.

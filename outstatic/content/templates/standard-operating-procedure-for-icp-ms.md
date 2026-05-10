@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Icp Ms
+publishedAt: '2026-05-10T18:48:01.820Z'
+---
 # Standard Operating Procedure: Inductively Coupled Plasma Mass Spectrometry (ICP-MS) Analysis
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the safe and efficient operation of the Inductively Coupled Plasma Mass Spectrometry (ICP-MS) system. Adherence to these guidelines is critical to ensure analytical precision, instrument longevity, and user safety. This procedure covers daily start-up, sample introduction, data acquisition, and system shutdown. Failure to follow these steps may result in detector damage, sample cross-contamination, or compromised data integrity.

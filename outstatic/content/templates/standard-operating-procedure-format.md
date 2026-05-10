@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure Format
+publishedAt: '2026-05-10T18:48:02.004Z'
+---
 # Standard Operating Procedure: Establishing and Maintaining SOP Documentation
 
 This document outlines the professional framework for drafting, formatting, and distributing Standard Operating Procedures (SOPs). An effective SOP ensures organizational consistency, operational efficiency, and regulatory compliance by providing clear, unambiguous instructions for recurring tasks. Adherence to this standardized format is mandatory for all department heads to maintain uniformity across the enterprise.

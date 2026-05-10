@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Solar Plant Pdf
+publishedAt: '2026-05-10T18:48:01.943Z'
+---
 # Standard Operating Procedure: Solar Photovoltaic (PV) Plant Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the daily, monthly, and periodic maintenance of a grid-connected solar photovoltaic plant. The objective is to maximize energy yield, ensure personnel safety, and maintain the longevity of critical assets including PV modules, inverters, and switchgear. All site technicians must adhere to these guidelines to ensure compliance with Original Equipment Manufacturer (OEM) specifications and safety regulations.

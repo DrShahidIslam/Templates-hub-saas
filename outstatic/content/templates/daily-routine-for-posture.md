@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Posture
+publishedAt: '2026-05-10T18:48:00.745Z'
+---
 # Standard Operating Procedure: Daily Postural Maintenance Routine
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily protocol for maintaining musculoskeletal alignment, mitigating the negative effects of sedentary work, and optimizing biomechanical efficiency. Adherence to this routine serves as a preventative measure against chronic tension, repetitive strain injuries, and "tech neck." By integrating these deliberate postural adjustments into your daily schedule, you ensure long-term physical sustainability and professional output quality.

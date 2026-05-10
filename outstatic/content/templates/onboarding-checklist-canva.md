@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Canva
+publishedAt: '2026-05-10T18:48:00.937Z'
+---
 # Standard Operating Procedure: Canva Enterprise Onboarding
 
 This Standard Operating Procedure (SOP) outlines the standardized process for onboarding new team members into the organization’s Canva Enterprise ecosystem. Effective onboarding ensures that all users have immediate access to brand-compliant assets, collaboration tools, and appropriate permission levels, thereby maintaining design integrity and operational efficiency across the organization.

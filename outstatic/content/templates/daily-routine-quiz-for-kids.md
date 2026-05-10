@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine Quiz For Kids
+publishedAt: '2026-05-10T18:48:00.823Z'
+---
 # Standard Operating Procedure: Daily Routine Quiz for Kids
 
 ## Purpose

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Forklift Operation Pdf
+publishedAt: '2026-05-10T18:48:01.777Z'
+---
 # Standard Operating Procedure: Forklift Operation and Safety
 
 This Standard Operating Procedure (SOP) establishes the mandatory safety requirements and operational protocols for the utilization of industrial forklift equipment. Compliance with these procedures is essential to ensure a zero-harm environment, protect inventory integrity, and maintain full adherence to OSHA (or local regulatory) standards. All operators must hold a valid, site-specific certification before engaging with this equipment.

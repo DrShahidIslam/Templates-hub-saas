@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Hot Air Oven
+publishedAt: '2026-05-10T18:48:01.291Z'
+---
 # Standard Operating Procedure: Hot Air Oven Operation
 
 This Standard Operating Procedure (SOP) outlines the safe and efficient operation of the hot air oven for sterilization and drying purposes in a laboratory or industrial setting. Compliance with these procedures is essential to ensure consistent thermal processing, prevent equipment damage, and maintain a safe working environment. Operators must adhere to all temperature settings and safety protocols defined in this document.

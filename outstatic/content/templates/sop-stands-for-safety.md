@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Stands For Safety
+publishedAt: '2026-05-10T18:48:01.616Z'
+---
 # Standard Operating Procedure: Safety Protocol Integration
 
 This Standard Operating Procedure (SOP) defines the mandatory framework for ensuring that safety is the foundational element of every operational process. In this context, "SOP" signifies "Safety Over Production." This document outlines the rigorous protocols required to identify, mitigate, and monitor workplace hazards, ensuring that no task is performed without a comprehensive risk assessment. Adherence to this SOP is non-negotiable and applies to all personnel, contractors, and visitors within the facility.

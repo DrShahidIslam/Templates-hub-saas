@@ -1,3 +1,8 @@
+---
+status: published
+title: New Hire Checklistxlsx
+publishedAt: '2026-05-10T18:48:00.926Z'
+---
 # Standard Operating Procedure: New Hire Onboarding Process (new_hire_checklist.xlsx)
 
 ## Introduction

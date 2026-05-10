@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Yard Sale
+publishedAt: '2026-05-10T18:48:00.545Z'
+---
 # Standard Operating Procedure: Yard Sale Execution
 
 This document outlines the systematic process for planning, organizing, and executing a successful yard sale. A structured approach ensures maximum inventory turnover, operational efficiency, and revenue optimization. By following these standardized protocols, you will minimize logistical friction and create a consumer-friendly shopping environment.

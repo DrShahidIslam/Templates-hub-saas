@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist App
+publishedAt: '2026-05-10T18:48:00.933Z'
+---
 # Standard Operating Procedure: New User Onboarding for [App Name]
 
 This Standard Operating Procedure (SOP) outlines the standardized process for effectively onboarding new users to the [App Name] platform. The objective of this procedure is to reduce time-to-value, ensure high feature adoption rates, and mitigate early-stage churn. By following this systematic approach, the Operations and Customer Success teams will ensure that every user receives a consistent, high-quality experience from the moment of registration through to their first "Aha!" moment.

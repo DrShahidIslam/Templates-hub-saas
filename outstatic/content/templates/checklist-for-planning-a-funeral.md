@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Planning A Funeral
+publishedAt: '2026-05-10T18:48:00.486Z'
+---
 # Standard Operating Procedure: Funeral Planning and Coordination
 
 Planning a funeral is a complex logistical and emotional process that requires precision, timely communication, and careful documentation. This SOP serves as a comprehensive guide for operations managers or family liaisons tasked with organizing a respectful and orderly memorial service. By adhering to this structured framework, you ensure all legal requirements are met, administrative tasks are streamlined, and the family’s wishes are honored with professional efficiency.

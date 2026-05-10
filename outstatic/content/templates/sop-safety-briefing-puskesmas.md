@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Safety Briefing Puskesmas
+publishedAt: '2026-05-10T18:48:01.591Z'
+---
 # Standard Operating Procedure: Safety Briefing for Puskesmas (Community Health Center)
 
 Effective safety briefings are the cornerstone of a resilient healthcare facility. As an operations manager, the goal of this SOP is to ensure that all staff, volunteers, and contract workers at the Puskesmas are fully aware of emergency protocols, hazard identification, and clinical safety standards. This procedure must be conducted at the start of every shift or during facility-wide morning assemblies to minimize risk, ensure patient safety, and maintain regulatory compliance with health and safety standards.

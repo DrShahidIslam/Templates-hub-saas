@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboard Documents
+publishedAt: '2026-05-10T18:48:00.929Z'
+---
 # Standard Operating Procedure: Employee Onboarding Documentation
 
 This Standard Operating Procedure (SOP) outlines the standardized process for managing, verifying, and storing onboarding documentation for new hires. The objective is to ensure 100% regulatory compliance, minimize legal risk, and provide a seamless, professional experience for incoming staff. This procedure applies to all HR personnel and department leads involved in the lifecycle of an employee’s initial integration.

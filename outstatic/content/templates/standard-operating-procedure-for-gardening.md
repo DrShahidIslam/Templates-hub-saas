@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Gardening
+publishedAt: '2026-05-10T18:48:01.783Z'
+---
 # Standard Operating Procedure: Professional Horticulture Maintenance
 
 This Standard Operating Procedure (SOP) outlines the professional requirements for maintaining a healthy, aesthetic, and productive garden environment. By adhering to these standardized workflows, personnel will ensure optimal plant health, resource efficiency, and site safety. This document is intended for use by both commercial landscaping teams and residential property managers to maintain consistency in horticultural standards.

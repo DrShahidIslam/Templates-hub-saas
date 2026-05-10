@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Past
+publishedAt: '2026-05-10T18:48:00.740Z'
+---
 # Standard Operating Procedure: Daily Routine for Pastoral Care
 
 ## Introduction

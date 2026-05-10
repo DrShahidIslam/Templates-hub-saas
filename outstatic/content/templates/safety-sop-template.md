@@ -1,3 +1,8 @@
+---
+status: published
+title: Safety Sop Template
+publishedAt: '2026-05-10T18:48:01.115Z'
+---
 # Standard Operating Procedure: Safety Management Protocol
 
 This Standard Operating Procedure (SOP) outlines the mandatory framework for developing, implementing, and maintaining site-specific safety protocols. The objective of this document is to ensure organizational compliance with regulatory standards (e.g., OSHA, ISO 45001), mitigate workplace hazards, and establish a repeatable process for safety documentation. All department heads and safety officers are responsible for ensuring these procedures are integrated into daily operations to protect personnel and minimize liability.

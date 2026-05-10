@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Fabrication Work
+publishedAt: '2026-05-10T18:48:01.737Z'
+---
 # Standard Operating Procedure: Metal Fabrication Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for all metal fabrication activities within the facility. The objective of this document is to ensure the highest standards of structural integrity, precision, and operational safety. All personnel are required to adhere strictly to these guidelines to minimize waste, prevent equipment damage, and maintain a zero-incident work environment. This procedure applies to all phases of fabrication, from raw material inspection through final quality assurance and post-process cleanup.

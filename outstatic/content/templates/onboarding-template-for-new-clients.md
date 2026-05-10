@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template For New Clients
+publishedAt: '2026-05-10T18:48:01.052Z'
+---
 # Standard Operating Procedure: New Client Onboarding Excellence
 
 This Standard Operating Procedure (SOP) defines the systematic process for transitioning a new client from the sales pipeline to active operations. The goal of this onboarding protocol is to establish professional rapport, define clear project scope, align on communication expectations, and ensure all administrative requirements are met to facilitate a seamless launch. Adherence to this process reduces churn, eliminates ambiguity, and establishes the foundation for a long-term, high-value partnership.

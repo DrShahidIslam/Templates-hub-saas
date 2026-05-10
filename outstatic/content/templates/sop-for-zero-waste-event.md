@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Zero Waste Event
+publishedAt: '2026-05-10T18:48:01.574Z'
+---
 # Standard Operating Procedure: Zero Waste Event Management
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for planning, executing, and closing events with the goal of diverting at least 90% of waste from landfills. A Zero Waste event requires meticulous lifecycle management of all materials entering the venue, ensuring that every item is either reusable, recyclable, or compostable. By following this protocol, event organizers can minimize environmental impact, reduce disposal costs, and enhance the event’s reputation as a leader in sustainability.

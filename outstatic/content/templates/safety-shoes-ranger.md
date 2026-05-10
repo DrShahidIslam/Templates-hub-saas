@@ -1,3 +1,8 @@
+---
+status: published
+title: Safety Shoes Ranger
+publishedAt: '2026-05-10T18:48:01.098Z'
+---
 # Standard Operating Procedure: Safety Shoe Maintenance and Usage (Ranger Series)
 
 This Standard Operating Procedure (SOP) outlines the mandatory requirements for the selection, inspection, maintenance, and usage of Ranger-series safety footwear. Designed for industrial and warehouse environments, these guidelines ensure that employees maintain optimal foot protection, comply with safety regulations, and extend the functional lifespan of their Personal Protective Equipment (PPE). Strict adherence to these protocols is required to mitigate risks of crush injuries, slips, punctures, and electrical hazards.

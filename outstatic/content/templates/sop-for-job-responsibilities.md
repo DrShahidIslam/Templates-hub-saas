@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Job Responsibilities
+publishedAt: '2026-05-10T18:48:01.324Z'
+---
 # Standard Operating Procedure: Defining and Maintaining Job Responsibilities
 
 ## Introduction

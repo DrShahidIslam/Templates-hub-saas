@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist For Billing And Collection
+publishedAt: '2026-05-10T18:48:00.341Z'
+---
 # Standard Operating Procedure: Billing and Collection Audit
 
 ## Introduction

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Quality Control
+publishedAt: '2026-05-10T18:48:01.425Z'
+---
 # Standard Operating Procedure: Quality Control (QC) Protocols
 
 This Standard Operating Procedure (SOP) establishes the formal framework for maintaining consistent product excellence across all stages of production. The objective of this QC protocol is to minimize variance, ensure compliance with internal benchmarks and external regulatory requirements, and foster a culture of continuous improvement. By adhering to these standardized steps, the operations team will mitigate the risk of defect escape, optimize resource allocation, and preserve brand integrity.

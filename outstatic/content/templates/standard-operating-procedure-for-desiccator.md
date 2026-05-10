@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Desiccator
+publishedAt: '2026-05-10T18:48:01.698Z'
+---
 # Standard Operating Procedure: Laboratory Desiccator Management
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the proper use, maintenance, and handling of laboratory desiccators. Desiccators are critical enclosure devices designed to maintain a low-humidity environment to protect moisture-sensitive chemicals, biological samples, and precision instrumentation. Adherence to these procedures is essential to ensure experimental integrity, prevent sample degradation, and mitigate the risk of implosion or mechanical failure.

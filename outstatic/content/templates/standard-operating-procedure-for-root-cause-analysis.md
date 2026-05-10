@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Root Cause Analysis
+publishedAt: '2026-05-10T18:48:01.931Z'
+---
 # Standard Operating Procedure: Root Cause Analysis (RCA)
 
 ## Introduction

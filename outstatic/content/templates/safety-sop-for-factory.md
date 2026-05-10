@@ -1,3 +1,8 @@
+---
+status: published
+title: Safety Sop For Factory
+publishedAt: '2026-05-10T18:48:01.103Z'
+---
 # Standard Operating Procedure: Factory Safety & Hazard Mitigation
 
 This document establishes the mandatory safety protocols for all personnel operating within the facility. The objective of this SOP is to minimize workplace accidents, ensure compliance with OSHA (or local equivalent) regulations, and foster a culture of safety-first productivity. All employees, contractors, and visitors are required to adhere to these guidelines to maintain a secure operating environment.

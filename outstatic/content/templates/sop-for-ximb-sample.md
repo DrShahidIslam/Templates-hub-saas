@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Ximb Sample
+publishedAt: '2026-05-10T18:48:01.560Z'
+---
 # Standard Operating Procedure: XIMB Sample Processing and Analysis
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the handling, processing, and analytical verification of XIMB (X-ray Imaging & Measurement Biological) samples. Adherence to these guidelines is critical to ensure data integrity, sample stability, and the prevention of radiological contamination or degradation. This procedure applies to all laboratory personnel involved in the lifecycle of XIMB sample management, from intake to archival.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure And Job Hazard Analysis
+publishedAt: '2026-05-10T18:48:01.638Z'
+---
 # Standard Operating Procedure: Job Hazard Analysis (JHA)
 
 This document outlines the systematic process for conducting a Job Hazard Analysis (JHA). The primary purpose of a JHA is to integrate accepted safety and health principles into a particular task or job operation. By breaking down each job into steps, identifying hazards at each phase, and implementing rigorous control measures, we effectively minimize workplace incidents, reduce liability, and ensure compliance with regulatory safety standards. This SOP is mandatory for all department heads, safety officers, and lead technicians responsible for high-risk operations.

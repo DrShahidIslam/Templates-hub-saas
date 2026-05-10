@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Children At Home
+publishedAt: '2026-05-10T18:48:00.648Z'
+---
 # Standard Operating Procedure: Daily Home Routine for Children
 
 This document outlines the standardized operational framework for managing a child’s daily home routine. By implementing a predictable structure, caregivers can optimize time management, promote developmental independence, and reduce decision fatigue for both children and adults. This SOP is designed to foster a balanced environment that prioritizes hygiene, nutrition, educational engagement, and physical recovery.

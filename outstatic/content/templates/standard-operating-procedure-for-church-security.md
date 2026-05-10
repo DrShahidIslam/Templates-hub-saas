@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Church Security
+publishedAt: '2026-05-10T18:48:01.680Z'
+---
 # Standard Operating Procedure: Church Security Operations
 
 The primary objective of this church security SOP is to create a safe, welcoming, and vigilant environment for all congregants, staff, and visitors. This document provides a framework for proactive risk management, emergency response coordination, and the maintenance of a secure facility. By adhering to these protocols, the security team ensures that spiritual activities can take place without unnecessary distraction or physical threat, while balancing the need for an open and hospitable atmosphere.

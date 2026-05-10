@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Ui Design
+publishedAt: '2026-05-10T18:48:01.030Z'
+---
 # SOP: UI Design Onboarding Checklist for New Team Members
 
 This Standard Operating Procedure (SOP) outlines the mandatory onboarding process for new UI designers joining our product team. The objective is to standardize the environment setup, project access, and design methodology understanding, ensuring that new hires can contribute effectively to our design system and product roadmap within their first week. Adherence to this process minimizes administrative friction and aligns design practices with existing engineering and product workflows.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For New Hire
+publishedAt: '2026-05-10T18:48:01.875Z'
+---
 # Standard Operating Procedure: New Hire Onboarding
 
 The successful integration of a new hire is critical to organizational productivity, culture, and long-term retention. This Standard Operating Procedure (SOP) outlines a standardized framework for onboarding, ensuring that every new team member receives consistent information, system access, and role-specific training. By following this systematic approach, we minimize transition time, reduce administrative friction, and ensure the employee feels welcomed and prepared to contribute from day one.

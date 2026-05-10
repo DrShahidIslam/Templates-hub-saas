@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Weighbridge
+publishedAt: '2026-05-10T18:48:01.998Z'
+---
 # Standard Operating Procedure: Weighbridge Operations
 
 This Standard Operating Procedure (SOP) defines the systematic process for managing vehicle weighing operations at the weighbridge facility. The objective is to ensure accurate data capture, maintain site safety, uphold regulatory compliance, and prevent inventory discrepancies. All operators must adhere to these procedures to ensure the integrity of inbound and outbound material movements.

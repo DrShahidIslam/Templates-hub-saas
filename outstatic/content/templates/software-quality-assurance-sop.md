@@ -1,3 +1,8 @@
+---
+status: published
+title: Software Quality Assurance Sop
+publishedAt: '2026-05-10T18:48:01.151Z'
+---
 # Standard Operating Procedure: Software Quality Assurance (SQA)
 
 This Standard Operating Procedure establishes a rigorous framework for ensuring software excellence throughout the development lifecycle. By integrating systematic testing, automated validation, and cross-functional reviews, this process minimizes technical debt, prevents production regressions, and ensures that all deliverables align with functional requirements and user expectations. This document is intended for use by QA Engineers, Developers, and Product Managers to maintain consistent quality standards across all project phases.

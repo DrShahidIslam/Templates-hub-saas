@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Safety Audit
+publishedAt: '2026-05-10T18:48:01.452Z'
+---
 # Standard Operating Procedure: Safety Audit Execution
 
 This Standard Operating Procedure (SOP) outlines the formal process for conducting comprehensive safety audits within organizational facilities. The objective is to identify potential hazards, evaluate compliance with regulatory standards (e.g., OSHA, ISO 45001), and ensure the continuous improvement of the workplace safety culture. This procedure applies to all safety officers, department managers, and external auditors involved in maintaining a zero-harm environment.

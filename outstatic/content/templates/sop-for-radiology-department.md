@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Radiology Department
+publishedAt: '2026-05-10T18:48:01.435Z'
+---
 # Standard Operating Procedure: Radiology Department Clinical Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory clinical and administrative workflows for the Radiology Department. The objective of this document is to ensure patient safety, maintain diagnostic image quality, optimize workflow efficiency, and guarantee strict adherence to ALARA (As Low As Reasonably Achievable) radiation safety principles. This protocol applies to all radiologists, radiologic technologists, nursing staff, and administrative personnel.

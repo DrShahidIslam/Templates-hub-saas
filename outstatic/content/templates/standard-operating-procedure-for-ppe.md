@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Ppe
+publishedAt: '2026-05-10T18:48:01.889Z'
+---
 # Standard Operating Procedure: Personal Protective Equipment (PPE) Management
 
 This Standard Operating Procedure (SOP) establishes the mandatory requirements for the selection, inspection, utilization, and maintenance of Personal Protective Equipment (PPE). The objective of this policy is to ensure all personnel are protected from workplace hazards that cannot be eliminated through engineering or administrative controls. Adherence to these protocols is critical to maintaining a safe work environment, ensuring regulatory compliance (e.g., OSHA), and minimizing workplace injuries.

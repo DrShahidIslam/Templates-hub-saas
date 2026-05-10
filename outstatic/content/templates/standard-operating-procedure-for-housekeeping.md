@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Housekeeping
+publishedAt: '2026-05-10T18:48:01.815Z'
+---
 # Standard Operating Procedure: Housekeeping Operations
 
 This Standard Operating Procedure (SOP) outlines the professional requirements, sanitation standards, and workflow efficiency expected of all housekeeping staff. The primary objective of this procedure is to ensure a consistent, high-level guest experience, maintain rigorous hygiene protocols, and extend the longevity of facility assets. Adherence to these steps is mandatory to minimize cross-contamination, ensure personnel safety, and maintain the aesthetic standards of the property.

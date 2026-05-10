@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For 3 Year Old
+publishedAt: '2026-05-10T18:48:00.627Z'
+---
 # Standard Operating Procedure: Daily Routine for a 3-Year-Old
 
 Effective early childhood management requires consistency, predictability, and a structured environment to support developmental milestones. This Standard Operating Procedure (SOP) outlines a optimized daily routine designed to balance physiological needs—such as nutrition, hygiene, and rest—with cognitive development and autonomy-building activities. By adhering to this framework, caregivers can minimize behavioral friction and ensure the child remains regulated throughout the day.

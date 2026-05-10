@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Welding Machine
+publishedAt: '2026-05-10T18:48:01.999Z'
+---
 # Standard Operating Procedure: Welding Machine Operation
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety protocols, operational steps, and maintenance requirements for the professional use of industrial welding equipment. Adherence to these procedures is critical to ensure operator safety, maintain equipment longevity, and guarantee the structural integrity of welded joints. All personnel must wear appropriate Personal Protective Equipment (PPE) at all times and ensure they are certified for the specific welding process (MIG, TIG, or Stick) being utilized.

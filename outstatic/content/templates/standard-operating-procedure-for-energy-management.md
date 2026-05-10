@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Energy Management
+publishedAt: '2026-05-10T18:48:01.727Z'
+---
 # Standard Operating Procedure: Organizational Energy Management
 
 This Standard Operating Procedure (SOP) establishes a systematic framework for monitoring, analyzing, and optimizing energy consumption across all facility operations. The objective of this document is to reduce operational costs, minimize the organization's carbon footprint, and ensure compliance with environmental regulations. This SOP applies to all facilities personnel, maintenance teams, and department heads responsible for energy-consuming assets.

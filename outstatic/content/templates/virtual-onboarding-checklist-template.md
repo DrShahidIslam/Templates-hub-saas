@@ -1,3 +1,8 @@
+---
+status: published
+title: Virtual Onboarding Checklist Template
+publishedAt: '2026-05-10T18:48:02.039Z'
+---
 # Standard Operating Procedure: Virtual Employee Onboarding
 
 This Standard Operating Procedure (SOP) outlines the standardized process for effectively onboarding new hires in a fully remote or hybrid environment. The goal of this protocol is to ensure operational continuity, culture integration, and technical readiness. By following this structure, hiring managers and HR teams can mitigate the risks of remote isolation and ensure that new team members are set up for immediate success from their first day of employment.

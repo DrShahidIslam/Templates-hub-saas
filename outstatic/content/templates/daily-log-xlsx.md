@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Log Xlsx
+publishedAt: '2026-05-10T18:48:00.608Z'
+---
 # Standard Operating Procedure: Daily Log Management (xlsx)
 
 This Standard Operating Procedure (SOP) defines the systematic process for maintaining, updating, and archiving the Daily Log spreadsheet. Adhering to this protocol ensures data integrity, facilitates accurate operational reporting, and provides an auditable trail of daily activities. All personnel responsible for data entry are expected to follow these guidelines to maintain consistency and operational transparency across the organization.

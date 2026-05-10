@@ -1,3 +1,8 @@
+---
+status: published
+title: Employee Onboarding Checklist For It
+publishedAt: '2026-05-10T18:48:00.853Z'
+---
 # Standard Operating Procedure: IT Employee Onboarding
 
 This Standard Operating Procedure (SOP) defines the systematic process for provisioning, securing, and deploying IT assets and access rights for new employees. The objective is to ensure that every incoming team member has the necessary tools to perform their duties on Day 1, while maintaining strict adherence to cybersecurity protocols and internal governance. A standardized onboarding experience minimizes downtime, reduces administrative friction, and reinforces the organization’s commitment to operational excellence.

@@ -1,3 +1,8 @@
+---
+status: published
+title: New Hire Checklist For Managers
+publishedAt: '2026-05-10T18:48:00.914Z'
+---
 # Standard Operating Procedure: New Hire Onboarding for Managers
 
 This Standard Operating Procedure (SOP) outlines the mandatory steps for managers to ensure a seamless, professional, and welcoming integration for every new team member. Effective onboarding is a critical driver of long-term employee retention, productivity, and cultural alignment. Managers are responsible for completing this process in full, beginning two weeks prior to the hire’s start date and concluding at the end of their first 90 days.

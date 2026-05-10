@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Job Application
+publishedAt: '2026-05-10T18:48:01.321Z'
+---
 # Standard Operating Procedure: Strategic Job Application Management
 
 This Standard Operating Procedure (SOP) outlines a systematic, data-driven approach to the job application lifecycle. By standardizing the search, tailoring, and tracking process, candidates can move from a "spray-and-pray" methodology to a targeted, high-conversion strategy. This SOP is designed to maximize visibility with Applicant Tracking Systems (ATS) while ensuring high-quality engagement with human recruiters.

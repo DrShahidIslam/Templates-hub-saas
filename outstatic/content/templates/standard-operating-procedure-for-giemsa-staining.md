@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Giemsa Staining
+publishedAt: '2026-05-10T18:48:01.795Z'
+---
 # Standard Operating Procedure: Giemsa Staining Protocol
 
 This Standard Operating Procedure (SOP) outlines the standardized process for the Giemsa staining of blood smears and bone marrow aspirates. Giemsa stain is a gold-standard differential stain used in hematology to visualize blood parasites (such as *Plasmodium*), detect white blood cell morphology, and analyze bone marrow specimens. Adherence to the following protocol ensures consistent, reproducible results, optimal staining intensity, and the preservation of cellular morphology for accurate diagnostic interpretation.

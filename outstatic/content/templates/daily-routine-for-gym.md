@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Gym
+publishedAt: '2026-05-10T18:48:00.687Z'
+---
 # Standard Operating Procedure: Daily Gym Operations Routine
 
 This Standard Operating Procedure (SOP) outlines the mandatory daily protocols for maintaining a high-performance, safe, and hygienic gym environment. These procedures are designed to ensure operational excellence, maximize equipment longevity, and provide an unparalleled member experience. Adherence to this routine is required for all staff to ensure consistency across all shifts and to uphold the facility's brand standards.

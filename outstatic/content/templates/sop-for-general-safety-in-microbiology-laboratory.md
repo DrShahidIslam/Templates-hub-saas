@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For General Safety In Microbiology Laboratory
+publishedAt: '2026-05-10T18:48:01.266Z'
+---
 # Standard Operating Procedure: General Safety in the Microbiology Laboratory
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety protocols and best practices required to maintain a secure environment within the microbiology laboratory. The objective is to mitigate the risks of biohazardous exposure, chemical accidents, and contamination through rigorous adherence to aseptic techniques, Personal Protective Equipment (PPE) requirements, and waste management standards. All personnel are expected to follow these guidelines to ensure personal safety and the integrity of experimental data.

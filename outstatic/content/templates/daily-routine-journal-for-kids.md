@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine Journal For Kids
+publishedAt: '2026-05-10T18:48:00.805Z'
+---
 # Standard Operating Procedure: Daily Routine Journaling for Children
 
 ## Introduction

@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Grade R
+publishedAt: '2026-05-10T18:48:00.686Z'
+---
 # Standard Operating Procedure: Grade R Daily Operations
 
 This Standard Operating Procedure (SOP) outlines the structured daily routine for Grade R (Early Childhood Development) classrooms. The primary objective is to create a secure, predictable, and stimulating environment that fosters social, emotional, and cognitive development. By adhering to this routine, educators ensure a balance between structured teacher-led instruction and child-led play, while maintaining rigorous safety and hygiene standards. All staff are expected to follow these procedures to ensure consistency and operational excellence throughout the school day.

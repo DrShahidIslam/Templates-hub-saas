@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Jee
+publishedAt: '2026-05-10T18:48:00.697Z'
+---
 # Standard Operating Procedure: JEE Preparation Daily Routine
 
 This Standard Operating Procedure (SOP) is designed to optimize cognitive performance, consistency, and syllabus coverage for students preparing for the Joint Entrance Examination (JEE). By implementing this structured routine, a candidate transitions from passive learning to active mastery. The objective is to maintain a high-intensity study state while preventing burnout through strategic rest and iterative revision cycles.

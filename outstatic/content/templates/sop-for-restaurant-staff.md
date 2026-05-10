@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Restaurant Staff
+publishedAt: '2026-05-10T18:48:01.445Z'
+---
 # Standard Operating Procedure: Front-of-House Restaurant Excellence
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for all service staff to ensure consistent, high-quality guest experiences, operational efficiency, and safety compliance. Every team member is responsible for upholding these standards from the moment of opening preparation until the final closing duties are completed. Adherence to these guidelines ensures a seamless workflow, professional guest relations, and a sanitized working environment.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Internship
+publishedAt: '2026-05-10T18:48:01.830Z'
+---
 # Standard Operating Procedure: Internship Management and Execution
 
 This Standard Operating Procedure (SOP) serves as the definitive framework for the end-to-end lifecycle of an internship program. Its purpose is to ensure a consistent, professional, and high-value experience for both the organization and the intern. By following these standardized steps, managers can ensure that intern onboarding is efficient, project expectations are clearly defined, and performance feedback is structured, ultimately fostering a pipeline of potential future talent while providing meaningful contributions to departmental goals.

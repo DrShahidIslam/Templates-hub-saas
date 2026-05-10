@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Pregnant Women
+publishedAt: '2026-05-10T18:48:00.747Z'
+---
 # Standard Operating Procedure: Daily Routine for Expectant Mothers
 
 This SOP is designed to optimize daily health, physical well-being, and mental stability during pregnancy. By adhering to this structured routine, expectant mothers can effectively manage physiological changes, mitigate common discomforts, and ensure the consistent monitoring of maternal and fetal health. This protocol prioritizes balanced nutrition, hydration, ergonomic safety, and necessary rest periods to maintain optimal health throughout all three trimesters.

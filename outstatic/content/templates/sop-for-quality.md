@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Quality
+publishedAt: '2026-05-10T18:48:01.432Z'
+---
 # Standard Operating Procedure: Quality Assurance and Control (QA/QC)
 
 This Standard Operating Procedure (SOP) defines the systematic approach to maintaining organizational quality standards. Its purpose is to ensure that all products and processes consistently meet or exceed established requirements, minimize operational variability, and drive continuous improvement. Adherence to this SOP is mandatory for all personnel involved in the production, service, and delivery lifecycles.

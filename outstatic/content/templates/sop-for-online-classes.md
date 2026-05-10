@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Online Classes
+publishedAt: '2026-05-10T18:48:01.390Z'
+---
 # Standard Operating Procedure: Delivery of Online Educational Classes
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the preparation, delivery, and follow-up of online instructional sessions. The objective of this document is to ensure a seamless, professional, and engaging virtual learning experience that minimizes technical friction and maximizes student retention and satisfaction. All instructors are required to adhere to these standards to maintain institutional quality benchmarks.

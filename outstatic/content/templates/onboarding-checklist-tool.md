@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Tool
+publishedAt: '2026-05-10T18:48:01.027Z'
+---
 # Standard Operating Procedure: Employee Onboarding Checklist Tool Management
 
 This document outlines the standardized process for utilizing, maintaining, and optimizing the digital onboarding checklist tool. The objective of this SOP is to ensure a consistent, efficient, and welcoming experience for all new hires while maintaining operational compliance and organizational data integrity. By following this protocol, department managers and HR personnel will minimize administrative friction and ensure that every new team member is fully equipped for success from their first day.

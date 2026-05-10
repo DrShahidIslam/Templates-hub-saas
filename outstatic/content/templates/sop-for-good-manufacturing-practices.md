@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Good Manufacturing Practices
+publishedAt: '2026-05-10T18:48:01.275Z'
+---
 # Standard Operating Procedure: Good Manufacturing Practices (GMP) Compliance
 
 ## Introduction

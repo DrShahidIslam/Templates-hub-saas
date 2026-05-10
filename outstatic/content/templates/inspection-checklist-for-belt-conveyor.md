@@ -1,3 +1,8 @@
+---
+status: published
+title: Inspection Checklist For Belt Conveyor
+publishedAt: '2026-05-10T18:48:00.872Z'
+---
 # Standard Operating Procedure: Belt Conveyor Inspection and Maintenance
 
 ## Introduction

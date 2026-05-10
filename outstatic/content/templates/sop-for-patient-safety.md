@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Patient Safety
+publishedAt: '2026-05-10T18:48:01.400Z'
+---
 # Standard Operating Procedure: Patient Safety and Quality Assurance
 
 ## Introduction

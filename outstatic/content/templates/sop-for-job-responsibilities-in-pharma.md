@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Job Responsibilities In Pharma
+publishedAt: '2026-05-10T18:48:01.323Z'
+---
 # Standard Operating Procedure: Definition and Management of Job Responsibilities
 
 ## Introduction

@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Job Preparation
+publishedAt: '2026-05-10T18:48:00.702Z'
+---
 # Standard Operating Procedure: Daily Job Preparation Routine
 
 ## Introduction

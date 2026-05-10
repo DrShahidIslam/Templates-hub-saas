@@ -1,3 +1,8 @@
+---
+status: published
+title: Resources Onboarding
+publishedAt: '2026-05-10T18:48:01.088Z'
+---
 # Standard Operating Procedure: Resource Onboarding
 
 This Standard Operating Procedure (SOP) defines the standardized process for onboarding new resources (employees, contractors, or consultants) to ensure they are integrated efficiently, equipped with necessary tools, and aligned with company culture and operational standards. The objective of this process is to minimize ramp-up time, ensure security compliance, and foster immediate productivity. Consistency in this process is critical to maintaining operational excellence and employee retention.

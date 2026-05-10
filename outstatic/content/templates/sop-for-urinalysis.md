@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Urinalysis
+publishedAt: '2026-05-10T18:48:01.503Z'
+---
 # Standard Operating Procedure: Clinical Urinalysis
 
 This Standard Operating Procedure (SOP) outlines the standardized process for performing a comprehensive urinalysis, including physical, chemical, and microscopic examination. Adherence to this protocol is critical to ensure analytical accuracy, maintain laboratory safety, and prevent diagnostic errors resulting from improper specimen handling or testing techniques. All personnel must strictly follow Universal Precautions when handling biological specimens.

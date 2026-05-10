@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Nurses
+publishedAt: '2026-05-10T18:48:00.734Z'
+---
 # Standard Operating Procedure: Daily Nursing Routine
 
 This Standard Operating Procedure (SOP) outlines the standardized daily workflow for nursing staff to ensure high-quality patient care, safety, and operational efficiency. By following this structured routine, nurses can maintain consistency, minimize the risk of medication errors, and ensure that all clinical documentation remains compliant with hospital regulations. This protocol is designed to be adaptable to various clinical settings while maintaining the core principles of bedside nursing excellence.

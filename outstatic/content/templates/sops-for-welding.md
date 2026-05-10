@@ -1,3 +1,8 @@
+---
+status: published
+title: Sops For Welding
+publishedAt: '2026-05-10T18:48:01.637Z'
+---
 # Standard Operating Procedure: Industrial Welding Operations
 
 This Standard Operating Procedure (SOP) establishes the mandatory safety, preparation, and execution protocols for all welding operations within the facility. Adherence to these procedures is critical to ensure the structural integrity of welds, maintain compliance with OSHA/ISO safety standards, and mitigate risks associated with electrical hazards, toxic fumes, and fire. All personnel must review these guidelines before energizing any welding equipment.

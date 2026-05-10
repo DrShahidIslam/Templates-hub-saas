@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Safety Sign
+publishedAt: '2026-05-10T18:48:01.612Z'
+---
 # Standard Operating Procedure: Safety Signage Installation and Maintenance
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the selection, installation, and ongoing maintenance of safety signage within the facility. The purpose of this procedure is to ensure compliance with OSHA and ANSI Z535 standards, minimize workplace hazards, and provide clear communication during emergency situations. Proper signage acts as a critical line of defense in hazard mitigation; therefore, adherence to these guidelines is non-negotiable for all facilities and maintenance personnel.

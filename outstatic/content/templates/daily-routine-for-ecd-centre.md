@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Ecd Centre
+publishedAt: '2026-05-10T18:48:00.659Z'
+---
 # Standard Operating Procedure: Daily Routine for Early Childhood Development (ECD) Centres
 
 This Standard Operating Procedure (SOP) serves as the primary operational framework for daily activities within our ECD centre. Adherence to this routine ensures a consistent, safe, and stimulating environment that supports the holistic development of every child. By standardizing opening procedures, instructional transitions, hygiene protocols, and dismissal processes, staff can focus on high-quality engagement while maintaining rigorous safety and compliance standards.

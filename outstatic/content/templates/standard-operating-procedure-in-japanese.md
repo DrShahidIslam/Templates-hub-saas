@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure In Japanese
+publishedAt: '2026-05-10T18:48:02.006Z'
+---
 # Standard Operating Procedure: Creating SOPs in Japanese (日本語の標準作業手順書作成)
 
 This document outlines the professional requirements for drafting, reviewing, and maintaining Standard Operating Procedures (SOPs) within a Japanese business context. Creating an effective Japanese SOP requires a balance of linguistic precision (using *keigo* where appropriate), cultural adherence to *Kaizen* (continuous improvement), and structural clarity to ensure compliance across all operational levels.

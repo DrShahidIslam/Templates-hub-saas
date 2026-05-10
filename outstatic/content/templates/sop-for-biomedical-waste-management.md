@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Biomedical Waste Management
+publishedAt: '2026-05-10T18:48:01.173Z'
+---
 # Standard Operating Procedure: Biomedical Waste Management (BMWM)
 
 This Standard Operating Procedure (SOP) establishes the systematic protocol for the segregation, collection, storage, transportation, and disposal of biomedical waste within this facility. Adherence to these guidelines is mandatory to ensure compliance with national environmental regulations, minimize the risk of healthcare-associated infections, and prevent cross-contamination. Every staff member handling hazardous waste must strictly follow these procedures to protect public health and the environment.

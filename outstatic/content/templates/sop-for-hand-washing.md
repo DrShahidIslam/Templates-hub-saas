@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Hand Washing
+publishedAt: '2026-05-10T18:48:01.283Z'
+---
 # Standard Operating Procedure: Clinical and Professional Hand Hygiene
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocol for hand washing to ensure the highest standards of hygiene and safety. Adherence to this procedure is critical for minimizing the transmission of pathogens, maintaining compliance with health safety regulations, and protecting the well-being of staff, clients, and the public. All personnel are expected to follow these steps strictly during every hand-washing instance, regardless of work environment.

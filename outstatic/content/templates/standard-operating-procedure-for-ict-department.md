@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Ict Department
+publishedAt: '2026-05-10T18:48:01.822Z'
+---
 # Standard Operating Procedure: ICT Departmental Operations
 
 This Standard Operating Procedure (SOP) serves as the foundational framework for the Information and Communication Technology (ICT) department. Its purpose is to ensure the consistent, secure, and efficient delivery of technology services across the organization. By standardizing processes for system maintenance, user support, and security protocols, this document aims to minimize downtime, mitigate operational risks, and align technical output with broader business objectives. All ICT personnel are required to adhere to these guidelines to ensure institutional continuity and service excellence.

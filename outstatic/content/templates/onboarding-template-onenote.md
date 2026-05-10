@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template Onenote
+publishedAt: '2026-05-10T18:48:01.066Z'
+---
 # Standard Operating Procedure: New Hire OneNote Onboarding Template
 
 ## Introduction

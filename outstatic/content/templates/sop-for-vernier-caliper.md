@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Vernier Caliper
+publishedAt: '2026-05-10T18:48:01.516Z'
+---
 # Standard Operating Procedure: Vernier Caliper Inspection and Measurement
 
 This Standard Operating Procedure (SOP) defines the systematic methodology for the proper handling, calibration verification, and operation of a vernier caliper. Adherence to these guidelines is critical to ensuring dimensional accuracy, preventing mechanical wear, and maintaining the longevity of precision metrology equipment. Operators must exercise meticulous care to ensure the tool remains free of debris and is handled according to established quality control standards.

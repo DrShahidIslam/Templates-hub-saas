@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Last 72 Hours Eci
+publishedAt: '2026-05-10T18:48:01.348Z'
+---
 # Standard Operating Procedure: Last 72 Hours (ECI Readiness)
 
 This Standard Operating Procedure (SOP) outlines the critical operational requirements, compliance mandates, and logistical benchmarks that must be met during the final 72-hour window preceding an Election Commission of India (ECI) designated event. As an operations lead, your primary objective during this period is to ensure absolute procedural integrity, seamless resource deployment, and strict adherence to the Model Code of Conduct (MCC). This document serves as the tactical roadmap to mitigate risks, ensure rapid incident response, and guarantee a zero-error execution phase.

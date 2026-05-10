@@ -1,3 +1,8 @@
+---
+status: published
+title: Xerox Checklist
+publishedAt: '2026-05-10T18:48:02.047Z'
+---
 # Standard Operating Procedure: Xerox Multifunction Printer (MFP) Operation & Maintenance
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for operating, maintaining, and troubleshooting Xerox multifunction printer systems. Adherence to these guidelines is critical to ensuring document security, minimizing hardware downtime, and maintaining high print quality standards. All personnel authorized to use the device are expected to follow these procedures to prevent mechanical failure and preserve the longevity of the equipment.

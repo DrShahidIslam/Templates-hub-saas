@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist For Tablet Production
+publishedAt: '2026-05-10T18:48:00.362Z'
+---
 # Standard Operating Procedure: Tablet Production Quality Audit
 
 This Standard Operating Procedure (SOP) outlines the mandatory audit protocols for tablet production lines to ensure compliance with Current Good Manufacturing Practices (cGMP), internal quality standards, and safety regulations. The primary objective is to verify that the manufacturing process—from raw material dispensing through final compression and coating—remains in a state of controlled validation. This audit is designed to detect deviations in process parameters, equipment sanitation, and documentation integrity, thereby ensuring the safety, efficacy, and consistency of the final medicinal product.

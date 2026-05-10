@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine Zikr
+publishedAt: '2026-05-10T18:48:00.844Z'
+---
 # Standard Operating Procedure: Daily Routine Zikr
 
 This Standard Operating Procedure (SOP) is designed to establish a structured, consistent, and high-quality daily practice of Zikr (remembrance). By standardizing the environment, mindset, and execution of these invocations, practitioners can optimize their spiritual focus and maintain long-term consistency. This protocol treats Zikr not merely as an activity, but as a disciplined operational requirement for personal spiritual maintenance, ensuring that the practice is performed with mindfulness, regularity, and precision.

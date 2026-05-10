@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For School
+publishedAt: '2026-05-10T18:48:01.470Z'
+---
 # Standard Operating Procedure: School Operations Management
 
 This document outlines the systematic procedures required to maintain a safe, efficient, and high-functioning school environment. As an operations manager, the primary objective of this SOP is to ensure that all administrative, safety, and facility workflows are standardized to minimize disruptions to the academic environment. This guide serves as the foundational framework for daily site management, facility maintenance, and emergency readiness, ensuring consistent excellence across the campus.

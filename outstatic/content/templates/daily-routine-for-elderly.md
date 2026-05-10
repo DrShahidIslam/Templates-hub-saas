@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Elderly
+publishedAt: '2026-05-10T18:48:00.660Z'
+---
 # Standard Operating Procedure: Daily Routine for Elderly Care
 
 This Standard Operating Procedure (SOP) is designed to provide a structured, consistent, and compassionate framework for the daily care of an elderly individual. By establishing a predictable routine, caregivers can significantly reduce anxiety for the senior, improve physical health through regular movement, and ensure that all medical, nutritional, and hygiene needs are met with precision. This SOP serves as a foundational guide to promote independence while maintaining the highest standard of safety and wellbeing.

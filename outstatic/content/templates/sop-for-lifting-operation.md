@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Lifting Operation
+publishedAt: '2026-05-10T18:48:01.353Z'
+---
 # Standard Operating Procedure: Safe Lifting Operations
 
 This Standard Operating Procedure (SOP) establishes the mandatory safety requirements and operational protocols for all lifting activities involving cranes, hoists, forklifts, and manual rigging equipment. The objective of this procedure is to eliminate workplace injuries, prevent structural damage to equipment, and ensure that all loads are handled in accordance with manufacturer specifications and regulatory standards (e.g., OSHA, LOLER). All personnel involved in a lift—including the operator, rigger, and signal person—must adhere to these steps without exception.

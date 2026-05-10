@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Restaurant Kitchen
+publishedAt: '2026-05-10T18:48:01.443Z'
+---
 # Standard Operating Procedure: Kitchen Operations & Excellence
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for daily kitchen operations, focusing on safety, food quality, consistency, and sanitation. Adherence to these guidelines ensures a seamless workflow, compliance with health department regulations, and a superior dining experience for our guests. Every team member is responsible for upholding these standards from shift start to final deep cleaning.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Inspection Checklist For Buying A House
+publishedAt: '2026-05-10T18:48:00.876Z'
+---
 # Standard Operating Procedure: Residential Property Inspection
 
 This SOP provides a structured methodology for evaluating a residential property prior to purchase. The objective is to mitigate financial risk, identify deferred maintenance, and establish a clear baseline for negotiation or capital expenditure planning. This procedure assumes the user will perform an initial self-assessment before engaging a licensed professional home inspector.

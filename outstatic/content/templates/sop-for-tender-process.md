@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Tender Process
+publishedAt: '2026-05-10T18:48:01.485Z'
+---
 # Standard Operating Procedure: Formal Tender Process
 
 This Standard Operating Procedure (SOP) defines the systematic process for managing end-to-end tender operations. The objective is to ensure transparency, compliance, cost-efficiency, and the selection of the most qualified vendors. By following this standardized workflow, the organization mitigates procurement risk, ensures competitive bidding, and maintains a clear audit trail for all contractual engagements.

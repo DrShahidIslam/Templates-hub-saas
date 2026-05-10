@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Malaria
+publishedAt: '2026-05-10T18:48:01.858Z'
+---
 # Standard Operating Procedure: Malaria Clinical Management and Control
 
 This Standard Operating Procedure (SOP) outlines the clinical management, diagnostic protocols, and preventive measures for malaria. Malaria remains a life-threatening disease caused by *Plasmodium* parasites transmitted through the bite of infected *Anopheles* mosquitoes. This document is designed for healthcare facilities to ensure standardized, evidence-based care, rapid diagnostic accuracy, and effective reporting to mitigate mortality and curb local transmission.

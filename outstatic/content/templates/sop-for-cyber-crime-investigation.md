@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Cyber Crime Investigation
+publishedAt: '2026-05-10T18:48:01.200Z'
+---
 # Standard Operating Procedure: Cyber Crime Investigation
 
 ## Introduction

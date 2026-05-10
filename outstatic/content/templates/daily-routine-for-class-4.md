@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Class 4
+publishedAt: '2026-05-10T18:48:00.653Z'
+---
 # Standard Operating Procedure: Daily Classroom Routine (Grade 4)
 
 ## Overview

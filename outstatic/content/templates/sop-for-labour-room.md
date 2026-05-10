@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Labour Room
+publishedAt: '2026-05-10T18:48:01.344Z'
+---
 # Standard Operating Procedure: Labor and Delivery Unit Operations
 
 This Standard Operating Procedure (SOP) outlines the clinical and administrative protocols for the Labor and Delivery (L&D) unit. The primary objective is to standardize maternal and neonatal care, minimize clinical risk, ensure sterile processing, and maintain seamless communication between the obstetric, nursing, and neonatal teams. Adherence to these protocols is mandatory to guarantee patient safety and operational excellence during emergency and routine deliveries.

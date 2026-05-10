@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Checklist Idleon
+publishedAt: '2026-05-10T18:48:00.589Z'
+---
 # Standard Operating Procedure: Daily Maintenance Routine for IdleOn
 
 This SOP outlines the standardized daily workflow for maximizing account progression and resource efficiency in *Legends of Idleon*. Consistent execution of these tasks ensures optimal AFK gains, continuous production, and steady account-wide growth. By following this systematic approach, you minimize downtime and ensure all time-gated mechanics remain synchronized with your progression goals.

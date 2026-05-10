@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Checklist On Notion
+publishedAt: '2026-05-10T18:48:00.597Z'
+---
 # SOP: Daily Operational Execution via Notion
 
 This Standard Operating Procedure (SOP) outlines the mandatory workflow for utilizing Notion as a daily command center. Effective daily management requires a systematic approach to processing incoming requests, prioritizing high-impact tasks, and archiving completed work. By strictly following this checklist, team members ensure full visibility into their output, maintain alignment with organizational objectives, and prevent operational bottlenecks.

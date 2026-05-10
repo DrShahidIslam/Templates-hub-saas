@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Purpose
+publishedAt: '2026-05-10T18:48:01.001Z'
+---
 # Standard Operating Procedure: The Onboarding Checklist Process
 
 ## Introduction

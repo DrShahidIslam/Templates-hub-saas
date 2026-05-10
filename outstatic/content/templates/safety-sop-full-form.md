@@ -1,3 +1,8 @@
+---
+status: published
+title: Safety Sop Full Form
+publishedAt: '2026-05-10T18:48:01.106Z'
+---
 # Standard Operating Procedure: Safety SOP Development and Compliance
 
 ## Introduction

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Various Activities In Community Pharmacy
+publishedAt: '2026-05-10T18:48:01.513Z'
+---
 # Standard Operating Procedure: Pharmacy Operations Management
 
 This Standard Operating Procedure (SOP) outlines the essential protocols for maintaining high standards of clinical safety, regulatory compliance, and operational efficiency within a community pharmacy. By adhering to these structured workflows, pharmacy staff ensure patient safety, minimize dispensing errors, and maintain inventory integrity. This document serves as the foundational guide for all staff, including pharmacists, technicians, and assistants, to ensure consistency in daily operations and service delivery.

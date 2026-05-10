@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Sales
+publishedAt: '2026-05-10T18:48:01.934Z'
+---
 # Standard Operating Procedure: Sales Execution & Pipeline Management
 
 ## Introduction

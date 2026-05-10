@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine Zzz
+publishedAt: '2026-05-10T18:48:00.845Z'
+---
 # Standard Operating Procedure: Daily Routine ZZZ (Optimized Sleep Hygiene)
 
 ## Overview

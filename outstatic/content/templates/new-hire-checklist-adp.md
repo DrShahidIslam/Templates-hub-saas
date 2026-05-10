@@ -1,3 +1,8 @@
+---
+status: published
+title: New Hire Checklist Adp
+publishedAt: '2026-05-10T18:48:00.901Z'
+---
 # Standard Operating Procedure: New Hire Onboarding via ADP Workforce Now
 
 This SOP outlines the standardized process for onboarding a new employee within the ADP Workforce Now platform. Adhering to this procedure ensures data integrity, compliance with federal and state labor laws, and a seamless transition for the new hire. As an Operations Manager, your goal is to minimize manual data entry errors and ensure all payroll, benefits, and tax configurations are finalized prior to the employee’s first day.

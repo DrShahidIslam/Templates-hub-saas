@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure Kerala Police
+publishedAt: '2026-05-10T18:48:02.014Z'
+---
 # Standard Operating Procedure: Kerala Police Operational Protocols
 
 This document outlines the standard operational framework for personnel within the Kerala Police force. Designed to ensure uniformity, legal compliance, and community safety, this SOP serves as a guideline for handling routine duties, law and order maintenance, and crisis response. It emphasizes the "Citizen-Friendly" philosophy mandated by the Kerala Police Act while ensuring strict adherence to the Code of Criminal Procedure (CrPC) and the Bharatiya Nagarik Suraksha Sanhita (BNSS).

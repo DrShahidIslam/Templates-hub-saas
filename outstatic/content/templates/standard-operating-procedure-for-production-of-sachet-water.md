@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Production Of Sachet Water
+publishedAt: '2026-05-10T18:48:01.891Z'
+---
 # Standard Operating Procedure: Sachet Water Production
 
 This Standard Operating Procedure (SOP) outlines the mandatory guidelines for the production of high-quality, safe, and hygienic sachet water. The objective is to ensure compliance with health and safety regulatory standards, minimize contamination risks, and maintain operational efficiency. All personnel are required to adhere to these procedures strictly to protect public health and maintain brand integrity.

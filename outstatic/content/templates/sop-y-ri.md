@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Y Ri
+publishedAt: '2026-05-10T18:48:01.622Z'
+---
 # Standard Operating Procedure: SOP Y-RI (Yield Reconciliation & Inventory)
 
 This Standard Operating Procedure (SOP) defines the systematic process for performing Yield Reconciliation and Inventory (Y-RI) verification. The objective of this SOP is to ensure that all physical inventory levels align with ledger entries, minimize variances, and identify potential production losses. Adherence to this protocol is mandatory for all operations personnel to maintain fiscal accuracy and supply chain integrity.

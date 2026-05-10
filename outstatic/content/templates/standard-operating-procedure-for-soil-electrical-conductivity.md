@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Soil Electrical Conductivity
+publishedAt: '2026-05-10T18:48:01.940Z'
+---
 # Standard Operating Procedure: Soil Electrical Conductivity (EC) Measurement
 
 This document outlines the standardized protocol for measuring the electrical conductivity (EC) of soil samples, a critical metric for assessing soil salinity and nutrient availability. Accurate EC measurement is essential for determining the suitability of soil for specific crop production and for monitoring soil health over time. This procedure utilizes the 1:2 soil-to-water dilution method, the industry standard for general agricultural laboratory analysis, ensuring consistency, repeatability, and data integrity across all testing cycles.

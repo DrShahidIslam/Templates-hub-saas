@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Bottle Washing Machine
+publishedAt: '2026-05-10T18:48:01.181Z'
+---
 # Standard Operating Procedure: Automated Bottle Washing Machine
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the safe and efficient operation of the industrial bottle washing system. Proper adherence to these guidelines ensures optimal sanitation standards, prevents cross-contamination, and extends the operational lifespan of the machinery. All operators must be trained and verified on these procedures before managing the equipment independently.

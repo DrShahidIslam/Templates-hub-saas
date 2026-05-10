@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Template Pdf
+publishedAt: '2026-05-10T18:48:01.022Z'
+---
 # Standard Operating Procedure: Employee Onboarding Template Management
 
 This Standard Operating Procedure (SOP) outlines the standardized process for creating, distributing, and tracking the Employee Onboarding Checklist Template (PDF). The objective of this document is to ensure a seamless integration of new hires into the organizational culture, providing them with clear expectations, necessary access, and administrative requirements. By utilizing a standardized PDF template, the People Operations team ensures consistency, compliance, and a high-quality experience for all incoming personnel across all departments.

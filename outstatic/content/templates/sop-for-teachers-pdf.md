@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Teachers Pdf
+publishedAt: '2026-05-10T18:48:01.483Z'
+---
 # Standard Operating Procedure: Creation and Management of Teacher PDFs
 
 ## Introduction

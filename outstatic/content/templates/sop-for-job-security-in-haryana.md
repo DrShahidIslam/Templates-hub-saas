@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Job Security In Haryana
+publishedAt: '2026-05-10T18:48:01.325Z'
+---
 # Standard Operating Procedure: Ensuring Job Security and Compliance in Haryana
 
 This Standard Operating Procedure (SOP) is designed to provide employees and HR professionals operating within the state of Haryana with a robust framework for ensuring long-term job security. It encompasses compliance with the Haryana State Employment of Local Candidates Act, 2020, adherence to the Industrial Disputes Act, and best practices for internal professional documentation. By following these guidelines, stakeholders can mitigate risks of wrongful termination and ensure that all labor engagements align with both state-specific mandates and general industrial best practices.

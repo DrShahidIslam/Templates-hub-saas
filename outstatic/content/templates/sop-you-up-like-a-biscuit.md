@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop You Up Like A Biscuit
+publishedAt: '2026-05-10T18:48:01.624Z'
+---
 # SOP: Operational Protocol for 'Sopping Up Like a Biscuit'
 
 This Standard Operating Procedure (SOP) outlines the standardized methodology for the tactical application of a baked carbohydrate substrate (the "Biscuit") to achieve maximum retention of residual culinary liquids (the "Gravy" or "Sauce"). Mastery of this technique ensures optimal flavor extraction, plate cleanliness, and adherence to high-efficiency consumption standards. This process assumes a high-viscosity liquid base and a porous, structural-integrity-focused biscuit.

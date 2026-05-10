@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Consumer Case Referrals
+publishedAt: '2026-05-10T18:48:00.941Z'
+---
 # Standard Operating Procedure: Consumer Case Referral Onboarding
 
 ## Introduction

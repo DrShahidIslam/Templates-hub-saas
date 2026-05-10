@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Vital Signs
+publishedAt: '2026-05-10T18:48:01.987Z'
+---
 # Standard Operating Procedure: Vital Signs Assessment
 
 This Standard Operating Procedure (SOP) outlines the mandatory clinical protocol for the accurate measurement, documentation, and interpretation of patient vital signs. Vital signs—comprising temperature, pulse, respiration rate, blood pressure, and oxygen saturation—serve as the primary indicators of a patient’s physiological status. Adherence to this procedure ensures clinical consistency, facilitates early identification of patient deterioration, and maintains the highest standards of patient safety across all care settings.

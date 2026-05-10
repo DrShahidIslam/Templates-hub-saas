@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Yoga
+publishedAt: '2026-05-10T18:48:01.569Z'
+---
 # Standard Operating Procedure: Professional Yoga Session Execution
 
 This Standard Operating Procedure (SOP) outlines the professional protocols for conducting a yoga session, whether in a studio setting or a private practice environment. The objective is to ensure a safe, consistent, and high-quality experience for all practitioners. By standardizing the preparation, execution, and conclusion of each session, instructors can maintain physical safety, foster a meditative atmosphere, and enhance client retention.

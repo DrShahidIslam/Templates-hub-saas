@@ -1,3 +1,8 @@
+---
+status: published
+title: What Is Standard Operating Procedure
+publishedAt: '2026-05-10T18:48:02.045Z'
+---
 # Standard Operating Procedure: Developing and Maintaining SOPs
 
 An effective Standard Operating Procedure (SOP) is the backbone of operational excellence. It serves as a comprehensive document that outlines the specific steps required to complete a routine task or process. The primary objective of an SOP is to ensure consistency, minimize human error, ensure regulatory compliance, and facilitate the onboarding of new team members by providing a single source of truth.

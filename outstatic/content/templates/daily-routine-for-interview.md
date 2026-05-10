@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Interview
+publishedAt: '2026-05-10T18:48:00.695Z'
+---
 # Standard Operating Procedure: Daily Interview Management Routine
 
 This SOP outlines the standardized daily operational procedures for hiring managers and interviewers to ensure a consistent, professional, and candidate-centric experience. By adhering to this workflow, the organization minimizes scheduling friction, ensures objective assessment, and projects a polished employer brand. This routine is designed to be completed in the hours leading up to and immediately following each candidate interaction.

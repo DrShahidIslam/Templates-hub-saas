@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Safety Box
+publishedAt: '2026-05-10T18:48:01.590Z'
+---
 # Standard Operating Procedure: Safety Box Management and Security
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the handling, secure storage, and inventory management of the organization’s Safety Box. The objective of this procedure is to ensure the integrity of sensitive physical assets, mitigate the risk of unauthorized access, and maintain a rigorous audit trail of all items stored or retrieved. Compliance with these steps is essential for operational security and loss prevention.

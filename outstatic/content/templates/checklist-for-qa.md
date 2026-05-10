@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Qa
+publishedAt: '2026-05-10T18:48:00.493Z'
+---
 # Standard Operating Procedure: Quality Assurance (QA) Execution
 
 Quality Assurance (QA) is the systematic process of determining whether a product, service, or process meets specified requirements and standards. This SOP establishes a rigorous framework for conducting QA to minimize defects, ensure regulatory compliance, and deliver consistent, high-value outcomes to the end-user. By following this standardized checklist, teams can mitigate operational risk and ensure that every deliverable undergoes a comprehensive validation cycle before final sign-off.

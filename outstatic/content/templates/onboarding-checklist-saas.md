@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Saas
+publishedAt: '2026-05-10T18:48:01.002Z'
+---
 # Standard Operating Procedure: SaaS Customer Onboarding
 
 Effective customer onboarding is the cornerstone of SaaS growth, directly influencing churn reduction and long-term Customer Lifetime Value (CLV). This SOP outlines a standardized, high-touch framework to transition new subscribers from the point of sale to "Time-to-Value" (TTV) as efficiently as possible. The objective is to align product capabilities with the client's specific business goals, ensuring seamless adoption and early platform advocacy.

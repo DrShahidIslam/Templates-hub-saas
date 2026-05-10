@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine Drawing For Students
+publishedAt: '2026-05-10T18:48:00.618Z'
+---
 # Standard Operating Procedure: Daily Student Drawing Routine
 
 This Standard Operating Procedure (SOP) outlines a structured framework for implementing a daily drawing routine for students. The objective is to foster creative discipline, improve observational skills, and provide a consistent emotional outlet through systematic artistic practice. By standardizing the environment, materials, and execution process, students can reduce cognitive friction and build long-term artistic habits that enhance cognitive development and fine motor control.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Yoga
+publishedAt: '2026-05-10T18:48:00.798Z'
+---
 # Standard Operating Procedure: Daily Yoga Practice
 
 This Standard Operating Procedure (SOP) defines the daily requirements for maintaining a consistent and effective yoga practice. The objective is to standardize the environment, preparation, and execution of physical movement to optimize physical recovery, mental clarity, and long-term wellness. By following this protocol, practitioners will reduce decision fatigue, minimize the risk of injury, and ensure consistent progress toward wellness goals.

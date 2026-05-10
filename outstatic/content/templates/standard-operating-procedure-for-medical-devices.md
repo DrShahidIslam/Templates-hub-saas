@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Medical Devices
+publishedAt: '2026-05-10T18:48:01.862Z'
+---
 # Standard Operating Procedure: Medical Device Lifecycle Management
 
 This Standard Operating Procedure (SOP) outlines the rigorous requirements for the procurement, handling, maintenance, and decommissioning of medical devices. Its primary objective is to ensure patient safety, maintain regulatory compliance (such as FDA 21 CFR Part 820 or ISO 13485), and optimize the operational efficacy of medical technology. Adherence to this document is mandatory for all clinical and biomedical engineering staff.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Cpwd Works Manual 2024
+publishedAt: '2026-05-10T18:48:01.198Z'
+---
 # Standard Operating Procedure: Execution of Works under CPWD Manual 2024
 
 This Standard Operating Procedure (SOP) serves as a comprehensive operational framework for the planning, execution, and monitoring of civil and electrical works as per the CPWD Works Manual 2024. Adherence to this SOP ensures transparency, financial propriety, and technical compliance, mitigating risks associated with procurement, contract management, and project delivery. This document acts as a functional bridge between the administrative directives of the Ministry of Housing and Urban Affairs and the field-level execution team.

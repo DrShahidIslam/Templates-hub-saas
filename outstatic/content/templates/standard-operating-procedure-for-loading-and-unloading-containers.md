@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Loading And Unloading Containers
+publishedAt: '2026-05-10T18:48:01.850Z'
+---
 # Standard Operating Procedure: Container Loading and Unloading
 
 This Standard Operating Procedure (SOP) defines the systematic process for loading and unloading intermodal shipping containers. The objective is to ensure the safety of personnel, maintain the integrity of the cargo, optimize space utilization, and adhere to international maritime and logistics compliance standards. All personnel involved in these operations must prioritize weight distribution, load securement, and documentation accuracy to prevent transit damage and regulatory fines.

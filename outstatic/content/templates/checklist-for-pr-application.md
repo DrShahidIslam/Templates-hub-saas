@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Pr Application
+publishedAt: '2026-05-10T18:48:00.488Z'
+---
 # Standard Operating Procedure: Permanent Residency (PR) Application Management
 
 ## Introduction

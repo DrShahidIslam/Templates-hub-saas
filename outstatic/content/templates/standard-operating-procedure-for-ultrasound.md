@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Ultrasound
+publishedAt: '2026-05-10T18:48:01.966Z'
+---
 # Standard Operating Procedure: Diagnostic Ultrasound Examination
 
 This Standard Operating Procedure (SOP) outlines the mandatory clinical and technical steps required to perform a diagnostic ultrasound examination. The objective of this protocol is to ensure patient safety, maintain diagnostic image quality, ensure infection control, and optimize workflow efficiency. All sonographers and ultrasound technicians must adhere to these guidelines to ensure consistency across clinical operations and to minimize the risk of repetitive strain or equipment damage.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Onedrive
+publishedAt: '2026-05-10T18:48:00.999Z'
+---
 # Standard Operating Procedure: OneDrive Onboarding & Workspace Configuration
 
 This Standard Operating Procedure (SOP) defines the standardized process for onboarding new employees to the corporate OneDrive environment. Proper configuration ensures seamless synchronization of company data, adherence to security compliance standards, and accessibility across all authorized hardware. Following these steps minimizes data fragmentation and ensures that new team members are aligned with our collaborative file-sharing culture from day one.

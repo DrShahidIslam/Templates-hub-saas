@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Safety Procedure
+publishedAt: '2026-05-10T18:48:01.606Z'
+---
 # Standard Operating Procedure: General Workplace Safety Protocol
 
 This Standard Operating Procedure (SOP) establishes the mandatory safety framework for all personnel operating within the facility. The objective of this protocol is to mitigate workplace hazards, ensure compliance with Occupational Safety and Health Administration (OSHA) regulations, and foster a proactive culture of accident prevention. Strict adherence to these steps is required to maintain operational continuity and protect the physical well-being of all staff members.

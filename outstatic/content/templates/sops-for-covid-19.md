@@ -1,3 +1,8 @@
+---
+status: published
+title: Sops For Covid 19
+publishedAt: '2026-05-10T18:48:01.628Z'
+---
 # Standard Operating Procedure: COVID-19 Workplace Safety and Response
 
 This document establishes the official guidelines for maintaining a safe, compliant, and healthy work environment amidst ongoing COVID-19 considerations. This SOP is designed to protect employees, minimize operational disruption, and ensure adherence to local health authority regulations. All staff members are required to familiarize themselves with these protocols and integrate them into their daily workflow to maintain business continuity.

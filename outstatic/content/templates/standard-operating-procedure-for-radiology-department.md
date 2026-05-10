@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Radiology Department
+publishedAt: '2026-05-10T18:48:01.915Z'
+---
 # Standard Operating Procedure: Radiology Department Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the efficient, safe, and patient-centered operation of the Radiology Department. The objective is to maintain clinical excellence, ensure radiation safety (ALARA principle), optimize patient throughput, and uphold stringent data integrity standards. Adherence to these guidelines is required for all radiology staff, including radiologists, radiologic technologists, nurses, and administrative personnel, to minimize diagnostic errors and ensure compliance with regulatory health standards.

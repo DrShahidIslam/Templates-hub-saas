@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine Quiz
+publishedAt: '2026-05-10T18:48:00.824Z'
+---
 # Standard Operating Procedure: Daily Routine Quiz Administration
 
 This Standard Operating Procedure (SOP) outlines the standardized process for administering, monitoring, and analyzing the "Daily Routine Quiz." The objective of this procedure is to ensure consistent performance tracking, maintain data integrity, and provide immediate feedback loops to participants. By adhering to this workflow, we minimize administrative friction and ensure that every quiz cycle serves as a high-value touchpoint for organizational alignment and skill reinforcement.

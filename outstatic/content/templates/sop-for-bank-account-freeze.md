@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Bank Account Freeze
+publishedAt: '2026-05-10T18:48:01.167Z'
+---
 # Standard Operating Procedure: Bank Account Freeze Protocol
 
 ## Overview

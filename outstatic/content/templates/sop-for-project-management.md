@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Project Management
+publishedAt: '2026-05-10T18:48:01.415Z'
+---
 # Standard Operating Procedure: Project Management Lifecycle
 
 This Standard Operating Procedure (SOP) outlines the standardized framework for managing projects from inception to closure. By adhering to these protocols, project managers ensure consistency, mitigate operational risks, and maintain alignment with organizational strategic objectives. This document serves as the authoritative guide for all project leads to ensure successful, repeatable, and scalable delivery across all business units.

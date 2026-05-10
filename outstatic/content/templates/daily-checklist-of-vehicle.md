@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Checklist Of Vehicle
+publishedAt: '2026-05-10T18:48:00.595Z'
+---
 # Standard Operating Procedure: Daily Vehicle Inspection
 
 Effective fleet management relies on the proactive identification of maintenance issues before they escalate into costly repairs or safety hazards. This Standard Operating Procedure (SOP) outlines the mandatory daily inspection process for all company vehicles. Every driver is responsible for performing a comprehensive walk-around check before the vehicle’s first deployment of the day to ensure operational readiness, mechanical integrity, and regulatory compliance.

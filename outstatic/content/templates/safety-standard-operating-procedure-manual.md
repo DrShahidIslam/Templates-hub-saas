@@ -1,3 +1,8 @@
+---
+status: published
+title: Safety Standard Operating Procedure Manual
+publishedAt: '2026-05-10T18:48:01.117Z'
+---
 # Standard Operating Procedure: Safety Management Manual Development
 
 ## Introduction

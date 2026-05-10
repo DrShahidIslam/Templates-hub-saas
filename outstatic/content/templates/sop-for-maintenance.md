@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Maintenance
+publishedAt: '2026-05-10T18:48:01.357Z'
+---
 # Standard Operating Procedure: Asset and Facility Maintenance
 
 This Standard Operating Procedure (SOP) outlines the standardized process for managing, executing, and documenting maintenance activities within the organization. The objective of this protocol is to ensure operational continuity, extend the lifecycle of physical assets, maintain safety standards, and minimize unplanned downtime. By adhering to these guidelines, maintenance teams will foster a culture of proactive care rather than reactive repair, ensuring all facility systems remain in optimal working condition.

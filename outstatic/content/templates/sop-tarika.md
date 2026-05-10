@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Tarika
+publishedAt: '2026-05-10T18:48:01.617Z'
+---
 # Standard Operating Procedure: SOP Tarika
 
 The SOP Tarika is a foundational operational framework designed to standardize workflow execution, ensure consistent quality control, and mitigate risk across all departmental functions. By adhering to this protocol, team members ensure that every task—from initial intake to final delivery—follows a repeatable, measurable, and highly efficient path. This document serves as the single source of truth for executing the Tarika methodology, promoting organizational alignment and operational excellence.

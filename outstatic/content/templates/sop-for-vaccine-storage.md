@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Vaccine Storage
+publishedAt: '2026-05-10T18:48:01.509Z'
+---
 # Standard Operating Procedure: Vaccine Storage and Cold Chain Management
 
 Maintaining the integrity of the cold chain is critical to ensuring vaccine efficacy and patient safety. This Standard Operating Procedure (SOP) outlines the mandatory requirements for receiving, storing, monitoring, and managing vaccine inventories. All personnel handling vaccines must adhere to these guidelines to prevent temperature excursions that could render immunizations ineffective. Failure to maintain these standards may result in significant financial loss and compromised public health outcomes.

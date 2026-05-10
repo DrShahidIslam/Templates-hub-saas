@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Inventory Management
+publishedAt: '2026-05-10T18:48:01.831Z'
+---
 # Standard Operating Procedure: Inventory Management
 
 ## Introduction

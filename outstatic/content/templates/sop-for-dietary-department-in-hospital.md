@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Dietary Department In Hospital
+publishedAt: '2026-05-10T18:48:01.204Z'
+---
 # Standard Operating Procedure: Dietary Department Operations
 
 This Standard Operating Procedure (SOP) establishes the operational framework for the Hospital Dietary Department. Its primary objective is to ensure the provision of nutritionally balanced, safe, and diet-specific meals to patients while maintaining strict adherence to clinical orders and food safety regulations (HACCP). All dietary staff must prioritize patient safety by verifying patient identity, cross-referencing allergies, and strictly adhering to prescribed therapeutic diets.

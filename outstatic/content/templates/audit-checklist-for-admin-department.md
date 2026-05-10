@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist For Admin Department
+publishedAt: '2026-05-10T18:48:00.335Z'
+---
 # Standard Operating Procedure: Administrative Department Audit
 
 ### Introduction

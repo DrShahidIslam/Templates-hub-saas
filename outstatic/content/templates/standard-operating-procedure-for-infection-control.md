@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Infection Control
+publishedAt: '2026-05-10T18:48:01.828Z'
+---
 # Standard Operating Procedure: Infection Control Protocols
 
 ## 1. Introduction

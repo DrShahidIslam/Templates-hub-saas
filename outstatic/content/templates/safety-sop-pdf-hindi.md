@@ -1,3 +1,8 @@
+---
+status: published
+title: Safety Sop Pdf Hindi
+publishedAt: '2026-05-10T18:48:01.112Z'
+---
 # Standard Operating Procedure: Safety Protocol Documentation (SOP)
 
 ## Introduction

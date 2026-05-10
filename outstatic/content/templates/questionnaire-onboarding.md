@@ -1,3 +1,8 @@
+---
+status: published
+title: Questionnaire Onboarding
+publishedAt: '2026-05-10T18:48:01.083Z'
+---
 # Standard Operating Procedure: Client Questionnaire Onboarding
 
 This Standard Operating Procedure (SOP) defines the standardized process for administering, managing, and integrating client onboarding questionnaires. The objective of this workflow is to ensure high-quality data collection, minimize friction for the client, and guarantee that project teams receive all necessary documentation to initiate service delivery without delay. By adhering to this protocol, we reduce administrative bottlenecks and ensure a professional, cohesive brand experience from the first interaction.

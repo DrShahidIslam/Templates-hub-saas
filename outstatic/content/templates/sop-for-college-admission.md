@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For College Admission
+publishedAt: '2026-05-10T18:48:01.193Z'
+---
 # Standard Operating Procedure: College Admission Management
 
 This Standard Operating Procedure (SOP) outlines the standardized framework for managing the college admission cycle, from initial inquiry to final enrollment. The objective is to ensure institutional compliance, maintain accurate data integrity, and provide a seamless, transparent experience for prospective students. By following these protocols, the admissions department will maximize conversion rates while upholding the academic standards and values of the institution.

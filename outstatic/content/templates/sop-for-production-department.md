@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Production Department
+publishedAt: '2026-05-10T18:48:01.414Z'
+---
 # Standard Operating Procedure: Production Department Workflow
 
 This Standard Operating Procedure (SOP) outlines the mandatory workflows, safety protocols, and quality assurance standards for the Production Department. The objective of this document is to ensure consistent manufacturing output, minimize downtime, maintain worker safety, and uphold the highest quality standards from raw material intake to final product shipment. All production personnel are required to adhere to these procedures to ensure operational excellence.

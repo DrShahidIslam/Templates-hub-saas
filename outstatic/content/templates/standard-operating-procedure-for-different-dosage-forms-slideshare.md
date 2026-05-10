@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Different Dosage Forms Slideshare
+publishedAt: '2026-05-10T18:48:01.704Z'
+---
 # Standard Operating Procedure: Creation and Management of Dosage Form Presentations
 
 This SOP defines the professional requirements and systematic approach for developing, reviewing, and distributing technical slide decks concerning pharmaceutical dosage forms (e.g., tablets, capsules, injectables, transdermal systems). The objective is to ensure that all training materials or educational presentations regarding dosage forms are scientifically accurate, compliant with current Good Manufacturing Practices (cGMP), and visually optimized for knowledge retention.

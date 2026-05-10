@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Document Control
+publishedAt: '2026-05-10T18:48:01.708Z'
+---
 # Standard Operating Procedure: Document Control
 
 This Standard Operating Procedure (SOP) establishes the formal framework for the creation, review, approval, distribution, and archival of organizational documentation. The purpose of this procedure is to ensure that all personnel have access to the most current, accurate, and authorized versions of documents, thereby mitigating risks associated with outdated information, non-compliance, and operational inefficiencies. This document applies to all controlled internal documents, including policies, standard operating procedures, work instructions, and technical specifications.

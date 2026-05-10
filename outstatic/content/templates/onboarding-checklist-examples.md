@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Examples
+publishedAt: '2026-05-10T18:48:00.948Z'
+---
 # Standard Operating Procedure: Employee Onboarding Excellence
 
 An effective onboarding process is the cornerstone of employee retention, cultural alignment, and operational productivity. This SOP outlines the structured approach for integrating new hires into the organization, ensuring they have the necessary resources, information, and social connectivity to thrive from their first day. By standardizing this workflow, we minimize administrative friction and maximize the time-to-competency for every new team member.

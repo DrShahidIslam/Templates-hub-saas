@@ -1,3 +1,8 @@
+---
+status: published
+title: Pdi Checklist For Xuv 700
+publishedAt: '2026-05-10T18:48:01.080Z'
+---
 # Standard Operating Procedure: Pre-Delivery Inspection (PDI) for Mahindra XUV700
 
 The Pre-Delivery Inspection (PDI) is a critical quality assurance process conducted before a vehicle is officially handed over to the customer. For a sophisticated vehicle like the Mahindra XUV700—which integrates advanced ADAS, dual-screen infotainment, and complex electrical architecture—a rigorous PDI is essential to identify manufacturing defects, transport damage, or software glitches. This SOP ensures that the vehicle meets all factory standards and that the customer receives a flawless product.

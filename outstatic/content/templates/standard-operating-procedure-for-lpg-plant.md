@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Lpg Plant
+publishedAt: '2026-05-10T18:48:01.855Z'
+---
 # Standard Operating Procedure: Liquefied Petroleum Gas (LPG) Plant Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety protocols, operational guidelines, and maintenance requirements for the daily operation of an LPG bottling and storage facility. Strict adherence to this procedure is essential to mitigate the risk of fire, explosion, and gas leaks, ensuring the safety of all personnel and the integrity of the facility. All operators must be trained, certified, and equipped with appropriate Personal Protective Equipment (PPE) before engaging in any plant operations.

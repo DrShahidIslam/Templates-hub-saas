@@ -1,3 +1,8 @@
+---
+status: published
+title: Inspection Checklist For Apartment
+publishedAt: '2026-05-10T18:48:00.869Z'
+---
 # Standard Operating Procedure: Apartment Move-In/Move-Out Inspection
 
 This document establishes the standardized protocol for conducting a comprehensive inspection of an apartment unit. The purpose of this inspection is to accurately document the physical condition of the property to protect the interests of both the property manager and the resident, facilitate fair security deposit reconciliation, and identify necessary maintenance repairs. All inspections must be completed thoroughly, using objective language, and supported by high-resolution photographic evidence.

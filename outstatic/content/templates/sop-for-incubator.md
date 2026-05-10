@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Incubator
+publishedAt: '2026-05-10T18:48:01.306Z'
+---
 # Standard Operating Procedure: Laboratory Incubator Maintenance and Operation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the operation, monitoring, and maintenance of laboratory incubators. The objective is to maintain a sterile, stable environment for cell cultures or biological samples by preventing cross-contamination, ensuring precise temperature/CO2 regulation, and establishing a consistent workflow for all laboratory personnel. Strict adherence to these steps is required to ensure sample viability and the longevity of equipment.

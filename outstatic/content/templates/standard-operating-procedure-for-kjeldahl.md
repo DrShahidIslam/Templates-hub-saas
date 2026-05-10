@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Kjeldahl
+publishedAt: '2026-05-10T18:48:01.841Z'
+---
 # Standard Operating Procedure: Kjeldahl Method for Nitrogen Determination
 
 This Standard Operating Procedure (SOP) outlines the standardized method for the quantitative determination of nitrogen in organic and inorganic substances using the Kjeldahl technique. The process involves three distinct phases: digestion, distillation, and titration. Adherence to this procedure is critical to ensure analytical precision, safety in handling concentrated sulfuric acid and caustic reagents, and compliance with laboratory quality control standards.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Drug Storage
+publishedAt: '2026-05-10T18:48:01.216Z'
+---
 # Standard Operating Procedure: Pharmaceutical Drug Storage and Inventory Management
 
 This Standard Operating Procedure (SOP) establishes the mandatory guidelines for the secure, compliant, and climate-controlled storage of pharmaceutical products. Proper storage is essential to maintain drug efficacy, ensure patient safety, and maintain compliance with regulatory bodies (e.g., FDA, DEA, or local health authorities). This SOP applies to all clinical, pharmacy, and warehouse personnel responsible for the receipt, placement, and maintenance of drug inventory.

@@ -1,3 +1,8 @@
+---
+status: published
+title: What Is Sop In Safety
+publishedAt: '2026-05-10T18:48:02.043Z'
+---
 # Standard Operating Procedure: Developing and Implementing Safety SOPs
 
 ## Introduction

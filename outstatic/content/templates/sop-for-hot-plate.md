@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Hot Plate
+publishedAt: '2026-05-10T18:48:01.291Z'
+---
 # Standard Operating Procedure: Safe Operation of Laboratory Hot Plates
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety protocols and operational guidelines for the use of electric hot plates in a laboratory setting. Hot plates are essential for heating liquids and solids; however, improper usage poses significant risks, including fire, thermal burns, and electrical hazards. All personnel must strictly adhere to these procedures to maintain a safe working environment and ensure equipment longevity.

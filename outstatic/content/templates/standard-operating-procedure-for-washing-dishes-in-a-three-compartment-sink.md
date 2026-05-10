@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Washing Dishes In A Three Compartment Sink
+publishedAt: '2026-05-10T18:48:01.991Z'
+---
 # Standard Operating Procedure: Three-Compartment Sink Dishwashing
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for cleaning and sanitizing dishware, utensils, and equipment using a three-compartment sink. Following these steps is critical to maintaining food safety standards, preventing cross-contamination, and ensuring compliance with local health department regulations. All staff members are required to follow this sequence strictly to ensure the elimination of pathogens and the maintenance of a sanitary environment.

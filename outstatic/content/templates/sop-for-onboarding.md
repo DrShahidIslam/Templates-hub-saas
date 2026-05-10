@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Onboarding
+publishedAt: '2026-05-10T18:48:01.389Z'
+---
 # Standard Operating Procedure: New Hire Onboarding
 
 The onboarding process is the critical bridge between a candidate’s acceptance of an offer and their long-term productivity. This SOP is designed to ensure a seamless, standardized, and welcoming experience that aligns new hires with company culture, operational tools, and performance expectations. By following this systematic approach, we minimize administrative friction and maximize early-stage engagement and retention.

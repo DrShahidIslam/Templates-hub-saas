@@ -1,3 +1,8 @@
+---
+status: published
+title: Concurrent Audit Checklist For Banks
+publishedAt: '2026-05-10T18:48:00.556Z'
+---
 # Standard Operating Procedure: Concurrent Audit for Banking Operations
 
 ## Introduction

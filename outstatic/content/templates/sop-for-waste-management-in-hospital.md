@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Waste Management In Hospital
+publishedAt: '2026-05-10T18:48:01.526Z'
+---
 # Standard Operating Procedure: Hospital Waste Management
 
 ## Introduction

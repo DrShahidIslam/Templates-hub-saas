@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For New Product Development In Pharmaceutical
+publishedAt: '2026-05-10T18:48:01.374Z'
+---
 # Standard Operating Procedure: New Product Development (NPD) Lifecycle
 
 This Standard Operating Procedure (SOP) outlines the mandatory framework for the end-to-end development of new pharmaceutical products. Its purpose is to ensure that all development activities—from initial chemical entity selection and formulation design to regulatory filing and commercial transition—comply with current Good Manufacturing Practices (cGMP), International Council for Harmonisation (ICH) guidelines, and internal quality standards. This process ensures that every product developed is safe, efficacious, and manufactured under a state of control to protect patient health and ensure regulatory compliance.

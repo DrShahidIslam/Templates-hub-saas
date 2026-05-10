@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Chiller Plant
+publishedAt: '2026-05-10T18:48:01.679Z'
+---
 # Standard Operating Procedure: Chiller Plant Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the safe, efficient, and reliable operation of the chiller plant. Adherence to these procedures is critical to ensure optimal thermal performance, extend equipment lifespan, and minimize operational downtime. Operators must follow these guidelines strictly during daily rounds, startup, shutdown, and emergency intervention to maintain facility climate control standards and energy efficiency benchmarks.

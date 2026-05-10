@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Water Bath
+publishedAt: '2026-05-10T18:48:01.533Z'
+---
 # Standard Operating Procedure: Water Bath Operation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the safe and effective operation of laboratory water baths. Proper usage ensures consistent temperature regulation, prevents sample contamination, and extends the lifespan of the equipment. All personnel must adhere to these guidelines to maintain laboratory safety standards and experimental reproducibility.

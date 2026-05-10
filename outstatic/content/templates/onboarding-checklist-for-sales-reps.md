@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist For Sales Reps
+publishedAt: '2026-05-10T18:48:00.980Z'
+---
 # Standard Operating Procedure: Sales Representative Onboarding
 
 The goal of this onboarding process is to accelerate "time-to-productivity" for new sales representatives by providing a structured, supportive, and data-driven transition into the company. A high-quality onboarding experience is critical for establishing cultural alignment, ensuring tool mastery, and delivering immediate value to the sales pipeline. This SOP serves as the baseline for all incoming hires, ensuring consistency, compliance, and excellence across the revenue organization.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Fire Extinguisher
+publishedAt: '2026-05-10T18:48:01.244Z'
+---
 # Standard Operating Procedure: Fire Extinguisher Operation and Maintenance
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the inspection, handling, and operation of portable fire extinguishers. Maintaining operational readiness is critical to workplace safety and regulatory compliance. All employees must be familiar with the location, type, and operation of extinguishers within their designated work area. This document adheres to NFPA 10 standards and is intended to empower personnel to respond effectively during the incipient stage of a fire.

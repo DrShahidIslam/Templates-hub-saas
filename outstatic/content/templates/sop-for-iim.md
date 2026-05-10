@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Iim
+publishedAt: '2026-05-10T18:48:01.302Z'
+---
 # Standard Operating Procedure: Incident and Issue Management (IIM)
 
 This Standard Operating Procedure (SOP) defines the systematic approach for identifying, documenting, analyzing, and resolving operational incidents. The objective of the IIM process is to restore normal service operation as quickly as possible, minimize the adverse impact on business functions, and ensure that root causes are identified to prevent recurrence. This framework applies to all technical and operational personnel responsible for maintaining service continuity.

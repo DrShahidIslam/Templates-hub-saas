@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Passport Renewal India
+publishedAt: '2026-05-10T18:48:00.481Z'
+---
 # Standard Operating Procedure: Passport Renewal Process (India)
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols and administrative requirements for the renewal of an Indian passport through the Passport Seva system. Adherence to these guidelines ensures a seamless application process, minimizes the risk of rejection, and reduces turnaround time at the Passport Seva Kendra (PSK). All applicants must ensure that the information provided matches their official government documentation exactly.

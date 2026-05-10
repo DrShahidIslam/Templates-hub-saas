@@ -1,3 +1,8 @@
+---
+status: published
+title: Statutory Audit Checklist For Banks
+publishedAt: '2026-05-10T18:48:02.038Z'
+---
 # Standard Operating Procedure: Statutory Audit Preparation for Banking Institutions
 
 This Standard Operating Procedure (SOP) serves as a comprehensive framework for banking branches to ensure seamless coordination and compliance during the annual statutory audit process. The objective is to standardize document retrieval, reconcile ledger discrepancies, and ensure adherence to regulatory requirements (such as Basel norms, local central bank mandates, and internal risk policies). By maintaining this proactive posture, the branch mitigates audit observations, ensures data integrity, and facilitates an efficient review by external auditors.

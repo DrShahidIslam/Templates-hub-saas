@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Churches
+publishedAt: '2026-05-10T18:48:01.681Z'
+---
 # Standard Operating Procedure: Sunday Service and Facility Management
 
 This Standard Operating Procedure (SOP) outlines the professional requirements for maintaining operational excellence, safety, and hospitality during church services. The objective is to provide a consistent, welcoming, and secure environment that allows the congregation to focus on worship while ensuring that all logistical, technical, and safety workflows are executed with precision.

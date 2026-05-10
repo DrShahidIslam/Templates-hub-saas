@@ -1,3 +1,8 @@
+---
+status: published
+title: New Hire Checklist Baylor Scott And White
+publishedAt: '2026-05-10T18:48:00.905Z'
+---
 # Standard Operating Procedure: New Hire Onboarding Process
 
 This Standard Operating Procedure (SOP) serves as the definitive guide for managers and department leads at Baylor Scott & White (BSW) when onboarding new team members. Adhering to this structured approach ensures compliance with system-wide clinical and administrative standards, facilitates a smooth cultural integration, and accelerates the new hire's path to full productivity. All departments are expected to utilize this workflow to guarantee that every employee receives a consistent, high-quality onboarding experience.

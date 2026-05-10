@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist For Consultants
+publishedAt: '2026-05-10T18:48:00.955Z'
+---
 # Standard Operating Procedure: Consultant Onboarding
 
 This Standard Operating Procedure (SOP) outlines the standardized process for onboarding external consultants to ensure seamless integration into company culture, security protocols, and operational workflows. The objective is to minimize time-to-productivity while ensuring full compliance with internal governance, data protection policies, and project-specific requirements. This process applies to all independent contractors and agency-based consultants engaged for project-based work.

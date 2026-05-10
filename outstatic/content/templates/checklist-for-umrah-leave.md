@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Umrah Leave
+publishedAt: '2026-05-10T18:48:00.526Z'
+---
 # Standard Operating Procedure: Umrah Leave Management
 
 This Standard Operating Procedure (SOP) serves as a comprehensive framework for employees planning to request and execute leave for the purpose of performing Umrah. The objective is to ensure seamless coordination between the employee and the organization, minimizing operational impact while ensuring the employee remains compliant with company policy, religious requirements, and travel logistics. Adherence to this procedure is mandatory to ensure leave approval and a stress-free pilgrimage.

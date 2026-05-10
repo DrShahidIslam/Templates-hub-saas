@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template For New Employees
+publishedAt: '2026-05-10T18:48:01.053Z'
+---
 # Standard Operating Procedure: New Employee Onboarding
 
 This Standard Operating Procedure (SOP) defines the systematic process for integrating new hires into the organization. The objective of this onboarding template is to ensure a consistent, professional, and welcoming experience that aligns new team members with company culture, operational protocols, and role-specific expectations. By following this standardized procedure, we minimize transition friction, accelerate "time-to-productivity," and foster long-term employee retention.

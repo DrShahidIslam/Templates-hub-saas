@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Microwave Oven
+publishedAt: '2026-05-10T18:48:01.867Z'
+---
 # Standard Operating Procedure: Microwave Oven Operations
 
 This Standard Operating Procedure (SOP) outlines the safe, efficient, and sanitary operation of microwave ovens within the workplace. Adherence to these guidelines is essential to prevent equipment damage, mitigate fire hazards, and ensure consistent food quality. All personnel are expected to follow these protocols strictly to maintain a safe environment for all staff.

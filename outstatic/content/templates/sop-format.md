@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Format
+publishedAt: '2026-05-10T18:48:01.585Z'
+---
 # Standard Operating Procedure: Standard Operating Procedure (SOP) Development
 
 This document outlines the professional standards and structural requirements for creating high-quality Standard Operating Procedures. A well-constructed SOP ensures operational consistency, reduces human error, and facilitates efficient onboarding for new team members. Adherence to this format ensures that all documentation within the organization remains uniform, accessible, and actionable.

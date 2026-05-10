@@ -1,3 +1,8 @@
+---
+status: published
+title: Safety Sop For Construction Site
+publishedAt: '2026-05-10T18:48:01.101Z'
+---
 # Standard Operating Procedure: Construction Site Safety Management
 
 This Standard Operating Procedure (SOP) establishes the mandatory safety protocols for all personnel, contractors, and visitors operating within the construction site. The objective of this document is to achieve a zero-incident environment by mitigating physical hazards, ensuring regulatory compliance (OSHA/local equivalent), and fostering a culture of proactive hazard reporting. Adherence to these guidelines is non-negotiable; non-compliance will result in immediate removal from the site.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Gram Staining
+publishedAt: '2026-05-10T18:48:01.281Z'
+---
 # Standard Operating Procedure: Gram Staining Protocol
 
 This Standard Operating Procedure (SOP) outlines the standardized process for the Gram staining technique, a fundamental differential staining method used in microbiology to classify bacteria into two broad groups: Gram-positive and Gram-negative. The accuracy of this procedure is critical for clinical diagnostics and research applications, as it provides immediate information regarding cell wall structure, which informs subsequent antibiotic susceptibility testing and treatment protocols. All personnel must adhere to strict aseptic techniques and biohazard safety standards while performing this procedure.

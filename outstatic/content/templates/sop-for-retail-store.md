@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Retail Store
+publishedAt: '2026-05-10T18:48:01.449Z'
+---
 # Standard Operating Procedure: Retail Store Operations
 
 This Standard Operating Procedure (SOP) serves as the foundational guide for maintaining operational excellence, ensuring consistent customer experiences, and maximizing store profitability. Every staff member is expected to adhere to these protocols to maintain store standards, security, and cleanliness. By following these structured guidelines, we ensure that the store remains a safe, welcoming, and efficient environment for both our patrons and our team.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Security Guard
+publishedAt: '2026-05-10T18:48:01.472Z'
+---
 # Standard Operating Procedure: Security Operations and Site Protection
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for security personnel to ensure the safety of site assets, personnel, and infrastructure. Security guards act as the primary line of defense; therefore, adherence to these procedures is critical to maintaining a secure environment, mitigating risk, and ensuring compliance with company safety standards. All security personnel are expected to maintain professionalism, vigilance, and strict accountability in their duties.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Ux
+publishedAt: '2026-05-10T18:48:01.036Z'
+---
 # Standard Operating Procedure: UX Design Onboarding Process
 
 This Standard Operating Procedure (SOP) outlines the standardized process for integrating a new UX designer into a product team. The objective is to minimize time-to-productivity, ensure cultural alignment, and provide the new hire with the necessary tools, design system knowledge, and stakeholder context required to deliver high-quality user experiences from day one.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Pharmacy
+publishedAt: '2026-05-10T18:48:01.888Z'
+---
 # Standard Operating Procedure: Pharmacy Operations Management
 
 This Standard Operating Procedure (SOP) outlines the rigorous protocols required for the efficient, safe, and compliant operation of a modern pharmacy. It is designed to ensure patient safety, regulatory adherence, and operational excellence by standardizing workflows from prescription intake through to final dispensing and inventory management. All staff members are required to adhere to these guidelines to mitigate clinical risks and maintain the highest standards of professional care.

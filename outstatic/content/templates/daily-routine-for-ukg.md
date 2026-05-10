@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Ukg
+publishedAt: '2026-05-10T18:48:00.770Z'
+---
 # Standard Operating Procedure: Daily Routine for UKG (Upper Kindergarten)
 
 ## Purpose and Overview

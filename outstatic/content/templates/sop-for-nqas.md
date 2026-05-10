@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Nqas
+publishedAt: '2026-05-10T18:48:01.382Z'
+---
 # Standard Operating Procedure (SOP): NQAS Quality Assurance Compliance
 
 This Standard Operating Procedure (SOP) provides a comprehensive framework for healthcare facilities preparing for National Quality Assurance Standards (NQAS) certification. The objective is to ensure that all clinical, administrative, and support services meet the rigorous benchmarks set by the Ministry of Health. This document serves as the primary roadmap for quality improvement, documentation integrity, and the systematic evaluation of patient-centered care processes.

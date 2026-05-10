@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Checklist Visual
+publishedAt: '2026-05-10T18:48:00.603Z'
+---
 # Standard Operating Procedure: Daily Visual Management Checklist
 
 This Standard Operating Procedure (SOP) defines the protocol for maintaining a "Daily Checklist Visual"—a standardized visual management tool used to monitor operational health, team performance, and site safety. By implementing a systematic approach to daily verification, the organization ensures that critical tasks are completed, deviations are identified in real-time, and accountability is maintained. This SOP is designed to bridge the gap between workflow documentation and daily execution, fostering a culture of proactive management.

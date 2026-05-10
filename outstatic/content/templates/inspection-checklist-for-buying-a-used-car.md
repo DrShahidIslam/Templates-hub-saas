@@ -1,3 +1,8 @@
+---
+status: published
+title: Inspection Checklist For Buying A Used Car
+publishedAt: '2026-05-10T18:48:00.877Z'
+---
 # Standard Operating Procedure: Pre-Purchase Used Vehicle Inspection
 
 This document outlines the rigorous protocol for inspecting a pre-owned vehicle prior to acquisition. As an operations manager, the objective is to mitigate financial and safety risks by identifying potential mechanical failures, cosmetic neglect, or structural compromises. This SOP ensures a standardized, objective evaluation, moving beyond surface-level aesthetics to determine the true operational integrity of the asset.

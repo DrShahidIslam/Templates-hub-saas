@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Fire Safety In Hospital Pdf
+publishedAt: '2026-05-10T18:48:01.245Z'
+---
 # Standard Operating Procedure: Hospital Fire Safety and Emergency Response
 
 This Standard Operating Procedure (SOP) establishes the mandatory protocols for fire prevention, rapid response, and patient evacuation within a clinical environment. Given the high-dependency nature of hospital patients, this SOP prioritizes the "RACE" and "PASS" methodologies to ensure life safety, minimize property damage, and maintain critical continuity of care. All staff, including clinical, administrative, and maintenance personnel, are required to adhere to these procedures to maintain compliance with regulatory fire codes (e.g., NFPA 101/Life Safety Code).

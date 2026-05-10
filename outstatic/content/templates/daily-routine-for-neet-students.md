@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Neet Students
+publishedAt: '2026-05-10T18:48:00.728Z'
+---
 # Standard Operating Procedure: Optimized Daily Routine for NEET Aspirants
 
 This document establishes a standardized, high-efficiency operational framework for students preparing for the National Eligibility cum Entrance Test (NEET). By adhering to this structured daily protocol, aspirants can maximize cognitive retention, maintain physical well-being, and ensure consistent syllabus coverage. This routine is designed to balance intense academic output with the essential recovery periods required for long-term memory consolidation and mental endurance.

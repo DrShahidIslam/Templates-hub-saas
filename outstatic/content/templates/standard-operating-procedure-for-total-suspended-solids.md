@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Total Suspended Solids
+publishedAt: '2026-05-10T18:48:01.957Z'
+---
 # Standard Operating Procedure: Determination of Total Suspended Solids (TSS)
 
 This Standard Operating Procedure (SOP) outlines the gravimetric method for determining Total Suspended Solids (TSS) in water and wastewater samples. TSS represents the portion of total solids retained by a glass-fiber filter after filtration of a well-mixed sample, followed by drying to a constant weight at 103–105°C. Adherence to this protocol is critical for ensuring regulatory compliance, maintaining data integrity, and minimizing analytical variance in environmental monitoring.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Drugstore
+publishedAt: '2026-05-10T18:48:01.714Z'
+---
 # Standard Operating Procedure: Retail Pharmacy & Drugstore Operations
 
 This Standard Operating Procedure (SOP) outlines the essential protocols for maintaining operational excellence, regulatory compliance, and patient safety within the drugstore. It is designed to ensure a consistent customer experience, accurate inventory management, and strict adherence to healthcare regulations. All staff members are required to familiarize themselves with these procedures to mitigate risks, optimize workflow efficiency, and maintain the highest standards of professional conduct.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Line Clearance
+publishedAt: '2026-05-10T18:48:01.354Z'
+---
 # Standard Operating Procedure: Manufacturing Line Clearance
 
 Line clearance is a critical quality assurance process designed to prevent cross-contamination, mislabeling, and product mix-ups. This SOP outlines the systematic removal of all materials, components, and documentation from the previous production batch before a new batch begins. Adherence to this procedure is mandatory to maintain Good Manufacturing Practices (GMP) and ensure the integrity of the finished product.

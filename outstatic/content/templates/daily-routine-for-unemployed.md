@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Unemployed
+publishedAt: '2026-05-10T18:48:00.773Z'
+---
 # Standard Operating Procedure: Daily Routine for Professional Re-Employment
 
 The transition period between career roles is a high-stakes operational phase that requires the same level of discipline and strategic management as a full-time position. This SOP is designed to replace external work structure with internal systems, ensuring that your job search remains consistent, your mental health remains resilient, and your skill set remains competitive. By treating your job search as your primary occupation, you minimize the "gaps" in your productivity and maintain the momentum necessary to secure your next role.

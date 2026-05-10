@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Environmental Monitoring In Food Industry
+publishedAt: '2026-05-10T18:48:01.229Z'
+---
 # Standard Operating Procedure: Environmental Monitoring Program (EMP)
 
 ## Purpose and Scope

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Gram Staining
+publishedAt: '2026-05-10T18:48:01.796Z'
+---
 # Standard Operating Procedure: Gram Staining
 
 Gram staining is a critical differential staining technique used in microbiology to categorize bacterial species into two large groups: Gram-positive and Gram-negative. This procedure relies on the structural differences in the bacterial cell wall, specifically the thickness of the peptidoglycan layer. As an operations manager, it is imperative that this SOP is followed precisely to ensure reproducible, high-quality diagnostic results and to maintain laboratory safety standards.

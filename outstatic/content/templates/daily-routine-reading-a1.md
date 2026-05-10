@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine Reading A1
+publishedAt: '2026-05-10T18:48:00.829Z'
+---
 # Standard Operating Procedure: Daily Routine Reading (Level A1)
 
 This Standard Operating Procedure (SOP) outlines the systematic approach for learners at the A1 (Beginner) proficiency level to engage in daily reading exercises. The objective is to build foundational vocabulary, improve sentence structure recognition, and increase reading speed through consistent, low-stress exposure to target language content. Adherence to this routine ensures steady cognitive load management and prevents learner burnout.

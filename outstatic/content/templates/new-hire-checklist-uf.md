@@ -1,3 +1,8 @@
+---
+status: published
+title: New Hire Checklist Uf
+publishedAt: '2026-05-10T18:48:00.924Z'
+---
 # Standard Operating Procedure: New Hire Onboarding (UF)
 
 This Standard Operating Procedure (SOP) serves as the definitive guide for integrating new team members into the University of Florida (UF) ecosystem. The objective of this process is to ensure administrative compliance, technological readiness, and cultural alignment from day one. By following this standardized protocol, hiring managers and department administrators can minimize onboarding friction, ensure data security compliance, and maximize new hire productivity during their first 30 days.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Procurement
+publishedAt: '2026-05-10T18:48:01.891Z'
+---
 # Standard Operating Procedure: Procurement Lifecycle Management
 
 This Standard Operating Procedure (SOP) defines the systematic process for procuring goods and services to ensure cost-efficiency, transparency, and operational continuity. This document serves as a mandate for all department heads and procurement officers to maintain fiscal responsibility, mitigate supply chain risks, and ensure that all purchases align with organizational budgetary constraints and compliance standards.

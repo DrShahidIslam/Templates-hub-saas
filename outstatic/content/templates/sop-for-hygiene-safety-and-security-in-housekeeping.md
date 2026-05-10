@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Hygiene Safety And Security In Housekeeping
+publishedAt: '2026-05-10T18:48:01.299Z'
+---
 # Standard Operating Procedure: Housekeeping Hygiene, Safety, and Security
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for housekeeping staff to maintain the highest standards of sanitation, guest safety, and asset protection. Adherence to these procedures is critical to mitigating health risks, preventing workplace accidents, and ensuring the absolute privacy and security of guests. All housekeeping personnel are expected to follow these guidelines consistently to maintain the professional reputation and operational integrity of the facility.

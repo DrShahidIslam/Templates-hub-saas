@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Pharmacy In Ethiopia Pdf Download
+publishedAt: '2026-05-10T18:48:01.404Z'
+---
 # Standard Operating Procedure: Procurement and Management of Pharmaceutical SOPs in Ethiopia
 
 This document outlines the professional procedure for identifying, accessing, and implementing Standard Operating Procedures (SOPs) for pharmacy operations within the Ethiopian healthcare regulatory framework. As the Ethiopian Food and Drug Authority (EFDA) mandates strict adherence to Good Pharmacy Practice (GPP), pharmacists must ensure that all operational workflows—ranging from drug procurement to dispensing and storage—are aligned with the latest authorized guidelines. This SOP serves as a guide for facility managers to secure compliant documentation to ensure patient safety and regulatory compliance.

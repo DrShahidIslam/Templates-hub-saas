@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Venous Blood Collection
+publishedAt: '2026-05-10T18:48:01.987Z'
+---
 # Standard Operating Procedure: Venous Blood Collection
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for performing venipuncture to ensure specimen integrity, patient safety, and adherence to infection control standards. Adherence to these steps is critical to preventing pre-analytical errors, such as hemolysis or clotting, and minimizing the risk of complications like hematoma or nerve injury. All personnel must follow these guidelines strictly to maintain diagnostic accuracy and high-quality clinical outcomes.

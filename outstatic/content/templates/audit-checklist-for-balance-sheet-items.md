@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist For Balance Sheet Items
+publishedAt: '2026-05-10T18:48:00.338Z'
+---
 # Standard Operating Procedure: Balance Sheet Audit Procedures
 
 This Standard Operating Procedure (SOP) outlines the mandatory audit steps required to verify the accuracy, completeness, and valuation of balance sheet items. The objective of this audit is to ensure that financial reporting adheres to relevant accounting standards (IFRS/GAAP), identifies potential misstatements, and validates that all recorded assets and liabilities possess sufficient supporting documentation. This procedure should be executed by the internal audit team or finance department on a monthly or quarterly basis to maintain the integrity of the general ledger.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Language Learning
+publishedAt: '2026-05-10T18:48:00.711Z'
+---
 # Standard Operating Procedure: Daily Language Acquisition Routine
 
 This Standard Operating Procedure (SOP) outlines a structured, high-efficiency framework for daily language study. Designed to maximize cognitive retention and minimize friction, this routine leverages the principles of Spaced Repetition (SRS), active recall, and immersive input. By adhering to this systematic approach, learners can ensure consistent progress toward linguistic fluency through disciplined, time-boxed daily action.

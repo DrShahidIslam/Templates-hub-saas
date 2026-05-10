@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Environmental Monitoring Of Non Sterile Area
+publishedAt: '2026-05-10T18:48:01.230Z'
+---
 # Standard Operating Procedure: Environmental Monitoring of Non-Sterile Manufacturing Areas
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for conducting environmental monitoring (EM) within non-sterile manufacturing environments. The objective is to maintain a controlled state of cleanliness, monitor bioburden levels, and identify potential contamination trends that could compromise product quality. Adherence to these procedures ensures compliance with Good Manufacturing Practices (GMP) and internal quality standards for non-sterile production zones.

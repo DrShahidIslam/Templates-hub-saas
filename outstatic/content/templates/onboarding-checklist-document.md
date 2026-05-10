@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Document
+publishedAt: '2026-05-10T18:48:00.944Z'
+---
 # Standard Operating Procedure: Employee Onboarding Documentation
 
 Effective onboarding is the cornerstone of employee retention and operational efficiency. This SOP defines the standardized process for creating, distributing, and managing the "Onboarding Checklist Document" for new hires. The goal is to ensure that every incoming team member receives a consistent, compliant, and welcoming introduction to the organization, minimizing administrative friction and accelerating time-to-productivity. This procedure applies to all HR personnel, hiring managers, and department leads responsible for the integration of new staff.

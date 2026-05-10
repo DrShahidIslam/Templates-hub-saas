@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Laboratory Pdf
+publishedAt: '2026-05-10T18:48:01.341Z'
+---
 # Standard Operating Procedure: Laboratory Document Management (PDF Conversion & Archival)
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the creation, conversion, validation, and archival of laboratory documentation into PDF format. To ensure regulatory compliance (e.g., GLP, ISO 17025, or 21 CFR Part 11), all digital laboratory records must maintain data integrity, readability, and a clear audit trail. This SOP applies to all laboratory staff responsible for digitizing raw data, analytical reports, and experimental logs.

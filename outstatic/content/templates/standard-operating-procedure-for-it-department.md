@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For It Department
+publishedAt: '2026-05-10T18:48:01.833Z'
+---
 # Standard Operating Procedure: IT Department Operations
 
 ## Introduction

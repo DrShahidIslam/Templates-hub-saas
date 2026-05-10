@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Basant 2026
+publishedAt: '2026-05-10T18:48:01.168Z'
+---
 # Standard Operating Procedure: Basant 2026 Event Execution
 
 This Standard Operating Procedure (SOP) outlines the strategic framework, logistical requirements, and safety protocols for the successful execution of Basant 2026. As Basant involves high-stakes public interaction and complex regulatory environments, this document serves as the primary manual for operations managers, site supervisors, and safety coordinators to ensure a seamless, compliant, and high-impact event experience.

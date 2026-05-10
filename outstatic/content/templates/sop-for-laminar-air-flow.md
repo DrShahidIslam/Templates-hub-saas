@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Laminar Air Flow
+publishedAt: '2026-05-10T18:48:01.346Z'
+---
 # Standard Operating Procedure: Laminar Air Flow (LAF) Unit Operation
 
 The Laminar Air Flow (LAF) unit is a critical piece of cleanroom infrastructure designed to provide a particle-free working environment by passing air through a High-Efficiency Particulate Air (HEPA) filter and distributing it in a smooth, laminar flow across the work surface. Proper operation and maintenance of the LAF are essential to prevent cross-contamination during sensitive procedures, such as microbial culture handling, pharmaceutical compounding, or sterile assembly. This SOP outlines the standardized workflow to ensure optimal performance, personnel safety, and integrity of the work environment.

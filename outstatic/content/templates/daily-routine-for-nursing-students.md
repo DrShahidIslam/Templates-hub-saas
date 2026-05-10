@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Nursing Students
+publishedAt: '2026-05-10T18:48:00.735Z'
+---
 # Standard Operating Procedure: Daily Clinical & Academic Routine for Nursing Students
 
 This Standard Operating Procedure (SOP) serves as a structured framework to optimize the daily performance, mental endurance, and academic success of nursing students. Nursing education requires a synthesis of rigorous clinical application and demanding theoretical study. By adhering to this standardized routine, students will minimize cognitive fatigue, ensure patient safety, and maximize professional development during clinical rotations and lecture cycles.

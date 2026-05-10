@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Vaccine Management
+publishedAt: '2026-05-10T18:48:01.977Z'
+---
 # Standard Operating Procedure: Vaccine Management and Cold Chain Integrity
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the receipt, storage, handling, and administration of vaccines. The primary objective is to maintain cold chain integrity, ensuring that vaccines remain potent, safe, and effective for patient use. All personnel involved in the vaccine supply chain must adhere strictly to these guidelines to mitigate the risk of temperature excursions, spoilage, and compromised patient outcomes.

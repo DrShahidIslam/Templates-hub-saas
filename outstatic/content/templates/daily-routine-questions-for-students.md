@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine Questions For Students
+publishedAt: '2026-05-10T18:48:00.820Z'
+---
 # Standard Operating Procedure: Daily Student Engagement Routine
 
 This Standard Operating Procedure (SOP) outlines the standardized process for facilitating daily routine check-ins with students. The objective is to foster emotional regulation, identify immediate barriers to learning, and establish a baseline for academic readiness. By implementing this consistent ritual, educators can cultivate a supportive classroom culture while proactively addressing individual student needs before instructional time commences.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Security Sop For Condominium
+publishedAt: '2026-05-10T18:48:01.126Z'
+---
 # Standard Operating Procedure: Condominium Security Protocols
 
 This document outlines the operational requirements for security personnel operating within a residential condominium complex. The primary objective is to ensure the safety of residents, the protection of property, and the orderly management of communal spaces. All security staff are expected to maintain a professional demeanor, strictly adhere to access control protocols, and document all incidents with precision. Failure to comply with these procedures may result in compromised facility safety and disciplinary action.

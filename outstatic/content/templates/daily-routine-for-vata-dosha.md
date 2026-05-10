@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Vata Dosha
+publishedAt: '2026-05-10T18:48:00.782Z'
+---
 # Standard Operating Procedure: Daily Routine (Dinacharya) for Vata Dosha
 
 This Standard Operating Procedure (SOP) outlines a structured daily routine designed to balance Vata dosha. In Ayurveda, Vata is characterized by the elements of air and ether, governing movement, communication, and the nervous system. When imbalanced, Vata manifests as anxiety, insomnia, dryness, and irregular digestion. This protocol prioritizes grounding, warmth, consistency, and nourishment to stabilize the erratic nature of Vata and maintain systemic homeostasis.

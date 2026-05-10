@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Checklist Format
+publishedAt: '2026-05-10T18:48:00.586Z'
+---
 # Standard Operating Procedure: Daily Checklist Management
 
 This Standard Operating Procedure (SOP) defines the systematic approach to developing, maintaining, and executing daily operational checklists. By standardizing the format and workflow of daily tasks, this procedure aims to reduce human error, ensure consistency across shifts, and maintain high standards of accountability. These checklists serve as the primary mechanism for auditing performance and ensuring all critical workflows are addressed before the close of business.

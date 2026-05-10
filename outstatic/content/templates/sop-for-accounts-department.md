@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Accounts Department
+publishedAt: '2026-05-10T18:48:01.153Z'
+---
 # Standard Operating Procedure: Accounts Departmental Operations
 
 This Standard Operating Procedure (SOP) serves as the definitive guide for the Accounts Department to ensure financial accuracy, regulatory compliance, and operational efficiency. By standardizing processes for accounts payable, receivable, and month-end reconciliation, this document aims to minimize human error, prevent financial leakage, and provide management with reliable real-time reporting. All staff members are expected to adhere to these workflows to maintain internal control integrity.

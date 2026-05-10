@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Vietnam Trip
+publishedAt: '2026-05-10T18:48:00.535Z'
+---
 # Standard Operating Procedure: Vietnam Expedition Readiness
 
 This Standard Operating Procedure (SOP) outlines the mandatory logistical, administrative, and physical preparation required for a successful trip to Vietnam. Designed to minimize friction and maximize operational efficiency, this checklist covers document compliance, health protocols, financial readiness, and situational awareness. Adherence to these protocols ensures a seamless transition upon arrival and mitigates common risks associated with international travel in Southeast Asia.

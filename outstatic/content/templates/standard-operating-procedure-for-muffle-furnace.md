@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Muffle Furnace
+publishedAt: '2026-05-10T18:48:01.868Z'
+---
 # Standard Operating Procedure: Muffle Furnace Operation
 
 This document outlines the mandatory procedures for the safe and efficient operation of the muffle furnace. The muffle furnace is a high-temperature heating device used for applications such as ashing, heat treating, and materials testing. Strict adherence to these protocols is required to ensure equipment longevity, prevent fire hazards, and maintain personnel safety. All operators must be trained and authorized before attempting to use this equipment.

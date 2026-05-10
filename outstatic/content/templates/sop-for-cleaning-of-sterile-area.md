@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Cleaning Of Sterile Area
+publishedAt: '2026-05-10T18:48:01.190Z'
+---
 # Standard Operating Procedure: Cleaning and Sanitization of Sterile Areas
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for cleaning and sanitizing classified sterile processing areas. Maintaining a controlled environment is critical to preventing microbial contamination, ensuring personnel safety, and meeting regulatory compliance (such as ISO 14644 and cGMP standards). This procedure requires strict adherence to aseptic techniques, the use of validated disinfectants, and documented environmental monitoring.

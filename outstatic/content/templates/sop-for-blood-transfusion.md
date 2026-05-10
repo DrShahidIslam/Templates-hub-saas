@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Blood Transfusion
+publishedAt: '2026-05-10T18:48:01.180Z'
+---
 # Standard Operating Procedure: Blood Component Transfusion
 
 This Standard Operating Procedure (SOP) outlines the mandatory clinical process for the administration of blood and blood components. The primary objective is to ensure patient safety, prevent transfusion reactions, and maintain strict adherence to legal and regulatory blood-tracking protocols. All personnel must strictly follow the "two-person verification" rule to mitigate the risk of transfusion errors, which are classified as "never events" in clinical practice.

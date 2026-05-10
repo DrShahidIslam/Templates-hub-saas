@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Venipuncture
+publishedAt: '2026-05-10T18:48:01.986Z'
+---
 # Standard Operating Procedure: Venipuncture
 
 This Standard Operating Procedure (SOP) outlines the professional requirements and clinical steps for performing a venipuncture. As an operations manager, I emphasize that this procedure must be conducted with strict adherence to universal precautions, patient identification protocols, and aseptic techniques to ensure patient safety, specimen integrity, and the reduction of pre-analytical errors.

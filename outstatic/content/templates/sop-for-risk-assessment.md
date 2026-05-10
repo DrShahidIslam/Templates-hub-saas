@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Risk Assessment
+publishedAt: '2026-05-10T18:48:01.450Z'
+---
 # Standard Operating Procedure: Risk Assessment Process
 
 ## Introduction

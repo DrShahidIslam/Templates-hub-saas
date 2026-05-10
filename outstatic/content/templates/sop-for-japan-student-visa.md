@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Japan Student Visa
+publishedAt: '2026-05-10T18:48:01.317Z'
+---
 # Standard Operating Procedure: Japan Student Visa Application (COE Path)
 
 This Standard Operating Procedure (SOP) outlines the standardized workflow for international students applying for a Japanese Student Visa. Obtaining a student visa is a two-stage process: first, securing the Certificate of Eligibility (COE) issued by the Immigration Services Agency of Japan, and second, applying for the visa stamp at the Japanese Embassy or Consulate in the applicant's home country. Adherence to these steps is critical to avoid delays caused by documentation errors or non-compliance with immigration standards.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Usf
+publishedAt: '2026-05-10T18:48:01.035Z'
+---
 # Standard Operating Procedure: University of South Florida (USF) Employee Onboarding
 
 This Standard Operating Procedure (SOP) outlines the standardized onboarding workflow for new hires at the University of South Florida (USF). The objective of this process is to ensure legal compliance, facilitate seamless integration into USF’s organizational culture, and provide new team members with the necessary tools and access to perform their duties efficiently from Day 1. Adherence to this checklist is mandatory for hiring managers and department administrators to ensure a high-quality experience for all new faculty and staff.

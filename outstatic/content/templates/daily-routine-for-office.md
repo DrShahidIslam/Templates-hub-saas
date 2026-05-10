@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Office
+publishedAt: '2026-05-10T18:48:00.737Z'
+---
 # Standard Operating Procedure: Daily Office Operations
 
 This Standard Operating Procedure (SOP) outlines the daily routine required to maintain a professional, organized, and high-functioning office environment. By following these standardized steps, staff ensure that the workspace is prepared for peak productivity, safety standards are upheld, and administrative tasks are executed consistently. This procedure applies to all office personnel and should be utilized to eliminate operational friction and foster a culture of excellence.

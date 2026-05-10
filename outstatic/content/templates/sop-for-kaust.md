@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Kaust
+publishedAt: '2026-05-10T18:48:01.330Z'
+---
 # Standard Operating Procedure: KAUST Research & Operational Integration
 
 This Standard Operating Procedure (SOP) outlines the mandatory operational protocols for personnel, researchers, and contractors engaging with the King Abdullah University of Science and Technology (KAUST) ecosystem. KAUST operates under a unique framework integrating world-class research facilities, specialized administrative zones, and campus-wide safety compliance. Adherence to this SOP ensures seamless project execution, alignment with institutional safety standards, and optimal utilization of campus resources.

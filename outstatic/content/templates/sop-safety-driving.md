@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Safety Driving
+publishedAt: '2026-05-10T18:48:01.596Z'
+---
 # Standard Operating Procedure: Safe Vehicle Operations
 
 This Standard Operating Procedure (SOP) establishes the mandatory safety requirements for all personnel operating company-owned or leased vehicles. The objective of this policy is to mitigate operational risk, ensure compliance with regional traffic regulations, and protect both human life and corporate assets. Adherence to these protocols is non-negotiable for all employees; failure to comply may result in disciplinary action or the suspension of driving privileges.

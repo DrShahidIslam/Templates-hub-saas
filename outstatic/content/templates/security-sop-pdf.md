@@ -1,3 +1,8 @@
+---
+status: published
+title: Security Sop Pdf
+publishedAt: '2026-05-10T18:48:01.145Z'
+---
 # Standard Operating Procedure: Document Security & PDF Distribution Protocol
 
 This document establishes the official protocol for the creation, encryption, distribution, and archival of sensitive PDF-based documentation. Maintaining the integrity and confidentiality of digital assets is a cornerstone of our operational security. All employees and contractors handling proprietary, PII (Personally Identifiable Information), or sensitive operational data are required to adhere to these standards to prevent unauthorized access, data leaks, or unauthorized modifications.

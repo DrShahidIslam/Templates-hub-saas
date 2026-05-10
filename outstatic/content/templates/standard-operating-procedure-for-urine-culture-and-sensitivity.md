@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Urine Culture And Sensitivity
+publishedAt: '2026-05-10T18:48:01.974Z'
+---
 # Standard Operating Procedure: Urine Culture and Sensitivity (UC&S)
 
 This Standard Operating Procedure (SOP) outlines the clinical and laboratory protocols for the collection, transport, and processing of urine samples for culture and sensitivity testing. Accurate results are contingent upon minimizing contamination from the perineal flora and ensuring rapid transport to the laboratory. This procedure is designed to ensure diagnostic integrity, patient safety, and compliance with clinical laboratory standards.

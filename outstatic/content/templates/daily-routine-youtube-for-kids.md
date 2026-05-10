@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine Youtube For Kids
+publishedAt: '2026-05-10T18:48:00.842Z'
+---
 # Standard Operating Procedure: Daily YouTube for Kids Management
 
 This Standard Operating Procedure (SOP) outlines the standardized process for managing, monitoring, and curating daily YouTube consumption for children. The objective is to provide a safe, educational, and balanced digital experience that minimizes exposure to algorithmic rabbit holes and inappropriate content while maximizing the benefit of high-quality, age-appropriate educational media. By following this protocol, caregivers can maintain control over screen time environments and ensure digital wellness.

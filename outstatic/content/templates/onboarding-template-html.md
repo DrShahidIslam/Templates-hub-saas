@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template Html
+publishedAt: '2026-05-10T18:48:01.063Z'
+---
 # Standard Operating Procedure: Onboarding Template HTML Development
 
 This document establishes the standardized workflow for designing, coding, and deploying HTML-based onboarding templates. These templates serve as the primary communication touchpoint for new users, and as such, must adhere to strict quality assurance standards to ensure cross-client compatibility, responsiveness, and brand consistency. By following this protocol, development teams can minimize rendering errors and ensure a seamless user journey from the moment of registration.

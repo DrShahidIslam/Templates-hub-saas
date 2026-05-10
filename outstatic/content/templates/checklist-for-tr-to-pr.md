@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Tr To Pr
+publishedAt: '2026-05-10T18:48:00.519Z'
+---
 # Standard Operating Procedure: Transitioning from Purchase Requisition (TR/PR) to Purchase Order (PO)
 
 This Standard Operating Procedure (SOP) outlines the standardized workflow for converting a Travel Requisition (TR) or a Purchase Requisition (PR) into a formal Purchase Order (PO). The objective of this process is to ensure financial accuracy, budgetary compliance, and clear procurement documentation. By following this systematic checklist, procurement teams ensure that every expenditure is properly vetted, approved, and tracked against allocated department budgets before commitments are made to vendors.

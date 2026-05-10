@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Safety Committee
+publishedAt: '2026-05-10T18:48:01.593Z'
+---
 # Standard Operating Procedure: Safety Committee Operations
 
 The Safety Committee serves as the cornerstone of a proactive organizational health and safety culture. This committee is responsible for facilitating communication between management and employees, identifying potential workplace hazards, and ensuring compliance with regulatory standards. This SOP provides a structured framework for conducting monthly committee meetings, performing site inspections, and maintaining rigorous documentation to mitigate risk and improve operational safety outcomes.

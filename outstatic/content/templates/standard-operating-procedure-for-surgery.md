@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Surgery
+publishedAt: '2026-05-10T18:48:01.951Z'
+---
 # Standard Operating Procedure: Surgical Patient Management and Intraoperative Protocol
 
 ## Introduction

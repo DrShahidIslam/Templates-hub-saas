@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Biological Safety Cabinet
+publishedAt: '2026-05-10T18:48:01.172Z'
+---
 # Standard Operating Procedure: Biological Safety Cabinet (BSC) Operation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the safe and effective operation of a Class II Biological Safety Cabinet. The primary objective of this procedure is to provide personnel and product protection by maintaining the integrity of the unidirectional laminar airflow and ensuring appropriate decontamination practices. All users must strictly adhere to these guidelines to prevent cross-contamination and exposure to biohazardous materials.

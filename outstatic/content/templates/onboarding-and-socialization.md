@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding And Socialization
+publishedAt: '2026-05-10T18:48:00.930Z'
+---
 # Standard Operating Procedure: Employee Onboarding and Socialization
 
 Effective onboarding is a strategic investment in human capital, designed to transition new hires from external candidates to fully integrated, productive team members. This SOP outlines the structured framework for acclimating new employees to our organizational culture, technical workflows, and performance expectations. The goal is to reduce "time-to-productivity," foster immediate professional belonging, and ensure alignment with core company values through consistent, high-touch engagement.

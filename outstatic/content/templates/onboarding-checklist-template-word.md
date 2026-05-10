@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Template Word
+publishedAt: '2026-05-10T18:48:01.025Z'
+---
 # Standard Operating Procedure: Employee Onboarding Template Management
 
 This Standard Operating Procedure (SOP) outlines the standardized process for creating, maintaining, and executing an onboarding checklist using a Word template. An effective onboarding process is critical to reducing time-to-productivity, fostering cultural integration, and ensuring compliance with company policies. By utilizing a structured Word-based template, department leads and HR personnel can ensure a consistent, repeatable, and professional experience for every new hire.

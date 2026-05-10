@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Laddu Gopal
+publishedAt: '2026-05-10T18:48:00.711Z'
+---
 # Standard Operating Procedure: Daily Routine for Laddu Gopal Seva
 
 This Standard Operating Procedure (SOP) outlines the daily ritualistic care for Laddu Gopal (the infant form of Lord Krishna). Adopting a systematic approach ensures that Seva (devotional service) is performed with hygiene, consistency, and mindfulness. This routine is designed to treat the deity as a living guest, fostering a disciplined environment of love and devotion.

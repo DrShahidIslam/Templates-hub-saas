@@ -1,3 +1,8 @@
+---
+status: published
+title: New Hire Checklist Form
+publishedAt: '2026-05-10T18:48:00.915Z'
+---
 # Standard Operating Procedure: New Hire Onboarding Protocol
 
 This Standard Operating Procedure (SOP) outlines the standardized process for the "New Hire Checklist Form." Its purpose is to ensure a seamless, professional, and compliant integration of all new employees into the organization. By leveraging this checklist, department heads and HR representatives guarantee that all technical, administrative, and cultural requirements are met before the employee's first day, thereby maximizing productivity and employee retention from the moment of onboarding.

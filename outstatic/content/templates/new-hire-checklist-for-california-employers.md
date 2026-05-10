@@ -1,3 +1,8 @@
+---
+status: published
+title: New Hire Checklist For California Employers
+publishedAt: '2026-05-10T18:48:00.906Z'
+---
 # Standard Operating Procedure: California New Hire Onboarding
 
 This Standard Operating Procedure (SOP) outlines the mandatory legal and operational requirements for onboarding new employees in the state of California. Given California’s stringent labor laws—including specific wage notices, mandatory harassment training, and privacy protections—this SOP is designed to ensure full compliance with the California Department of Industrial Relations (DIR), the Employment Development Department (EDD), and the California Civil Rights Department (CRD). Adherence to this checklist minimizes litigation risk and ensures a professional, high-standard integration for new team members.

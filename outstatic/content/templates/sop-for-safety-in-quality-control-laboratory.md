@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Safety In Quality Control Laboratory
+publishedAt: '2026-05-10T18:48:01.461Z'
+---
 # Standard Operating Procedure: Safety Protocols in the Quality Control Laboratory
 
 This Standard Operating Procedure (SOP) establishes the mandatory safety requirements for all personnel operating within the Quality Control (QC) laboratory. The primary objective is to mitigate risks associated with chemical handling, biological agents, and instrumentation, ensuring a secure environment that complies with international occupational health and safety standards. Adherence to these protocols is non-negotiable and is fundamental to maintaining both laboratory integrity and personnel well-being.

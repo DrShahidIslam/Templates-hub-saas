@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Tablet Punching Machine
+publishedAt: '2026-05-10T18:48:01.480Z'
+---
 # Standard Operating Procedure: Tablet Punching Machine Operation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the safe, efficient, and compliant operation of the tablet punching machine (rotary tablet press). This procedure ensures consistency in tablet quality, adherence to Good Manufacturing Practices (GMP), and the prevention of mechanical failure or cross-contamination. Operators must follow these steps in sequence to maintain output specifications such as weight variation, hardness, and friability while ensuring a safe working environment.

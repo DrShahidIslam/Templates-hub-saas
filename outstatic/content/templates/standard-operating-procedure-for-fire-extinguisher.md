@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Fire Extinguisher
+publishedAt: '2026-05-10T18:48:01.766Z'
+---
 # Standard Operating Procedure: Fire Extinguisher Usage
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety protocols and operational steps for utilizing portable fire extinguishers. In the event of a fire, the primary objective is human life safety; this procedure is intended only for incipient-stage fires. All employees must familiarize themselves with the location of fire extinguishers and the specific classifications assigned to their work area. If a fire grows beyond the controllable limit, immediately evacuate the area and contact emergency services.

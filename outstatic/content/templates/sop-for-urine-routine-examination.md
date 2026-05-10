@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Urine Routine Examination
+publishedAt: '2026-05-10T18:48:01.504Z'
+---
 # Standard Operating Procedure: Routine Urine Examination
 
 This Standard Operating Procedure (SOP) outlines the standardized process for performing a routine urine examination (urinalysis). The objective is to ensure accuracy, consistency, and clinical reliability in the physical, chemical, and microscopic evaluation of urine samples. Adherence to these protocols is mandatory for all laboratory personnel to minimize pre-analytical, analytical, and post-analytical errors.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Capa
+publishedAt: '2026-05-10T18:48:01.187Z'
+---
 # Standard Operating Procedure: Corrective and Preventive Action (CAPA)
 
 ## Purpose and Scope

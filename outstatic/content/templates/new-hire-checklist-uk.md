@@ -1,3 +1,8 @@
+---
+status: published
+title: New Hire Checklist Uk
+publishedAt: '2026-05-10T18:48:00.925Z'
+---
 # Standard Operating Procedure: UK New Hire Onboarding
 
 This Standard Operating Procedure (SOP) outlines the mandatory legal and operational requirements for onboarding a new employee in the United Kingdom. As an Operations Manager, ensuring compliance with HM Revenue and Customs (HMRC) regulations, UK employment law, and internal cultural integration is critical for risk mitigation and employee retention. This document serves as a comprehensive guide to facilitate a professional, efficient, and welcoming transition for all new hires.

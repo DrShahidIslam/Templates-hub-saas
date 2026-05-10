@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Summer Internship
+publishedAt: '2026-05-10T18:48:01.478Z'
+---
 # Standard Operating Procedure: Summer Internship Program Management
 
 This Standard Operating Procedure (SOP) outlines the standardized framework for managing the lifecycle of the summer internship program. The objective is to provide interns with a structured, high-value learning experience while ensuring operational efficiency and alignment with departmental goals. By following this protocol, managers will maintain consistency in onboarding, project assignment, mentorship, and final evaluations, ultimately fostering a pipeline for future talent acquisition.

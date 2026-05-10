@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Successfactors
+publishedAt: '2026-05-10T18:48:01.009Z'
+---
 # Standard Operating Procedure: SAP SuccessFactors Onboarding Excellence
 
 This Standard Operating Procedure (SOP) outlines the standardized process for configuring and executing employee onboarding within the SAP SuccessFactors Onboarding module. The objective of this procedure is to ensure a seamless transition from the Recruiting phase to the productive employment phase, maintaining data integrity, compliance, and a superior candidate experience. By following these steps, HR operations teams can reduce time-to-productivity and ensure all regulatory and organizational requirements are met prior to the hire’s start date.

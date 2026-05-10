@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Blood Bank
+publishedAt: '2026-05-10T18:48:01.178Z'
+---
 # Standard Operating Procedure: Blood Bank Operations and Transfusion Safety
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the safe management, storage, processing, and distribution of blood and blood components within the facility. Adherence to these guidelines is critical to ensuring patient safety, minimizing the risk of transfusion-transmitted infections, and maintaining compliance with regulatory standards (such as AABB or ISO 15189). All personnel handling blood products must demonstrate competency in these procedures and maintain rigorous documentation practices.

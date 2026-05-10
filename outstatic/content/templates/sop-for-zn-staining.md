@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Zn Staining
+publishedAt: '2026-05-10T18:48:01.575Z'
+---
 # Standard Operating Procedure: Ziehl-Neelsen (ZN) Staining
 
 This Standard Operating Procedure (SOP) outlines the standardized methodology for performing the Ziehl-Neelsen (ZN) staining technique, commonly referred to as the acid-fast stain. This procedure is critical for the identification of *Mycobacterium* species (e.g., *M. tuberculosis*), which possess a unique cell wall structure containing mycolic acids that resist decolorization by acid-alcohol. Adherence to these steps ensures clinical accuracy, laboratory safety, and reproducible results for diagnostic microbiology.

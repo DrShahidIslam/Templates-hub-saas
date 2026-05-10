@@ -1,3 +1,8 @@
+---
+status: published
+title: Remote Onboarding Checklist Template
+publishedAt: '2026-05-10T18:48:01.084Z'
+---
 # Standard Operating Procedure: Remote Employee Onboarding
 
 This document establishes a standardized, scalable framework for onboarding new remote employees. The objective is to provide a seamless transition that fosters cultural integration, technical readiness, and clear role alignment from Day 1. By executing this process consistently, the organization minimizes new-hire anxiety, ensures security compliance, and accelerates time-to-productivity in a distributed work environment.

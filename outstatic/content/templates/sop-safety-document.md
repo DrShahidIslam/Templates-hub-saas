@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Safety Document
+publishedAt: '2026-05-10T18:48:01.595Z'
+---
 # Standard Operating Procedure: Safety Documentation Management
 
 This Standard Operating Procedure (SOP) outlines the mandatory requirements for creating, maintaining, and reviewing safety documentation within the organization. Effective safety documentation is the cornerstone of risk mitigation, regulatory compliance, and operational continuity. By adhering to these protocols, departments ensure that all safety protocols, hazard assessments, and incident reports are standardized, accessible, and legally defensible.

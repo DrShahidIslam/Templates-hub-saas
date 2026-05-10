@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Vehicle Inspection
+publishedAt: '2026-05-10T18:48:00.531Z'
+---
 # Standard Operating Procedure: Comprehensive Vehicle Inspection
 
 This Standard Operating Procedure (SOP) establishes the mandatory protocol for conducting thorough vehicle inspections to ensure fleet safety, operational readiness, and compliance with maintenance standards. Consistent inspections are critical for identifying mechanical issues before they escalate into costly repairs or safety hazards. All personnel tasked with vehicle operation must perform this inspection at the start of each shift or prior to any long-distance deployment.

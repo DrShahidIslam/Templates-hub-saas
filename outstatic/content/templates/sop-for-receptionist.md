@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Receptionist
+publishedAt: '2026-05-10T18:48:01.437Z'
+---
 # Standard Operating Procedure: Front Office Reception Management
 
 This Standard Operating Procedure (SOP) serves as the foundational guide for the Receptionist role, designed to ensure a seamless, professional, and welcoming experience for all clients, visitors, and stakeholders. As the first point of contact, the receptionist is responsible for maintaining the organization’s professional image, managing incoming communications, and facilitating office workflow efficiency. Adherence to these protocols ensures consistency in service standards and operational security.

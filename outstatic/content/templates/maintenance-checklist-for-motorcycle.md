@@ -1,3 +1,8 @@
+---
+status: published
+title: Maintenance Checklist For Motorcycle
+publishedAt: '2026-05-10T18:48:00.897Z'
+---
 # Standard Operating Procedure: Motorcycle Preventative Maintenance
 
 This Standard Operating Procedure (SOP) outlines the mandatory maintenance requirements to ensure the optimal performance, longevity, and safety of the motorcycle. Regular preventative maintenance is critical to mitigate mechanical failure, ensure rider safety, and maintain the vehicle's resale value. This checklist should be performed at the manufacturer-recommended intervals (typically every 3,000–5,000 miles) or before any long-distance expedition. Always consult your specific service manual for model-specific torque specifications and fluid capacities.

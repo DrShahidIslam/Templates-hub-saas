@@ -1,3 +1,8 @@
+---
+status: published
+title: New Hire Checklist Templates
+publishedAt: '2026-05-10T18:48:00.921Z'
+---
 # Standard Operating Procedure: New Hire Checklist Template Management
 
 This Standard Operating Procedure (SOP) outlines the standardized process for creating, maintaining, and deploying new hire checklist templates. A robust onboarding checklist is the foundation of employee retention, compliance, and cultural integration. By utilizing a structured template, the organization ensures consistency, reduces administrative burden, and guarantees that every new hire receives the necessary tools, information, and access to excel in their role from day one.

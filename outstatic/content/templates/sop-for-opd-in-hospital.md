@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Opd In Hospital
+publishedAt: '2026-05-10T18:48:01.391Z'
+---
 # Standard Operating Procedure: Outpatient Department (OPD) Operations
 
 This Standard Operating Procedure (SOP) outlines the standardized workflow for the Outpatient Department (OPD) to ensure efficient patient flow, clinical excellence, and high standards of service quality. The primary objective is to minimize patient wait times, ensure accurate clinical documentation, and maintain a seamless transition from registration to consultation and discharge. All staff members are expected to adhere to these protocols to maintain hospital safety and patient satisfaction standards.

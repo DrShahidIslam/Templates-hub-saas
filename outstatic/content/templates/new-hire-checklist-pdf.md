@@ -1,3 +1,8 @@
+---
+status: published
+title: New Hire Checklist Pdf
+publishedAt: '2026-05-10T18:48:00.919Z'
+---
 # Standard Operating Procedure: New Hire Onboarding and Documentation
 
 ## Introduction

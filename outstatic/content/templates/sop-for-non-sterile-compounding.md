@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Non Sterile Compounding
+publishedAt: '2026-05-10T18:48:01.380Z'
+---
 # Standard Operating Procedure: Non-Sterile Compounding
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the preparation of non-sterile compounded preparations within this facility. Adherence to these guidelines is essential to ensure compliance with USP <795> standards, minimize cross-contamination, protect personnel, and guarantee the safety and efficacy of all compounded medications. All compounding personnel must review this document annually and demonstrate competency in the procedures described herein.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Fire Control And Prevention In Pharmacy
+publishedAt: '2026-05-10T18:48:01.761Z'
+---
 # Standard Operating Procedure: Pharmacy Fire Control and Prevention
 
 This Standard Operating Procedure (SOP) establishes the mandatory protocols for fire prevention, detection, and emergency response within the pharmacy. Given the high concentration of flammable chemicals, combustible packaging materials, and sensitive electronic inventory, maintaining a fire-safe environment is critical to staff safety, patient welfare, and regulatory compliance. All personnel are required to adhere to these procedures to mitigate risks and ensure an effective response during a fire-related incident.

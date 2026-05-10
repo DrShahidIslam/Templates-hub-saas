@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Hazardous Waste Management
+publishedAt: '2026-05-10T18:48:01.806Z'
+---
 # Standard Operating Procedure: Hazardous Waste Management
 
 This Standard Operating Procedure (SOP) establishes the mandatory protocol for the identification, collection, storage, and disposal of hazardous waste within this facility. Adherence to these procedures is critical to ensure compliance with federal, state, and local environmental regulations (such as EPA/RCRA standards) and to maintain a safe working environment for all personnel. Failure to comply with these guidelines may result in severe legal penalties, environmental contamination, and significant health risks to staff.

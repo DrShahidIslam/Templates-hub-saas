@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For English Speaking
+publishedAt: '2026-05-10T18:48:00.662Z'
+---
 # Standard Operating Procedure: Daily English Proficiency Routine
 
 ## Purpose and Scope

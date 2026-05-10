@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Ointment Filling Machine
+publishedAt: '2026-05-10T18:48:01.387Z'
+---
 # Standard Operating Procedure: Ointment Filling Machine Operation
 
 ## Introduction

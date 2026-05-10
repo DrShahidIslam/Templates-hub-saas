@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Template Download
+publishedAt: '2026-05-10T18:48:01.011Z'
+---
 # SOP: Standard Operating Procedure for Onboarding Checklist Template Management
 
 This Standard Operating Procedure (SOP) defines the systematic process for downloading, customizing, and deploying onboarding checklist templates. Maintaining a standardized onboarding workflow is critical for ensuring operational consistency, reducing administrative lag, and providing new hires with a structured, professional introduction to the organization. This document serves as the master guide for HR coordinators and department managers to ensure no critical compliance or cultural integration step is overlooked during the onboarding lifecycle.

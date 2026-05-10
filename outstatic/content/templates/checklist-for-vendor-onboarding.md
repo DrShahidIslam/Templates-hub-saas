@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Vendor Onboarding
+publishedAt: '2026-05-10T18:48:00.534Z'
+---
 # Standard Operating Procedure: Vendor Onboarding Process
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for vetting, registering, and integrating new vendors into the company’s supply chain. Adhering to this process ensures that all partners meet our regulatory, financial, and ethical standards, thereby minimizing operational risk and ensuring seamless procurement integration. This process must be completed in its entirety before any purchase orders are issued or services are rendered.

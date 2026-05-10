@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Blood Grouping
+publishedAt: '2026-05-10T18:48:01.666Z'
+---
 # Standard Operating Procedure: Blood Grouping (Forward and Reverse)
 
 This Standard Operating Procedure (SOP) outlines the mandatory technical requirements and procedural steps for performing ABO and Rh(D) blood grouping using the slide or tube agglutination method. Accuracy in blood grouping is critical to patient safety; therefore, strict adherence to quality control measures, sample identification, and verification protocols is required. This procedure is intended for use by trained laboratory personnel in a clinical setting to ensure consistent, reliable, and error-free results.

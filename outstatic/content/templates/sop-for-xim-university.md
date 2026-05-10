@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Xim University
+publishedAt: '2026-05-10T18:48:01.557Z'
+---
 # Standard Operating Procedure: Academic and Administrative Operations at XIM University
 
 This document serves as the formal Standard Operating Procedure (SOP) for the unified administrative and academic governance of XIM University. The objective of this SOP is to ensure institutional consistency, maintain high academic standards, and streamline the interaction between faculty, students, and administrative staff. Compliance with these protocols is mandatory for all stakeholders to ensure the seamless functioning of university operations and the maintenance of institutional reputation.

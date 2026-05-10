@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Emergency Department In Hospital
+publishedAt: '2026-05-10T18:48:01.222Z'
+---
 # Standard Operating Procedure: Emergency Department (ED) Operations
 
 This Standard Operating Procedure (SOP) serves as the foundational framework for clinical operations within the Emergency Department. Its objective is to provide a standardized approach to patient intake, triage, assessment, and disposition, ensuring that clinical care is delivered efficiently, safely, and in accordance with evidence-based protocols. By adhering to these guidelines, staff will maintain operational continuity, minimize patient wait times, and uphold the highest standards of patient safety and regulatory compliance.

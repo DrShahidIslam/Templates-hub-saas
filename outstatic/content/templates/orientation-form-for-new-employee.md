@@ -1,3 +1,8 @@
+---
+status: published
+title: Orientation Form For New Employee
+publishedAt: '2026-05-10T18:48:01.075Z'
+---
 # Standard Operating Procedure: New Employee Orientation Documentation
 
 ## Overview

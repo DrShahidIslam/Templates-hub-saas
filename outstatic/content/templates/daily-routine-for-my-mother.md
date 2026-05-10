@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For My Mother
+publishedAt: '2026-05-10T18:48:00.724Z'
+---
 # Standard Operating Procedure: Daily Routine Management
 
 This document serves as a structured framework for managing the daily requirements of your mother. The objective of this routine is to ensure her physical well-being, mental engagement, and home safety through consistent, proactive scheduling. By standardizing these essential activities, we reduce cognitive load, minimize the risk of missed medications or dietary lapses, and foster a stable environment that promotes comfort and autonomy.

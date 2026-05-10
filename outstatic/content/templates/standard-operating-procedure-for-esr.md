@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Esr
+publishedAt: '2026-05-10T18:48:01.733Z'
+---
 # Standard Operating Procedure: Erythrocyte Sedimentation Rate (ESR) Analysis
 
 This Standard Operating Procedure (SOP) outlines the standardized clinical protocol for performing the Erythrocyte Sedimentation Rate (ESR) test. This procedure is critical for measuring the rate at which red blood cells settle in a period of one hour, serving as a non-specific marker for systemic inflammation. All laboratory personnel must adhere strictly to these guidelines to ensure precision, minimize pre-analytical errors, and maintain compliance with clinical laboratory safety standards.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Weighing Balance
+publishedAt: '2026-05-10T18:48:01.546Z'
+---
 # Standard Operating Procedure: Precision Weighing Balance Operation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the operation, maintenance, and verification of precision weighing balances. Accurate measurement is the cornerstone of analytical integrity; failure to adhere to these procedures can result in systemic experimental error, cross-contamination, and compromised analytical data. All laboratory personnel must review this document prior to operating sensitive weighing equipment.

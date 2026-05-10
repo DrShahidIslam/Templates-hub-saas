@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Pharmaceutical Industry
+publishedAt: '2026-05-10T18:48:01.403Z'
+---
 # Standard Operating Procedure: Document Control and Compliance in Pharmaceutical Manufacturing
 
 This Standard Operating Procedure (SOP) establishes the mandatory framework for the creation, review, approval, distribution, and archival of controlled documents within the pharmaceutical manufacturing environment. Adherence to this procedure is essential to ensure compliance with Current Good Manufacturing Practices (cGMP), 21 CFR Part 11, and EudraLex Volume 4 requirements. The primary objective is to maintain a robust Quality Management System (QMS) that guarantees data integrity, operational consistency, and patient safety throughout the drug product lifecycle.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Outsourcing
+publishedAt: '2026-05-10T18:48:01.882Z'
+---
 # Standard Operating Procedure: Strategic Outsourcing
 
 This Standard Operating Procedure (SOP) outlines the formal process for identifying, vetting, and managing third-party vendors to handle non-core business functions. The objective is to maximize operational efficiency, mitigate risk, and ensure that outsourced work maintains the quality standards expected of in-house execution. Adherence to this protocol ensures that all outsourcing initiatives are aligned with corporate strategy, legally compliant, and financially transparent.

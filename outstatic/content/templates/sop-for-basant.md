@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Basant
+publishedAt: '2026-05-10T18:48:01.170Z'
+---
 # Standard Operating Procedure: Basant Festival Execution
 
 This Standard Operating Procedure (SOP) outlines the operational requirements, safety protocols, and logistical coordination necessary for the successful execution of Basant (the Spring Festival). Given the inherent risks associated with high-altitude kite flying and the density of participants, this document serves as the primary mandate for site management, supply chain coordination, and public safety enforcement to ensure a compliant and enjoyable event.

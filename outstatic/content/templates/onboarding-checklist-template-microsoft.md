@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Template Microsoft
+publishedAt: '2026-05-10T18:48:01.021Z'
+---
 # Standard Operating Procedure: New Hire Onboarding via Microsoft 365
 
 Effective onboarding is the cornerstone of employee retention and operational efficiency. This SOP outlines a standardized, technology-driven workflow using the Microsoft 365 ecosystem (Microsoft Planner, Teams, and SharePoint) to ensure a seamless transition for new hires. By leveraging these tools, managers can automate task delegation, centralize documentation, and provide a structured digital environment for incoming talent.

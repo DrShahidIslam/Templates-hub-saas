@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Fumigation
+publishedAt: '2026-05-10T18:48:01.262Z'
+---
 # Standard Operating Procedure: Professional Facility Fumigation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the preparation, execution, and post-fumigation clearance of facility spaces. Fumigation is a high-risk operation involving toxic gases; therefore, strict adherence to this document is required to ensure regulatory compliance, protect personnel, and maintain the structural and operational integrity of the facility. All activities must be performed by certified pest control professionals in accordance with local environmental and occupational safety regulations.

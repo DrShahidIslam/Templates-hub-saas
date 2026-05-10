@@ -1,3 +1,8 @@
+---
+status: published
+title: Internal Audit Checklist For Banks
+publishedAt: '2026-05-10T18:48:00.887Z'
+---
 # Standard Operating Procedure: Internal Audit Protocol for Banking Operations
 
 This Standard Operating Procedure (SOP) outlines the rigorous framework for conducting internal audits within a banking institution. The objective is to evaluate the effectiveness of internal controls, risk management, and governance processes while ensuring strict adherence to regulatory requirements (e.g., Basel III, AML/KYC directives, and SOX). This document serves as a standardized guide for internal auditors to identify operational inefficiencies, mitigate financial risk, and prevent fraudulent activity.

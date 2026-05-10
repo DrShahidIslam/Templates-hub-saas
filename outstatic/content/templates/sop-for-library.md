@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Library
+publishedAt: '2026-05-10T18:48:01.353Z'
+---
 # Standard Operating Procedure: Library Operations and Management
 
 This Standard Operating Procedure (SOP) serves as the definitive guide for maintaining an efficient, organized, and welcoming library environment. It covers the essential lifecycle of library materials—from acquisition and shelving to circulation and maintenance—ensuring that all staff members adhere to standardized practices that preserve the integrity of the collection and provide high-quality service to patrons.

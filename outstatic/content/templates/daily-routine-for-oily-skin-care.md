@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Oily Skin Care
+publishedAt: '2026-05-10T18:48:00.738Z'
+---
 # Standard Operating Procedure: Daily Routine for Oily Skin Management
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for managing oily skin effectively. The objective of this routine is to regulate sebum production, clear follicular blockages, and maintain the moisture-barrier integrity without causing reactive hyper-seborrhea. Consistent adherence to these steps is critical to preventing comedones, reducing enlarged pores, and maintaining a balanced, matte complexion.

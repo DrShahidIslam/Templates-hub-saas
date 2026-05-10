@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Inspection Epfo
+publishedAt: '2026-05-10T18:48:01.308Z'
+---
 # Standard Operating Procedure: EPFO Inspection Readiness
 
 This Standard Operating Procedure (SOP) is designed to ensure that the organization remains fully compliant with the Employees' Provident Funds and Miscellaneous Provisions Act, 1952. An EPFO inspection can be triggered by routine audits, employee grievances, or system-generated alerts. This document provides a structured framework for the HR, Finance, and Legal departments to manage an inspection seamlessly, minimize risk, and ensure all statutory records are accurate, up-to-date, and readily accessible for the visiting Enforcement Officer (EO).

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Fumigation With Formaldehyde And Potassium Permanganate
+publishedAt: '2026-05-10T18:48:01.261Z'
+---
 # Standard Operating Procedure: Formaldehyde Fumigation (Formalin-Potassium Permanganate Method)
 
 ## Introduction

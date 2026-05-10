@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For House Keeping
+publishedAt: '2026-05-10T18:48:01.814Z'
+---
 # Standard Operating Procedure: Professional Housekeeping Excellence
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for maintaining impeccable hygiene, organization, and presentation standards within a residential or commercial facility. The objective of this procedure is to ensure consistency, maximize efficiency, and provide a sanitary environment that meets the highest professional benchmarks. Adherence to these steps is non-negotiable to ensure the safety and satisfaction of all occupants.

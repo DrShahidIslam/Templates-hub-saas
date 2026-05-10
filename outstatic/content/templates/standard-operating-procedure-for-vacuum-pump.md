@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Vacuum Pump
+publishedAt: '2026-05-10T18:48:01.979Z'
+---
 # Standard Operating Procedure: Vacuum Pump Operation and Maintenance
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the safe operation, routine maintenance, and shutdown of industrial vacuum pumps. Proper adherence to these procedures is critical to ensuring equipment longevity, preventing process contamination, and maintaining a safe working environment. All personnel must review the specific Original Equipment Manufacturer (OEM) manual before operating this equipment, as specific vacuum requirements and lubrication standards vary by model.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Blood Pressure Monitoring
+publishedAt: '2026-05-10T18:48:01.667Z'
+---
 # Standard Operating Procedure: Clinical Blood Pressure Monitoring
 
 This Standard Operating Procedure (SOP) outlines the standardized clinical protocol for measuring blood pressure (BP) to ensure accuracy, consistency, and patient safety. Precise blood pressure monitoring is critical for diagnostic accuracy, hypertension management, and the early detection of cardiovascular complications. All personnel performing this procedure must adhere to these guidelines to minimize measurement errors caused by environmental factors, patient posture, or improper equipment utilization.

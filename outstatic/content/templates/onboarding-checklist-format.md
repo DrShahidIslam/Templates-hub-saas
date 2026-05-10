@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Format
+publishedAt: '2026-05-10T18:48:00.985Z'
+---
 # Standard Operating Procedure: Employee Onboarding Checklist Design
 
 ## Introduction

@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Employment Hero
+publishedAt: '2026-05-10T18:48:00.947Z'
+---
 # Standard Operating Procedure: Employee Onboarding via Employment Hero
 
 This Standard Operating Procedure (SOP) outlines the standardized process for onboarding new hires using the Employment Hero platform. By leveraging this system, the organization ensures regulatory compliance, streamlines document collection, and provides a seamless digital experience for new team members. Adherence to this workflow is mandatory for all People & Culture and hiring managers to ensure consistency in data accuracy and employee engagement.

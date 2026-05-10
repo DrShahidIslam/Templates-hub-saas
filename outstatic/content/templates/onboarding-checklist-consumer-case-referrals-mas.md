@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Consumer Case Referrals Mas
+publishedAt: '2026-05-10T18:48:00.940Z'
+---
 # Standard Operating Procedure: Consumer Case Referral Onboarding (MAS)
 
 This Standard Operating Procedure (SOP) outlines the mandatory workflow for receiving, validating, and onboarding consumer case referrals into the Managed Access Services (MAS) ecosystem. The objective of this protocol is to ensure data integrity, maintain regulatory compliance, and guarantee a seamless transition for the consumer from the point of referral to program enrollment. Adherence to these steps is critical to minimizing processing delays and ensuring that patient support services are initiated without friction.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Masters
+publishedAt: '2026-05-10T18:48:01.363Z'
+---
 # Standard Operating Procedure: Master Data Management (MDM)
 
 This Standard Operating Procedure (SOP) outlines the standardized framework for the creation, maintenance, and synchronization of master data across the organization. Robust master data is the cornerstone of operational efficiency, ensuring "a single version of truth" for core entities such as customers, products, vendors, and employees. Adherence to these protocols is mandatory for all personnel responsible for data entry, system administration, and information governance to prevent data silos, redundancy, and reporting inaccuracies.

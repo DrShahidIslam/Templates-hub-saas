@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Office
+publishedAt: '2026-05-10T18:48:01.386Z'
+---
 # Standard Operating Procedure: General Office Operations
 
 This Standard Operating Procedure (SOP) serves as the foundational guide for maintaining a professional, efficient, and safe office environment. By standardizing daily opening, maintenance, and closing routines, this document ensures that all staff members contribute to a high-functioning workplace, minimizes administrative friction, and upholds company standards for facility management and operational excellence.

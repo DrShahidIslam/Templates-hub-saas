@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Study Abroad
+publishedAt: '2026-05-10T18:48:01.477Z'
+---
 # Standard Operating Procedure: International Study Abroad Enrollment
 
 This Standard Operating Procedure (SOP) serves as a comprehensive framework for students, advisors, and administrators managing the end-to-end study abroad lifecycle. The objective of this protocol is to ensure regulatory compliance, academic credit transferability, and logistical readiness. By following this structured workflow, stakeholders can mitigate risks associated with international travel, visa procurement, and academic misalignment.

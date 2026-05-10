@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Turkey Visa From Pakistan
+publishedAt: '2026-05-10T18:48:00.522Z'
+---
 # Standard Operating Procedure: Turkey E-Visa and Sticker Visa Application for Pakistani Nationals
 
 This Standard Operating Procedure (SOP) outlines the mandatory requirements and procedural steps for Pakistani citizens applying for a Turkish visa. Please note that Turkish visa policies for Pakistani nationals are subject to change based on residency status and passport type. Generally, Pakistani ordinary passport holders are required to apply for a sticker visa through designated service providers (such as Gerry’s Visa), while holders of valid Schengen, USA, UK, or Ireland visas or residence permits may be eligible for an E-Visa. Always verify your eligibility on the official [Turkish Ministry of Foreign Affairs portal](https://www.evisa.gov.tr/) before beginning your application.

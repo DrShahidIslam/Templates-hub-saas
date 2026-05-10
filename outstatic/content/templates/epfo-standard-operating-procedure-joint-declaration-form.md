@@ -1,3 +1,8 @@
+---
+status: published
+title: Epfo Standard Operating Procedure Joint Declaration Form
+publishedAt: '2026-05-10T18:48:00.856Z'
+---
 # Standard Operating Procedure: Processing EPFO Joint Declaration Forms
 
 This document outlines the standardized workflow for processing Joint Declaration Forms (JDF) under the Employees' Provident Fund Organization (EPFO) framework. A Joint Declaration is a formal mechanism used to correct discrepancies in member details—such as Name, Date of Birth, Date of Joining, or Father’s Name—between the employer’s records and the EPFO database. Adherence to this SOP is mandatory to ensure audit compliance, minimize rejection rates by the Regional Provident Fund Office (RPFO), and ensure seamless service delivery for employees.

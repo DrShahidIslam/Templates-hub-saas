@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Safety Plan
+publishedAt: '2026-05-10T18:48:01.605Z'
+---
 # Standard Operating Procedure: Organizational Safety Planning
 
 This Standard Operating Procedure (SOP) outlines the mandatory framework for developing, implementing, and maintaining an effective organizational safety plan. The objective is to identify workplace hazards, establish preventive controls, and ensure compliance with regulatory standards (such as OSHA or local equivalents) to minimize risk, protect human capital, and maintain operational continuity. This document serves as the foundation for a proactive safety culture.

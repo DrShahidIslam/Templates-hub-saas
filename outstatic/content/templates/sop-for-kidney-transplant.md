@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Kidney Transplant
+publishedAt: '2026-05-10T18:48:01.332Z'
+---
 # Standard Operating Procedure: Kidney Transplant Perioperative Management
 
 This Standard Operating Procedure (SOP) outlines the standardized clinical and administrative workflow for a kidney transplantation procedure. The objective of this document is to ensure patient safety, minimize graft ischemia time, optimize immunosuppression protocols, and maintain strict adherence to institutional and regulatory standards. This procedure applies to the multidisciplinary transplant team, including transplant surgeons, nephrologists, anesthesiologists, perioperative nursing staff, and organ procurement coordinators.

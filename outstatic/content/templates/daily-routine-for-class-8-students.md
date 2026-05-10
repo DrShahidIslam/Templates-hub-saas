@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Class 8 Students
+publishedAt: '2026-05-10T18:48:00.655Z'
+---
 # Standard Operating Procedure: Daily Academic & Personal Routine for Class 8 Students
 
 This Standard Operating Procedure (SOP) is designed to cultivate academic excellence, time-management skills, and personal discipline for Class 8 students. At this critical developmental stage, transitioning from guided study to autonomous learning is essential. This routine prioritizes a balance between rigorous cognitive engagement, physical well-being, and structured rest to ensure sustained performance throughout the academic year.

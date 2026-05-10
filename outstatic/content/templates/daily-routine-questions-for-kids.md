@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine Questions For Kids
+publishedAt: '2026-05-10T18:48:00.818Z'
+---
 # SOP: Daily Routine Engagement Protocol for Children
 
 ## Purpose and Scope

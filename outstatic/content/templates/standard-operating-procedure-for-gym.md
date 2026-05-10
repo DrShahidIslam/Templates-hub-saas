@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Gym
+publishedAt: '2026-05-10T18:48:01.803Z'
+---
 # Standard Operating Procedure: Daily Gym Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for maintaining a safe, clean, and high-functioning gym environment. The objective is to ensure consistent member experiences, equipment longevity, and strict adherence to safety and hygiene standards. All staff members are responsible for the execution of these tasks during their respective shifts to ensure operational excellence.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Nurses
+publishedAt: '2026-05-10T18:48:01.879Z'
+---
 # Standard Operating Procedure: Clinical Nursing Operations
 
 This Standard Operating Procedure (SOP) serves as the foundational framework for nursing staff to ensure consistent, evidence-based patient care, clinical safety, and regulatory compliance. It is designed to standardize workflows across all nursing shifts, minimizing clinical variability and optimizing patient outcomes while upholding the highest standards of professional accountability and documentation integrity.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sops Of Dengue
+publishedAt: '2026-05-10T18:48:01.637Z'
+---
 # Standard Operating Procedure: Dengue Prevention and Management
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the prevention, identification, and containment of Dengue Fever within a facility. Given that Dengue is a mosquito-borne viral infection, this SOP focuses on environmental vector control, staff awareness, and rapid response mechanisms. The objective is to mitigate the risk of transmission and ensure a safe, sanitary environment for all personnel.

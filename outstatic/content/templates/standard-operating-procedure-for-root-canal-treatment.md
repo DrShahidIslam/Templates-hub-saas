@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Root Canal Treatment
+publishedAt: '2026-05-10T18:48:01.930Z'
+---
 # Standard Operating Procedure: Root Canal Treatment (RCT)
 
 ## Introduction

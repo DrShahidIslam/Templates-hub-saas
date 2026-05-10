@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Janitorial Services
+publishedAt: '2026-05-10T18:48:01.835Z'
+---
 # Standard Operating Procedure: Janitorial and Custodial Services
 
 ## Introduction

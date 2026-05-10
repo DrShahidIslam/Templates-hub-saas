@@ -1,3 +1,8 @@
+---
+status: published
+title: What Is Sop Standard Operating Procedure
+publishedAt: '2026-05-10T18:48:02.044Z'
+---
 # Standard Operating Procedure: Creating and Maintaining SOPs
 
 This document defines the framework for developing, implementing, and managing Standard Operating Procedures (SOPs) within an organization. A high-quality SOP serves as a foundational tool to ensure operational consistency, regulatory compliance, quality control, and efficient onboarding. By codifying institutional knowledge into a repeatable format, organizations can minimize human error and scale operations effectively.

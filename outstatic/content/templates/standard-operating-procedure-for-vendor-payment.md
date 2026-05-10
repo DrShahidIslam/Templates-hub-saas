@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Vendor Payment
+publishedAt: '2026-05-10T18:48:01.984Z'
+---
 # Standard Operating Procedure: Vendor Payment Processing
 
 This Standard Operating Procedure (SOP) outlines the mandatory workflow for processing vendor payments to ensure financial accuracy, internal control, and optimal cash flow management. By adhering to these procedures, the organization minimizes the risk of unauthorized disbursements, duplicate payments, and late fees while maintaining healthy professional relationships with our supply chain partners.

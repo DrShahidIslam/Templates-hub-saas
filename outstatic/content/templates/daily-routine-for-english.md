@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For English
+publishedAt: '2026-05-10T18:48:00.663Z'
+---
 # Standard Operating Procedure: Daily English Proficiency Maintenance
 
 This Standard Operating Procedure (SOP) is designed to establish a structured, high-efficiency daily routine for English language acquisition and maintenance. By integrating active immersion, focused study, and output-based practice, this protocol ensures consistent linguistic growth, vocabulary retention, and improved fluency for professional and personal communication.

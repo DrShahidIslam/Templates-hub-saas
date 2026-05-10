@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Project
+publishedAt: '2026-05-10T18:48:00.751Z'
+---
 # Standard Operating Procedure: Daily Project Management Routine
 
 This SOP outlines the mandatory daily workflow designed to maintain project momentum, ensure team alignment, and proactively mitigate risks. By adhering to this standardized routine, project managers can eliminate administrative friction, improve stakeholder communication, and ensure that every action taken contributes directly to project milestones. This procedure is intended for use by project leads, coordinators, and team managers to ensure consistency across all active project phases.

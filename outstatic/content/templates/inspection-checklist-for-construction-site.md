@@ -1,3 +1,8 @@
+---
+status: published
+title: Inspection Checklist For Construction Site
+publishedAt: '2026-05-10T18:48:00.884Z'
+---
 # Standard Operating Procedure: Construction Site Safety & Compliance Inspection
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for conducting comprehensive construction site inspections. The objective is to identify potential hazards, verify compliance with Occupational Safety and Health Administration (OSHA) standards, and ensure adherence to project specifications. Regular, systematic inspections are critical to mitigating liability, preventing work-related injuries, and maintaining project timelines through the early detection of non-compliance issues.

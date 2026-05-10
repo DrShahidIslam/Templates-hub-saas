@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template Download
+publishedAt: '2026-05-10T18:48:01.048Z'
+---
 # Standard Operating Procedure: Employee Onboarding Template Download and Deployment
 
 This Standard Operating Procedure (SOP) outlines the mandatory process for downloading, verifying, and deploying the official company onboarding templates. As an operations manager, it is critical to ensure that every new hire receives a standardized, high-quality onboarding experience. Following these steps guarantees that all documentation is up-to-date, legally compliant, and aligned with current organizational standards, thereby reducing administrative errors and ensuring a seamless integration for new team members.

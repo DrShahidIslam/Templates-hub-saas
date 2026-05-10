@@ -1,3 +1,8 @@
+---
+status: published
+title: Checklist For Pension Papers
+publishedAt: '2026-05-10T18:48:00.485Z'
+---
 # Standard Operating Procedure: Pension Documentation & Submission
 
 This SOP outlines the standardized procedure for the preparation, review, and submission of pension documentation. Ensuring accuracy during the initial phase is critical to preventing processing delays, financial discrepancies, and regulatory non-compliance. This document serves as the primary operational guide for HR personnel and employees preparing for retirement transition.

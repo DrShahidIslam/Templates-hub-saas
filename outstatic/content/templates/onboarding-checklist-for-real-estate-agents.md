@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist For Real Estate Agents
+publishedAt: '2026-05-10T18:48:00.978Z'
+---
 # Standard Operating Procedure: Real Estate Agent Onboarding
 
 This document outlines the standardized onboarding procedure for new real estate agents joining our brokerage. The objective of this process is to ensure that every agent—regardless of experience level—is fully equipped with the tools, knowledge, and compliance documentation required to represent our firm effectively from Day 1. Consistent onboarding reduces administrative friction, minimizes liability, and accelerates the time-to-first-closing for new hires.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Nbfc
+publishedAt: '2026-05-10T18:48:01.869Z'
+---
 # Standard Operating Procedure: NBFC Operations & Compliance
 
 This Standard Operating Procedure (SOP) outlines the mandatory operational framework for a Non-Banking Financial Company (NBFC). The objective is to ensure robust regulatory compliance with central bank guidelines, mitigate credit and operational risks, and maintain the integrity of financial reporting. Adherence to this document is mandatory for all personnel involved in loan origination, underwriting, disbursement, and collection processes.

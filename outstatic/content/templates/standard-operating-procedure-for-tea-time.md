@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Tea Time
+publishedAt: '2026-05-10T18:48:01.953Z'
+---
 # Standard Operating Procedure: Daily Tea Service Excellence
 
 The purpose of this Standard Operating Procedure (SOP) is to standardize the preparation and delivery of tea service to ensure consistency, safety, and a premium experience. Whether serving in a corporate environment or a hospitality setting, this procedure emphasizes hygiene, precise temperature control, and presentation. By following these steps, staff will maintain operational efficiency and uphold the highest standards of service quality.

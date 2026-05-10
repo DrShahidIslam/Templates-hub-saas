@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Leak Test Apparatus
+publishedAt: '2026-05-10T18:48:01.350Z'
+---
 # Standard Operating Procedure: Operation of Vacuum Leak Test Apparatus
 
 This Standard Operating Procedure (SOP) outlines the standardized process for utilizing the vacuum leak test apparatus to verify the hermetic integrity of sealed products, such as blister packs, vials, or sachets. Adherence to this protocol is critical to ensure product stability, prevent microbial contamination, and maintain compliance with Good Manufacturing Practices (GMP). This document applies to all quality control and production personnel authorized to operate the equipment.

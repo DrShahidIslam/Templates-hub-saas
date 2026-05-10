@@ -1,3 +1,8 @@
+---
+status: published
+title: Security Sops Examples
+publishedAt: '2026-05-10T18:48:01.149Z'
+---
 # Standard Operating Procedure: Security Operations & Incident Response
 
 This Standard Operating Procedure (SOP) serves as a foundational framework for maintaining physical and digital site security. The objective is to standardize threat detection, access control, and emergency response protocols to ensure a resilient operational environment. This document is intended for security personnel, facility managers, and IT administrators tasked with protecting organizational assets, personnel, and data.

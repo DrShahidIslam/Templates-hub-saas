@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Class 1
+publishedAt: '2026-05-10T18:48:00.650Z'
+---
 # Standard Operating Procedure: Daily Routine for Class 1
 
 This document establishes the standardized daily operational procedures for Class 1 instructional environments. The primary objective is to maintain a consistent, predictable, and supportive learning atmosphere that facilitates student engagement, emotional stability, and academic progress. All teaching staff are expected to follow these protocols to ensure classroom management efficiency and student safety throughout the academic day.

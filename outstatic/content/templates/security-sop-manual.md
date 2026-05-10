@@ -1,3 +1,8 @@
+---
+status: published
+title: Security Sop Manual
+publishedAt: '2026-05-10T18:48:01.143Z'
+---
 # Standard Operating Procedure: Security Operations Manual
 
 This Security Operations Manual (SOM) provides a comprehensive framework for maintaining the safety, integrity, and operational continuity of organizational assets. It is designed to standardize protocols for physical security, access control, incident response, and personnel safety. All security personnel are expected to adhere to these procedures strictly to mitigate risks, protect property, and ensure a secure environment for all stakeholders. Failure to follow these procedures may result in disciplinary action or security breaches.

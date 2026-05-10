@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop Form
+publishedAt: '2026-05-10T18:48:01.582Z'
+---
 # Standard Operating Procedure: Formalized SOP Creation and Documentation
 
 This Standard Operating Procedure (SOP) outlines the requirements, structure, and approval workflow for developing high-quality operational documentation. An effective SOP serves as the "single source of truth," ensuring consistency, compliance, and efficiency across all departmental processes. By following this standardized format, teams can minimize error rates, streamline onboarding for new personnel, and facilitate continuous process improvement.

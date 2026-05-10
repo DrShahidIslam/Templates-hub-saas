@@ -1,3 +1,8 @@
+---
+status: published
+title: Audit Checklist For Company
+publishedAt: '2026-05-10T18:48:00.344Z'
+---
 # Standard Operating Procedure: Comprehensive Corporate Audit
 
 ## Introduction

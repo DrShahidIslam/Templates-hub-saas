@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Scrutiny Of Gst Returns
+publishedAt: '2026-05-10T18:48:01.471Z'
+---
 # Standard Operating Procedure: Scrutiny of GST Returns
 
 The objective of this Standard Operating Procedure (SOP) is to establish a rigorous, standardized framework for the internal scrutiny of Goods and Services Tax (GST) returns. By systematically reconciling tax liabilities, input tax credits (ITC), and compliance filings, this process minimizes the risk of tax notices, interest penalties, and litigation. This procedure ensures that every transaction is audit-ready and aligned with the current provisions of the GST Act and rules.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Road Safety
+publishedAt: '2026-05-10T18:48:01.451Z'
+---
 # Standard Operating Procedure: Road Safety and Fleet Operations
 
 This Standard Operating Procedure (SOP) establishes the mandatory safety protocols for all personnel operating company vehicles. The objective is to minimize the risk of traffic accidents, ensure compliance with national transportation laws, and protect both human life and organizational assets. Adherence to these guidelines is non-negotiable and applies to all employees, contractors, and third-party drivers operating under company authority.

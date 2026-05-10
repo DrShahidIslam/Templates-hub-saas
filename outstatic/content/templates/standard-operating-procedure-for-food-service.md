@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Food Service
+publishedAt: '2026-05-10T18:48:01.773Z'
+---
 # Standard Operating Procedure: Food Service Operations
 
 This Standard Operating Procedure (SOP) serves as the foundational guide for maintaining consistency, safety, and excellence in food service operations. It is designed to ensure that all team members uphold rigorous hygiene standards, operational efficiency, and high-quality guest service. Adherence to these protocols is mandatory for all front-of-house and back-of-house staff to minimize risks and maximize customer satisfaction.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Quality Control
+publishedAt: '2026-05-10T18:48:01.899Z'
+---
 # Standard Operating Procedure: Quality Control (QC) Protocols
 
 This Standard Operating Procedure (SOP) establishes the systematic process for ensuring that all products meet established quality standards before reaching the end-user. By implementing a rigorous QC framework, we aim to minimize defects, reduce waste, maintain brand reputation, and ensure total regulatory compliance. This document serves as the authoritative guide for all quality assurance personnel to follow during the inspection and verification phases of the production lifecycle.

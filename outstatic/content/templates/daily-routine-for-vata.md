@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Vata
+publishedAt: '2026-05-10T18:48:00.783Z'
+---
 # Standard Operating Procedure: Daily Routine for Vata Dosha
 
 This Standard Operating Procedure (SOP) is designed to cultivate stability, warmth, and groundedness for individuals with a predominant Vata constitution. Because Vata is characterized by the qualities of air and ether—resulting in traits like speed, irregularity, and dryness—this routine focuses on the principles of rhythm (dinacharya), deep nourishment, and sensory insulation. Following these protocols will minimize anxiety, digestive irregularities, and sleep disturbances, ensuring peak operational efficiency for the mind and body throughout the day.

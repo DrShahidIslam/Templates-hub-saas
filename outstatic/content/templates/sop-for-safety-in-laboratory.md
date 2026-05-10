@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Safety In Laboratory
+publishedAt: '2026-05-10T18:48:01.458Z'
+---
 # Standard Operating Procedure: Laboratory Safety Protocols
 
 ## 1. Introduction

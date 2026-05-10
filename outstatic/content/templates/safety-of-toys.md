@@ -1,3 +1,8 @@
+---
+status: published
+title: Safety Of Toys
+publishedAt: '2026-05-10T18:48:01.093Z'
+---
 # Standard Operating Procedure: Toy Safety Compliance and Quality Assurance
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for ensuring toy safety, compliance with international regulatory standards (such as ASTM F963, EN 71, and CPSIA), and the mitigation of physical, chemical, and mechanical hazards. Every stage of the product lifecycle—from raw material sourcing to final distribution—must adhere to these rigorous quality control measures to protect consumers, minimize liability, and uphold brand integrity.

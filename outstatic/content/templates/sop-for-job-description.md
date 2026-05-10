@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Job Description
+publishedAt: '2026-05-10T18:48:01.323Z'
+---
 # Standard Operating Procedure: Job Description Development and Approval
 
 This Standard Operating Procedure (SOP) outlines the standardized process for drafting, reviewing, and finalizing job descriptions within the organization. A well-defined job description is the cornerstone of effective recruitment, performance management, and organizational structure. By following this protocol, hiring managers ensure that roles are clearly defined, legally compliant, and aligned with departmental objectives, ultimately resulting in higher-quality candidate sourcing and improved role clarity.

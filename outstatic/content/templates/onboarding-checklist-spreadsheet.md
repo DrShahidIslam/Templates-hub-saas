@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Spreadsheet
+publishedAt: '2026-05-10T18:48:01.008Z'
+---
 # Standard Operating Procedure: New Hire Onboarding Checklist Management
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for managing, updating, and executing the New Hire Onboarding Checklist spreadsheet. As an Operations Manager, your objective is to ensure a seamless, compliant, and welcoming integration for every new team member. This document serves as the single source of truth to minimize administrative friction, ensure IT security compliance, and guarantee that new hires are operationally ready from Day 1. All department heads and HR personnel are required to adhere to these steps to maintain internal consistency.

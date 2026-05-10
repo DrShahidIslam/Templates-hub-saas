@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Equipment
+publishedAt: '2026-05-10T18:48:01.731Z'
+---
 # Standard Operating Procedure: Equipment Lifecycle & Operational Management
 
 ## Introduction

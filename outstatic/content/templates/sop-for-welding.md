@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Welding
+publishedAt: '2026-05-10T18:48:01.549Z'
+---
 # Standard Operating Procedure: Professional Welding Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory safety protocols, equipment preparation, and execution steps for professional welding operations. Compliance with these procedures is essential to ensure high-quality weld integrity, maintain operational efficiency, and, most importantly, protect the safety of all personnel within the fabrication environment. Failure to adhere to these guidelines may result in equipment damage, environmental hazards, or severe bodily injury.

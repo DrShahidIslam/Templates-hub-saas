@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Bride To Be
+publishedAt: '2026-05-10T18:48:00.646Z'
+---
 # Standard Operating Procedure: Daily Routine for the Bride-to-Be
 
 ## Introduction

@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template Free Download
+publishedAt: '2026-05-10T18:48:01.059Z'
+---
 # SOP: Standardizing the Onboarding Template Download Process
 
 This Standard Operating Procedure (SOP) outlines the mandatory workflow for sourcing, vetting, and implementing a free onboarding template. By establishing a centralized protocol, the organization ensures that external resources align with our internal compliance standards, data security policies, and cultural integration requirements. Adhering to this process minimizes administrative redundancy and ensures a seamless experience for incoming personnel.

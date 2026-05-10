@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Maintenance Of Lab Equipment
+publishedAt: '2026-05-10T18:48:01.857Z'
+---
 # Standard Operating Procedure: Laboratory Equipment Maintenance
 
 This Standard Operating Procedure (SOP) establishes the systematic requirements for the inspection, calibration, and preventive maintenance of laboratory equipment. Proper maintenance is critical to ensuring experimental data integrity, operational safety, and compliance with institutional and regulatory standards. All laboratory personnel are responsible for adhering to these procedures to minimize equipment downtime and prevent hazardous conditions resulting from mechanical or electrical failure.

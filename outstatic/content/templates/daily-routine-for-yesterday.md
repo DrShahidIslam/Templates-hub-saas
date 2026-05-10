@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Yesterday
+publishedAt: '2026-05-10T18:48:00.797Z'
+---
 # Standard Operating Procedure: Daily Retrospective (The "Yesterday" Audit)
 
 This SOP establishes a rigorous protocol for conducting a daily retrospective—a practice known as the "Yesterday Audit." By systematically reviewing the previous day’s performance, resource allocation, and workflow bottlenecks, an operations manager can convert past outcomes into future efficiencies. This routine is designed to minimize recurring errors, optimize team bandwidth, and ensure alignment with high-level strategic objectives.

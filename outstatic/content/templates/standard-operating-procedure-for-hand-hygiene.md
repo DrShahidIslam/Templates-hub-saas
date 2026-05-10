@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Hand Hygiene
+publishedAt: '2026-05-10T18:48:01.803Z'
+---
 # Standard Operating Procedure: Hand Hygiene
 
 Effective hand hygiene is the single most important practice for preventing the transmission of infectious agents in any professional environment. This Standard Operating Procedure (SOP) outlines the mandatory protocols for maintaining optimal hand hygiene to ensure a safe environment for staff, clients, and visitors. Adherence to these steps is required for all personnel to minimize cross-contamination and maintain compliance with health and safety regulations.

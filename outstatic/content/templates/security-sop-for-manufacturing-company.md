@@ -1,3 +1,8 @@
+---
+status: published
+title: Security Sop For Manufacturing Company
+publishedAt: '2026-05-10T18:48:01.132Z'
+---
 # Standard Operating Procedure: Facility Security & Asset Protection
 
 This Standard Operating Procedure (SOP) establishes the mandatory security protocols for our manufacturing facility. The objective is to safeguard intellectual property, protect personnel, minimize inventory shrinkage, and ensure business continuity. All employees, contractors, and visitors are expected to adhere strictly to these guidelines to maintain a secure and compliant operational environment.

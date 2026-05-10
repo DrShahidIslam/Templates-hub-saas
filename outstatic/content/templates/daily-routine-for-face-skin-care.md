@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Face Skin Care
+publishedAt: '2026-05-10T18:48:00.666Z'
+---
 # Standard Operating Procedure: Daily Facial Skin Care Protocol
 
 ## Objective

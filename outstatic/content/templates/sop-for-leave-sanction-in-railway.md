@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Leave Sanction In Railway
+publishedAt: '2026-05-10T18:48:01.351Z'
+---
 # Standard Operating Procedure: Leave Sanctioning in Railway Operations
 
 This Standard Operating Procedure (SOP) outlines the standardized process for the application, verification, and sanctioning of leave for Indian Railway personnel. Adherence to this procedure ensures compliance with the Railway Services (Liberalized Leave) Rules, maintains operational continuity, and guarantees that personnel records remain accurate. All supervisors and sanctioning authorities must ensure that leave is processed with strict adherence to the delegation of powers and the operational requirements of their specific division.

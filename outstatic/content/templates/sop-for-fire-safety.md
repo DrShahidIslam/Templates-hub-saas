@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Fire Safety
+publishedAt: '2026-05-10T18:48:01.250Z'
+---
 # Standard Operating Procedure: Workplace Fire Safety and Emergency Response
 
 This Standard Operating Procedure (SOP) establishes the mandatory protocols for fire prevention, detection, and emergency evacuation within the facility. The objective of this document is to ensure the safety of all personnel, minimize property damage, and maintain compliance with local fire safety regulations. All employees are required to familiarize themselves with these procedures and participate in periodic drills to ensure an organized and efficient response in the event of an emergency.

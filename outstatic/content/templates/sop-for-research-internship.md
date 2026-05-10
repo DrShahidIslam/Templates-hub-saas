@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Research Internship
+publishedAt: '2026-05-10T18:48:01.440Z'
+---
 # Standard Operating Procedure: Research Internship Management
 
 This document outlines the formalized procedure for managing research interns, ensuring that both the mentor and the intern maintain high productivity, academic rigor, and professional development. This SOP is designed to standardize the onboarding, workflow integration, and offboarding processes, thereby minimizing administrative overhead while maximizing the quality of research output. Adherence to these steps is mandatory for all research leads to ensure consistent mentorship standards and institutional compliance.

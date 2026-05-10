@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Engineering Department
+publishedAt: '2026-05-10T18:48:01.729Z'
+---
 # Standard Operating Procedure: Engineering Department Operations
 
 This Standard Operating Procedure (SOP) defines the operational framework for the Engineering Department, ensuring consistency, technical excellence, and rigorous safety standards across all projects. This document serves as the foundation for the engineering lifecycle—from initial concept and design through implementation, testing, and final documentation. By adhering to these protocols, the department minimizes technical debt, ensures regulatory compliance, and facilitates seamless cross-departmental collaboration.

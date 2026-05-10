@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Research Proposal
+publishedAt: '2026-05-10T18:48:01.441Z'
+---
 # Standard Operating Procedure: Research Proposal Development
 
 This Standard Operating Procedure (SOP) outlines the standardized process for developing, refining, and submitting a high-quality research proposal. The objective is to ensure institutional alignment, technical rigor, and compliance with grant-specific requirements. This document serves as the roadmap for principal investigators and research teams to move from conceptualization to a competitive, submission-ready proposal, minimizing administrative friction and maximizing funding probability.

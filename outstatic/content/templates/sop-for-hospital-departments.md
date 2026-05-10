@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Hospital Departments
+publishedAt: '2026-05-10T18:48:01.286Z'
+---
 # Standard Operating Procedure: Hospital Departmental Operations
 
 This Standard Operating Procedure (SOP) establishes a uniform framework for the daily management and clinical oversight of hospital departments. The objective is to ensure consistent quality of care, operational efficiency, regulatory compliance, and a safe environment for both patients and staff. Every department lead is responsible for adhering to these guidelines to maintain organizational standardization and accountability.

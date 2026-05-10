@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For International Students
+publishedAt: '2026-05-10T18:48:01.311Z'
+---
 # Standard Operating Procedure: International Student Onboarding and Integration
 
 This Standard Operating Procedure (SOP) outlines the comprehensive lifecycle management for international students, from initial acceptance through long-term integration. The objective of this document is to ensure regulatory compliance, provide seamless transition support, and maintain high standards of student welfare. Operations teams must adhere to these guidelines to mitigate visa risks, optimize enrollment efficiency, and ensure all institutional mandates are met.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Iit
+publishedAt: '2026-05-10T18:48:01.304Z'
+---
 # Standard Operating Procedure (SOP): Incident Information Tracking (IIT)
 
 This Standard Operating Procedure defines the systematic process for Incident Information Tracking (IIT). The primary objective of this procedure is to ensure that every operational disruption, technical fault, or security anomaly is captured, categorized, and tracked with high fidelity. By maintaining a rigorous IIT protocol, the organization minimizes downtime, improves incident resolution time (MTTR), and builds a comprehensive knowledge base for long-term operational resilience.

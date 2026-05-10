@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist In Sharepoint
+publishedAt: '2026-05-10T18:48:00.994Z'
+---
 # Standard Operating Procedure: Employee Onboarding via SharePoint
 
 This Standard Operating Procedure (SOP) outlines the standardized process for managing new hire onboarding using a centralized SharePoint site. By utilizing SharePoint as the primary hub for documentation, workflow automation, and resource accessibility, the organization ensures a consistent, secure, and professional experience for all incoming personnel. This SOP is designed to streamline administrative tasks, minimize knowledge gaps, and ensure that new hires have immediate access to the tools and culture necessary for success.

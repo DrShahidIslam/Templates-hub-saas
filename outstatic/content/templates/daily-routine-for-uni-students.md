@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For Uni Students
+publishedAt: '2026-05-10T18:48:00.775Z'
+---
 # Standard Operating Procedure: Daily Academic Performance & Wellbeing Routine
 
 This SOP outlines a high-performance daily framework designed for university students to balance rigorous academic requirements with personal wellbeing. By implementing this standardized routine, students can maximize cognitive output, mitigate burnout, and ensure consistent progress toward degree completion. This procedure is intended to be treated as a scalable template that can be adjusted based on specific course loads and external commitments.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine Questions For Discussion
+publishedAt: '2026-05-10T18:48:00.813Z'
+---
 # Standard Operating Procedure: Daily Operational Sync
 
 ## Purpose and Scope

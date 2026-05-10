@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Autoclave
+publishedAt: '2026-05-10T18:48:01.655Z'
+---
 # Standard Operating Procedure: Autoclave Sterilization
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the safe and effective operation of an autoclave. Autoclaving is a critical sterilization process utilizing high-pressure saturated steam to destroy microorganisms, including heat-resistant spores. All personnel must strictly adhere to these guidelines to ensure personal safety, prevent equipment damage, and maintain the integrity of sterile supplies. Failure to follow these procedures may result in severe burns, pressure-related injuries, or non-sterile laboratory outcomes.

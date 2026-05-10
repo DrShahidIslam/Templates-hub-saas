@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Accounts Receivable Process
+publishedAt: '2026-05-10T18:48:01.647Z'
+---
 # Standard Operating Procedure: Accounts Receivable (AR) Management
 
 The Accounts Receivable process is a critical component of organizational financial health, ensuring that revenue earned is successfully converted into cash flow. This SOP outlines the end-to-end lifecycle of receivables, from initial invoice issuance to final reconciliation. Adhering to these standardized procedures minimizes billing errors, reduces Days Sales Outstanding (DSO), and maintains positive client relationships through transparent communication.

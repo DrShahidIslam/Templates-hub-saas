@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Bioassay
+publishedAt: '2026-05-10T18:48:01.171Z'
+---
 # Standard Operating Procedure: Execution of Quantitative Bioassays
 
 This Standard Operating Procedure (SOP) outlines the standardized process for performing quantitative bioassays to evaluate the biological activity of pharmaceutical substances or environmental samples. The objective of this procedure is to ensure high precision, reproducibility, and compliance with Good Laboratory Practice (GLP) standards. All personnel performing these assays must be trained in aseptic technique, data analysis software, and the handling of biological materials relevant to the specific assay type (e.g., cell-based, enzyme-linked, or microbial assays).

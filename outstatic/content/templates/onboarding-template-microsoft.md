@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Template Microsoft
+publishedAt: '2026-05-10T18:48:01.065Z'
+---
 # Standard Operating Procedure: Microsoft 365 New Hire Onboarding
 
 This document outlines the standardized procedure for provisioning, configuring, and managing a new employee’s identity and access within the Microsoft 365 (M365) ecosystem. Effective onboarding is critical to ensuring operational security, compliance with organizational data policies, and seamless collaboration from day one. By following this SOP, IT administrators and HR managers ensure that every new team member has the appropriate licenses, security permissions, and software access required for their specific role.

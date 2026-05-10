@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Out Of Specification
+publishedAt: '2026-05-10T18:48:01.398Z'
+---
 # Standard Operating Procedure: Handling Out-of-Specification (OOS) Results
 
 This procedure establishes a rigorous, scientifically sound process for investigating and documenting Out-of-Specification (OOS) results within laboratory and manufacturing environments. An OOS result occurs when a test result falls outside the established specifications or acceptance criteria defined in product dossiers, monographs, or internal control specifications. The objective of this SOP is to ensure that every OOS event is investigated thoroughly to determine the root cause, assess the impact on product quality, and implement robust corrective and preventive actions (CAPA) to prevent recurrence.

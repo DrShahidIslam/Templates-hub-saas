@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Routine For New Mom
+publishedAt: '2026-05-10T18:48:00.729Z'
+---
 # Standard Operating Procedure: Daily Routine for Postpartum Recovery and Infant Care
 
 The primary objective of this SOP is to establish a sustainable, efficient, and health-conscious rhythm for a new mother during the postpartum period. By implementing this structured routine, the caregiver minimizes decision fatigue, ensures adequate nutritional intake for both parent and infant, and maximizes restorative rest periods. This operational framework is designed to be flexible, acknowledging that infant needs are variable and recovery is non-linear.

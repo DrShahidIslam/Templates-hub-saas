@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Wound Dressing
+publishedAt: '2026-05-10T18:48:02.001Z'
+---
 # Standard Operating Procedure: Sterile Wound Dressing Application
 
 This Standard Operating Procedure (SOP) outlines the clinical requirements for performing a sterile wound dressing change. The objective is to facilitate optimal wound healing, minimize the risk of exogenous infection, and ensure patient comfort. This procedure applies to all nursing and clinical staff and must be performed in accordance with aseptic non-touch technique (ANTT) protocols to maintain a sterile field throughout the duration of the dressing process.

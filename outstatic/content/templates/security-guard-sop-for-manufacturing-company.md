@@ -1,3 +1,8 @@
+---
+status: published
+title: Security Guard Sop For Manufacturing Company
+publishedAt: '2026-05-10T18:48:01.122Z'
+---
 # Standard Operating Procedure: Security Operations for Manufacturing Facilities
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for security personnel assigned to manufacturing environments. The primary objective of this role is to safeguard corporate assets, ensure the safety of employees, monitor high-risk access points, and maintain the integrity of the supply chain. Security guards must maintain a professional, vigilant presence, balancing strict enforcement of site policies with the fluid operational requirements of a 24/7 manufacturing floor.

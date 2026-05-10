@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Stores Department
+publishedAt: '2026-05-10T18:48:01.474Z'
+---
 # Standard Operating Procedure: Stores Department Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the management, storage, security, and distribution of physical inventory within the organization. The primary objective is to maintain accurate stock records, ensure the integrity of materials, optimize warehouse space, and provide timely support to internal and external stakeholders. Adherence to these procedures is critical for minimizing shrinkage, avoiding stockouts, and maintaining operational continuity.

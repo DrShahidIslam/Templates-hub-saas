@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Water Treatment Plant
+publishedAt: '2026-05-10T18:48:01.998Z'
+---
 # Standard Operating Procedure: Municipal Water Treatment Plant Operations
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for the daily operation, monitoring, and maintenance of the Water Treatment Plant (WTP). The objective of this procedure is to ensure the continuous production of potable water that meets or exceeds all regulatory health and safety standards. Adherence to these steps is critical for protecting public health, optimizing chemical usage, and ensuring the mechanical longevity of plant infrastructure.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Admin Department
+publishedAt: '2026-05-10T18:48:01.155Z'
+---
 # Standard Operating Procedure: Administrative Department Operations
 
 This Standard Operating Procedure (SOP) outlines the essential functions, expectations, and operational protocols for the Administrative Department. Its purpose is to ensure the consistent, efficient, and professional management of daily office tasks, facilities, internal communications, and documentation. By adhering to these guidelines, the Administrative Department maintains the organizational infrastructure necessary to support all other departments in achieving corporate objectives.

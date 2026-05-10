@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Jd Epfo
+publishedAt: '2026-05-10T18:48:01.319Z'
+---
 # Standard Operating Procedure: Joint Declaration (JD) Submission for EPFO
 
 ## Introduction

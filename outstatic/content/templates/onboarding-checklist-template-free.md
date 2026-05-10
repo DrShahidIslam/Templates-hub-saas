@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Template Free
+publishedAt: '2026-05-10T18:48:01.019Z'
+---
 # Standard Operating Procedure: Employee Onboarding Process
 
 This Standard Operating Procedure (SOP) serves as a comprehensive framework for the seamless integration of new hires into the organization. Effective onboarding is critical to reducing turnover, accelerating time-to-productivity, and ensuring that new team members feel culturally aligned and operationally supported from day one. This template is designed to be customizable; it balances administrative compliance with meaningful cultural immersion to provide a consistent experience for every new employee.

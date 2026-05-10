@@ -1,3 +1,8 @@
+---
+status: published
+title: Daily Zikr For Allah
+publishedAt: '2026-05-10T18:48:00.850Z'
+---
 # Standard Operating Procedure: Daily Zikr for Spiritual Optimization
 
 This Standard Operating Procedure (SOP) is designed to establish a consistent, disciplined, and high-quality practice of Zikr (remembrance of Allah). By implementing a structured daily workflow, the practitioner minimizes distractions, maximizes spiritual focus (Khushu), and ensures long-term consistency. This framework is intended to transform occasional remembrance into a systematic, sustainable habit that aligns with the prophetic tradition of consistency, even if the volume is small.

@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Us University
+publishedAt: '2026-05-10T18:48:01.505Z'
+---
 # Standard Operating Procedure: University Admissions & Academic Administration
 
 This Standard Operating Procedure (SOP) outlines the comprehensive lifecycle management for university operations, ranging from student recruitment and admissions to final enrollment. It is designed to ensure compliance with institutional policies, maintain regulatory standards (such as FERPA and SEVP), and provide a seamless experience for prospective students. Adherence to these protocols is mandatory for all administrative staff to ensure operational excellence and data integrity.

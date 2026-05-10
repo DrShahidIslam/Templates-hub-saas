@@ -1,3 +1,8 @@
+---
+status: published
+title: Onboarding Checklist Tracker
+publishedAt: '2026-05-10T18:48:01.028Z'
+---
 # Standard Operating Procedure: Employee Onboarding Checklist Tracker
 
 This Standard Operating Procedure (SOP) defines the systematic process for managing and tracking new hire onboarding. The goal is to ensure consistency, compliance, and a seamless transition for every new team member. By utilizing a centralized onboarding tracker, management can monitor progress in real-time, mitigate administrative bottlenecks, and ensure the new hire feels supported from day one through the end of their 90-day probationary period.

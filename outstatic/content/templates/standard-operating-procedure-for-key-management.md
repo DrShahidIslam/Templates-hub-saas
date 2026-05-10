@@ -1,3 +1,8 @@
+---
+status: published
+title: Standard Operating Procedure For Key Management
+publishedAt: '2026-05-10T18:48:01.838Z'
+---
 # Standard Operating Procedure: Key Management
 
 This Standard Operating Procedure (SOP) establishes the formal protocols for the issuance, tracking, return, and reporting of physical and digital access keys within the organization. The objective of this policy is to mitigate security risks, prevent unauthorized access, and ensure accountability for all personnel entrusted with access credentials. Adherence to these procedures is mandatory for all staff members, contractors, and vendors to maintain the integrity of our physical and digital infrastructure.

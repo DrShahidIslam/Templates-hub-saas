@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Kitchen Staff
+publishedAt: '2026-05-10T18:48:01.337Z'
+---
 # Standard Operating Procedure: Kitchen Operations & Sanitation
 
 This document establishes the standardized protocols for kitchen operations to ensure food safety, operational efficiency, and consistent quality. Adherence to these procedures is mandatory for all kitchen staff to maintain health department compliance and uphold our establishment’s reputation for excellence. Every shift must be executed with a focus on hygiene, organization, and precise execution of culinary standards.

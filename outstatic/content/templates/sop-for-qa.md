@@ -1,3 +1,8 @@
+---
+status: published
+title: Sop For Qa
+publishedAt: '2026-05-10T18:48:01.417Z'
+---
 # Standard Operating Procedure: Quality Assurance (QA) Process
 
 This Standard Operating Procedure (SOP) outlines the mandatory framework for conducting Quality Assurance (QA) testing to ensure that all deliverables meet our rigorous internal standards, project specifications, and user expectations. The objective of this process is to identify, document, and resolve defects systematically before deployment, thereby minimizing production risks and ensuring a seamless end-user experience.
