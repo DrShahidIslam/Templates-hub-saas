@@ -20,7 +20,7 @@ const nextConfig: NextConfig = {
           },
           {
             key: 'Content-Security-Policy',
-            value: "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://buy.polar.sh; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://polar.sh https://www.gravatar.com; font-src 'self' data:; connect-src 'self' https://polar.sh https://api.polar.sh; frame-src 'self' https://buy.polar.sh;",
+            value: "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://buy.polar.sh; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://images.unsplash.com https://polar.sh https://www.gravatar.com; font-src 'self' data:; connect-src 'self' https://polar.sh https://api.polar.sh; frame-src 'self' https://buy.polar.sh;",
           },
         ],
       },
