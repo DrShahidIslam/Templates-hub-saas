@@ -1,13 +1,30 @@
 export const dynamic = 'force-dynamic';
+export const revalidate = 0;
 
 import { MetadataRoute } from "next";
 import { getDocuments } from "outstatic/server";
+import fs from "fs";
+import path from "path";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = process.env.NEXT_PUBLIC_APP_URL || "https://www.templateregistry.com";
 
+  // Diagnostic: Check filesystem directly
+  try {
+    const contentPath = path.join(process.cwd(), "outstatic/content/templates");
+    if (fs.existsSync(contentPath)) {
+      const files = fs.readdirSync(contentPath).filter(f => f.endsWith('.md'));
+      console.log(`[Sitemap Diagnostic] Physical files in ${contentPath}: ${files.length}`);
+    } else {
+      console.log(`[Sitemap Diagnostic] Path NOT FOUND: ${contentPath}`);
+    }
+  } catch (e) {
+    console.error("[Sitemap Diagnostic] Error checking files:", e);
+  }
+
   // 1. Fetch all templates for dynamic indexing
   const templates = await getDocuments("templates", ["slug", "publishedAt"]);
+  console.log(`[Sitemap] Outstatic found ${templates.length} templates`);
   const templateUrls = templates.map((template) => ({
     url: `${baseUrl}/templates/${template.slug}`,
     lastModified: new Date(template.publishedAt || Date.now()),

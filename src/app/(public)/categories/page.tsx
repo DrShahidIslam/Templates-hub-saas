@@ -93,7 +93,7 @@ export default function CategoriesPage() {
             Browse by <span className="italic text-gray-400">Category.</span>
           </h1>
           <p className="text-lg text-gray-500 max-w-2xl leading-relaxed">
-            Standardize your excellence across every domain. Explore our curated registry of 1,800+ professional templates organized by specialized industry functions.
+            Standardize your excellence across every domain. Explore our curated registry of 3,000+ professional templates organized by specialized industry functions.
           </p>
         </div>
       </section>

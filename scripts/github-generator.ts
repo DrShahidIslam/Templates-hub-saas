@@ -19,7 +19,7 @@ dotenv.config({ path: path.join(__dirname, "../.env.local") });
  * - Aggressive Git Sync (Self-Healing)
  * - Batch Git Commits every 50 files
  * 
- * Goal: Ensure 1,800+ templates generate even with simultaneous UI updates.
+ * Goal: Ensure 3,000+ templates generate even with simultaneous UI updates.
  */
 
 // -- Configuration --

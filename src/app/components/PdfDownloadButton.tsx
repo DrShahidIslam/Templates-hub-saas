@@ -200,7 +200,7 @@ export default function PdfDownloadButton({ title }: { title: string }) {
               </h2>
               
               <p className="text-muted-foreground mb-8 leading-relaxed">
-                You&apos;ve used your 1 free download! Upgrade to Premium to get unlimited lifetime access to our entire library of 1,800+ SOPs, frameworks, and checklists.
+                You&apos;ve used your 1 free download! Upgrade to Premium to get unlimited lifetime access to our entire library of 3,000+ SOPs, frameworks, and checklists.
               </p>
 
               <a

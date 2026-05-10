@@ -117,7 +117,7 @@ export default function SuccessPage() {
           </h1>
 
           <p className="text-lg text-gray-500 mb-12 max-w-xl mx-auto leading-relaxed">
-            Your Lifetime All-Access Pass is now active{email ? ` for ${email}` : ''}. You have unlocked 1,800+ templates with zero restrictions.
+            Your Lifetime All-Access Pass is now active{email ? ` for ${email}` : ''}. You have unlocked 3,000+ templates with zero restrictions.
           </p>
 
           {/* ── PRO FEATURE GUIDE ── */}

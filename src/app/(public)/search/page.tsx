@@ -6,7 +6,7 @@ import Fuse from "fuse.js";
 
 export const metadata = {
   title: "Search Results | Template Registry",
-  description: "Search our directory of 1,800+ expert-reviewed templates, SOPs, and checklists.",
+  description: "Search our directory of 3,000+ expert-reviewed templates, SOPs, and checklists.",
 };
 
 export default async function SearchPage({

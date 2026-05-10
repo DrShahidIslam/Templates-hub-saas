@@ -4,7 +4,7 @@ import { Check, Shield } from "lucide-react";
 
 export const metadata: Metadata = {
   title: "Lifetime Access | Template Registry",
-  description: "Unlock 1,800+ premium B2B templates, Clinical & Academic Grade SOPs, and free lifetime updates with a single ROI-positive investment.",
+  description: "Unlock 3,000+ premium B2B templates, Clinical & Academic Grade SOPs, and free lifetime updates with a single ROI-positive investment.",
   keywords: ["Lifetime Access", "SOP Pricing", "Business Templates Subscription", "Premium SOPs", "ROI"]
 };
 
@@ -13,7 +13,7 @@ export default function PricingPage() {
     "@context": "https://schema.org",
     "@type": "Product",
     "name": "Template Registry Lifetime Access",
-    "description": "Unlock 1,800+ premium Standard Operating Procedures, frameworks, and checklists.",
+    "description": "Unlock 3,000+ premium Standard Operating Procedures, frameworks, and checklists.",
     "offers": {
       "@type": "Offer",
       "price": "14.99",
@@ -34,7 +34,7 @@ export default function PricingPage() {
           Standardize Your Excellence
         </h1>
         <p className="text-lg text-gray-500 max-w-xl mx-auto leading-relaxed">
-          Unlock the entire registry of 1,800+ premium Standard Operating Procedures, frameworks, and checklists with a single lifetime pass.
+          Unlock the entire registry of 3,000+ premium Standard Operating Procedures, frameworks, and checklists with a single lifetime pass.
         </p>
       </div>
 
@@ -54,7 +54,7 @@ export default function PricingPage() {
             
             <ul className="space-y-4 mb-10">
               {[
-                "1,800+ Premium B2B Templates",
+                "3,000+ Premium B2B Templates",
                 "Clinical & Academic Grade SOPs",
                 "Instant High-Fidelity PDF Export",
                 "1-Click Notion Integration",

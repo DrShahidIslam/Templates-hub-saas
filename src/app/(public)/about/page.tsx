@@ -67,7 +67,7 @@ export default function AboutPage() {
           <div className="grid grid-cols-2 gap-6">
             <div className="p-8 bg-white border border-gray-100 rounded-[2rem] shadow-sm">
               <Award className="w-10 h-10 text-indigo-600 mb-4" />
-              <h3 className="font-bold text-gray-900 mb-2">1,800+</h3>
+              <h3 className="font-bold text-gray-900 mb-2">3,000+</h3>
               <p className="text-sm text-gray-400 uppercase tracking-widest font-bold">Templates</p>
             </div>
             <div className="p-8 bg-white border border-gray-100 rounded-[2rem] shadow-sm mt-12">

@@ -179,7 +179,7 @@ export default function HomePageClient({ allTemplates }: HomePageClientProps) {
                 </div>
                 <input 
                   type="text"
-                  placeholder="Search 1,800+ templates..."
+                  placeholder="Search 3,000+ templates..."
                   className="w-full flex-1 py-3 sm:py-4 bg-transparent outline-none text-base sm:text-lg text-gray-900 placeholder:text-gray-400 min-w-0"
                   value={searchQuery}
                   onChange={(e) => setSearchQuery(e.target.value)}
@@ -291,7 +291,7 @@ export default function HomePageClient({ allTemplates }: HomePageClientProps) {
               href="/templates"
               className="inline-flex items-center gap-2 px-8 py-3 bg-white border border-gray-200 text-gray-900 rounded-2xl font-bold hover:bg-gray-50 transition-all"
             >
-              Browse All 1,800+ Templates
+              Browse All 3,000+ Templates
               <ArrowRight className="w-4 h-4" />
             </Link>
           </div>
@@ -313,7 +313,7 @@ export default function HomePageClient({ allTemplates }: HomePageClientProps) {
               <div className="h-px w-24 md:w-px md:h-12 bg-gray-200" />
               <div className="flex gap-12 items-center">
                 <div className="flex flex-col">
-                  <span className="text-2xl font-bold text-gray-900 leading-none">1,800+</span>
+                  <span className="text-2xl font-bold text-gray-900 leading-none">3,000+</span>
                   <span className="text-[11px] font-bold text-gray-400 uppercase tracking-widest mt-1 text-gray-400">SOP Library</span>
                 </div>
                 <div className="flex flex-col">
@@ -471,7 +471,7 @@ export default function HomePageClient({ allTemplates }: HomePageClientProps) {
                   href="/templates"
                   className="px-10 py-5 bg-[#4F46E5] text-white rounded-2xl font-bold text-lg hover:bg-indigo-700 transition-all hover:scale-105 active:scale-95 shadow-xl shadow-indigo-500/20"
                 >
-                  Browse 1,800+ Templates
+                  Browse 3,000+ Templates
                 </Link>
                 <a 
                   href="https://buy.polar.sh/polar_cl_SvXvG4jukzotDEekGNPrlidHn7MXXdXlQJSeT2Kt33l?success_url=https://templateregistry.com/success"

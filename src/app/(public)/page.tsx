@@ -6,7 +6,7 @@ import { getDocuments } from "outstatic/server";
 export const metadata: Metadata = {
   title: "Template Registry — The Global Registry of Professional SOPs",
   description:
-    "Access 1,800+ professional Standard Operating Procedures, Checklists, and Policies. Engineered for Clinical & Academic Precision, curated by a Chief Architect.",
+    "Access 3,000+ professional Standard Operating Procedures, Checklists, and Policies. Engineered for Clinical & Academic Precision, curated by a Chief Architect.",
   keywords: [
     "business templates",
     "SOP templates",
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   ],
   openGraph: {
     title: "Template Registry — The Global Registry of Professional SOPs",
-    description: "1,800+ expert-curated business templates and SOPs.",
+    description: "3,000+ expert-curated business templates and SOPs.",
     images: ["/og-image.png"],
   }
 };
@@ -31,7 +31,7 @@ export default async function HomePage() {
     "@type": "WebSite",
     "name": "Template Registry",
     "url": "https://templateregistry.com",
-    "description": "Access 1,800+ professional Standard Operating Procedures, Checklists, and Policies.",
+    "description": "Access 3,000+ professional Standard Operating Procedures, Checklists, and Policies.",
     "potentialAction": {
       "@type": "SearchAction",
       "target": "https://templateregistry.com/search?q={search_term_string}",

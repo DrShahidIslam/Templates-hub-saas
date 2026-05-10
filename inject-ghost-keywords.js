@@ -29,7 +29,7 @@ function getRandomApiKey() {
 async function processSeoData(content, type, retries = 3) {
   const apiKey = getRandomApiKey();
   const genAI = new GoogleGenerativeAI(apiKey);
-  const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
+  const model = genAI.getGenerativeModel({ model: "gemini-3.1-flash-lite-preview" });
   
   const prompt = `You are an expert Technical SEO Specialist.
 Task: Analyze the following document content and generate a highly optimized JSON object.
@@ -70,7 +70,7 @@ ${content.substring(0, 2500)}
 }
 
 async function injectSEO() {
-  const BATCH_LIMIT = 5;
+  const BATCH_LIMIT = 500;
   let targetFiles = [];
 
   // Gather untouched files
