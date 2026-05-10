@@ -176,7 +176,15 @@ async function main() {
     const content = await generateWithResilience(keyword);
 
     if (content) {
-      fs.writeFileSync(filePath, content, "utf-8");
+      const frontmatter = `---
+title: '${keyword.replace(/'/g, "''")}'
+status: 'published'
+slug: '${slug}'
+publishedAt: '${new Date().toISOString()}'
+---
+
+`;
+      fs.writeFileSync(filePath, frontmatter + content, "utf-8");
       totalNew++;
       batchCounter++;
       console.log(`✅ Saved ${slug}.md`);

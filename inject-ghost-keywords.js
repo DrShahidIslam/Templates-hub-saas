@@ -70,7 +70,7 @@ ${content.substring(0, 2500)}
 }
 
 async function injectSEO() {
-  const BATCH_LIMIT = 500;
+  const BATCH_LIMIT = 5000;
   let targetFiles = [];
 
   // Gather untouched files
@@ -120,6 +120,8 @@ async function injectSEO() {
       // 1. Update Frontmatter
       parsed.data.title = seoData.meta_title || parsed.data.title;
       parsed.data.description = seoData.meta_description || parsed.data.description;
+      parsed.data.status = parsed.data.status || 'published'; // Ensure visibility
+      parsed.data.publishedAt = parsed.data.publishedAt || new Date().toISOString();
       parsed.data.seo_optimized = true;
 
       // 2. Safely generate updated markdown string with new frontmatter
