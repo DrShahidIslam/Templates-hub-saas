@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Clinical Assessment and Support Checklist for Autism Spectrum Disorder (ASD)'
-status: 'published'
-slug: 'checklist-for-autism'
+title: Neuro-Affirming ASD Assessment & Support Checklist SOP
+status: published
+slug: checklist-for-autism
 publishedAt: '2026-05-07T18:59:25.105Z'
+description: >-
+  Access our neuro-affirming SOP for comprehensive ASD clinical assessment &
+  support. Designed for practitioners, educators & staff to identify needs,
+  prioritizing individual dignity and autonomy.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Clinical Assessment and Support Checklist for Autism Spectrum Disorder (ASD)
@@ -75,3 +80,48 @@ A: Reviews should be conducted quarterly for the first year, or whenever the ind
 
 <div data-html2canvas-ignore="true" style="display:none">ASD assessment checklist, autism clinical evaluation guidelines, neuro-affirming autism assessment, autism diagnostic criteria for practitioners, autism support needs assessment, clinical SOP for autism, developmental assessment checklist for autism, how to assess autism in clinical settings, autism evaluation framework, neurodivergent-friendly assessment process, autism clinical support documentation, standardized autism screening tools, best practices for autism assessment, professional autism evaluation checklist, supporting autistic individuals in clinical practice</div>
 <!-- AI_KEYWORDS: ASD assessment checklist, autism clinical evaluation guidelines, neuro-affirming autism assessment, autism diagnostic criteria for practitioners, autism support needs assessment, clinical SOP for autism, developmental assessment checklist for autism, how to assess autism in clinical settings, autism evaluation framework, neurodivergent-friendly assessment process, autism clinical support documentation, standardized autism screening tools, best practices for autism assessment, professional autism evaluation checklist, supporting autistic individuals in clinical practice -->
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the purpose of the ASD Clinical Assessment SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This Standard Operating Procedure (SOP) outlines a professional, neuro-affirming framework for identifying, documenting, and managing developmental assessments consistent with Autism Spectrum Disorder (ASD)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who should use this Clinical Assessment and Support Checklist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is intended for clinical practitioners, educators, and support staff to ensure comprehensive, neuro-affirming assessment and coordination of support services for individuals with ASD."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the initial phases of the ASD assessment process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The initial phases include Pre-Assessment and Environment Optimization (e.g., sensory-friendly setup) and Behavioral and Communication Observation (e.g., documenting verbal/non-verbal patterns, social reciprocity)."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "ASD Clinical Assessment and Support Checklist",
+  "description": "A standardized, neuro-affirming digital checklist outlining procedures for identifying, documenting, and managing Autism Spectrum Disorder (ASD) developmental assessments and coordinating support services.",
+  "applicationCategory": "MedicalApplication",
+  "operatingSystem": "Any"
+}
+</script>
