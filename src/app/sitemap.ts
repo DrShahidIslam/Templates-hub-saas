@@ -23,7 +23,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   }
 
   // 1. Fetch all templates for dynamic indexing
-  const templates = await getDocuments("templates", ["slug", "publishedAt"]);
+  const templates = await getDocuments("templates", ["slug", "publishedAt"], 10000);
   console.log(`[Sitemap] Outstatic found ${templates.length} templates`);
   const templateUrls = templates.map((template) => ({
     url: `${baseUrl}/templates/${template.slug}`,
@@ -33,7 +33,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   }));
 
   // 2. Fetch all blog posts for dynamic indexing
-  const posts = await getDocuments("blog", ["slug", "publishedAt"]);
+  const posts = await getDocuments("blog", ["slug", "publishedAt"], 10000);
   const blogUrls = posts.map((post) => ({
     url: `${baseUrl}/blog/${post.slug}`,
     lastModified: new Date(post.publishedAt || Date.now()),

@@ -63,7 +63,7 @@ const categoryKeywords: Record<string, string[]> = {
 };
 
 export default function CategoriesPage() {
-  const allTemplates = getDocuments('templates', ['slug']);
+  const allTemplates = getDocuments('templates', ['slug'], 10000);
 
   // Map over category definitions and inject dynamic counts
   const categoriesWithCounts = categoryDefinitions.map(cat => {
