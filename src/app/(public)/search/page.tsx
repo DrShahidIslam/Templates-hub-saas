@@ -23,7 +23,7 @@ export default async function SearchPage({
     "description",
     "content",
     "publishedAt",
-  ], 10000);
+  ]);
 
   interface Template {
     title: string;

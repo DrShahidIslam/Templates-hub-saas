@@ -23,7 +23,7 @@ export const metadata: Metadata = {
 };
 
 export default async function HomePage() {
-  const allTemplates = getDocuments('templates', ['title', 'slug', 'description', 'category'], 10000)
+  const allTemplates = getDocuments('templates', ['title', 'slug', 'description', 'category'])
     .map(t => ({ keyword: t.title || t.slug.replace(/-/g, ' '), slug: t.slug }));
 
   const schema = {

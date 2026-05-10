@@ -29,7 +29,7 @@ export const revalidate = 86400;
    ──────────────────────────────────────────── */
 
 export async function generateStaticParams() {
-  const documents = getDocuments("templates", ["slug"], 10000);
+  const documents = getDocuments("templates", ["slug"]);
   return documents.map((doc) => ({
     slug: doc.slug,
   }));
@@ -121,7 +121,7 @@ export default async function TemplatePage({
   const keyword = slug.replace(/-/g, " ");
   const titleCased = template.title || toTitleCase(keyword);
 
-  const allTemplates = getDocuments('templates', ['title', 'slug', 'category'], 10000);
+  const allTemplates = getDocuments('templates', ['title', 'slug', 'category']);
   
   const relatedKeywords = allTemplates
     .filter(t => t.slug !== slug && t.category === template.category)

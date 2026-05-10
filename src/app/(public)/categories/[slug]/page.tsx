@@ -47,7 +47,7 @@ export default async function CategoryPage({ params }: { params: Promise<{ slug:
     'IT & Security': ['it', 'security', 'tech', 'software', 'hardware', 'network', 'data', 'cyber']
   };
 
-  const allTemplates = getDocuments('templates', ['title', 'slug', 'category', 'tags', 'description'], 10000);
+  const allTemplates = getDocuments('templates', ['title', 'slug', 'category', 'tags', 'description']);
 
   const keywords = categoryKeywords[categoryName] || slug.split("-");
 
