@@ -10,9 +10,19 @@ export const metadata: Metadata = {
 
 const ITEMS_PER_PAGE = 24;
 
-export default function TemplatesIndexPage() {
+interface PageProps {
+  searchParams: Promise<{ page?: string }>;
+}
+
+export default async function TemplatesIndexPage({ searchParams }: PageProps) {
+  const resolvedParams = await searchParams;
+  const currentPage = parseInt(resolvedParams.page || "1", 10);
   const allTemplates = getDocuments('templates', ['title', 'slug', 'description', 'category']);
   const totalItems = allTemplates.length;
+  
+  const totalPages = Math.ceil(totalItems / ITEMS_PER_PAGE);
+  const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
+  const paginatedTemplates = allTemplates.slice(startIndex, startIndex + ITEMS_PER_PAGE);
 
   return (
     <main className="max-w-7xl mx-auto px-6 py-12 md:py-20">
@@ -29,7 +39,7 @@ export default function TemplatesIndexPage() {
 
       {/* ── TEMPLATES GRID ── */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-        {allTemplates.map((template) => (
+        {paginatedTemplates.map((template) => (
           <Link
             key={template.slug}
             href={`/templates/${template.slug}`}
@@ -49,6 +59,31 @@ export default function TemplatesIndexPage() {
           </Link>
         ))}
       </div>
+
+      {/* ── PAGINATION ── */}
+      {totalPages > 1 && (
+        <div className="mt-16 flex items-center justify-center gap-4">
+          <Link
+            href={`/templates?page=${currentPage - 1}`}
+            className={`px-6 py-3 rounded-xl border border-border font-medium transition-all ${
+              currentPage <= 1 ? 'opacity-50 pointer-events-none' : 'hover:bg-muted'
+            }`}
+          >
+            Previous
+          </Link>
+          <span className="text-sm font-medium text-muted-foreground">
+            Page {currentPage} of {totalPages}
+          </span>
+          <Link
+            href={`/templates?page=${currentPage + 1}`}
+            className={`px-6 py-3 rounded-xl border border-border font-medium transition-all ${
+              currentPage >= totalPages ? 'opacity-50 pointer-events-none' : 'hover:bg-muted'
+            }`}
+          >
+            Next
+          </Link>
+        </div>
+      )}
 
     </main>
   );

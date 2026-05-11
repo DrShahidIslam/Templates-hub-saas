@@ -40,7 +40,7 @@ export async function POST(request: Request) {
     if (event.type === 'order.created') {
       const order = event.data as any;
       
-      const isCorrectProduct = order.product_id === '1173754f-fe00-4b1b-aa99-586aad461272';
+      const isCorrectProduct = order.product_id === process.env.POLAR_PRODUCT_ID;
       const isPaid = order.status === 'paid';
       const isUSD = order.currency === 'usd';
 
@@ -58,7 +58,7 @@ export async function POST(request: Request) {
     if (event.type === 'subscription.created') {
       const sub = event.data as any;
       
-      const isCorrectProduct = sub.product_id === '1173754f-fe00-4b1b-aa99-586aad461272';
+      const isCorrectProduct = sub.product_id === process.env.POLAR_PRODUCT_ID;
       const isUSD = sub.currency === 'usd';
       // For subscriptions, status might be 'active'
       const isActive = sub.status === 'active';

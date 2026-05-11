@@ -83,7 +83,7 @@ export default function SuccessPage() {
           </div>
           <h2 className="text-2xl font-serif text-gray-900 mb-4">Verification Incomplete</h2>
           <p className="text-gray-500 mb-8 leading-relaxed">
-            We couldn't instantly verify your session. If you just completed a purchase, your access will be granted automatically within a few minutes via email.
+            We couldn&apos;t instantly verify your session. If you just completed a purchase, your access will be granted automatically within a few minutes via email.
           </p>
           <Link 
             href="/templates"

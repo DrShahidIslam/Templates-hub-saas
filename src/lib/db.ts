@@ -45,14 +45,30 @@ export async function initDatabase() {
         created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
       );
     `;
-    await sql`ALTER TABLE premium_users ADD COLUMN IF NOT EXISTS otp_code VARCHAR(10);`;
+    await sql`ALTER TABLE premium_users ADD COLUMN IF NOT EXISTS otp_code VARCHAR(128);`; // Increased length for hash
     await sql`ALTER TABLE premium_users ADD COLUMN IF NOT EXISTS otp_expires_at TIMESTAMP WITH TIME ZONE;`;
     await sql`ALTER TABLE premium_users ADD COLUMN IF NOT EXISTS otp_attempts INT DEFAULT 0;`;
     await sql`ALTER TABLE premium_users ADD COLUMN IF NOT EXISTS otp_last_attempt TIMESTAMP WITH TIME ZONE;`;
+    await sql`ALTER TABLE premium_users ADD COLUMN IF NOT EXISTS otp_generated_at TIMESTAMP WITH TIME ZONE;`;
     console.log('✅ Database initialized: premium_users table ready.');
   } catch (error) {
     console.error('❌ Failed to initialize database:', error);
     throw error;
+  }
+}
+
+/**
+ * Check if a user is premium by their email.
+ */
+export async function getUser(email: string) {
+  if (!email) return null;
+  try {
+    const sql = getDb();
+    const result = await sql`SELECT * FROM premium_users WHERE email = ${email.toLowerCase()}`;
+    return result[0] || null;
+  } catch (error) {
+    console.error('❌ Error fetching user:', error);
+    return null;
   }
 }
 
@@ -91,12 +107,15 @@ export async function addPremiumUser(email: string, polarOrderId: string) {
 /**
  * Set an OTP code for a user.
  */
-export async function setOTP(email: string, code: string, expiresAt: Date) {
+export async function setOTP(email: string, hashedCode: string, expiresAt: Date) {
   try {
     const sql = getDb();
     await sql`
       UPDATE premium_users 
-      SET otp_code = ${code}, otp_expires_at = ${expiresAt.toISOString()} 
+      SET otp_code = ${hashedCode}, 
+          otp_expires_at = ${expiresAt.toISOString()},
+          otp_generated_at = NOW(),
+          otp_attempts = 0
       WHERE email = ${email.toLowerCase()}
     `;
   } catch (error) {
@@ -109,13 +128,13 @@ export async function setOTP(email: string, code: string, expiresAt: Date) {
  * Verify an OTP code for a user.
  * Returns true if the code matches and has not expired.
  */
-export async function verifyOTP(email: string, code: string): Promise<boolean> {
+export async function verifyOTP(email: string, hashedCode: string): Promise<boolean> {
   try {
     const sql = getDb();
     const result = await sql`
       SELECT id FROM premium_users 
       WHERE email = ${email.toLowerCase()} 
-        AND otp_code = ${code} 
+        AND otp_code = ${hashedCode} 
         AND otp_expires_at > NOW()
         AND otp_attempts < 5
     `;

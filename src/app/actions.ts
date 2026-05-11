@@ -1,6 +1,6 @@
 "use server";
 
-import { isUserPremium, initDatabase, setOTP, verifyOTP, clearOTP, addPremiumUser, incrementOTPAttempts, resetOTPAttempts } from "@/lib/db";
+import { isUserPremium, initDatabase, setOTP, verifyOTP, clearOTP, addPremiumUser, incrementOTPAttempts, resetOTPAttempts, getUser } from "@/lib/db";
 import { cookies } from "next/headers";
 import { Resend } from "resend";
 import { Polar } from "@polar-sh/sdk";
@@ -16,7 +16,10 @@ const polar = new Polar({ accessToken: process.env.POLAR_ACCESS_TOKEN });
  * Server Actions for secure premium verification and data management.
  */
 
-const JWT_SECRET = new TextEncoder().encode(process.env.JWT_SECRET || "fallback-secret-for-dev-only");
+if (!process.env.JWT_SECRET) {
+  throw new Error("CRITICAL: JWT_SECRET environment variable is missing.");
+}
+const JWT_SECRET = new TextEncoder().encode(process.env.JWT_SECRET);
 
 async function signSessionToken(email: string) {
   return await new SignJWT({ email })
@@ -58,18 +61,31 @@ export async function checkPremiumStatus(): Promise<boolean> {
 export async function sendOTPAction(email: string) {
   if (!email) return { success: false, error: "Email is required" };
 
-  const isPremium = await isUserPremium(email);
-  if (!isPremium) {
+  const user = await getUser(email);
+  if (!user) {
     // Return fake success to prevent malicious actors from scraping our DB for valid emails
     return { success: true };
   }
 
+  // 1-minute cooldown check
+  if (user.otp_generated_at) {
+    const lastGenerated = new Date(user.otp_generated_at).getTime();
+    const now = Date.now();
+    const diff = (now - lastGenerated) / 1000;
+    if (diff < 60) {
+      return { success: false, error: "Please wait 60 seconds before requesting a new code." };
+    }
+  }
+
   // Generate secure 6-digit code using crypto.randomInt
   const code = crypto.randomInt(100000, 999999).toString();
+  // Hash the code before storing
+  const hashedCode = crypto.createHash('sha256').update(code).digest('hex');
+  
   // Expiry set to 15 minutes from now
   const expiresAt = new Date(Date.now() + 15 * 60 * 1000);
 
-  await setOTP(email, code, expiresAt);
+  await setOTP(email, hashedCode, expiresAt);
 
   try {
     await resend.emails.send({
@@ -100,7 +116,8 @@ export async function sendOTPAction(email: string) {
 export async function verifyOTPAction(email: string, code: string) {
   if (!email || !code) return { success: false, error: "Email and code are required." };
 
-  const isValid = await verifyOTP(email, code);
+  const hashedCode = crypto.createHash('sha256').update(code).digest('hex');
+  const isValid = await verifyOTP(email, hashedCode);
   
   if (!isValid) {
     await incrementOTPAttempts(email);
@@ -136,7 +153,10 @@ export async function verifyPolarSession(sessionId: string) {
   try {
     const checkout = await polar.checkouts.get({ id: sessionId });
     
-    if (checkout.status === "succeeded") {
+    const isCorrectProduct = checkout.productId === process.env.POLAR_PRODUCT_ID;
+    const isSucceeded = checkout.status === "succeeded";
+
+    if (isCorrectProduct && isSucceeded) {
       const customerEmail = checkout.customerEmail || (checkout as any).customer?.email;
       
       if (!customerEmail) {
@@ -160,7 +180,8 @@ export async function verifyPolarSession(sessionId: string) {
 
       return { success: true, email: customerEmail };
     } else {
-      return { success: false, error: "Checkout not completed." };
+      console.warn(`⚠️ Invalid session verification: product=${checkout.productId}, status=${checkout.status}`);
+      return { success: false, error: "Checkout not completed or invalid product." };
     }
   } catch (error) {
     console.error("Polar session verification failed:", error);
