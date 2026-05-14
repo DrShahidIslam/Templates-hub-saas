@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono, Instrument_Serif } from "next/font/google";
 import "./globals.css";
 import { Toaster } from "react-hot-toast";
+import Script from "next/script";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -42,6 +43,9 @@ export const metadata: Metadata = {
     locale: "en_US",
     siteName: "Template Registry",
   },
+  alternates: {
+    canonical: '/',
+  },
 };
 
 import SuccessHandler from "./components/SuccessHandler";
@@ -58,6 +62,21 @@ export default function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} ${instrumentSerif.variable} h-full antialiased`}
       suppressHydrationWarning
     >
+      <head>
+        <Script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-29G5LMSZSZ"
+        />
+        <Script id="google-analytics">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-29G5LMSZSZ');
+          `}
+        </Script>
+      </head>
       <body id="outstatic" className="min-h-full flex flex-col" suppressHydrationWarning>
         <Toaster position="bottom-right" />
         <Suspense fallback={null}>

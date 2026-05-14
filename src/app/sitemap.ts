@@ -7,7 +7,7 @@ import fs from "fs";
 import path from "path";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = process.env.NEXT_PUBLIC_APP_URL || "https://www.templateregistry.com";
+  const baseUrl = process.env.NEXT_PUBLIC_APP_URL || "https://templateregistry.com";
 
   // 1. Fetch all templates for dynamic indexing
   const templates = await getDocuments("templates", ["slug", "publishedAt"]);
