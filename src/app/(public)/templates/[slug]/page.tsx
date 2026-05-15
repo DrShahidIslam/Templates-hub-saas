@@ -29,10 +29,10 @@ export const revalidate = 86400;
    ──────────────────────────────────────────── */
 
 export async function generateStaticParams() {
-  // Returning an empty array forces Next.js to build all pages ON DEMAND (ISR)
-  // instead of during the build phase. This prevents Vercel 10+ minute build timeouts
-  // when handling 3,000+ templates.
-  return [];
+  const documents = getDocuments("templates", ["slug"]);
+  return documents.map((doc) => ({
+    slug: doc.slug,
+  }));
 }
 
 /* ────────────────────────────────────────────
