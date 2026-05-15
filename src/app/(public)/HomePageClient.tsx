@@ -17,7 +17,9 @@ import {
   HeartPulse,
   Monitor,
   BarChart3,
-  FileText
+  FileText,
+  Wand2,
+  Activity
 } from "lucide-react";
 
 interface KeywordEntry {
@@ -236,6 +238,55 @@ export default function HomePageClient({ allTemplates }: HomePageClientProps) {
                 </Link>
               ))}
             </motion.div>
+          </div>
+        </section>
+
+        {/* ── FREE ENTERPRISE TOOLS ── */}
+        <section className="py-16 px-6 bg-[#0A0A0F] text-white">
+          <div className="max-w-7xl mx-auto">
+            <div className="text-center mb-12">
+              <span className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/5 border border-white/10 text-[13px] font-medium text-indigo-400 mb-6">
+                <Zap className="w-4 h-4" />
+                Product-Led Growth
+              </span>
+              <h2 className="font-serif text-4xl md:text-5xl tracking-tight mb-4">
+                Free Enterprise Tools
+              </h2>
+              <p className="text-gray-400 text-lg max-w-2xl mx-auto">
+                Accelerate your operational maturity with our AI-powered utilities. 
+                No signup required.
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              {/* Tool 1: SOP Generator */}
+              <Link href="/tools/sop-generator" className="group block p-8 rounded-3xl bg-white/[0.03] border border-white/10 hover:bg-white/[0.05] hover:border-indigo-500/30 transition-all duration-300">
+                <div className="w-14 h-14 rounded-2xl bg-indigo-500/10 flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                  <Wand2 className="w-7 h-7 text-indigo-400" />
+                </div>
+                <h3 className="font-serif text-2xl mb-3 text-gray-100 group-hover:text-indigo-400 transition-colors">AI SOP Generator</h3>
+                <p className="text-gray-400 leading-relaxed mb-6">
+                  Instantly generate custom standard operating procedures using AI. Engineered by our Chief Architect for clinical-grade precision.
+                </p>
+                <div className="flex items-center gap-2 text-sm font-bold text-indigo-400 uppercase tracking-wider">
+                  Try Generator <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                </div>
+              </Link>
+
+              {/* Tool 2: Compliance Scorecard */}
+              <Link href="/tools/compliance-scorecard" className="group block p-8 rounded-3xl bg-white/[0.03] border border-white/10 hover:bg-white/[0.05] hover:border-purple-500/30 transition-all duration-300">
+                <div className="w-14 h-14 rounded-2xl bg-purple-500/10 flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                  <Activity className="w-7 h-7 text-purple-400" />
+                </div>
+                <h3 className="font-serif text-2xl mb-3 text-gray-100 group-hover:text-purple-400 transition-colors">Interactive Compliance Scorecard</h3>
+                <p className="text-gray-400 leading-relaxed mb-6">
+                  Calculate your company's operational compliance risk score. Evaluate your health against enterprise security standards instantly.
+                </p>
+                <div className="flex items-center gap-2 text-sm font-bold text-purple-400 uppercase tracking-wider">
+                  Check Score <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                </div>
+              </Link>
+            </div>
           </div>
         </section>
 

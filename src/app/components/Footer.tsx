@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className="bg-[#FAFAFA] border-t border-gray-200 pt-20 pb-12 px-6">
       <div className="max-w-7xl mx-auto">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-16">
+        <div className="grid grid-cols-2 md:grid-cols-5 gap-12 mb-16">
           {/* ── COLUMN 1: BRAND ── */}
           <div className="col-span-1 md:col-span-1">
             <Link href="/" className="flex items-center gap-3 group shrink-0 mb-6">
@@ -68,6 +68,23 @@ export default function Footer() {
                 { label: "Terms of Service", href: "/terms" },
                 { label: "Cookie Policy", href: "/cookies" },
                 { label: "Contact Support", href: "/contact" },
+              ].map((link) => (
+                <li key={link.label}>
+                  <Link href={link.href} className="text-sm text-gray-500 hover:text-black transition-colors">
+                    {link.label}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* ── COLUMN 5: FREE TOOLS ── */}
+          <div>
+            <h4 className="font-semibold text-gray-900 mb-6 text-sm">Free Tools</h4>
+            <ul className="space-y-4">
+              {[
+                { label: "AI SOP Generator", href: "/tools/sop-generator" },
+                { label: "Compliance Scorecard", href: "/tools/compliance-scorecard" },
               ].map((link) => (
                 <li key={link.label}>
                   <Link href={link.href} className="text-sm text-gray-500 hover:text-black transition-colors">
