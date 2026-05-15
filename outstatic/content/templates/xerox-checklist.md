@@ -1,7 +1,12 @@
 ---
 status: published
-title: Xerox Checklist
+title: 'Xerox Multifunction Printer SOP: Operation & Maintenance Guide'
 publishedAt: '2026-05-10T18:48:02.047Z'
+description: >-
+  Follow this official Xerox MFP SOP for proper operation, scanning, and
+  maintenance. Learn how to prevent jams and maintain security for your Xerox
+  device.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Xerox Multifunction Printer (MFP) Operation & Maintenance
 
@@ -44,3 +49,52 @@ A: Do not shake or force the toner cartridge to get "more life" out of it, as th
 
 **Q: Can I use pre-printed letterhead or labels?**
 A: Yes, but you must manually configure the paper type in the tray settings on the touch panel. Using "Plain" settings for "Heavy" or "Label" stock will result in poor toner adhesion and potential fuser damage.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prevent paper jams in my Xerox printer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ensure the exit tray is clear of previous documents and avoid mixing different paper weights or sizes within the same tray."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should I clean the Xerox scanner glass?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wipe the scanner glass and the white document feeder backing with a clean, lint-free, microfiber cloth. Do not use abrasive cleaning agents."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if the waste toner container is full?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Replace the waste toner container immediately according to manufacturer instructions. Do not attempt to empty or reuse the container."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Xerox Multifunction Printer Operating System",
+  "operatingSystem": "Xerox Proprietary Firmware",
+  "applicationCategory": "SystemUtility",
+  "description": "Standard operating software and interface for Xerox multifunction printer management, including security, scanning, and maintenance protocols.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Xerox"
+  }
+}
+</script>

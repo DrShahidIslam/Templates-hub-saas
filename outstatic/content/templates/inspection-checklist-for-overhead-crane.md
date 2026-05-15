@@ -1,3 +1,12 @@
+---
+title: Overhead Crane Safety Inspection SOP & OSHA Checklist
+description: >-
+  Ensure workplace safety with our comprehensive overhead crane inspection SOP.
+  Follow this OSHA-compliant checklist for pre-shift checks and maintenance.
+status: published
+publishedAt: '2026-05-15T04:42:35.574Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Overhead Crane Safety Inspection
 
 ## Introduction
@@ -38,3 +47,54 @@ A: No. Operators are permitted to inspect and report, but actual repairs, adjust
 
 **Q: How often must a "thorough" inspection be performed beyond the pre-shift check?**
 A: In addition to daily pre-shift inspections, OSHA requires periodic inspections (monthly to annually) depending on the crane's duty cycle and environment. These must be performed and documented by a "competent person."
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should overhead cranes be inspected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "OSHA 1910.179 and ASME B30.2 mandate that overhead bridge cranes must undergo a pre-shift inspection before each use to identify wear or malfunctions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should be done if a crane has a critical deficiency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Any crane identified with a critical deficiency must be immediately tagged out of service and remain inoperable until repairs are completed by certified personnel."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the main phases of a crane safety inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The inspection is divided into three phases: Phase 1 (Visual Ground Assessment), Phase 2 (Functional Testing), and Phase 3 (Structural & Electrical Integrity)."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Crane Safety Inspection Management SOP",
+  "applicationCategory": "Industrial Safety Utility",
+  "operatingSystem": "All",
+  "description": "A standardized procedure and digital safety checklist for overhead bridge crane maintenance, ensuring compliance with OSHA and ASME standards.",
+  "softwareVersion": "1.0",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

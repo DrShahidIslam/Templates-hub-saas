@@ -1,8 +1,12 @@
 ---
-title: 'Standard Operating Procedure: Daily Executive Function Support for Children with ADHD'
-status: 'published'
-slug: 'checklist-for-kids-with-adhd'
+title: 'ADHD Executive Function SOP: Daily Routine & Task Guide'
+status: published
+slug: checklist-for-kids-with-adhd
 publishedAt: '2026-05-07T18:59:25.291Z'
+description: >-
+  Boost independence in children with ADHD using this daily executive function
+  SOP. Includes actionable morning, academic, and bedtime routines.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Daily Executive Function Support for Children with ADHD
@@ -55,3 +59,53 @@ A: Start with paper/physical laminated checklists. Digital apps provide immediat
 
 **Q: How do I handle "task paralysis" when they refuse to start?**
 A: Help them lower the barrier to entry. Ask, "What is the smallest part of this task?" (e.g., not "Clean your room," but "Pick up the five red toys"). Once the first piece is done, the momentum often follows.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I help my child with ADHD get ready in the morning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a visual checklist at eye level, lay out clothes the night before to reduce decision fatigue, and use incentive alignment with small morning rewards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best way to manage ADHD task paralysis during schoolwork?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Break large assignments into three smaller sub-tasks and use the 'Start-Up' ritual by completing the easiest step first to overcome initial resistance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I improve focus for an ADHD child during study sessions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implement the timer strategy: 15–20 minutes of deep work followed by a 5-minute movement break, while keeping the workspace clear of distractions."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Executive Function Support SOP for ADHD",
+  "applicationCategory": "EducationalApplication",
+  "operatingSystem": "All",
+  "description": "A structured system designed to serve as an external executive function aid for children with ADHD, facilitating independence through visual checklists and routines.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

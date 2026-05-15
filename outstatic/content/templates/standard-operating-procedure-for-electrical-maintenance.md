@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Electrical Maintenance
+title: 'Electrical Maintenance SOP: Safety & OSHA Compliance Guide'
 publishedAt: '2026-05-10T18:48:01.720Z'
+description: >-
+  Master electrical maintenance protocols. Follow our SOP for LOTO, NFPA 70E
+  compliance, and OSHA-standard safety procedures to ensure facility
+  reliability.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Electrical Maintenance
 
@@ -56,3 +61,52 @@ A: Stop work immediately. Contact the Engineering Department to obtain updated p
 
 **Q: How often must my voltage testing equipment be calibrated?**
 A: Voltage meters must be calibrated annually at a minimum. Additionally, perform a "Live-Dead-Live" test on every single use: verify the meter on a known live source, test the target equipment, and verify the meter on the known live source again.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the core requirements for electrical maintenance safety?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Electrical maintenance requires work by qualified personnel only, strict adherence to NFPA 70E and OSHA 1910.333 standards, usage of LOTO procedures, and proper PPE."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is LOTO (Lockout/Tagout) critical in electrical SOPs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LOTO is essential to de-energize equipment and prevent accidental startup or exposure to hazardous energy, ensuring personnel safety during maintenance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you verify zero energy on electrical equipment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Verify zero energy by using a calibrated non-contact voltage tester followed by a direct-contact voltmeter on all phases and grounds."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Electrical Maintenance SOP Management System",
+  "applicationCategory": "Industrial Management Software",
+  "operatingSystem": "All",
+  "description": "A standardized protocol framework for managing electrical maintenance, LOTO compliance, and safety documentation for facility operations.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Free Documentation"
+  }
+}
+</script>

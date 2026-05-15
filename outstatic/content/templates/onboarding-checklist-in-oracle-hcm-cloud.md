@@ -1,7 +1,12 @@
 ---
 status: published
-title: Onboarding Checklist In Oracle Hcm Cloud
+title: Oracle HCM Cloud New Hire Onboarding SOP Guide
 publishedAt: '2026-05-10T18:48:00.993Z'
+description: >-
+  Master Oracle HCM Cloud onboarding with this expert SOP. Learn to manage
+  pre-boarding, compensation, and workflow provisioning for seamless employee
+  integration.
+seo_optimized: true
 ---
 # Standard Operating Procedure: New Hire Onboarding in Oracle HCM Cloud
 
@@ -50,3 +55,52 @@ A2: Yes, you can navigate to the "Checklist" task within the person record and u
 
 **Q3: How do I handle a candidate who accepts the offer but changes their start date?**
 A3: Do not delete the record. Navigate to "Manage Employment," use the "Correct" action on the primary assignment record, and update the "Effective Start Date" to the new date. Always check if this affects payroll processing periods.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I initiate a new hire in Oracle HCM Cloud?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Navigate to My Client Groups > New Person > Hire an Employee to begin the workflow and establish the primary record."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is the Legal Reporting Unit (LRU) selection critical?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The LRU selection is vital because it drives essential payroll tax reporting and ensures statutory compliance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I trigger the electronic onboarding workflow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After saving the employee record, navigate to the 'Checklist' tab and ensure the 'New Hire Onboarding' template is assigned to activate the workflow tasks."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Oracle HCM Cloud",
+  "applicationCategory": "Human Resources Software",
+  "operatingSystem": "Cloud-based",
+  "offers": {
+    "@type": "Offer",
+    "category": "Enterprise HRIS"
+  },
+  "description": "A cloud-based human capital management software suite for managing core HR, payroll, and employee onboarding workflows."
+}
+</script>

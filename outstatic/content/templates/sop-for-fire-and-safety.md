@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Fire And Safety
+title: 'Fire Safety SOP: Emergency Evacuation & Prevention Guide'
 publishedAt: '2026-05-10T18:48:01.241Z'
+description: >-
+  Ensure workplace safety with our comprehensive Fire Safety SOP. Learn
+  essential prevention tips, evacuation procedures, and fire suppression
+  protocols.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Fire Safety and Emergency Response
 
@@ -48,3 +53,53 @@ A: Absolutely not. Under no circumstances should any personnel re-enter the buil
 
 **Q: What do I do if my primary exit route is blocked by smoke?**
 A: Immediately pivot to your secondary evacuation route. If all routes are blocked, retreat to a room with an external window, seal the door gaps with clothing, and signal for help from the window.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if I detect a fire in the building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Immediately activate the nearest manual fire alarm pull station. Once evacuated to a safe distance, call local emergency services or the internal emergency line to report the exact location and nature of the fire."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are elevators safe to use during a fire evacuation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Under no circumstances should elevators be used during a fire evacuation. Always proceed to the nearest marked emergency exit via the stairs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the P.A.S.S. method for fire extinguishers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The P.A.S.S. method stands for: Pull the pin, Aim at the base of the fire, Squeeze the handle, and Sweep from side to side."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Fire Safety and Emergency Response SOP",
+  "applicationCategory": "Safety Management System",
+  "operatingSystem": "All",
+  "description": "A standardized protocol document for fire prevention, detection, and emergency evacuation management.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

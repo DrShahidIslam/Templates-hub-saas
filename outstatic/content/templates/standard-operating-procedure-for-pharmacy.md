@@ -1,7 +1,11 @@
 ---
 status: published
-title: Standard Operating Procedure For Pharmacy
+title: 'Pharmacy SOP: Standard Operating Procedures for Operations'
 publishedAt: '2026-05-10T18:48:01.888Z'
+description: >-
+  Master pharmacy operations with our comprehensive SOP. Ensure patient safety,
+  regulatory compliance, and efficient prescription workflow management today.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Pharmacy Operations Management
 
@@ -57,3 +61,52 @@ A: Controlled substances must be reconciled daily. General inventory should unde
 
 **Q: What is the required protocol for a "Near Miss" event?**
 A: Any "Near Miss" (an error caught before the patient receives the drug) must be logged in the internal Quality Assurance (QA) log. This allows the team to identify trends in workflow interruptions and implement system-wide improvements.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key stages of pharmacy prescription intake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prescription intake involves patient identification using two identifiers, verifying legal documentation, conducting clinical safety screenings, and clarifying any missing details with the prescriber."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is the final pharmacist check critical in pharmacy operations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The final pharmacist check ensures a product-to-prescription match, verifying that the physical medication, dosage, and label instructions align perfectly with the original prescription to prevent clinical errors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is accuracy ensured during medication filling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Accuracy is maintained by verifying the National Drug Code (NDC), using clean equipment, performing physical counts, and conducting a final verification against system data."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Pharmacy Management System (PMS)",
+  "applicationCategory": "HealthcareApplication",
+  "operatingSystem": "All",
+  "description": "A standardized digital system for managing prescription data, clinical reviews, insurance processing, and medication dispensing workflows in pharmacies.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Operational Management"
+  }
+}
+</script>

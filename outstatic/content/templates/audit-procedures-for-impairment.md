@@ -1,3 +1,13 @@
+---
+title: 'Asset Impairment Audit SOP: IAS 36 & ASC 360 Compliance'
+description: >-
+  Master your asset impairment audit with our comprehensive SOP. Learn to
+  identify indicators, estimate recoverable amounts, and ensure financial
+  compliance.
+status: published
+publishedAt: '2026-05-15T02:53:43.931Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Asset Impairment Audit
 
 This Standard Operating Procedure (SOP) outlines the systematic process for evaluating, testing, and documenting asset impairment in accordance with applicable accounting standards (IAS 36 or ASC 360). As an operations manager, the goal of this audit is to ensure that the carrying amount of assets does not exceed their recoverable amount. This process is critical for maintaining financial integrity, ensuring regulatory compliance, and providing stakeholders with a true and fair view of the organization’s asset valuation.
@@ -34,3 +44,53 @@ A: Under IFRS (IAS 36), impairment losses for assets other than goodwill can be 
 
 **Q: What is the most common reason for audit failures in this area?**
 A: The most common failure is the lack of robust documentation regarding the rationale behind management’s assumptions. Auditors frequently challenge the "reasonableness" of cash flow projections; if you cannot prove your assumptions with market evidence or historical data, the valuation will likely be rejected.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary triggers for an asset impairment audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key triggers include significant declines in market value, technological obsolescence, physical asset damage, or consistent negative cash flow trends."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you calculate the recoverable amount of an asset?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The recoverable amount is the higher of an asset's fair value less costs to sell or its value in use (VIU), typically calculated via a Discounted Cash Flow model."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is it important to group assets into Cash Generating Units (CGUs)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CGUs are used when individual assets do not generate independent cash flows, allowing for a more accurate impairment assessment at the smallest identifiable level."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Asset Impairment Audit SOP Template",
+  "applicationCategory": "FinanceApplication",
+  "description": "A standardized framework for conducting asset impairment audits in compliance with IAS 36 and ASC 360 accounting standards.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

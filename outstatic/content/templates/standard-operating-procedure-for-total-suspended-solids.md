@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Total Suspended Solids
+title: 'TSS Analysis: Standard Operating Procedure Guide'
 publishedAt: '2026-05-10T18:48:01.957Z'
+description: >-
+  Learn the precise gravimetric method for Total Suspended Solids (TSS)
+  determination. Follow this SOP for accurate water and wastewater testing
+  compliance.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Determination of Total Suspended Solids (TSS)
 
@@ -48,3 +53,52 @@ A: Constant weight ensures that all physically occluded water has been evaporate
 
 **Q: Can I store the filtered samples before weighing?**
 A: Yes, if immediate weighing is not possible, the filters can be stored in the desiccator, but they should be weighed as soon as they reach room temperature to minimize the risk of environmental contamination.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the standard drying temperature for TSS determination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to the gravimetric method, samples should be dried to a constant weight at 103–105°C."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure a representative TSS sample?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ensure the sample is representative by shaking the container vigorously before drawing the aliquot to ensure solids are suspended."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the recommended residue range for TSS samples?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For accurate gravimetric results, select a sample volume that will yield a dried residue between 2.5 mg and 200 mg."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "TSS Analytical SOP Protocol",
+  "applicationCategory": "ScientificDataAnalysis",
+  "operatingSystem": "All",
+  "description": "Standardized gravimetric method protocol for the determination of Total Suspended Solids (TSS) in water and wastewater monitoring.",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "text": "Comprehensive procedure including filter preparation, drying, desiccation, and weighing steps."
+  }
+}
+</script>

@@ -1,3 +1,13 @@
+---
+title: 'Pakistan Regulatory Compliance SOP: SECP & FBR Guidelines'
+description: >-
+  Master corporate compliance in Pakistan. Our SOP covers SECP filings, FBR
+  taxation, and AML/CFT reporting to ensure your business remains in good
+  standing.
+status: published
+publishedAt: '2026-05-15T03:21:58.533Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Regulatory Compliance Management (Pakistan)
 
 This Standard Operating Procedure (SOP) outlines the mandatory framework for maintaining organizational compliance within the Pakistani jurisdiction. Given the evolving nature of local regulations—including the Companies Act 2017, SECP directives, FBR taxation laws, and Anti-Money Laundering (AML/CFT) frameworks—this document serves as a baseline for ensuring operational legality, mitigating financial risk, and avoiding regulatory penalties. All compliance officers must adhere to these steps to maintain the company’s "Good Standing" status.
@@ -46,3 +56,52 @@ A2: Policies should be reviewed annually or whenever the FATF (Financial Action 
 
 **Q3: Is digital documentation accepted by government inspectors?**
 A3: While digital is the standard for filing, physical "Hard Files" containing original stamped documents (especially labor contracts and tax payment challans) are still highly recommended for on-site physical inspections by labor or tax departments.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key SECP filing requirements in Pakistan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Companies must submit Form A (Annual Return) and Form B (Accounts) within 30 days of the AGM and report changes in directorship or shareholding via eServices within 15 days."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should FBR Sales Tax returns be filed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Monthly Sales Tax returns must be submitted through the FBR IRIS portal by the 10th to the 15th of each month."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is required for AML/CFT compliance in Pakistan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Businesses must conduct KYC/CDD on all vendors, screen partners against UNSC and NACTA lists, and maintain an internal Suspicious Activity Reporting (SAR) mechanism."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Regulatory Compliance Management System",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web",
+  "description": "An SOP-based framework for managing SECP, FBR, and AML/CFT compliance requirements within the Pakistani legal jurisdiction.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Compliance Management Services"
+  }
+}
+</script>

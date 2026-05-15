@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Surviving Spouse Administrative Transition'
-status: 'published'
-slug: 'checklist-for-surviving-spouse'
+title: 'Surviving Spouse Checklist: Admin & Legal Transition Guide'
+status: published
+slug: checklist-for-surviving-spouse
 publishedAt: '2026-05-07T18:59:25.420Z'
+description: >-
+  Navigate the administrative transition after losing a spouse with our
+  step-by-step SOP. Learn how to handle death certificates, probate, and
+  financial assets.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Surviving Spouse Administrative Transition
@@ -46,3 +51,53 @@ Order more than you think you need. Between banks, insurance companies, governme
 
 **3. What happens if there was no Will?**
 If there is no Will, the estate is considered "intestate." Laws vary by state, but the court will appoint an administrator and distribute assets according to state law, rather than the deceased's specific wishes. An attorney is highly recommended in this scenario.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many certified death certificates should I order?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is recommended to request 10–15 certified copies from the funeral director, as these are required by most banks, government agencies, and insurance companies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should I notify the Social Security Administration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should notify the SSA within 1–2 weeks of the passing to stop benefit payments and determine your eligibility for survivor benefits."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is it important to contact credit reporting agencies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Notifying Equifax, Experian, and TransUnion is a critical step to prevent identity theft and stop fraudulent credit accounts from being opened in the deceased's name."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Surviving Spouse Administrative Transition SOP",
+  "applicationCategory": "Productivity",
+  "operatingSystem": "All",
+  "description": "A structured Standard Operating Procedure for managing legal, financial, and administrative tasks following the loss of a spouse.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

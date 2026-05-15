@@ -1,8 +1,13 @@
 ---
-title: 'termite inspection form for va loans'
-status: 'published'
-slug: 'termite-inspection-form-for-va-loans'
+title: 'VA Loan Termite Inspection SOP: Compliance Guide (NPMA-33)'
+status: published
+slug: termite-inspection-form-for-va-loans
 publishedAt: '2026-05-11T10:17:07.859Z'
+description: >-
+  Master VA loan termite inspection requirements. Our SOP guide covers NPMA-33
+  form compliance, WDI report protocols, and state-mandated VA lending
+  guidelines.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: VA Loan Termite Inspection Requirements
@@ -45,3 +50,52 @@ Under VA guidelines, the veteran borrower is prohibited from paying for a termit
 
 **3. What happens if active termites are found?**
 The transaction does not necessarily fail. The seller must hire a licensed pest control company to perform the required treatment and provide a certificate of clearance. Once the property is verified as free of active infestation, the loan process can proceed.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are termite inspections mandatory for all VA loans?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Termite inspections are mandatory in states with 'moderate to heavy' or 'very heavy' termite activity, or if the VA appraiser notes potential evidence of infestation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What form is required for a VA termite report?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The industry-standard NPMA-33 form or a state-mandated equivalent approved by the VA Regional Loan Center is required."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is qualified to perform a VA termite inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Inspections must be conducted by a licensed, bonded, and insured pest control professional."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "VA Loan Termite Inspection SOP",
+  "applicationCategory": "Procedural Documentation",
+  "operatingSystem": "All",
+  "description": "A standardized guide for processing Wood Destroying Insect (WDI) reports and compliance with VA Handbook 4150.1 guidelines.",
+  "provider": {
+    "@type": "Organization",
+    "name": "VA Lending Compliance"
+  }
+}
+</script>

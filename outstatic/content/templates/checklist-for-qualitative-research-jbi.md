@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: JBI Qualitative Assessment'
-status: 'published'
-slug: 'checklist-for-qualitative-research-jbi'
+title: 'JBI Qualitative Assessment SOP: Critical Appraisal Guide'
+status: published
+slug: checklist-for-qualitative-research-jbi
 publishedAt: '2026-05-07T18:59:25.380Z'
+description: >-
+  Master the JBI Critical Appraisal Checklist for qualitative research with this
+  expert SOP. Learn to evaluate study rigor, bias, and methodological
+  congruence.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: JBI Qualitative Assessment
@@ -52,3 +57,53 @@ JBI does not provide a specific numerical threshold for "high quality." Instead,
 
 ### 3. Should I contact authors if their methods are unclear?
 While not strictly required by the JBI protocol, if a study is central to your research question and the missing information is critical for your appraisal, reaching out to the corresponding author for clarification is a best practice in academic rigor.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the JBI Critical Appraisal Checklist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The JBI Critical Appraisal Checklist is a standardized tool used to assess the methodological quality of qualitative research studies, identifying potential bias in design, conduct, and analysis."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is methodological congruence important in JBI appraisal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Methodological congruence ensures that the study's philosophical perspective, research question, data collection, and analysis are logically aligned, which is essential for qualitative validity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should I handle 'Unclear' results during appraisal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When a study lacks transparency in its reporting, mark the item as 'Unclear' to reflect the inability to confirm the study's rigor on that specific criterion."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "JBI Qualitative Assessment SOP",
+  "applicationCategory": "Educational Tool",
+  "description": "A standardized protocol and framework for applying the JBI Critical Appraisal Checklist to qualitative research synthesis.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

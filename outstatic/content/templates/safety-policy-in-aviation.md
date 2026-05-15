@@ -1,7 +1,11 @@
 ---
 status: published
-title: Safety Policy In Aviation
+title: Aviation Safety Management System (SMS) SOP Guide
 publishedAt: '2026-05-10T18:48:01.094Z'
+description: >-
+  Learn the essential Aviation SMS standards, hazard reporting, and risk
+  mitigation strategies to ensure regulatory compliance and operational safety.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Aviation Safety Management System (SMS)
 
@@ -46,3 +50,53 @@ A: If you have to ask yourself, "Should I report this?", you should. Better to r
 
 **Q: Can I bypass a safety procedure if I am behind schedule?**
 A: Never. Safety takes precedence over schedule. If an operation cannot be performed safely due to time constraints, the operation must be delayed or halted until it can be performed in accordance with SOPs.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of the Aviation Safety Management System (SMS)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary goal is to provide a mandatory framework for risk mitigation, accident prevention, and maintaining operational integrity across all levels of the organization."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should hazards be reported in the SMS?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All hazards or near-misses must be logged via the internal Safety Reporting System (SRS) within 24 hours of discovery, following a 'Just Culture' approach."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the ALARP principle in aviation safety?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 'As Low As Reasonably Practicable' (ALARP) principle ensures that safety improvements and risk mitigations are balanced against operational feasibility."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Aviation Safety Reporting System (SRS)",
+  "applicationCategory": "Enterprise Safety Management Software",
+  "description": "An internal aviation software solution designed to facilitate hazard reporting, risk assessment via 5x5 matrix, and corrective action tracking.",
+  "operatingSystem": "Web-based",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  }
+}
+</script>

@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sops For Pharmacovigilance
+title: 'Pharmacovigilance SOP: Guide to Case Processing & Reporting'
 publishedAt: '2026-05-10T18:48:01.635Z'
+description: >-
+  Master pharmacovigilance case processing. Learn GVP-compliant standards for AE
+  intake, MedDRA coding, causality assessment, and regulatory reporting.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Pharmacovigilance (PV) Case Processing and Reporting
 
@@ -49,3 +53,53 @@ A: If a company manages its own social media pages, it must monitor them for adv
 
 **Q: What is the difference between an adverse event (AE) and an adverse drug reaction (ADR)?**
 A: An AE is any untoward medical occurrence in a patient administered a pharmaceutical product, regardless of whether it is causally related. An ADR is a response to a drug which is noxious and unintended, where a causal relationship is at least reasonably possible.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the four pillars of a valid pharmacovigilance case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A valid case must include an identifiable reporter, an identifiable patient (such as age or gender), a suspect medicinal product, and at least one adverse event."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the purpose of MedDRA coding in PV?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "MedDRA coding is used to map adverse events to standardized medical terminology, ensuring consistency in clinical data and regulatory reporting across global databases."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is causality determined in pharmacovigilance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Causality is assessed by evaluating the relationship between the drug and the adverse event using established algorithms such as the Naranjo Scale or WHO-UMC criteria."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Pharmacovigilance Case Processing System",
+  "applicationCategory": "MedicalApplication",
+  "operatingSystem": "Web-based",
+  "description": "A standardized operational framework for managing pharmacovigilance intake, case assessment, MedDRA coding, and regulatory ICSR submission.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Compliance Documentation"
+  },
+  "featureList": "AE/SAE Intake, MedDRA Coding, Causality Assessment, ICSR Regulatory Submission, Signal Detection"
+}
+</script>

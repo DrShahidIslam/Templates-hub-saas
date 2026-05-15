@@ -1,8 +1,13 @@
 ---
-title: 'inspection checklist for powered industrial trucks'
-status: 'published'
-slug: 'inspection-checklist-for-powered-industrial-trucks'
+title: 'PIT Daily Inspection SOP: Forklift Safety Checklist'
+status: published
+slug: inspection-checklist-for-powered-industrial-trucks
 publishedAt: '2026-05-11T10:04:01.039Z'
+description: >-
+  Follow our mandatory PIT daily inspection SOP to ensure OSHA 1910.178
+  compliance. Expert guide for forklift and powered industrial truck pre-shift
+  checks.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Powered Industrial Truck (PIT) Daily Inspection
@@ -44,3 +49,53 @@ OSHA requires that PITs be inspected daily, or after each shift if the truck is 
 
 **3. Am I liable if I operate a truck that someone else damaged?**
 The operator is responsible for the state of the equipment during their shift. If you fail to inspect the truck, you become responsible for all defects present on that machine. Always perform the inspection to protect yourself and your coworkers.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should PIT inspections be conducted?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Powered Industrial Truck (PIT) inspections must be performed daily, specifically prior to the first use of the truck during any shift."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if a defect is found during an inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If any defect is identified, the equipment must be tagged out of service immediately and reported to the maintenance supervisor."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which regulations govern PIT inspections?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PIT inspections are required to meet OSHA 1910.178 standards to ensure operator safety and prevent mechanical failure."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Powered Industrial Truck (PIT) Daily Inspection Protocol",
+  "applicationCategory": "Safety Compliance SOP",
+  "operatingSystem": "All",
+  "description": "A comprehensive pre-shift inspection procedure for forklifts, reach trucks, and electric pallet jacks to ensure OSHA 1910.178 compliance.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

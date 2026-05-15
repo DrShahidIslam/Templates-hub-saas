@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Post-Mortem Administrative Protocol'
-status: 'published'
-slug: 'checklist-for-when-someone-dies'
+title: 'Post-Mortem Administrative Checklist: A Step-by-Step Guide'
+status: published
+slug: checklist-for-when-someone-dies
 publishedAt: '2026-05-07T18:59:25.473Z'
+description: >-
+  Navigate the administrative burden after a loss with our comprehensive
+  post-mortem SOP. Learn the essential steps for legal compliance, estate, and
+  asset management.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Post-Mortem Administrative Protocol
@@ -48,3 +53,53 @@ A: It depends on the size and complexity of the estate. While small, simple esta
 
 **Q: What if I cannot find the Will?**
 A: Search through safe deposit boxes, personal safes, and with the attorney who originally drafted the document. If no Will exists, the estate will be classified as "intestate," and the distribution of assets will be governed strictly by state law, which may not align with the deceased's wishes.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the first steps to take immediately after a death?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Immediately secure a legal pronouncement of death, coordinate transportation of the remains with a funeral home, notify the next of kin, secure the deceased's property, and locate essential documents like the Will."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many certified death certificates should I order?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is recommended to order 10–15 certified copies, as they are required for most financial institutions, government agencies, and legal filings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is it important to notify credit bureaus after a death?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Notifying major credit bureaus to place a 'deceased' flag on the credit file is a critical security step to prevent identity theft involving the deceased's accounts."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Post-Mortem Administrative Protocol SOP",
+  "applicationCategory": "Productivity",
+  "operatingSystem": "All",
+  "description": "A structured Standard Operating Procedure designed to assist in managing legal, financial, and logistical requirements following the passing of a loved one.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

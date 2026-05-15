@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Nps Withdrawal
+title: 'NPS Withdrawal Process: Step-by-Step SOP Guide'
 publishedAt: '2026-05-10T18:48:01.381Z'
+description: >-
+  Learn how to initiate a compliant National Pension System (NPS) withdrawal.
+  Follow our step-by-step SOP for KYC verification, eNPS submission, and
+  disbursement.
+seo_optimized: true
 ---
 # Standard Operating Procedure: National Pension System (NPS) Withdrawal
 
@@ -52,3 +57,52 @@ Yes, subscribers have the option to defer their lump-sum withdrawal and/or the a
 
 **3. What happens if my withdrawal request is rejected?**
 If a request is rejected due to data mismatch or document issues, the CRA will notify you via email/SMS. You must rectify the specific discrepancy (e.g., updating bank KYC) and resubmit the request on the portal. There is no penalty for rejection, but it causes significant administrative delays.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the prerequisites for an NPS withdrawal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before withdrawing, ensure your PRAN is active, your KYC details are up-to-date, your contact information is verified, and your linked bank account is active."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I submit an NPS withdrawal request online?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Log into the CRA portal, navigate to 'Transact Online', select 'Withdrawal from NPS', verify your details, select an Annuity Service Provider, and authenticate via Aadhaar e-Sign."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for NPS withdrawal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You typically need a PAN card, a copy of your PRAN card, and a bank statement or cancelled cheque for verification of your linked account."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "eNPS CRA Portal",
+  "applicationCategory": "FinanceApplication",
+  "operatingSystem": "Web-based",
+  "description": "The official Central Recordkeeping Agency portal for managing National Pension System (NPS) withdrawals, account updates, and fund tracking.",
+  "provider": {
+    "@type": "Organization",
+    "name": "PFRDA"
+  }
+}
+</script>

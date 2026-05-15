@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Vehicle Use
+title: 'Company Vehicle SOP: Safe Operation & Fleet Guidelines'
 publishedAt: '2026-05-10T18:48:01.982Z'
+description: >-
+  Master company vehicle safety with our official Standard Operating Procedure.
+  Learn essential pre-departure, driving, and maintenance protocols for all
+  staff.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Organizational Vehicle Use
 
@@ -42,3 +47,52 @@ A: Company vehicles are strictly for business-related travel. Any personal use m
 
 **Q: What if the vehicle breaks down during a shift?**
 A: Pull over safely, engage hazard lights, and contact the fleet department or the roadside assistance number located on the insurance card provided in the vehicle. Do not attempt major roadside repairs yourself.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What must be checked before driving a company vehicle?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drivers must verify registration and insurance, conduct a walk-around inspection, check tire pressure and fuel levels, and confirm all safety equipment is present."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is mobile phone use allowed while driving?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, the use of hand-held mobile devices is strictly prohibited. Hands-free systems are permitted only for essential professional communication."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the policy on fuel upon returning a vehicle?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vehicles must be returned with a full tank of fuel if the journey exceeded 50 miles, or as otherwise specified by department policy."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Organizational Vehicle Management SOP",
+  "applicationCategory": "Business Management System",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure for maintaining fleet safety, operational efficiency, and regulatory compliance.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Fleet Management Division"
+  }
+}
+</script>

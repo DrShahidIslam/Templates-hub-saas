@@ -1,7 +1,11 @@
 ---
 status: published
-title: Standard Operating Procedure For Purchase Requisition
+title: Purchase Requisition (PR) Management SOP | P2P Best Practices
 publishedAt: '2026-05-10T18:48:01.895Z'
+description: >-
+  Master the Purchase Requisition (PR) process with this comprehensive SOP.
+  Learn key steps for initiation, internal approval, and P2P cycle efficiency.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Purchase Requisition (PR) Management
 
@@ -42,3 +46,53 @@ Yes, but the PR should be marked as "Recurring" or "Fixed Term" to ensure the Fi
 
 **3. Why was my requisition sent back for "Clarification"?**
 Most often, this occurs due to missing technical specifications, lack of comparative quotes for large purchases, or an incorrect GL code selection. Review the comments section on your rejected PR for specific feedback from the Finance or Procurement team.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a Purchase Requisition (PR)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Purchase Requisition is an internal document used to request authorization for an expenditure before a formal Purchase Order is issued to a vendor."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is the PR process important in Procure-to-Pay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The PR process ensures that all spending is authorized, budgeted, and aligned with organizational needs, mitigating unauthorized spending and financial risk."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens after a Purchase Requisition is approved?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Once approved, the Procurement department converts the PR into an official Purchase Order (PO) and issues it to the vendor."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Procurement Management System",
+  "applicationCategory": "BusinessApplication",
+  "description": "A standardized framework for managing the Purchase Requisition (PR) workflow, from initial request and budgetary review to final Purchase Order issuance.",
+  "operatingSystem": "Web-based",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Clinical Assessment for Narcissistic Personality Disorder (NPD)'
-status: 'published'
-slug: 'checklist-for-narcissistic-personality-disorder'
+title: 'Clinical Assessment for NPD: Standardized DSM-5-TR Guide'
+status: published
+slug: checklist-for-narcissistic-personality-disorder
 publishedAt: '2026-05-07T18:59:25.335Z'
+description: >-
+  Learn the professional clinical assessment process for Narcissistic
+  Personality Disorder (NPD) based on DSM-5-TR criteria for mental health
+  practitioners.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Clinical Assessment for Narcissistic Personality Disorder (NPD)
@@ -51,3 +56,53 @@ A: Maintain rigid professional boundaries, focus on specific, verifiable behavio
 
 **Q: Is empathy an absolute deficit in all individuals with NPD?**
 A: The DSM describes a lack of willingness or ability to recognize others' needs. While some individuals with NPD may display "cognitive empathy" (knowing what others are feeling for the purpose of manipulation), they typically lack "affective empathy" (the ability to share in the emotional experience of others).
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many DSM-5-TR criteria are required for an NPD diagnosis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to the DSM-5-TR, a formal diagnosis of Narcissistic Personality Disorder requires the presence of at least five of the nine specified clinical criteria."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the primary focus of an NPD clinical intake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The preliminary intake focuses on establishing professional rapport, reviewing longitudinal interpersonal relationship patterns, assessing emotional regulation, and identifying potential comorbid conditions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there specific behavioral traits indicative of NPD?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key traits include grandiosity, a need for excessive admiration, a sense of entitlement, interpersonal exploitation, and a documented lack of empathy for others."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Clinical Assessment Protocol for NPD",
+  "applicationCategory": "MedicalApplication",
+  "operatingSystem": "Web",
+  "description": "A standardized operational framework for mental health clinicians to evaluate Narcissistic Personality Disorder traits using DSM-5-TR criteria.",
+  "softwareVersion": "DSM-5-TR",
+  "offers": {
+    "@type": "Offer",
+    "category": "Professional"
+  }
+}
+</script>

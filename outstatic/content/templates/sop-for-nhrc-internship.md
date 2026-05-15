@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Nhrc Internship
+title: 'NHRC Internship Guide: Application & Selection SOP'
 publishedAt: '2026-05-10T18:48:01.379Z'
+description: >-
+  Master your NHRC internship application with our comprehensive SOP. Learn
+  eligibility criteria, documentation requirements, and selection protocols
+  today.
+seo_optimized: true
 ---
 # Standard Operating Procedure: NHRC Internship Application & Execution
 
@@ -46,3 +51,53 @@ Generally, the internship is reserved for students in the final years of their u
 
 **3. What is the dress code for a physical internship?**
 The dress code is formal business attire. As it is a government institution, participants are expected to dress modestly and professionally.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is eligible for the NHRC internship program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Students currently enrolled in recognized degree programs in Law, Human Rights, Political Science, Sociology, Social Work, or Criminology are eligible to apply."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for the NHRC internship application?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Applicants must provide a scanned college ID, an NOC from their Head of Department, an updated CV, and a 500-word Statement of Purpose (SOP)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How are candidates selected for the NHRC internship?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Selection is merit-based, determined by the candidate's academic performance and the quality of their submitted Statement of Purpose."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "NHRC Internship Application Portal",
+  "applicationCategory": "EducationalApplication",
+  "operatingSystem": "Web-based",
+  "description": "The official online platform for managing applications, document submissions, and selection processes for the National Human Rights Commission of India internship programs.",
+  "provider": {
+    "@type": "Organization",
+    "name": "National Human Rights Commission of India",
+    "url": "https://nhrc.nic.in/"
+  }
+}
+</script>

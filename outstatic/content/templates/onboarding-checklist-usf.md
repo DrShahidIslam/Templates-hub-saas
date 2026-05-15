@@ -1,7 +1,12 @@
 ---
 status: published
-title: Onboarding Checklist Usf
+title: 'USF Employee Onboarding SOP: New Hire Checklist & Guide'
 publishedAt: '2026-05-10T18:48:01.035Z'
+description: >-
+  Streamline your new hire process with the University of South Florida's
+  official employee onboarding SOP. Expert checklist for pre-arrival, Day 1, and
+  beyond.
+seo_optimized: true
 ---
 # Standard Operating Procedure: University of South Florida (USF) Employee Onboarding
 
@@ -47,3 +52,53 @@ All mandatory employment forms, including tax documents and direct deposit autho
 
 **3. Are there specific onboarding requirements for student employees vs. permanent staff?**
 Yes. While the core process is similar, student employees may be exempt from certain retirement plan orientations, but they must complete mandatory Student Employment training modules specifically focused on FERPA and data privacy.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I activate a new hire's USF NetID?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hiring managers must instruct new employees to activate their USF NetID directly through the official MyUSF portal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is required for USF I-9 verification?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Employment Eligibility Verification (Form I-9) must be completed in person at the USF HR office or an authorized remote site on the employee's first day."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What systems must be provisioned for new USF staff?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "System provisioning includes initiating the PeopleSoft/GEMS workflow, verifying hardware configurations, and ensuring access to departmental systems like Microsoft Teams or SharePoint."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "GEMS/PeopleSoft",
+  "applicationCategory": "Human Resources Management System",
+  "operatingSystem": "Web-based",
+  "provider": {
+    "@type": "Organization",
+    "name": "University of South Florida",
+    "url": "https://www.usf.edu"
+  },
+  "description": "The official Human Resources management system used by the University of South Florida for hire status, payroll, and employee self-service."
+}
+</script>

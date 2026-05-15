@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Police Clearance Certificate (PCC) Application for India'
-status: 'published'
-slug: 'checklist-for-pcc-india'
+title: How to Get an Indian Police Clearance Certificate (PCC) - SOP
+status: published
+slug: checklist-for-pcc-india
 publishedAt: '2026-05-07T18:59:25.377Z'
+description: >-
+  Follow our step-by-step SOP to apply for an Indian Police Clearance
+  Certificate (PCC). Learn the requirements, application process, and
+  verification steps.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Police Clearance Certificate (PCC) Application for India
@@ -50,3 +55,52 @@ Typically, it takes between 7 to 14 business days, depending on the speed of the
 
 **3. Can I get a PCC if I am currently residing outside India?**
 Yes, Indian citizens abroad can apply for a PCC through the Indian Embassy or Consulate in their country of residence. The procedure may vary slightly based on the specific jurisdiction.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What documents are required for an Indian PCC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You typically need your valid original Indian passport, the Passport Seva ARN receipt, and proof of your current residential address."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I apply for a Police Clearance Certificate online?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Register or log in to the official Passport Seva Portal, select 'Apply for Police Clearance Certificate,' enter your details, pay the fee, and book an appointment at a nearby PSK."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is police verification mandatory for a PCC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, police verification at your registered residential address is a mandatory step in the PCC issuance process to confirm your residency and background."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Passport Seva Portal",
+  "applicationCategory": "Government Service",
+  "operatingSystem": "Web-based",
+  "description": "The official online portal for Indian citizens to apply for passports and Police Clearance Certificates (PCC) managed by the Ministry of External Affairs.",
+  "provider": {
+    "@type": "GovernmentOrganization",
+    "name": "Ministry of External Affairs, Government of India"
+  }
+}
+</script>

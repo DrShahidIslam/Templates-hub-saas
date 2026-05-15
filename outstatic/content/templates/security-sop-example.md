@@ -1,7 +1,11 @@
 ---
 status: published
-title: Security Sop Example
+title: 'Facility Security SOP: Access Control & Safety Protocols'
 publishedAt: '2026-05-10T18:48:01.125Z'
+description: >-
+  Master facility security with our comprehensive SOP. Learn mandatory protocols
+  for access control, surveillance monitoring, and emergency incident response.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Facility Security and Access Control
 
@@ -47,3 +51,53 @@ A: Security logs should be reviewed on a daily basis by the Security Shift Lead 
 
 Q: Are security cameras allowed to monitor breakrooms or private areas?
 A: No. Privacy laws and company policy strictly prohibit the use of surveillance in private areas such as restrooms, lactation rooms, and breakrooms to ensure employee privacy and legal compliance.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the core requirements for facility access control?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Core requirements include daily verification of locks, inspection of biometric scanners, rigorous visitor management, and strict enforcement of 'No Tailgating' policies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should security anomalies be documented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Any anomalies observed via CCTV must be logged into the Daily Security Activity Report (DSAR), detailing the time, specific location, and nature of the occurrence."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the procedure during an active security threat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Immediately initiate the 'Lockdown' or 'Evacuation' protocol, prioritize contacting local law enforcement, and secure the scene to preserve evidence."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Facility Security & Access Control SOP Management",
+  "applicationCategory": "SecurityManagement",
+  "operatingSystem": "All",
+  "description": "A comprehensive operational framework for managing physical security, surveillance, and emergency response procedures within a corporate environment.",
+  "softwareVersion": "1.0",
+  "offers": {
+    "@type": "Offer",
+    "category": "Standard Operating Procedure"
+  }
+}
+</script>

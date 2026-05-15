@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: New Apartment Move-In Inspection & Setup'
-status: 'published'
-slug: 'checklist-for-new-apartment'
+title: 'Apartment Move-In Inspection Checklist: Protect Your Deposit'
+status: published
+slug: checklist-for-new-apartment
 publishedAt: '2026-05-07T18:59:25.340Z'
+description: >-
+  Follow our expert move-in inspection SOP to document defects, verify
+  utilities, and protect your security deposit. Get the ultimate apartment setup
+  guide.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: New Apartment Move-In Inspection & Setup
@@ -61,3 +66,53 @@ Check your lease first. Many apartment complexes forbid changing locks due to fi
 
 **3. What should I do if the apartment is not clean upon arrival?**
 Do not move your belongings in immediately. Take photos of the mess and contact the property manager in writing to request a professional re-clean. Having a "cleanliness dispute" in writing is essential if you decide to withhold a portion of rent or request a credit.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I inspect before moving into a new apartment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before moving in, inspect walls for damage, check all plumbing for leaks, test every electrical outlet, verify window and door locks, and document all existing floor or appliance defects with photos."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I protect my security deposit during move-in?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Protect your deposit by performing a comprehensive walkthrough and taking high-resolution photos and videos of every room, wall, and appliance to document pre-existing conditions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What safety tests should I perform in a new unit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Critical safety tests include checking smoke and carbon monoxide detectors, verifying HVAC functionality, testing all light switches, and ensuring the water heater is cycling correctly."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Apartment Move-In Inspection SOP",
+  "applicationCategory": "Productivity",
+  "description": "A systematic standard operating procedure for conducting pre-move-in inspections, utility setup, and apartment functional testing to ensure tenant safety and security deposit protection.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

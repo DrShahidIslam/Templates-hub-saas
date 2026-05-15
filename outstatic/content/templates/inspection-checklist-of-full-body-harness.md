@@ -1,3 +1,13 @@
+---
+title: 'Full Body Harness Inspection: Essential Safety SOP'
+description: >-
+  Learn the professional SOP for full body harness inspections. Follow our
+  step-by-step guide to identify wear, damage, and ensure workplace fall
+  protection safety.
+status: published
+publishedAt: '2026-05-15T04:50:59.452Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Full Body Harness Inspection
 
 Maintaining the integrity of fall protection equipment is a critical safety requirement for all personnel working at heights. A full body harness acts as the final line of defense against fatal injury; therefore, it must be inspected before each use and by a competent person at least every 12 months. This procedure outlines the mandatory inspection protocol to identify signs of wear, chemical degradation, heat damage, or structural failure. If any component shows signs of compromise, the harness must be immediately tagged "Out of Service" and removed from the job site.
@@ -49,3 +59,53 @@ A: Absolutely not. Any harness involved in a fall arrest must be removed from se
 
 **Q: What do I do if I find a small, minor nick in the webbing?**
 A: If in doubt, tag it out. Any degradation in load-bearing webbing is a potential failure point. In the field, there is no such thing as a "minor" cut; if the integrity of the weave is breached, the harness must be removed from service.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should a full body harness be inspected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A full body harness must be inspected before every use by the wearer and by a competent person at least once every 12 months."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my harness shows signs of damage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If any component shows signs of compromise, wear, or chemical damage, the harness must be immediately tagged 'Out of Service' and removed from the job site."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I identify if a harness has been in a fall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Check for deployed impact indicators (folded, stitched tabs) or localized thinning and puckering of the webbing around load-bearing stitch points."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Full Body Harness Inspection SOP",
+  "applicationCategory": "Safety Management System",
+  "description": "Standard operating procedure for the technical inspection and maintenance of industrial fall protection full body harnesses.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

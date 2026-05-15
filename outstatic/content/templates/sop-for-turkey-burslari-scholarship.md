@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Turkey Burslari Scholarship
+title: 'Turkey Bursları Scholarship Guide: How to Apply & Succeed'
 publishedAt: '2026-05-10T18:48:01.491Z'
+description: >-
+  Master the Turkey Bursları application process with our expert SOP. Learn
+  eligibility requirements, document preparation, and tips for a winning
+  motivation letter.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Turkey Bursları Scholarship Application
 
@@ -52,3 +57,53 @@ A: No, you can only apply for one level of study (e.g., either Undergraduate OR 
 
 **Q: Is it mandatory to speak Turkish to apply for the scholarship?**
 A: No, it is not mandatory. If you are accepted into a Turkish-medium program, the scholarship includes a one-year mandatory Turkish language course to ensure you are fluent enough for your academic studies.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the age limits for Turkey Bursları scholarships?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Typically, applicants must be under 21 for undergraduate programs, under 30 for Master’s programs, and under 35 for PhD programs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the minimum GPA required for the Turkey Scholarship?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The minimum GPA requirement is generally 70% for undergraduate applicants and 75% for graduate and medical program applicants."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for the Turkey Bursları application?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You will need a valid passport or National ID, recent photo, academic transcripts, degree certificates, and relevant language proficiency test scores like IELTS or TOEFL."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Türkiye Scholarships Application Portal",
+  "applicationCategory": "Educational Application",
+  "operatingSystem": "Web-based",
+  "description": "The official government portal for managing international student applications for the Türkiye Bursları scholarship program.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Republic of Turkey",
+    "sameAs": "https://turkiyeburslari.gov.tr"
+  }
+}
+</script>

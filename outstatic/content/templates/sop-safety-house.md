@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop Safety House
+title: 'Safety House Facility Management: Essential SOP Guide'
 publishedAt: '2026-05-10T18:48:01.601Z'
+description: >-
+  Master facility safety with our comprehensive SOP guide. Learn essential
+  protocols for hazard mitigation, equipment maintenance, and emergency
+  preparedness.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Safety House Facility Management
 
@@ -41,3 +46,53 @@ A: Immediately remove the area from service if possible, place "Do Not Use" sign
 
 **Q: Who is authorized to reset the fire alarm panel?**
 A: Only the designated Building Safety Officer or a professional fire technician is permitted to reset the alarm system after an investigation has been completed.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the daily safety inspection requirements for the Safety House?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Daily inspections include verifying clear emergency exits, checking fire extinguisher pressure, removing slip/trip hazards from corridors, and ensuring all hallway lighting is functional."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should electrical equipment be managed in the facility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Facilities must audit power strips to avoid daisy-chaining, ensure no frayed insulation exists, and report any damaged cords to Maintenance immediately."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the rule regarding storage near sprinkler heads?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To maintain fire safety compliance, no materials should be stacked within 18 inches of ceiling-mounted sprinkler heads."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Maintenance Management System (MMS)",
+  "applicationCategory": "Facility Management Software",
+  "description": "A digital tool for logging safety inspections, tracking equipment maintenance, and ensuring organizational compliance within the Safety House.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

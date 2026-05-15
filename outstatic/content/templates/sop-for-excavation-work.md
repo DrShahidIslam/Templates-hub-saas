@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Excavation Work
+title: 'Excavation Safety SOP: Best Practices & Trenching Compliance'
 publishedAt: '2026-05-10T18:48:01.236Z'
+description: >-
+  Master excavation safety with our comprehensive SOP. Learn about utility
+  locating, soil classification, trench shoring, and OSHA-compliant egress
+  requirements.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Excavation Operations
 
@@ -44,3 +49,53 @@ A: Spoil piles must be kept at least 2 feet from the edge of the excavation. Thi
 
 **Q: Who is qualified to be the "Competent Person"?**
 A: The Competent Person is an individual who has been trained, has specific knowledge of soil analysis and protective systems, and has the authority to stop work immediately if a hazard is identified.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is a ladder or ramp required in an excavation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A safe means of egress, such as a ladder, ramp, or stairway, is required in all excavations 4 feet or deeper and must be located within 25 lateral feet of all employees."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far back should heavy equipment be kept from an excavation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Heavy equipment and excavated spoils must be kept at least 2 feet back from the edge of the excavation to prevent surcharge load collapses."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is responsible for inspecting trench shoring?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A designated 'Competent Person' must perform a daily inspection of shoring and trench boxes before each shift and following any rain or seismic events."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Excavation Operations Safety SOP",
+  "applicationCategory": "Safety Management System",
+  "operatingSystem": "All",
+  "description": "A standardized operational protocol for excavation, trenching, and shoring safety, providing guidelines for soil classification, utility protection, and site monitoring.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

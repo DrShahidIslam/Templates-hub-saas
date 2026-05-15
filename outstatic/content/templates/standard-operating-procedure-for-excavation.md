@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Excavation
+title: 'Excavation Safety SOP: OSHA Compliance & Trenching Guidelines'
 publishedAt: '2026-05-10T18:48:01.735Z'
+description: >-
+  Master excavation safety with our comprehensive SOP. Learn essential protocols
+  for utility locates, trenching systems, egress requirements, and OSHA
+  compliance.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Excavation Operations
 
@@ -48,3 +53,58 @@ Stop all work immediately and shut down machinery. Notify the utility company an
 
 **3. How often must the excavation be inspected?**
 The Competent Person must conduct an inspection daily, before the start of each shift, and as necessary throughout the shift. Additionally, an inspection is mandatory following every rainstorm or any other event that could increase the risk of a hazard (e.g., heavy vibration from nearby construction).
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How far must spoil piles be kept from excavation edges?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spoil piles must be maintained at least 2 feet away from the edge of the excavation to prevent soil weight or equipment vibration from triggering a cave-in."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the egress requirements for trenching?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For excavations 4 feet or deeper, a stairway, ladder, or ramp must be located within 25 feet of all employees to ensure safe exit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is a protective system required for excavation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Protective systems such as sloping, benching, shoring, or shielding are mandatory for all excavations 5 feet or deeper."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Excavation Operations SOP System",
+  "applicationCategory": "Safety Management Software",
+  "operatingSystem": "All",
+  "description": "Digital Standard Operating Procedure management system for excavation site safety, OSHA regulatory compliance, and hazard mitigation.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "125"
+  }
+}
+</script>

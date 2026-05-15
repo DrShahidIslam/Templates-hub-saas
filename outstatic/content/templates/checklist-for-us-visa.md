@@ -1,8 +1,12 @@
 ---
-title: 'Standard Operating Procedure: US Non-Immigrant Visa Application'
-status: 'published'
-slug: 'checklist-for-us-visa'
+title: 'US Non-Immigrant Visa Application: Expert SOP & Checklist'
+status: published
+slug: checklist-for-us-visa
 publishedAt: '2026-05-07T18:59:25.444Z'
+description: >-
+  Master your US non-immigrant visa application. Follow our professional SOP
+  checklist for DS-160, documentation, and interview success to minimize delays.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: US Non-Immigrant Visa Application
@@ -57,3 +61,54 @@ A: If the error is minor (e.g., a typo), you can often correct it at the biometr
 
 **Q: How much money do I need to show to get approved?**
 A: There is no fixed "magic number." You must demonstrate sufficient funds to cover your trip expenses without needing to work in the US. Bank statements covering the last 3–6 months are typically the standard requirement.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long must my passport be valid for a US visa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your passport must be valid for at least six months beyond your intended period of stay in the United States."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the DS-160 confirmation page used for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The DS-160 confirmation page is required for your consular interview. You must bring the printed barcode page to prove your application has been submitted correctly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are mandatory for a US visa interview?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mandatory documents include your current and previous passports, the DS-160 confirmation page, your appointment confirmation page, and the MRV fee receipt."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "DS-160 Online Nonimmigrant Visa Application",
+  "applicationCategory": "Government/Administrative",
+  "operatingSystem": "Web Browser",
+  "description": "The official US Department of State portal for submitting the DS-160 Nonimmigrant Visa Application.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Government Service",
+    "price": "0",
+    "priceCurrency": "USD"
+  }
+}
+</script>

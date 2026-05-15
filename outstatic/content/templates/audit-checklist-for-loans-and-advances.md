@@ -1,3 +1,13 @@
+---
+title: 'SOP: Audit of Loans and Advances | Compliance & Risk Guide'
+description: >-
+  Master your loan audit process with this comprehensive SOP. Learn to verify
+  KYC, collateral, provisioning, and regulatory compliance for credit
+  portfolios.
+status: published
+publishedAt: '2026-05-15T02:48:01.986Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Audit of Loans and Advances
 
 This Standard Operating Procedure (SOP) outlines the comprehensive audit framework for evaluating an organization’s loan and advance portfolio. The primary objective is to verify the existence, valuation, classification, and recoverability of all lending assets. By adhering to this protocol, auditors ensure compliance with regulatory standards, internal credit policies, and accounting principles (such as IFRS 9 or local GAAP), ultimately mitigating credit risk and ensuring the accuracy of financial reporting.
@@ -54,3 +64,52 @@ A: Missing documents are a significant control failure. You must categorize this
 
 **Q: Should I verify the borrower's cash flow in an audit?**
 A: Yes. An audit shouldn't just be about "paperwork." You must review the borrower’s latest financial statements or bank statement analysis to ensure that the primary source of repayment—their cash flow—remains sufficient to cover interest and principal.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary objective of a loans and advances audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary objective is to verify the existence, accurate valuation, proper classification, and recoverability of all lending assets while ensuring compliance with regulatory standards and internal credit policies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for pre-audit planning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Essential documents include the Trial Balance, subsidiary ledgers, Credit Policy Manual, recent board minutes, signed loan agreements, promissory notes, and the latest internal credit rating reports."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is collateral verified during an audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Collateral is verified by inspecting title deeds, ensuring valuation reports are current (12-24 months), confirming active insurance with a bank clause, and verifying the registration of charges with the government registrar."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Loans and Advances Audit SOP",
+  "applicationCategory": "FinanceApplication",
+  "operatingSystem": "All",
+  "description": "A standardized procedural framework for auditing financial loan portfolios, including KYC verification, collateral assessment, and interest recomputation.",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "text": "This audit framework assists financial auditors in evaluating asset classification and credit risk in accordance with IFRS 9 or local GAAP."
+  }
+}
+</script>

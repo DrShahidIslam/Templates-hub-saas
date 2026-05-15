@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Electrical Work
+title: 'Electrical Work SOP: Safety, LOTO, and NEC Compliance Guide'
 publishedAt: '2026-05-10T18:48:01.221Z'
+description: >-
+  Follow this professional SOP for electrical work. Ensure OSHA compliance,
+  master LOTO procedures, and maintain safety with our voltage testing
+  guidelines.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Electrical Work Operations
 
@@ -50,3 +55,55 @@ A: Yes. All electrical work requires a minimum level of arc-rated protection as 
 
 **Q: What is the procedure if I find an undocumented "ghost" wire during my work?**
 A: Stop work immediately. Trace the wire to its source before proceeding. Never cap a wire if you do not know its origin or purpose, as it could be a back-fed circuit from an auxiliary power source.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary objective of this electrical SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The objective is to eliminate risks of electric shock, arc flash, and equipment damage while ensuring strict adherence to NEC and OSHA standards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the Test-Before-Touch protocol?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This protocol requires testing your voltmeter on a known live source before and after measuring the target equipment to ensure accurate zero-energy verification."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What PPE is required for electrical maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Required PPE includes voltage-rated rubber insulating gloves (Class 0/00), leather protectors, arc-rated clothing, and appropriate eye protection, all inspected for defects."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Electrical Work SOP Manager",
+  "applicationCategory": "Safety Management System",
+  "operatingSystem": "All",
+  "description": "A comprehensive Standard Operating Procedure for managing electrical maintenance, installation, and diagnostic safety protocols.",
+  "softwareVersion": "1.0",
+  "offers": {
+    "@type": "Offer",
+    "category": "Free",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

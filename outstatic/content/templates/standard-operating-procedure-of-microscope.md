@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure Of Microscope
+title: 'How to Use a Compound Light Microscope: SOP Guide'
 publishedAt: '2026-05-10T18:48:02.020Z'
+description: >-
+  Master compound light microscope operation with our comprehensive SOP. Learn
+  safe setup, focusing techniques, objective switching, and maintenance
+  protocols.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Compound Light Microscope Operation
 
@@ -48,3 +53,53 @@ A: Absolutely not. Immersion oil is designed specifically for 100x oil-immersion
 
 **Q: How do I know when the bulb is failing?**
 A: Signs of a failing bulb include flickering, a dimming light despite the rheostat being at maximum, or an audible "buzzing" sound. Report these symptoms to the lab manager immediately.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prevent damaging the objective lens when focusing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Always use the coarse adjustment knob to raise the stage to its highest position before looking through the eyepiece, then lower it slowly. When using medium or high-power objectives, use only the fine adjustment knob to avoid lens collision."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the purpose of the rheostat during startup?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The rheostat should be at the lowest setting before turning the light on to prevent electrical surges, which helps avoid premature burnout of the microscope bulb."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should I use immersion oil?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Immersion oil is specifically required when using the 100x objective lens to improve image resolution and light refraction."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Compound Light Microscope SOP Protocol",
+  "applicationCategory": "Educational Tool",
+  "operatingSystem": "Laboratory Equipment",
+  "description": "Standard operating procedure for the safe and effective use of compound light microscopes, covering inspection, focusing, magnification, and maintenance.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

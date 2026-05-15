@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Kayakalp Assessment Preparation'
-status: 'published'
-slug: 'checklist-for-kayakalp'
+title: 'Kayakalp Assessment SOP: Ultimate Facility Prep Guide'
+status: published
+slug: checklist-for-kayakalp
 publishedAt: '2026-05-07T18:59:25.285Z'
+description: >-
+  Master your Kayakalp assessment with this expert SOP. Learn to audit
+  sanitation, waste management, and infrastructure for full compliance and top
+  scores.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Kayakalp Assessment Preparation
@@ -62,3 +67,52 @@ While the entire facility matters, BMW segregation and toilet hygiene are typica
 
 **3. What should be done if an infrastructure issue cannot be fixed before the assessment?**
 Prioritize safety-related items. If a non-safety issue (e.g., cosmetic paint touch-ups) cannot be completed, document the work order request and budget approval to show the assessor that the issue is being actively managed.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary focus of the Kayakalp assessment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Kayakalp initiative focuses on promoting cleanliness, hygiene, and infection control standards within public health facilities to ensure operational excellence."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should biomedical waste be managed for Kayakalp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Biomedical waste must be correctly segregated into color-coded bins (Yellow, Red, White, Blue) at the point of generation and stored in a labeled, restricted-access area."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key areas for infrastructure inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key areas include checking walls/ceilings for damage, ensuring lighting and windows are functional, maintaining non-slippery floors, and ensuring patient furniture is rust-free."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Kayakalp Assessment Preparation SOP",
+  "applicationCategory": "Healthcare Management Tool",
+  "operatingSystem": "All",
+  "description": "A comprehensive digital guide and checklist designed to assist healthcare facility managers in achieving high-score Kayakalp certification through rigorous self-auditing.",
+  "offers": {
+    "@type": "Offer",
+    "category": "free"
+  }
+}
+</script>

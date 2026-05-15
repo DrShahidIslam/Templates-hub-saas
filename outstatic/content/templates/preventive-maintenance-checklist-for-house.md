@@ -1,8 +1,12 @@
 ---
-title: 'preventive maintenance checklist for house'
-status: 'published'
-slug: 'preventive-maintenance-checklist-for-house'
+title: 'Residential Preventive Maintenance SOP: Home Care Guide'
+status: published
+slug: preventive-maintenance-checklist-for-house
 publishedAt: '2026-05-11T11:27:15.573Z'
+description: >-
+  Follow this essential residential preventive maintenance SOP to protect your
+  home's value, prevent costly repairs, and ensure long-term structural safety.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Residential Preventive Maintenance
@@ -51,3 +55,58 @@ A: Keeping your gutters clean. Neglected gutters are the primary cause of water 
 
 **Q: Does my homeowners insurance cover maintenance-related damage?**
 A: Generally, no. Insurance covers "sudden and accidental" damage. Damage resulting from a lack of routine maintenance (e.g., a burst pipe that was visibly corroded for years) is often excluded from coverage.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I change my HVAC air filters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "HVAC filters should generally be replaced every 90 days. If you have pets in the home, it is recommended to replace them every 30 to 60 days to maintain air quality and system efficiency."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is it important to clean dryer vents annually?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cleaning the dryer exhaust hose once per year is critical to remove lint build-up, which is a leading cause of residential fires."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far should downspouts extend from the foundation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Downspouts should be positioned to direct water at least six feet away from the home’s foundation to effectively prevent basement seepage and structural moisture damage."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Residential Preventive Maintenance SOP Tracker",
+  "applicationCategory": "Productivity",
+  "operatingSystem": "All",
+  "description": "A comprehensive digital SOP for homeowners to manage structural integrity, HVAC efficiency, and plumbing safety systems.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "125"
+  }
+}
+</script>

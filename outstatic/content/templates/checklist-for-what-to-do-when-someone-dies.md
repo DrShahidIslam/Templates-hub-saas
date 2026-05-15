@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Post-Mortem Administrative and Legal Checklist'
-status: 'published'
-slug: 'checklist-for-what-to-do-when-someone-dies'
+title: 'Post-Mortem Checklist: Legal & Administrative Steps'
+status: published
+slug: checklist-for-what-to-do-when-someone-dies
 publishedAt: '2026-05-07T18:59:25.470Z'
+description: >-
+  Follow our expert post-mortem checklist to navigate legal, financial, and
+  funeral arrangements smoothly during a difficult time. Ensure compliance
+  today.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Post-Mortem Administrative and Legal Checklist
@@ -48,3 +53,53 @@ No. Closing accounts before the estate has been properly established can cause m
 
 **3. What happens if there is no Will?**
 When someone dies without a Will (intestate), the state laws of intestacy determine who inherits the assets and who has the legal authority to administer the estate. You should consult with a probate attorney immediately to understand how to petition the court for the appointment of an administrator.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many death certificates should I request?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is recommended to request at least 10–15 certified copies of the death certificate, as you will need them for most legal, financial, and insurance transactions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the first step immediately after a death occurs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The immediate priority is to ensure a physician, hospice nurse, or medical examiner has officially pronounced the death and provided formal notification."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I close the deceased's bank accounts immediately?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, do not close bank or financial accounts immediately. Wait for professional guidance from an estate attorney or legal counsel to ensure proper probate procedures."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Post-Mortem Administrative and Legal Checklist SOP",
+  "applicationCategory": "Productivity",
+  "description": "A structured Standard Operating Procedure designed to guide executors and family members through the legal, financial, and funeral administrative processes following a death.",
+  "operatingSystem": "Web-based",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

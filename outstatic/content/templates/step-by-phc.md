@@ -1,8 +1,12 @@
 ---
-title: 'step by phc'
-status: 'published'
-slug: 'step-by-phc'
+title: 'PHC Clinical Workflow SOP: Primary Health Care Guide'
+status: published
+slug: step-by-phc
 publishedAt: '2026-05-11T10:46:09.698Z'
+description: >-
+  Optimize patient care with this standard operating procedure for PHC clinical
+  workflows, covering intake, assessment, and treatment planning protocols.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: PHC (Primary Health Care) Clinical Workflow
@@ -49,3 +53,52 @@ A: Document the refusal clearly in the EHR, ensuring the patient is informed of 
 
 **Q: How often should we update patient history information?**
 A: Patient history should be reviewed and verified at every visit. Even if a patient is a regular, chronic conditions or medication adherence habits can change, necessitating a brief confirmation of their status during the intake phase.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary objective of the PHC Clinical Workflow SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The objective is to ensure systematic, high-quality patient management, optimize clinical outcomes, and maintain strict adherence to healthcare safety and documentation protocols."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the essential steps during the intake and triage phase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Intake includes patient registration, baseline vital checks, documenting the chief complaint in the EHR, medication reconciliation, and allergy screening."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the clinical decision-making process handled in the SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clinical decision-making involves synthesizing history findings and physical examination results to establish a working or differential diagnosis."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "PHC Clinical Workflow Management System",
+  "applicationCategory": "MedicalSoftware",
+  "operatingSystem": "Web-based",
+  "description": "Standardized software-supported clinical pathway for patient intake, assessment, and care delivery in Primary Health Care settings.",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "text": "This SOP provides the structured methodology for utilizing EHR and clinical management tools to ensure patient safety."
+  }
+}
+</script>

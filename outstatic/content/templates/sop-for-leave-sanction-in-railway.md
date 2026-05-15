@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Leave Sanction In Railway
+title: 'Indian Railway Leave Sanctioning SOP: Official HRMS Guide'
 publishedAt: '2026-05-10T18:48:01.351Z'
+description: >-
+  Follow this official SOP for Indian Railway leave sanctioning. Learn how to
+  apply via IPAS/HRMS, check leave balances, and get supervisor approval
+  efficiently.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Leave Sanctioning in Railway Operations
 
@@ -42,3 +47,52 @@ A: If rejected, the employee should discuss alternative dates with their immedia
 
 **Q: Does Leave Without Pay (LWP) affect my seniority?**
 A: Generally, LWP does not count toward service for increment purposes if it exceeds the specified limits defined in the Railway Services rules; always consult your division’s personnel branch regarding long-term leave impacts.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I apply for leave in Indian Railways?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Employees must check their leave balance via the IPAS portal and submit a formal application through the HRMS portal, specifying the leave type and attaching medical documents if required."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far in advance should I submit my leave application?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Railway personnel are advised to submit their leave application to their immediate supervisor at least 7–15 days in advance, except in emergency cases."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is required for medical leave in the Railways?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For medical leave exceeding three days, employees must upload or attach a valid medical certificate issued by an authorized Railway Medical Officer (RMO)."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "HRMS (Human Resource Management System)",
+  "applicationCategory": "Enterprise Software",
+  "operatingSystem": "Web-based",
+  "description": "The official digital platform for Indian Railway personnel to manage leave applications, service records, and payroll sanctioning.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Indian Railways"
+  }
+}
+</script>

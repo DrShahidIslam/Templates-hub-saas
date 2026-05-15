@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Pharmacovigilance
+title: 'Pharmacovigilance SOP: Guide to Drug Safety & AE Processing'
 publishedAt: '2026-05-10T18:48:01.887Z'
+description: >-
+  Master Pharmacovigilance operations with this comprehensive SOP. Learn
+  compliant AE intake, MedDRA coding, causality assessment, and regulatory
+  reporting steps.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Pharmacovigilance (PV) Operations
 
@@ -46,3 +51,49 @@ A: Safety procedures dictate that the blind must be maintained for the study tea
 
 **Q: What is a signal in pharmacovigilance?**
 A: A signal is reported information on a possible causal relationship between an adverse event and a drug, the relationship being unknown or incompletely documented previously. Signals are identified through data mining and statistical analysis of the safety database.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the minimum criteria for a valid ICSR in Pharmacovigilance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A valid Individual Case Safety Report (ICSR) must include four elements: an identifiable patient, an identifiable reporter, at least one suspect drug, and an adverse event."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which medical dictionaries are used for drug safety data coding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pharmacovigilance operations typically utilize MedDRA for standardized medical event coding and WHODrug for the consistent classification of pharmaceutical products."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is 'Day 0' tracking important in safety case processing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tracking the exact date and time of receipt (Day 0) is critical to ensuring strict adherence to global regulatory reporting timelines and avoiding compliance penalties."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Pharmacovigilance Safety Database System",
+  "applicationCategory": "MedicalDatabase",
+  "description": "A comprehensive system designed for the collection, assessment, and regulatory reporting of adverse events in pharmaceutical products.",
+  "operatingSystem": "All",
+  "featureList": "Adverse Event Intake, MedDRA/WHODrug Coding, Causality Assessment, Regulatory Submission Tracking"
+}
+</script>

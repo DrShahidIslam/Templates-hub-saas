@@ -1,3 +1,13 @@
+---
+title: FSC Chain of Custody Audit Checklist | SOP & Compliance Guide
+description: >-
+  Prepare for your FSC CoC audit with our expert SOP. Ensure compliance with
+  FSC-STD-40-004 requirements, documentation, and inventory management best
+  practices.
+status: published
+publishedAt: '2026-05-15T02:54:37.275Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: FSC Chain of Custody Audit Preparation
 
 The Forest Stewardship Council (FSC) Chain of Custody (CoC) audit is a rigorous verification process designed to ensure that certified forest products are tracked from the forest to the end consumer. As an operations manager, maintaining compliance requires consistent documentation, clear product segregation, and staff training. This SOP and accompanying checklist serve as the primary framework for internal audit readiness, ensuring that your organization meets FSC-STD-40-004 requirements and maintains its certification status without major non-conformities.
@@ -41,3 +51,53 @@ No. Once your certificate expires, you must immediately stop selling, labeling, 
 
 **How far back should our records go for an audit?**
 Generally, auditors will request to see records spanning from the date of the previous audit to the present. It is industry best practice to keep all FSC-related documentation for a minimum of five years.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of an FSC Chain of Custody audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The FSC CoC audit verifies that certified forest products are tracked accurately from the forest to the final consumer, ensuring the integrity of the supply chain."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure inventory compliance during an FSC audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintain physical segregation between certified and non-certified goods, verify clear labeling on all materials, and maintain accurate conversion factors for material processing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for an FSC audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key documents include valid FSC certificates, supplier verification records, purchase invoices with clear FSC claims, staff training logs, and a current product group schedule."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "FSC Chain of Custody Audit Preparation SOP",
+  "applicationCategory": "Compliance Management Software",
+  "operatingSystem": "All",
+  "description": "An operational framework for organizations to manage FSC-STD-40-004 compliance, documentation, and supply chain tracking.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

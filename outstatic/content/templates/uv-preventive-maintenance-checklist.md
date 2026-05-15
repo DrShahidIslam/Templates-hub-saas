@@ -1,8 +1,13 @@
 ---
-title: 'uv preventive maintenance checklist'
-status: 'published'
-slug: 'uv-preventive-maintenance-checklist'
+title: 'UV System Preventive Maintenance SOP: A Professional Guide'
+status: published
+slug: uv-preventive-maintenance-checklist
 publishedAt: '2026-05-11T12:21:25.107Z'
+description: >-
+  Follow this expert SOP for UV disinfection system maintenance. Learn how to
+  safely replace lamps, clean quartz sleeves, and ensure optimal system
+  performance.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: UV System Preventive Maintenance
@@ -51,3 +56,53 @@ A: No. UV lamps lose germicidal effectiveness over time. Even if the lamp is "on
 
 **Q: Why is my system leaking after I performed maintenance?**
 A: Most leaks occur because the O-rings were pinched during installation, not lubricated correctly, or the quartz sleeve was not centered. If a leak occurs, depressurize the system, remove the sleeve, and inspect the seals for damage or debris.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I replace my UV lamp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "UV lamps should be replaced when they reach 80% of their rated operational life, or sooner if you observe blackening at the ends or physical damage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is cleaning the quartz sleeve important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quartz sleeves must be kept clean to ensure maximum UV transmittance. Mineral scaling or bio-fouling can block germicidal light, reducing the system's effectiveness."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I reuse O-rings during UV maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, you should never reuse O-rings. They lose elasticity over time, which can compromise the seal and lead to water ingress into the lamp chamber."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "UV System Maintenance Manager",
+  "applicationCategory": "Industrial Maintenance Utility",
+  "operatingSystem": "All",
+  "description": "Standardized procedural guidance for the maintenance, safety, and component lifecycle management of ultraviolet water disinfection systems.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

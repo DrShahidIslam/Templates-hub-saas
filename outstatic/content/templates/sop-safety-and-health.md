@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop Safety And Health
+title: 'Occupational Safety & Health (OSH) SOP: Best Practices'
 publishedAt: '2026-05-10T18:48:01.589Z'
+description: >-
+  Master workplace safety with our OSH SOP. Learn hazard reporting, PPE
+  compliance, and emergency protocols to ensure a secure, compliant work
+  environment.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Occupational Safety and Health (OSH)
 
@@ -52,3 +57,52 @@ A: This SOP must be reviewed bi-annually, or immediately following any significa
 
 **Q: What is the difference between a hazard and a risk?**
 A: A hazard is anything with the potential to cause harm (e.g., a wet floor), while risk is the likelihood that the hazard will cause harm combined with the severity of that potential harm. Always treat the hazard as an urgent priority.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if I identify a workplace hazard?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Document the hazard in the Safety Logbook immediately. If the issue cannot be resolved within 10 minutes, use the digital 'Report-a-Hazard' form."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should I inspect my PPE?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Perform a pre-shift inspection of your Personal Protective Equipment (PPE) to check for signs of wear, tears, or degradation before commencing tasks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the procedure for an workplace injury incident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cease operations immediately, administer First Aid or call emergency services, secure the area, notify the Safety Officer within 30 minutes, and complete an IIR within 24 hours."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "OSH Safety & Incident Reporting System",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "All",
+  "description": "A comprehensive digital protocol management system for tracking OSH hazard reporting, PPE compliance checks, and incident investigation reports.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Enterprise Compliance"
+  }
+}
+</script>

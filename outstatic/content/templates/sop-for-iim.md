@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop For Iim
+title: 'Incident & Issue Management SOP: Best Practices Guide'
 publishedAt: '2026-05-10T18:48:01.302Z'
+description: >-
+  Learn how to effectively manage operational incidents with this comprehensive
+  SOP. Master incident identification, diagnosis, resolution, and RCA workflows.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Incident and Issue Management (IIM)
 
@@ -47,3 +51,54 @@ A: An incident is an unplanned interruption to a service. A problem is the under
 
 **Q: How do I handle "silent" incidents that users have not yet reported?**
 A: Treat these as high priority. Proactive detection is a sign of operational maturity. Even if users have not reported the issue, follow the full IIM process to minimize potential downtime.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary objective of an Incident Management SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The objective is to restore normal service operations as quickly as possible, minimize business impact, and identify root causes to prevent future recurrences."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should incidents be prioritized?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Incidents are prioritized from P1 (Critical) to P4 (Low) based on a combination of 'Impact'—the number of users affected—and 'Urgency'—the time sensitivity of the issue."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is a Post-Incident Review (PIR) required?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A formal Post-Incident Review, including Root Cause Analysis (RCA), is required for all P1 and P2 severity incidents to ensure systemic improvements."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Incident Management System (IMS)",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web-based",
+  "description": "A systematic framework for identifying, logging, diagnosing, and resolving operational incidents to maintain service continuity.",
+  "featureList": [
+    "Incident Logging",
+    "Automated Categorization",
+    "Priority Triage",
+    "Root Cause Analysis Tracking"
+  ]
+}
+</script>

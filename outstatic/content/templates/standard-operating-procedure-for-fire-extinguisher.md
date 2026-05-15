@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Fire Extinguisher
+title: 'How to Use a Fire Extinguisher: The P.A.S.S. Technique SOP'
 publishedAt: '2026-05-10T18:48:01.766Z'
+description: >-
+  Learn the mandatory safety protocols for fire extinguisher usage. Follow our
+  step-by-step guide on the P.A.S.S. technique to safely control incipient
+  fires.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Fire Extinguisher Usage
 
@@ -45,3 +50,54 @@ A: No. Using an extinguisher not rated for Class C on electrical equipment can r
 
 **Q: What should I do if the fire extinguisher fails to discharge?**
 A: If the extinguisher fails, immediately stop the attempt, discard the device, and evacuate the building. Do not attempt to repair or troubleshoot the device while in a high-danger environment.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the P.A.S.S. technique for using a fire extinguisher?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The P.A.S.S. technique stands for Pull the pin, Aim at the base of the fire, Squeeze the handle, and Sweep side to side."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far should I stand from a fire when using an extinguisher?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should stand approximately 6–8 feet away from the fire, ensuring you are positioned between the fire and your nearest clear exit route."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I reuse a fire extinguisher after partial discharge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Once a fire extinguisher has been used, it must be reported to the Facility Manager or Safety Officer to be professionally recharged or replaced."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Fire Extinguisher P.A.S.S. Protocol",
+  "applicationCategory": "Safety Management System",
+  "operatingSystem": "All",
+  "description": "Standard Operating Procedure for the correct usage of portable fire extinguishers during incipient-stage fires.",
+  "featureList": [
+    "Fire assessment protocols",
+    "Classification identification (Class A, B, C, K)",
+    "P.A.S.S. technique training",
+    "Post-discharge reporting requirements"
+  ]
+}
+</script>

@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sops For Covid 19
+title: 'COVID-19 Workplace Safety SOP: Guidelines & Best Practices'
 publishedAt: '2026-05-10T18:48:01.628Z'
+description: >-
+  Ensure business continuity with our COVID-19 workplace safety SOP. Learn
+  essential hygiene, health monitoring, and social distancing protocols for
+  employees.
+seo_optimized: true
 ---
 # Standard Operating Procedure: COVID-19 Workplace Safety and Response
 
@@ -44,3 +49,53 @@ A: Mask requirements are subject to change based on local transmission rates. Pl
 
 **Q: What if I feel uncomfortable working in the office due to health concerns?**
 A: We offer flexible work arrangements for individuals with underlying health conditions. Please contact HR to discuss a formal ADA accommodation or a hybrid work schedule adjustment.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should high-touch surfaces be sanitized?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "High-touch surfaces such as doorknobs, elevator buttons, and light switches must be disinfected at least three times daily by facilities staff."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the procedure if an employee shows COVID-19 symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Employees experiencing symptoms like fever or cough must notify management immediately and remain off-site until cleared to return."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the current office capacity requirements?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To ensure safety, offices should utilize rotational schedules to maintain a maximum of 60% capacity during peak periods."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "COVID-19 Workplace Safety & Response SOP",
+  "applicationCategory": "Business Application",
+  "operatingSystem": "All",
+  "description": "A comprehensive Standard Operating Procedure for managing workplace health, safety, and business continuity during COVID-19.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

@@ -1,8 +1,13 @@
 ---
-title: 'free inspection checklist'
-status: 'published'
-slug: 'free-inspection-checklist'
+title: Free Inspection Protocol SOP | Professional Assessment Guide
+status: published
+slug: free-inspection-checklist
 publishedAt: '2026-05-11T10:20:26.290Z'
+description: >-
+  Streamline your site inspections with our professional Free Inspection
+  Protocol SOP. Ensure consistent data collection, safety compliance, and client
+  trust.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Free Inspection Protocol
@@ -56,3 +61,53 @@ If a life-safety hazard is discovered, document it, inform the client immediatel
 
 **3. How do I decline a request for free repairs during a free inspection?**
 Maintain a professional script: "My role today is to provide a comprehensive diagnostic report. My tools and expertise are focused on identification. Once we review the report together, we can schedule a professional repair team to address these items for you."
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the purpose of this Free Inspection Protocol?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The protocol standardizes site assessments to ensure high-value, professional results, establishing client trust while maintaining operational efficiency."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What tools are required for the inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Technicians should carry essential diagnostic tools, including thermal cameras, moisture meters, high-lumen flashlights, and appropriate PPE."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is safety addressed during the inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Safety is managed through site-specific liability waivers, establishing a clear safety perimeter, and ensuring compliance with industry standards."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Free Inspection Protocol Management System",
+  "applicationCategory": "BusinessApplication",
+  "description": "A standardized operating procedure framework for conducting professional, safe, and efficient site inspections.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

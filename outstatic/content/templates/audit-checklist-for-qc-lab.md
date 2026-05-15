@@ -1,3 +1,13 @@
+---
+title: 'QC Laboratory Audit SOP: Compliance & Data Integrity Guide'
+description: >-
+  Master QC laboratory audits with our comprehensive SOP framework. Ensure GLP,
+  FDA, and ISO 17025 compliance for data integrity, equipment, and sample
+  management.
+status: published
+publishedAt: '2026-05-15T02:49:37.077Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Quality Control (QC) Laboratory Audit
 
 This SOP establishes a comprehensive framework for conducting rigorous audits of a Quality Control (QC) laboratory. The objective is to ensure compliance with Good Laboratory Practices (GLP), internal standard operating procedures, and regulatory requirements (such as FDA, EMA, or ISO 17025 standards). This audit process focuses on data integrity, equipment reliability, personnel proficiency, and environmental controls to guarantee the accuracy and validity of all analytical testing results.
@@ -46,3 +56,52 @@ The most frequent finding is poor documentation practices, specifically regardin
 
 **3. If an instrument is found to be out of calibration during the audit, what is the immediate action?**
 The equipment must be immediately tagged as "Out of Service." An impact assessment must be initiated to evaluate all test results generated since the last successful calibration to determine if the integrity of the data is compromised.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the core requirements for QC laboratory audit data integrity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Data integrity audits focus on ALCOA+ principles (Attributable, Legible, Contemporaneous, Original, Accurate, Complete, Consistent, Enduring, and Available) and ensuring audit trails in software like LIMS and CDS are active and reviewed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should equipment calibration be verified during an audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Verify calibration by cross-checking certificates against the master equipment list, reviewing preventive maintenance logs, and confirming IQ/OQ/PQ documentation for all critical instruments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is sample management critical in a QC laboratory audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proper sample management ensures analytical accuracy by maintaining chain of custody, verifying environmental storage conditions, and ensuring all reagents are labeled correctly and not expired."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "QC Laboratory Audit SOP Framework",
+  "applicationCategory": "Quality Management Software",
+  "operatingSystem": "All",
+  "description": "A standardized framework for maintaining GLP, FDA, and ISO 17025 compliance within QC laboratory testing environments.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Compliance Standards"
+  }
+}
+</script>

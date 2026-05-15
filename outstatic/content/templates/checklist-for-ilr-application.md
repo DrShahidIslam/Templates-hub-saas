@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Indefinite Leave to Remain (ILR) Application'
-status: 'published'
-slug: 'checklist-for-ilr-application'
+title: 'How to Apply for ILR: Step-by-Step UK Residency Guide'
+status: published
+slug: checklist-for-ilr-application
 publishedAt: '2026-05-07T18:59:25.247Z'
+description: >-
+  Master your ILR application with our expert SOP. Learn eligibility
+  requirements, essential evidence gathering, and tips for a successful UK
+  settlement outcome.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Indefinite Leave to Remain (ILR) Application
@@ -47,3 +52,52 @@ If your absences exceed the limit due to exceptional circumstances (e.g., illnes
 
 **3. Do I need to keep my current BRP after I get my ILR?**
 Once you receive your ILR, you are generally transitioned to a digital immigration status (e-visa). However, keep your expired BRP in a safe place, as it may serve as evidence of your historical status for future naturalization (citizenship) applications.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many days can I be out of the UK for ILR?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most routes, you must not exceed 180 days of absence from the UK in any rolling 12-month period during your 5-year qualifying period."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What evidence is needed for the English language requirement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must provide proof of B1 level English or higher, typically via a Secure English Language Test (SELT) certificate or a degree taught in English verified by Ecctis."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is the Life in the UK test necessary?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Life in the UK test is a mandatory requirement for ILR that assesses your knowledge of British traditions, culture, and history."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "UKVI Online Application Portal",
+  "applicationCategory": "Government/Legal Service",
+  "operatingSystem": "Web Browser",
+  "description": "The official online portal provided by UK Visas and Immigration (UKVI) for submitting Indefinite Leave to Remain (ILR) applications.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Government Service"
+  }
+}
+</script>

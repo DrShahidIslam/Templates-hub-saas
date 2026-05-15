@@ -1,8 +1,12 @@
 ---
-title: 'Standard Operating Procedure: Managing Immediate Post-Mortem Affairs'
-status: 'published'
-slug: 'checklist-for-when-a-parent-dies'
+title: 'Post-Mortem Checklist: Managing Administrative Affairs'
+status: published
+slug: checklist-for-when-a-parent-dies
 publishedAt: '2026-05-07T18:59:25.471Z'
+description: >-
+  Navigate the legal and financial steps after the loss of a parent with our
+  comprehensive post-mortem SOP. Stay organized during a difficult time.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Managing Immediate Post-Mortem Affairs
@@ -52,3 +56,53 @@ A: If no will exists, the estate is considered "intestate." The court will appoi
 
 **Q: How do I handle digital accounts and social media?**
 A: Many platforms (Google, Facebook, Apple) have "Legacy Contact" settings. If these were not set up, you will need to provide the death certificate to the company's legal support department to request account memorialization or closure.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many death certificates should I order?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is recommended to order at least 15–20 certified copies. You will need these to provide to banks, insurance companies, government agencies, and utility providers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the first steps after a parent passes away?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first 24–48 hours focus on obtaining a medical certification of death, ordering death certificates, coordinating funeral arrangements, notifying immediate family, and securing the parent's property and assets."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which government agencies must be notified of a death?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must report the death to the Social Security Administration to stop benefit payments and, if applicable, the Department of Veterans Affairs to inquire about burial benefits and survivor support."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Post-Mortem Affairs SOP Guide",
+  "applicationCategory": "Administrative Management",
+  "operatingSystem": "All",
+  "description": "A structured roadmap and protocol designed to guide individuals through the legal, financial, and logistical responsibilities following the death of a family member.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

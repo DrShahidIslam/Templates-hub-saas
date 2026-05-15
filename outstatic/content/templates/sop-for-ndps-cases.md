@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop For Ndps Cases
+title: 'NDPS Case Handling SOP: Procedures for Seizure & Evidence'
 publishedAt: '2026-05-10T18:48:01.371Z'
+description: >-
+  Master NDPS case procedures with our expert SOP. Learn mandatory protocols for
+  search, seizure, documentation, and maintaining a strict chain of custody.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Handling of Narcotic Drugs and Psychotropic Substances (NDPS) Cases
 
@@ -49,3 +53,54 @@ No. A field testing kit is only for initial identification. A conviction relies 
 
 **3. What happens if the seal is broken or tampered with before reaching the lab?**
 Any discrepancy in the seal or weight during the transition from the site to the lab must be reported to the senior officer immediately. Failure to report this will likely lead to the evidence being discarded by the court.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary purpose of this NDPS SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This SOP ensures legal compliance, maintains the integrity of the chain of custody, and guarantees that evidence gathered under the NDPS Act is admissible in court."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is Section 50 of the NDPS Act significant during a search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Section 50 mandates that a suspect must be informed of their right to be searched in the presence of a Gazetted Officer or Magistrate, preventing procedural lapses."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should seized narcotic samples be handled?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Two representative samples must be drawn, weighed, and sealed in tamper-proof envelopes labeled with case reference numbers, dates, and witness signatures."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "NDPS Case Management Protocol",
+  "applicationCategory": "Legal Compliance Tool",
+  "operatingSystem": "All",
+  "description": "A standardized protocol for the detection, seizure, and documentation of narcotic substances under the NDPS Act to ensure successful prosecution.",
+  "softwareVersion": "1.0",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

@@ -1,7 +1,12 @@
 ---
 status: published
-title: Onboarding Checklist Singapore
+title: 'Singapore Employee Onboarding SOP: Compliance & Best Practices'
 publishedAt: '2026-05-10T18:48:01.005Z'
+description: >-
+  Master Singapore employee onboarding. Learn to manage MOM compliance, CPF
+  registration, work pass verification, and HR documentation for a seamless
+  start.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Employee Onboarding (Singapore)
 
@@ -48,3 +53,52 @@ If a Singapore Citizen or PR is starting their first job, you must register them
 
 **3. Do I need to provide medical insurance for foreign employees?**
 Yes. As of recent MOM updates, employers are generally required to provide medical insurance coverage for S Pass and Work Permit holders, with a minimum coverage amount that meets statutory requirements.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the mandatory Singapore onboarding documents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mandatory documents include a formal Letter of Appointment (LOA) complying with the Employment Act, NRIC/FIN copies, academic certifications, and valid work pass documentation for foreign hires."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When must I register a new hire with the CPF Board?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Employers must register Singapore Citizens and Permanent Residents with the CPF Board no later than the 14th day of the month following the month the employee starts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I verify a foreign employee's work pass?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Work pass status must be verified through the Ministry of Manpower (MOM) online portal, ensuring the candidate holds a valid Employment Pass, S Pass, or Work Permit."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Singapore Employee Onboarding SOP",
+  "applicationCategory": "Human Resources Management",
+  "operatingSystem": "Web-based",
+  "description": "A comprehensive framework for managing legal compliance, statutory requirements, and administrative workflows for new hires in Singapore.",
+  "provider": {
+    "@type": "Organization",
+    "name": "HR Operations"
+  }
+}
+</script>

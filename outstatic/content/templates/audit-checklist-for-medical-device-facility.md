@@ -1,7 +1,12 @@
 ---
 status: published
-title: Audit Checklist For Medical Device Facility
+title: 'Medical Device Quality Audit SOP: ISO 13485 & 21 CFR 820'
 publishedAt: '2026-05-10T18:48:00.353Z'
+description: >-
+  Master medical device facility quality audits. Access our comprehensive SOP
+  for ISO 13485 and 21 CFR Part 820 compliance, covering QMS, DHF, and CAPA
+  procedures.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Medical Device Facility Quality Audit
 
@@ -56,3 +61,53 @@ A: A lack of connection between a CAPA and its root cause. If the facility ident
 
 **Q: Can we outsource the internal audit function?**
 A: Yes, many companies hire third-party consultants to perform internal audits to gain an objective, "fresh eyes" perspective. However, the responsibility for ensuring the audit takes place and that findings are corrected remains with the facility's management.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What regulatory standards does this medical device audit SOP cover?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This SOP covers compliance with international and local regulatory standards, specifically ISO 13485:2016 and 21 CFR Part 820 (Quality System Regulation)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the SOP address Design and Development controls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The SOP ensures compliance through review of the Design History File (DHF), verification of V&V protocols, integration of ISO 14971 risk management, and formal stage-gate design reviews."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key requirements for Production and Process control auditing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key requirements include verifying the Device Master Record (DMR), inspecting environmental controls, checking calibration records, and ensuring strict adherence to preventive maintenance and non-conforming product protocols."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Medical Device Quality Audit Management System",
+  "applicationCategory": "Quality Management Software",
+  "operatingSystem": "Web-based",
+  "description": "A comprehensive SOP framework for managing quality audits, QMS administration, and regulatory compliance for medical device manufacturing facilities.",
+  "softwareVersion": "1.0",
+  "offers": {
+    "@type": "Offer",
+    "category": "Compliance Tool"
+  }
+}
+</script>

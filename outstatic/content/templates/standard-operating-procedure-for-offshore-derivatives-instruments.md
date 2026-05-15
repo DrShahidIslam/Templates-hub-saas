@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Offshore Derivatives Instruments
+title: 'ODI & P-Note Compliance: Standard Operating Procedure Guide'
 publishedAt: '2026-05-10T18:48:01.881Z'
+description: >-
+  Master the lifecycle management of Offshore Derivatives Instruments. Learn
+  essential protocols for KYC, trade execution, and regulatory reporting
+  compliance.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Offshore Derivatives Instruments (ODI) Management
 
@@ -47,3 +52,52 @@ UBO information must be validated at least annually, but any material change in 
 
 **3. What happens if a regulatory reporting deadline is missed?**
 Failure to meet reporting deadlines can lead to heavy financial penalties, suspension of the FPI’s ability to issue further ODIs, and increased regulatory scrutiny (audits) on all future transactions.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary requirement for ODI subscriber verification?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Subscribers must be confirmed as registered Foreign Portfolio Investors (FPIs) or eligible entities under local jurisdictional laws, followed by enhanced due diligence (EDD) for KYC/AML."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the regulatory reporting deadlines for ODI issuances?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All ODI issuance, transfer, or cancellation reports must be submitted to relevant regulators (e.g., NSDL/SEBI) within the specified T+N day deadline."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is beneficial ownership managed in ODI transactions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Firms must maintain a dynamic list of ultimate beneficial owners (UBOs) and report any changes in ownership to the regulator immediately."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "ODI Compliance Management System",
+  "applicationCategory": "FinanceApplication",
+  "operatingSystem": "Web-based",
+  "description": "A standardized protocol framework for managing the lifecycle, compliance, and regulatory reporting of Offshore Derivatives Instruments and Participatory Notes.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Enterprise Compliance"
+  }
+}
+</script>

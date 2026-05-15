@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure Kkm
+title: 'KKM Regulatory Compliance SOP: NPRA Reporting & Standards'
 publishedAt: '2026-05-10T18:48:02.015Z'
+description: >-
+  Master KKM compliance with our expert SOP guide. Learn essential protocols for
+  NPRA reporting, Quest3+ registration, and maintaining product safety
+  standards.
+seo_optimized: true
 ---
 # Standard Operating Procedure: KKM (Kementerian Kesihatan Malaysia) Compliance and Regulatory Reporting
 
@@ -47,3 +52,52 @@ A: Always maintain professional transparency. Direct the inspector to the Regula
 
 **Q3: Is it necessary to report minor packaging defects to the NPRA?**
 A: Yes. Any defect that could potentially impact the quality, safety, or efficacy of the product—or mislead the end-user—must be reported as a product quality complaint according to NPRA reporting requirements.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the deadline for submitting ADR reports to the NPRA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All Adverse Drug Reaction (ADR) or product complaint reports must be submitted to the NPRA portal within a mandated 72-hour window."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long must KKM regulatory correspondence be archived?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All correspondence with the Ministry of Health Malaysia (KKM) must be archived for a minimum of five (5) years in a secure, climate-controlled environment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What inventory system is required for KKM compliance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Organizations must enforce a strict 'First-Expired, First-Out' (FEFO) inventory management system to ensure product safety and regulatory alignment."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Quest3+ System",
+  "applicationCategory": "Regulatory Compliance Software",
+  "operatingSystem": "Web-based",
+  "description": "The official Ministry of Health Malaysia (KKM) platform used for product registration and regulatory monitoring under the National Pharmaceutical Regulatory Agency (NPRA).",
+  "provider": {
+    "@type": "Organization",
+    "name": "National Pharmaceutical Regulatory Agency (NPRA)"
+  }
+}
+</script>

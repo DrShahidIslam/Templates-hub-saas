@@ -1,8 +1,12 @@
 ---
-title: 'Standard Operating Procedure: Checklist Zwangerschap'
-status: 'published'
-slug: 'checklist-zwangerschap'
+title: 'Checklist Zwangerschap: De Ultieme SOP voor Aanstaande Ouders'
+status: published
+slug: checklist-zwangerschap
 publishedAt: '2026-05-07T18:59:25.521Z'
+description: >-
+  Zwanger? Volg onze gestructureerde checklist met medische, administratieve en
+  logistieke stappen om stressvrij naar het ouderschap toe te werken.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Checklist Zwangerschap
@@ -50,3 +54,54 @@ Wettelijk gezien moet u dit uiterlijk drie weken voor het beoogde begin van uw z
 
 **Is een babyuitzetlijst bindend?**
 Nee. De standaardlijsten van winkels zijn vaak commercieel gedreven. Focus op de essentiële zaken (veilig slapen, vervoer, voeding en hygiëne) en koop 'luxe' items pas aan zodra u weet wat voor uw specifieke leefstijl noodzakelijk is.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Wanneer moet ik mijn werkgever inlichten over mijn zwangerschap?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "U bent wettelijk verplicht om uw werkgever uiterlijk drie weken voor de beoogde ingangsdatum van het zwangerschapsverlof in te lichten, maar het is raadzaam dit vóór week 14 te doen voor een goede verlofplanning."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Wanneer moet ik kraamzorg aanvragen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Het is aanbevolen om de kraamzorg uiterlijk vóór week 16 van de zwangerschap aan te vragen om zeker te zijn van voldoende uren en beschikbaarheid."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Wat is het belang van het bevallingsplan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Een bevallingsplan helpt u om uw wensen en voorkeuren voor de bevalling vast te leggen en te bespreken met uw verloskundige, wat bijdraagt aan een gestructureerde voorbereiding."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Checklist Zwangerschap SOP",
+  "applicationCategory": "ProductivityApplication",
+  "operatingSystem": "Web",
+  "description": "Een gestructureerde Standard Operating Procedure (SOP) voor aanstaande ouders om de zwangerschapsperiode te plannen, van medische checks tot logistieke voorbereidingen.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "EUR"
+  },
+  "featureList": "Medische planning, administratieve checklist, logistieke voorbereiding, babyuitzet inventaris, bevallingsplan ondersteuning"
+}
+</script>

@@ -1,7 +1,11 @@
 ---
 status: published
-title: Onboarding Check In Questions
+title: 'New Hire Onboarding Check-In SOP: The 30-60-90 Day Guide'
 publishedAt: '2026-05-10T18:48:00.931Z'
+description: >-
+  Master the employee onboarding check-in process. Use this professional SOP to
+  boost new hire retention, productivity, and culture integration.
+seo_optimized: true
 ---
 # SOP: New Hire Onboarding Check-In Protocol
 
@@ -62,3 +66,53 @@ A: Remain neutral. Acknowledge the feedback, express that you will investigate t
 
 **Q: What if the new hire says "everything is fine" every time?**
 A: This usually signals a lack of psychological safety. Pivot to more specific questions such as, "What was the most frustrating part of your week?" or "If you could change one process, what would it be?"
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should you conduct new hire check-ins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is recommended to conduct structured check-ins at the 30, 60, and 90-day marks to ensure the new hire is fully integrated and supported."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should be covered in a 30-day onboarding check-in?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 30-day check-in should focus on culture alignment, identifying technical or administrative bottlenecks, and confirming that the role matches the initial interview expectations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can managers improve new hire retention through check-ins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "By creating a psychologically safe environment, documenting actionable feedback, and addressing friction points early, managers can significantly increase long-term retention."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "New Hire Onboarding Check-In Protocol",
+  "applicationCategory": "BusinessApplication",
+  "description": "A structured SOP framework for managers to optimize new hire onboarding via consistent 30-60-90 day feedback loops.",
+  "operatingSystem": "Web-based",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

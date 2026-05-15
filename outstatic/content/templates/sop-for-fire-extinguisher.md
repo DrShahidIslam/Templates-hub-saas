@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop For Fire Extinguisher
+title: 'Fire Extinguisher SOP: Maintenance & PASS Method Guide'
 publishedAt: '2026-05-10T18:48:01.244Z'
+description: >-
+  Learn essential fire extinguisher maintenance and operation procedures. Master
+  the P.A.S.S. method for workplace safety and regulatory compliance.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Fire Extinguisher Operation and Maintenance
 
@@ -51,3 +55,53 @@ Prioritize human life over property. If the fire is larger than a standard waste
 
 **3. Are all fire extinguishers the same?**
 No. Extinguishers are rated by the type of fire they can put out: Class A (ordinary combustibles), Class B (flammable liquids), Class C (electrical equipment), and Class K (kitchen grease). Always check the label before use.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should fire extinguishers be inspected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fire extinguishers should undergo a visual inspection on the first business day of every month to ensure accessibility, pressure gauge health, and physical integrity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the P.A.S.S. method for fire extinguishers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The P.A.S.S. method stands for Pull the pin, Aim at the base of the fire, Squeeze the handle, and Sweep from side-to-side until the fire is extinguished."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do after using a fire extinguisher?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Even if used briefly, treat the extinguisher as empty. Immediately report the incident to the Facility Manager for professional replacement or recharging."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Fire Extinguisher SOP Management System",
+  "applicationCategory": "Safety Management Software",
+  "operatingSystem": "All",
+  "description": "Standard Operating Procedure for the inspection, handling, and operation of portable fire extinguishers in accordance with NFPA 10 standards.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Fire Safety Noc Format In Odisha
+title: 'How to Obtain Fire Safety NOC in Odisha: Official SOP Guide'
 publishedAt: '2026-05-10T18:48:01.249Z'
+description: >-
+  Follow our step-by-step guide to obtain a Fire Safety NOC in Odisha. Learn
+  about documentation, portal submission, and inspection requirements for
+  compliance.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Obtaining Fire Safety NOC in Odisha
 
@@ -54,3 +59,52 @@ No. Operating a facility without a valid Fire Safety NOC is a violation of the O
 
 **3. What should I do if my NOC application is rejected?**
 Review the rejection letter provided by the Fire Department. It will explicitly state the deficiencies. Correct the specific safety gaps, prepare a compliance report, and re-apply through the portal under the "Resubmission" section.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I apply for a Fire Safety NOC in Odisha?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can apply for a Fire Safety NOC by registering on the official Odisha Fire Services online portal, filling out the application form, uploading necessary documents, and paying the required fees."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for the Odisha Fire NOC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Required documents include approved building blueprints, an occupancy certificate, a detailed fire safety plan, technical specs for fire equipment, and a self-declaration affidavit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Fire Safety NOC application process online?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the process is centralized through the Odisha Fire Services portal to ensure transparency, time-bound processing, and efficient document submission."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Odisha Fire Services Portal",
+  "applicationCategory": "Government Service",
+  "operatingSystem": "Web-based",
+  "description": "The official online portal for procuring Fire Safety No Objection Certificates in the state of Odisha.",
+  "provider": {
+    "@type": "GovernmentOrganization",
+    "name": "Odisha Fire Service"
+  }
+}
+</script>

@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Residential Property Viewing Protocol'
-status: 'published'
-slug: 'checklist-for-viewing-a-house'
+title: 'Home Inspection Checklist: Residential Property Viewing SOP'
+status: published
+slug: checklist-for-viewing-a-house
 publishedAt: '2026-05-07T18:59:25.450Z'
+description: >-
+  Follow this professional residential property viewing protocol to evaluate
+  structural integrity, mechanical systems, and neighborhood viability before
+  buying.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Residential Property Viewing Protocol
@@ -51,3 +56,53 @@ A: Look for grey, plastic-looking pipes (polybutylene) or dull grey metal pipes 
 
 **Q: Is it acceptable to visit the property at different times of the day?**
 A: Absolutely. It is best practice to visit once during the day to see natural light and general condition, and once during the evening to assess neighborhood safety and noise levels.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I look for when inspecting a house foundation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Look for visible cracks in the masonry, specifically 'stair-step' patterns in brickwork, and observe if there are signs of uneven settling or heaving."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I identify potential plumbing issues during a viewing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Test water pressure in all fixtures and carefully check the interior of cabinets for signs of water stains, dampness, or discoloration indicating leaks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is the grading of the land around a house important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The slope of the land should always grade away from the foundation. If the land grades toward the house, it creates a significant flood risk and potential for structural water damage."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Residential Property Viewing Protocol",
+  "applicationCategory": "Real Estate Assessment Tool",
+  "description": "A comprehensive standard operating procedure for evaluating residential property structural integrity and mechanical systems.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

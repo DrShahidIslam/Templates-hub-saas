@@ -1,7 +1,11 @@
 ---
 status: published
-title: Onboarding Checklist Google Sheets
+title: 'Employee Onboarding SOP: Google Sheets Tracking Guide'
 publishedAt: '2026-05-10T18:48:00.988Z'
+description: >-
+  Streamline your new hire process with this SOP for Google Sheets onboarding.
+  Improve compliance, hardware provisioning, and training schedules today.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Employee Onboarding via Google Sheets
 
@@ -53,3 +57,53 @@ A: Use a dedicated column labeled "Location Mode" and create sub-sections in the
 
 **Q: How often should we audit the onboarding process?**
 A: The master template should be audited quarterly. Gather feedback from the last three hires to see which checklist items were redundant or missing and update the template accordingly.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I track new hire onboarding using Google Sheets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Create a copy of the Master Onboarding Template, rename it by date and employee name, and grant access to HR, IT, and department leads to maintain a single source of truth."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should be included in the onboarding Google Sheet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The sheet should include role details, start dates, mentor assignments, hardware serial numbers, compliance documentation status, and a 30-60-90 day training plan."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why use an SOP for employee onboarding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Using an SOP ensures consistency, mitigates compliance risks, improves cross-departmental accountability, and provides real-time visibility into new hire readiness."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Google Sheets",
+  "applicationCategory": "Office Suite, Productivity Software",
+  "description": "A cloud-based spreadsheet application used for managing standardized employee onboarding workflows, compliance tracking, and asset management.",
+  "operatingSystem": "Web-based, Cross-platform",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  }
+}
+</script>

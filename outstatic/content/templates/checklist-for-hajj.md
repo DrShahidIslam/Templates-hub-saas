@@ -1,8 +1,12 @@
 ---
-title: 'Standard Operating Procedure: Hajj Preparation and Execution'
-status: 'published'
-slug: 'checklist-for-hajj'
+title: 'Hajj Preparation Guide: Essential SOP & Ritual Checklist'
+status: published
+slug: checklist-for-hajj
 publishedAt: '2026-05-07T18:59:25.228Z'
+description: >-
+  Master your Hajj journey with our expert SOP. Get a complete checklist for
+  documentation, logistics, health requirements, and ritual preparation.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Hajj Preparation and Execution
@@ -45,3 +49,53 @@ Always keep your group leader's number and the hotel’s business card on your p
 
 **3. Is there internet access available during the Hajj days?**
 While cellular networks can be congested during the peak days in Mina and Arafat, purchasing a local Saudi SIM card with a data package is the most reliable way to maintain navigation and communication capabilities.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What documents are required for Hajj?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need a passport valid for at least six months, an approved Hajj visa via the Nusuk platform, vaccination certificates (Meningitis, COVID-19, Flu), and printed/digital copies of your flight and accommodation vouchers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should I prepare physically for Hajj?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is recommended to implement a daily walking regimen of 5–8 kilometers for at least one month before departure to build the stamina required for Tawaf and Sa’i."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What items are essential for the Ihram state?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Essential items include unscented hygiene products (soap, moisturizer), comfortable broken-in walking sandals, and a basic medical kit with rehydration salts and blister plasters."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Hajj Preparation SOP Checklist",
+  "applicationCategory": "TravelApplication",
+  "description": "A structured operational framework and checklist for pilgrims to manage the logistics, health, and ritual requirements of the Hajj pilgrimage.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

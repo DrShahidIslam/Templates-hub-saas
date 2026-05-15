@@ -1,8 +1,12 @@
 ---
-title: 'inspection form jkr'
-status: 'published'
-slug: 'inspection-form-jkr'
+title: 'JKR Site Inspection SOP: Complete Guide for Engineers'
+status: published
+slug: inspection-form-jkr
 publishedAt: '2026-05-11T09:51:05.793Z'
+description: >-
+  Master JKR site inspection protocols. Learn the essential steps for
+  documentation, compliance, and sign-off procedures for public works projects.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: JKR Site Inspection Documentation
@@ -43,3 +47,52 @@ A: This depends on the specific project contract. If the project is registered u
 
 **Q: How long should inspection forms be retained?**
 A: According to standard JKR contract conditions, all quality documentation must be kept for the duration of the Defects Liability Period (DLP) and usually for a minimum of 7 years post-completion for archival and audit purposes.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How far in advance should I submit a JKR Request for Inspection (RFI)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "As per standard contract requirements, you must issue a formal RFI to the JKR supervising officer at least 24 to 48 hours before the scheduled inspection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for a JKR site inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must have the latest 'Approved for Construction' (AFC) drawings, the JKR Specification Book, Mill Certificates, material test reports, and delivery dockets ready."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should be included in the JKR inspection remarks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The remarks section must be descriptive and specifically reference any relevant Non-Conformance Reports (NCR) if issues were identified during the assessment."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "JKR Inspection Documentation System",
+  "applicationCategory": "Project Management Software",
+  "operatingSystem": "All",
+  "description": "A standardized protocol and digital workflow management system for Jabatan Kerja Raya (JKR) site inspections to ensure structural integrity and regulatory compliance.",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "text": "Standard Operating Procedure for JKR site inspection and documentation."
+  }
+}
+</script>

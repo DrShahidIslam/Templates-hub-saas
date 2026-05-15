@@ -1,7 +1,11 @@
 ---
 status: published
-title: New Hire Checklist Uf
+title: 'UF New Hire Onboarding SOP: A Step-by-Step Guide'
 publishedAt: '2026-05-10T18:48:00.924Z'
+description: >-
+  Streamline your University of Florida onboarding process. Access our SOP guide
+  for GatorLink, I-9 compliance, hardware provisioning, and mandatory training.
+seo_optimized: true
 ---
 # Standard Operating Procedure: New Hire Onboarding (UF)
 
@@ -48,3 +52,52 @@ A: Yes. Most mandatory UF compliance trainings must be completed within the firs
 
 **Q: Can I use personal equipment if the department-provided laptop is delayed?**
 A: Generally, no. UF policy requires the use of university-managed devices for work-related tasks to ensure compliance with UFIT security standards and data privacy laws.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I activate a new hire's UF GatorLink account?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ensure the new hire has received their official UF invitation and navigate to the UF account management portal to verify and activate their GatorLink credentials."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the deadline for I-9 verification at UF?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Form I-9 verification must be completed via the UF HR portal within the first three days of employment, with documents verified by an authorized representative."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What mandatory training is required for new UF employees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "New hires must complete UF Information Technology (UFIT) Security Training, the Foundations of Ethical Behavior, and Title IX & Harassment compliance training."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "myUFL Portal",
+  "applicationCategory": "Administrative Software",
+  "operatingSystem": "Web-based",
+  "provider": {
+    "@type": "Organization",
+    "name": "University of Florida"
+  },
+  "description": "The official University of Florida portal used for payroll, tax withholding, emergency contact management, and administrative onboarding tasks."
+}
+</script>

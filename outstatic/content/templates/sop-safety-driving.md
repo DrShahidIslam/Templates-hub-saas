@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop Safety Driving
+title: 'Vehicle Safety SOP: Mandatory Operational Procedures'
 publishedAt: '2026-05-10T18:48:01.596Z'
+description: >-
+  Ensure fleet compliance and driver safety with our comprehensive vehicle
+  operational SOP. Covers pre-departure checklists and defensive driving
+  protocols.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Safe Vehicle Operations
 
@@ -54,3 +59,52 @@ Yes, but only if the device is mounted to the dashboard or windshield. You must 
 
 **3. What constitutes a "mechanical failure" that requires pulling over?**
 Any illuminated warning light on the dashboard (specifically check-engine, oil pressure, or temperature lights), strange noises (grinding, squealing, or clunking), or a loss of steering/braking responsiveness requires you to pull over to a safe area immediately and contact roadside assistance.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in the pre-departure vehicle inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The inspection includes a walk-around for leaks, checking tire tread and pressure, verifying fluid levels, confirming the functionality of all visibility systems, and ensuring emergency safety equipment is present."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the policy on mobile phone use while driving?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The company maintains a zero-tolerance policy for mobile phone use, texting, or adjusting infotainment systems while the vehicle is in motion."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the recommended following distance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Operators must maintain a minimum of a three-second following distance under ideal conditions, increasing to five seconds or more during inclement weather."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Safe Vehicle Operations SOP",
+  "applicationCategory": "Business SOP",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure for fleet vehicle safety and risk mitigation.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Corporate Safety Division"
+  }
+}
+</script>

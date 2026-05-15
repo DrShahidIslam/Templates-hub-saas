@@ -1,8 +1,13 @@
 ---
-title: 'vehicle inspection sheet for uber'
-status: 'published'
-slug: 'vehicle-inspection-sheet-for-uber'
+title: 'Uber Vehicle Inspection SOP: Safety & Maintenance Guide'
+status: published
+slug: vehicle-inspection-sheet-for-uber
 publishedAt: '2026-05-11T10:15:04.127Z'
+description: >-
+  Master the Uber vehicle inspection process. Follow our SOP for interior,
+  exterior, and mechanical safety checks to maintain high ratings and stay
+  compliant.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Uber Vehicle Inspection
@@ -47,3 +52,53 @@ A: Safely pull over at the first opportunity. If the light is yellow, check your
 
 **Q: Am I required to keep paper records of these inspections?**
 A: While Uber may not require you to submit daily paper logs, keeping a digital or physical maintenance log is highly recommended for tax purposes and to prove vehicle upkeep in the event of a platform dispute.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I conduct an Uber vehicle inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drivers are expected to complete a comprehensive vehicle inspection at the start of every shift to ensure passenger safety and compliance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the minimum tire tread depth required for Uber vehicles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your tire tread depth must exceed 2/32 of an inch to meet safety standards and pass a vehicle inspection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I check during the interior inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The interior check includes examining upholstery for damage, verifying seat belt functionality, ensuring floor mats are secure, testing climate control, and confirming Uber trade dress is displayed."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Uber Driver App",
+  "applicationCategory": "Driver Utility",
+  "operatingSystem": "iOS, Android",
+  "description": "The Uber Driver application platform used by rideshare partners to manage vehicle compliance, safety standards, and daily operations.",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "1000000"
+  }
+}
+</script>

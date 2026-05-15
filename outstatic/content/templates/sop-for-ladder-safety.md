@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Ladder Safety
+title: 'Ladder Safety SOP: Essential Guidelines & Inspection Rules'
 publishedAt: '2026-05-10T18:48:01.345Z'
+description: >-
+  Master workplace ladder safety with our essential SOP. Learn pre-use
+  inspection checklists, the 4-to-1 rule, and safe climbing protocols to prevent
+  accidents.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Ladder Safety
 
@@ -56,3 +61,53 @@ A: Remove the ladder from service immediately. It is unsafe to use, as the lack 
 
 **Q: How often should I inspect the ladder?**
 A: You must inspect the ladder before every single use. Additionally, a formal, documented safety inspection should be conducted by a supervisor on a quarterly basis.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the 4-to-1 rule for ladder placement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 4-to-1 rule requires that for every 4 feet of height to the point of support, the base of the ladder must be placed 1 foot away from the supporting wall."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if a ladder fails a pre-use inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If a ladder fails any part of the inspection, you must immediately remove it from service and clearly label it 'DO NOT USE' to prevent accidental utilization."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How high should a ladder extend above a landing surface?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When using a ladder to access a roof or platform, the side rails must extend at least 3 feet (1 meter) above the landing surface to ensure safe entry and exit."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Ladder Safety Compliance SOP",
+  "applicationCategory": "Safety Management System",
+  "description": "Standard Operating Procedure for ensuring workplace safety and mitigating fall risks when using portable ladders.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

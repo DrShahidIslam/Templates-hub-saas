@@ -1,8 +1,12 @@
 ---
-title: 'vehicle inspection form for uber and lyft'
-status: 'published'
-slug: 'vehicle-inspection-form-for-uber-and-lyft'
+title: 'Ride-Share Vehicle Inspection Checklist: SOP for Uber & Lyft'
+status: published
+slug: vehicle-inspection-form-for-uber-and-lyft
 publishedAt: '2026-05-11T10:14:43.539Z'
+description: >-
+  Ensure passenger safety and platform compliance with our expert ride-share
+  vehicle inspection SOP. Download the essential pre-shift checklist today.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Ride-Share Vehicle Inspection
@@ -50,3 +54,53 @@ A: Minor scratches are generally acceptable as long as they do not affect the st
 
 **Q: Am I required to have a professional mechanic sign off on my inspection?**
 A: This depends on your local jurisdiction. Some cities require an annual inspection by a certified mechanic, while others allow self-certification via the app. Always check your local DMV or platform "Vehicle Requirements" page to ensure compliance.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I perform a ride-share vehicle inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is recommended to perform a systematic vehicle inspection before every shift to ensure passenger safety, vehicle reliability, and compliance with Uber and Lyft standards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents must be in my ride-share vehicle?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drivers must keep current vehicle registration, proof of insurance, and any platform-specific inspection forms required by your local municipality in the glove compartment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where should my Uber or Lyft trade dress be displayed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Trade dress (decals) should typically be displayed in the lower right corner of the windshield, though you should verify specific placement requirements according to local law."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Ride-Share Vehicle Inspection SOP",
+  "applicationCategory": "Driver Utility",
+  "operatingSystem": "All",
+  "description": "A comprehensive Standard Operating Procedure and checklist for maintaining safety and compliance in vehicles used for ride-sharing platforms like Uber and Lyft.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

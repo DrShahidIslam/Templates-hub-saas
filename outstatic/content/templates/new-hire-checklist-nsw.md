@@ -1,7 +1,11 @@
 ---
 status: published
-title: New Hire Checklist Nsw
+title: 'NSW New Hire Onboarding SOP: Compliance & Checklist'
 publishedAt: '2026-05-10T18:48:00.918Z'
+description: >-
+  Streamline your NSW employee onboarding with our SOP. Ensure compliance with
+  Fair Work, WHS, and TFN requirements. Get your new hire checklist here.
+seo_optimized: true
 ---
 # Standard Operating Procedure: New Hire Onboarding (NSW)
 
@@ -53,3 +57,52 @@ In NSW, you must comply with the Work Health and Safety Act 2011. This includes 
 
 **3. When must I provide the "Stapled Fund" details to the ATO?**
 If a new employee does not complete a Standard Choice Form, you must contact the ATO via Online Services for Business to request their "stapled super fund" details before making the first contribution.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the mandatory legal documents for a new hire in NSW?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Employers must provide the Fair Work Information Statement, a compliant employment contract, an ATO TFN Declaration form, and a Superannuation Standard Choice Form."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I verify a new employee's right to work in Australia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must conduct a VEVO check using the candidate's passport or birth certificate to verify their eligibility to work in Australia and retain a copy for your records."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is required for WHS compliance during onboarding in NSW?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "WHS compliance requires a site induction covering emergency protocols, signing WHS policy acknowledgments, and completing a workstation ergonomic assessment."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Employee Onboarding Management System",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web-based",
+  "description": "Standardized procedure software for managing administrative compliance, technical provisioning, and WHS induction for new employees in New South Wales.",
+  "offers": {
+    "@type": "Offer",
+    "category": "SOP Implementation"
+  }
+}
+</script>

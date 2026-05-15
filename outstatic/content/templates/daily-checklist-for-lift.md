@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Daily Lift Safety Inspection'
-status: 'published'
-slug: 'daily-checklist-for-lift'
+title: 'Daily Lift Safety Inspection SOP: Compliance & Procedures'
+status: published
+slug: daily-checklist-for-lift
 publishedAt: '2026-05-07T18:59:25.591Z'
+description: >-
+  Ensure passenger safety with this professional daily lift inspection SOP.
+  Learn key steps for elevator maintenance, landing checks, and performance
+  testing.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Daily Lift Safety Inspection
@@ -44,3 +49,53 @@ A thorough daily inspection should take approximately 10–15 minutes per unit. 
 
 **3. Are there specific legal requirements for these inspections?**
 While daily checks are an operational standard, they often serve as a requirement for your building's insurance policy and local municipal codes. Check your local jurisdiction’s elevator safety act for specific documentation retention requirements.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should a lift safety inspection be performed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Safety inspections for lifts should be conducted daily, prior to opening the unit for public use, to ensure operational reliability and regulatory compliance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if a lift fails the daily inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If any component fails inspection, the lift must be immediately taken out of service, cordoned off, and the designated maintenance contractor must be notified."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the acceptable leveling tolerance for an elevator?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The elevator car floor should arrive flush with the building floor landing, with an acceptable tolerance of within 1/4 inch."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Elevator Safety Inspection SOP Tracker",
+  "applicationCategory": "Industrial Maintenance Software",
+  "operatingSystem": "All",
+  "description": "A standardized operational procedure framework for performing and logging daily vertical transportation safety inspections to ensure regulatory compliance.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

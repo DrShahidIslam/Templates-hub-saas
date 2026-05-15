@@ -1,7 +1,11 @@
 ---
 status: published
-title: Standard Operating Procedure For Manual Handling
+title: 'Manual Handling SOP: Essential Safety & Lifting Techniques'
 publishedAt: '2026-05-10T18:48:01.859Z'
+description: >-
+  Learn the essential manual handling safety protocols. Follow our T.I.L.E.
+  assessment and biomechanical lifting techniques to prevent workplace injuries.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Manual Handling
 
@@ -56,3 +60,52 @@ While there is no single universal weight limit, regulatory guidelines generally
 
 **3. What is the most common mistake made during manual handling?**
 The most common mistake is twisting the torso while holding a load. The human spine is designed for vertical load-bearing, not rotational torque. Always pivot your feet to turn your body rather than twisting your waist.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the T.I.L.E. assessment in manual handling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The T.I.L.E. assessment is a mandatory pre-lift protocol standing for Task, Individual, Load, and Environment. It ensures all aspects of a manual handling operation are evaluated to minimize injury risk."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is a team lift required?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A team lift or mechanical aid is required if the load exceeds 20kg or if the object is determined to be awkward, unbalanced, or unsafe for a single person to handle."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the proper way to turn while carrying a load?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should never twist your torso while carrying a load. Instead, pivot your feet to move your entire body in the desired direction, keeping your spine aligned."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Manual Handling Safety Procedure Guide",
+  "applicationCategory": "Safety Compliance Tool",
+  "operatingSystem": "All",
+  "description": "An optimized digital standard operating procedure for workplace manual handling safety, focusing on ergonomic lifting and risk assessment.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Safety Compliance Department"
+  }
+}
+</script>

@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Radiology Department
+title: 'Radiology SOP: Essential Safety & Imaging Protocols'
 publishedAt: '2026-05-10T18:48:01.915Z'
+description: >-
+  Master Radiology Department operations with our comprehensive SOP. Learn
+  mandatory patient safety, ALARA imaging protocols, and equipment maintenance
+  standards.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Radiology Department Operations
 
@@ -49,3 +54,52 @@ A: PACS data integrity should be audited monthly, with a focus on reconciling or
 
 **Q: How do we handle a patient who refuses a radiation safety device (e.g., shielding)?**
 A: Educate the patient on the importance of the device for safety. If refusal persists, document the refusal in the patient’s chart and the RIS, and have the patient sign a "Refusal of Safety Protocol" form to mitigate liability.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the ALARA principle in radiology?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ALARA stands for 'As Low As Reasonably Achievable.' It is a safety principle mandating that radiation exposure be kept to the minimum level necessary to obtain diagnostic-quality images."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should patient identity be verified in radiology?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Per standard protocol, staff must verify patient identity using at least two unique identifiers, typically the patient's full legal name and date of birth."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the 'Time-Out' procedure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 'Time-Out' is a mandatory safety check performed immediately before the initiation of any invasive radiological procedure to ensure patient and procedural accuracy."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Radiology Information System (RIS)",
+  "applicationCategory": "MedicalSoftware",
+  "operatingSystem": "Hospital Network",
+  "description": "An essential system for managing physician orders, patient diagnostic records, and radiation dose documentation in radiology departments.",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "text": "Standard Operating Procedure for Radiology Department Operations"
+  }
+}
+</script>

@@ -1,3 +1,13 @@
+---
+title: 'Secretarial Audit SOP: Compliance Guide for Listed Companies'
+description: >-
+  Master secretarial audits with our comprehensive SOP. Ensure compliance with
+  Companies Act 2013 and SEBI LODR with this systematic checklist for listed
+  companies.
+status: published
+publishedAt: '2026-05-15T07:16:31.302Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Secretarial Audit for Listed Companies
 
 ## Introduction
@@ -51,3 +61,53 @@ A: A Secretarial Audit must be conducted by a Practicing Company Secretary (PCS)
 
 **Q3: What happens if non-compliance is discovered during the audit?**
 A: The Secretarial Auditor must highlight the non-compliance in the Secretarial Audit Report (Form MR-3). The Board of Directors is then required to provide explanations or comments on these qualifications in their Board’s Report to the shareholders.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary objective of a Secretarial Audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Secretarial Audit provides independent assurance that a company complies with relevant legal frameworks, including the Companies Act 2013 and SEBI regulations, to mitigate legal risks and ensure transparency."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which companies are mandated to conduct a Secretarial Audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Secretarial Audit is mandatory for all listed companies and certain classes of public companies as prescribed under Section 204 of the Companies Act, 2013."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key areas checked during a secretarial audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key audit areas include corporate governance, maintenance of statutory registers, board and committee meeting procedures, SEBI (LODR) compliance, and share capital structure integrity."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Secretarial Audit Compliance Checklist",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "All",
+  "description": "A systematic Standard Operating Procedure and checklist for performing Secretarial Audits in compliance with Indian corporate laws and SEBI regulations.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

@@ -1,8 +1,13 @@
 ---
-title: 'Checklist Onboarding Karyawan Baru'
-status: 'published'
-slug: 'checklist-onboarding-karyawan-baru'
+title: 'SOP Onboarding Karyawan Baru: Panduan Lengkap & Efektif'
+status: published
+slug: checklist-onboarding-karyawan-baru
 publishedAt: '2026-05-07T18:59:25.505Z'
+description: >-
+  Pelajari SOP onboarding karyawan baru yang terstruktur untuk mempercepat
+  produktivitas dan meningkatkan retensi. Simak panduan lengkap mulai dari
+  pre-boarding.
+seo_optimized: true
 ---
 
 Standard Operating Procedure: Onboarding Karyawan Baru
@@ -49,3 +54,53 @@ Tujuan dari dokumen ini adalah untuk memastikan transisi yang mulus, terstruktur
 
 3. **Bagaimana jika sistem IT belum siap saat karyawan baru datang?**
    Ini adalah kegagalan operasional yang harus dihindari. Jika terjadi, segera berikan akses sementara atau tugaskan tugas pembacaan materi/pelatihan daring hingga perangkat tersedia.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Apa itu proses pre-boarding karyawan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pre-boarding adalah tahap persiapan sebelum karyawan baru masuk, meliputi finalisasi kontrak, penyediaan perangkat kerja, pengaturan akses sistem, hingga menunjuk mentor atau buddy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Mengapa onboarding karyawan penting bagi perusahaan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Onboarding yang efektif mempercepat produktivitas, membantu integrasi budaya perusahaan, serta meningkatkan retensi dan keterikatan karyawan sejak hari pertama."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apa peran seorang 'Buddy' dalam onboarding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seorang buddy bertugas membantu karyawan baru beradaptasi secara non-teknis, menjawab pertanyaan keseharian, dan memudahkan proses integrasi sosial di dalam tim."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "SOP Onboarding Karyawan Baru",
+  "applicationCategory": "BusinessApplication",
+  "description": "Panduan sistematis untuk proses penerimaan dan integrasi karyawan baru dalam lingkungan perusahaan.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "IDR"
+  }
+}
+</script>

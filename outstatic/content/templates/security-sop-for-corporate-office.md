@@ -1,7 +1,12 @@
 ---
 status: published
-title: Security Sop For Corporate Office
+title: 'Corporate Office Security SOP: Safety & Access Protocols'
 publishedAt: '2026-05-10T18:48:01.129Z'
+description: >-
+  Follow our corporate office security SOP to ensure workplace safety, manage
+  visitors, and protect company assets. Learn access and incident reporting
+  rules.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Corporate Office Security
 
@@ -46,3 +51,52 @@ A: No. All deliveries must be handled through the designated receiving area. Dir
 
 **Q: How do I report a security concern anonymously?**
 A: You may submit an anonymous tip through the internal Security Reporting Portal on the company Intranet, or drop a note in the locked security suggestion box located in the breakroom.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the policy on visitor management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Visitors must sign in at reception, show a government-issued photo ID, receive a temporary badge, and be escorted by an authorized employee at all times in non-public areas."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do when leaving my desk?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must lock your computer session, ensure no sensitive documents are left exposed, and secure company equipment if necessary."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should I report lost company equipment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Any lost or stolen company badge or hardware must be reported to the Security Manager within one hour of discovery."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Corporate Security SOP Portal",
+  "applicationCategory": "SecurityManagement",
+  "description": "Digital documentation platform for corporate standard operating procedures and physical security protocols.",
+  "operatingSystem": "Web-based",
+  "offers": {
+    "@type": "Offer",
+    "category": "Internal Business Tool"
+  }
+}
+</script>

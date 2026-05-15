@@ -1,8 +1,12 @@
 ---
-title: 'Standard Operating Procedure: Compassionate Appointment Management'
-status: 'published'
-slug: 'checklist-for-compassionate-appointment'
+title: 'Compassionate Appointment SOP: Process & Eligibility Guide'
+status: published
+slug: checklist-for-compassionate-appointment
 publishedAt: '2026-05-07T18:59:25.144Z'
+description: >-
+  Learn the standard operating procedure for compassionate appointments. A guide
+  for HR on verification, eligibility, committee review, and onboarding steps.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Compassionate Appointment Management
@@ -48,3 +52,53 @@ Typically, yes. Most organizations enforce a "Statute of Limitations" (e.g., 6â€
 
 <div data-html2canvas-ignore="true" style="display:none">compassionate appointment procedure, compassionate appointment rules, compassionate appointment eligibility criteria, compassionate appointment policy, how to apply for compassionate ground appointment, compassionate appointment documents required, compassionate appointment guidelines, compassionate appointment application process, SOP for compassionate appointment, compassionate appointment for family of deceased employee, government job compassionate appointment rules, compassionate appointment verification process, criteria for compassionate appointment, compassionate appointment application form, guidelines for compassionate appointment of dependents</div>
 <!-- AI_KEYWORDS: compassionate appointment procedure, compassionate appointment rules, compassionate appointment eligibility criteria, compassionate appointment policy, how to apply for compassionate ground appointment, compassionate appointment documents required, compassionate appointment guidelines, compassionate appointment application process, SOP for compassionate appointment, compassionate appointment for family of deceased employee, government job compassionate appointment rules, compassionate appointment verification process, criteria for compassionate appointment, compassionate appointment application form, guidelines for compassionate appointment of dependents -->
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary objective of a compassionate appointment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary objective is to provide organizational support to families following an employee's untimely death or permanent incapacitation, ensuring a seamless transition while meeting legal and fiduciary obligations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for initial verification?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Required documentation includes a certified death certificate or medical board disability certificate, ID proofs, dependency certificates, and 'No Objection' affidavits from surviving family members."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the role of the Compassionate Appointment Committee (CAC)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The CAC conducts an objective assessment of the application, reviews financial hardship, ensures vacancy mapping, and maintains impartiality throughout the approval process."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Compassionate Appointment Management SOP",
+  "applicationCategory": "BusinessApplication",
+  "description": "A standardized framework for managing compassionate job applications, from eligibility verification to final onboarding and medical fitness assessment.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

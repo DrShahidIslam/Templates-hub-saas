@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Drug Storage
+title: 'Pharmaceutical Storage SOP: Drug Inventory Management Guide'
 publishedAt: '2026-05-10T18:48:01.216Z'
+description: >-
+  Ensure regulatory compliance with this pharmaceutical drug storage SOP. Learn
+  best practices for climate control, inventory management, and security
+  protocols.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Pharmaceutical Drug Storage and Inventory Management
 
@@ -51,3 +56,52 @@ A: Yes. LASA drugs should be physically separated on the shelf, ideally with a "
 
 **Q: How often must digital data loggers be calibrated?**
 A: Data loggers must be calibrated annually (or according to the manufacturer’s specifications) to ensure the accuracy of your temperature monitoring records. Keep certificates of calibration on file for audit purposes.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the FEFO method in pharmaceutical storage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "FEFO stands for First-Expired, First-Out. It is an inventory management technique where products with the nearest expiration dates are prioritized for use first to minimize waste and ensure potency."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should temperature-sensitive medications be stored?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medications must be stored within manufacturer-specified ranges using calibrated digital data loggers. Temperatures should be monitored continuously or logged twice daily."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you manage high-alert medications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "High-alert medications should be clearly labeled, physically separated from look-alike/sound-alike (LASA) drugs, and stored in restricted, secure areas."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Pharmaceutical Inventory Management System",
+  "applicationCategory": "BusinessApplication",
+  "description": "Standard operating procedure framework for managing pharmaceutical drug inventory, including climate control tracking, FEFO stock rotation, and security compliance.",
+  "operatingSystem": "Web-based",
+  "offers": {
+    "@type": "Offer",
+    "category": "Compliance Standards"
+  }
+}
+</script>

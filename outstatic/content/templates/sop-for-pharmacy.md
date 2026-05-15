@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Pharmacy
+title: 'Pharmacy SOP: Operational Standards & Compliance Guide'
 publishedAt: '2026-05-10T18:48:01.405Z'
+description: >-
+  Master pharmacy operations with this comprehensive SOP. Learn mandatory
+  protocols for HIPAA compliance, inventory management, and prescription
+  processing workflows.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Pharmacy Operations Management
 
@@ -44,3 +49,53 @@ A: All LASA medications must be physically separated on the shelves with high-al
 
 **Q: What is the retention policy for pharmacy records?**
 A: Prescription records must be maintained on-site for a minimum of two years (or per state-specific board requirements, whichever is longer) and must be easily retrievable for audits.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the essential daily opening procedures for a pharmacy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Daily opening procedures include facility security inspections, system initialization, verifying temperature logs for cold-chain integrity, and conducting a quick count of controlled substance inventory."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is inventory managed in a pharmacy SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Inventory management involves monthly expiration date audits, automated stock ordering, and dual-signature verification for all controlled substance reconciliation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the pharmacists role in the final prescription verification process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Pharmacist-in-Charge must perform a final verification to confirm the correct patient, drug, dose, route, and time against the original prescription."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Pharmacy Management System (PMS)",
+  "applicationCategory": "HealthcareApplication",
+  "description": "A professional Pharmacy Management System (PMS) designed for prescription processing, inventory tracking, and clinical safety compliance.",
+  "operatingSystem": "Windows, Cloud-based",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

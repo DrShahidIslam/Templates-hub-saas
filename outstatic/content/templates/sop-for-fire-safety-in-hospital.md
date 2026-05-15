@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop For Fire Safety In Hospital
+title: 'Fire Safety SOP for Healthcare: RACE Protocol & Guidelines'
 publishedAt: '2026-05-10T18:48:01.246Z'
+description: >-
+  Learn mandatory fire safety protocols for hospitals. Essential guide covering
+  the RACE emergency response, evacuation procedures, and risk mitigation.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Fire Safety Management in Healthcare Facilities
 
@@ -46,3 +50,52 @@ A: No. Elevators can lose power or malfunction due to smoke, trapping patients i
 
 **Q: What is a "Code Red" and who is responsible for initiating it?**
 A: A Code Red is the standard hospital emergency signal for fire. Any staff member—regardless of seniority—who discovers fire or smoke is authorized and responsible for pulling the alarm and initiating the RACE protocol.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the RACE protocol in hospital fire safety?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The RACE protocol stands for Rescue patients, Alarm the facility, Contain the fire by closing doors, and Extinguish or Evacuate."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should patients be evacuated in a hospital?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prioritize horizontal evacuation to adjacent smoke compartments. Vertical evacuation via stairwells should only occur if the entire floor is compromised."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the fire prevention requirements for healthcare staff?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Staff must follow a zero-clutter policy, manage electrical loads by avoiding daisy-chained power strips, and undergo fire safety refresher training every six months."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Fire Safety Management System SOP",
+  "applicationCategory": "Healthcare Compliance Management",
+  "operatingSystem": "All",
+  "description": "Standard Operating Procedure for fire safety, risk mitigation, and emergency response in healthcare environments.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Healthcare Facilities Management"
+  }
+}
+</script>

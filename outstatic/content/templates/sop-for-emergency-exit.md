@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Emergency Exit
+title: 'Emergency Exit SOP: Safety & Maintenance Compliance Guide'
 publishedAt: '2026-05-10T18:48:01.224Z'
+description: >-
+  Follow our expert SOP for emergency exit management. Learn daily obstruction
+  checks, weekly inspection protocols, and mandatory fire code maintenance
+  requirements.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Emergency Exit Management and Maintenance
 
@@ -48,3 +53,53 @@ A: Stop the work immediately and inform the contractor that the exit must remain
 
 **Q: How often must we test our emergency exit signs?**
 A: Best practice and many local fire codes mandate a monthly functional test and an annual full-duration battery discharge test. Always check your local jurisdiction’s specific code requirements.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much clearance is required around an emergency exit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A minimum 36-inch radius must be maintained around all emergency exit doors, ensuring the path is free of equipment, pallets, furniture, or trash."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should emergency exit hardware be inspected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Panic hardware, latching mechanisms, and door locks should be inspected weekly to ensure they release immediately upon pressure and are free from unauthorized secondary locks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the requirement for emergency exit signage maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Illuminated exit signs must be tested monthly by cutting power to verify battery backup functionality. Bulbs or battery packs must be replaced immediately if they fail to remain lit."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Emergency Exit Management Protocol",
+  "applicationCategory": "Safety Management System",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure for the maintenance, inspection, and regulatory compliance of emergency egress points.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

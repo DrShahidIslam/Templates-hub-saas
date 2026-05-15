@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Oos In Pharma
+title: 'OOS Results SOP: Pharmaceutical Investigation Guide'
 publishedAt: '2026-05-10T18:48:01.390Z'
+description: >-
+  Learn the standard procedure for managing Out-of-Specification (OOS) results
+  in pharma manufacturing. Ensure cGMP compliance with our step-by-step
+  investigation guide.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Management of Out-of-Specification (OOS) Results in Pharmaceutical Manufacturing
 
@@ -44,3 +49,52 @@ Not immediately. A retest is only permitted if the initial investigation provide
 
 **3. What is the difference between OOS and OOT?**
 An OOS refers to a result outside the official specification limits. An OOT (Out of Trend) refers to a result that is within specifications but significantly differs from previous batches, indicating a potential drift in the process or analytical stability.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an Out-of-Specification (OOS) result?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An OOS result is any test result that falls outside the established acceptance criteria defined in drug master files, pharmacopeia, or internal manufacturing specifications."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens during a Phase I Laboratory Investigation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Phase I involves an immediate notification to the Supervisor and QA, a preliminary review for obvious errors, securing raw data, and determining if a scientific hypothesis justifies retesting."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key steps in a Phase II OOS Investigation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Phase II includes a cross-functional investigation, manufacturing process review, Root Cause Analysis (RCA) using tools like Fishbone diagrams, and final batch disposition."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "OOS Management Protocol",
+  "applicationCategory": "Quality Management System",
+  "operatingSystem": "All",
+  "description": "A standardized framework for investigating Out-of-Specification results in pharmaceutical environments to ensure cGMP compliance.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Compliance SOP"
+  }
+}
+</script>

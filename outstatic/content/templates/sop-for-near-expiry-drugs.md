@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop For Near Expiry Drugs
+title: 'Near-Expiry Drug Management SOP: A Pharmacy Best Practice'
 publishedAt: '2026-05-10T18:48:01.372Z'
+description: >-
+  Ensure patient safety and minimize waste with our expert SOP for near-expiry
+  drug management. Learn FEFO protocols, tracking, and compliant disposal.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Near-Expiry Drug Management
 
@@ -50,3 +54,52 @@ A: Generally, no. Most jurisdictions have strict laws regarding the distribution
 
 **Q: How often should the Near-Expiry Log be audited?**
 A: The log should be reviewed during every physical inventory cycle (at least monthly) to ensure that flagged items have been dispensed or flagged for disposal, and that no items have been overlooked.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the FEFO principle in pharmacy inventory management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The FEFO (First-Expiry, First-Out) principle is a stock rotation method where items with the earliest expiration dates are dispensed first to ensure they are used before newer stock, thereby minimizing medication waste."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should medication be flagged as near-expiry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medications should be flagged for near-expiry management when their expiration date falls within 6 months, or as defined by your local regulatory policy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should expired medication be handled?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expired medication should be moved to a segregated quarantine area, documented, and disposed of through a licensed medical waste contractor after proper management authorization."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Pharmacy Information System (PIS)",
+  "applicationCategory": "Healthcare Software",
+  "operatingSystem": "All",
+  "description": "Digital platform utilized for generating near-expiry reports, inventory tracking, and facilitating medication management protocols.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Pharmacy Management"
+  }
+}
+</script>

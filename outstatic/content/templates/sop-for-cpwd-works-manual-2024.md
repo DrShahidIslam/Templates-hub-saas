@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Cpwd Works Manual 2024
+title: 'CPWD Works Manual 2024: Essential SOP for Project Execution'
 publishedAt: '2026-05-10T18:48:01.198Z'
+description: >-
+  Master the CPWD Manual 2024 with our comprehensive SOP guide. Learn
+  streamlined processes for project initiation, technical sanction, and tender
+  management.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Execution of Works under CPWD Manual 2024
 
@@ -55,3 +60,52 @@ Price adjustments must strictly follow the formula-based approach provided in th
 
 **3. Is there a change in the procedure for handling Extra Items (EI)?**
 Yes, the 2024 manual emphasizes the "Pro-rata" method for extra items that are similar to existing contract items, requiring explicit approval from the next higher authority if the cumulative value exceeds 5% of the tendered amount.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary purpose of the CPWD Manual 2024 SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The SOP provides a framework for planning, executing, and monitoring civil and electrical works to ensure transparency, financial propriety, and technical compliance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key steps in project initiation under CPWD guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key steps include conducting a need assessment, preparing preliminary estimates, obtaining administrative approval and expenditure sanction, and verifying budget allocation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the tendering process managed under the 2024 manual?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tendering is conducted via the e-Tendering portal (NIC/CPPP) involving the preparation of the NIT, technical bid evaluation, financial evaluation, and issuance of the Letter of Award."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "CPWD Works Manual 2024 SOP Framework",
+  "applicationCategory": "Project Management",
+  "operatingSystem": "All",
+  "description": "A standardized operational framework for civil and electrical project management based on the CPWD Manual 2024 guidelines.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Central Public Works Department"
+  }
+}
+</script>

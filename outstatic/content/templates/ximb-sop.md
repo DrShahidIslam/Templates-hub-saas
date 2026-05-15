@@ -1,7 +1,11 @@
 ---
 status: published
-title: Ximb Sop
+title: 'XIMB Operational Workflow: Standard Operating Procedure (SOP)'
 publishedAt: '2026-05-10T18:48:02.048Z'
+description: >-
+  Master XIMB’s operational framework. Our guide details the end-to-end SOP for
+  academic and administrative processes, ensuring institutional excellence.
+seo_optimized: true
 ---
 # Standard Operating Procedure: XIMB (Xavier Institute of Management, Bhubaneswar) Operational Workflow
 
@@ -45,3 +49,52 @@ These templates are available on the internal faculty/staff portal under the "Op
 
 **3. Who is the primary point of contact if an emergency occurs during an event?**
 Please contact the Campus Operations Manager or the designated security lead, whose contact information is listed in the Campus Emergency Protocol manual provided during orientation.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary purpose of the XIMB SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The SOP ensures consistency, accountability, and operational efficiency across all academic and administrative processes at the Xavier Institute of Management, Bhubaneswar."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the three main phases of the XIMB operational workflow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The workflow is divided into three phases: Pre-Operational Planning and Documentation, Execution and Monitoring, and Post-Operational Review and Archiving."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should risks be managed during execution?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stakeholders must monitor for bottlenecks and implement contingency plans immediately if project timelines deviate by more than 10%."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "XIMB Operational Workflow System",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "All",
+  "description": "A standardized operational framework for managing internal academic and administrative processes at the Xavier Institute of Management, Bhubaneswar.",
+  "provider": {
+    "@type": "EducationalOrganization",
+    "name": "Xavier Institute of Management, Bhubaneswar"
+  }
+}
+</script>

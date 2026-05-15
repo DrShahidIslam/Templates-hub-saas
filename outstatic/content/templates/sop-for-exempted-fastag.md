@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Exempted Fastag
+title: 'FASTag Exemption SOP: Processing & Verification Guide'
 publishedAt: '2026-05-10T18:48:01.238Z'
+description: >-
+  Learn the standardized SOP for processing NHAI exempted FASTag requests. A
+  comprehensive guide on documentation, system configuration, and monitoring
+  protocols.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Processing Exempted FASTag Requests
 
@@ -42,3 +47,49 @@ A: No. Exemption is tied to the current address/permit. Once the residency statu
 
 **Q: How often should the exemption list be audited?**
 A: It is recommended to perform a full audit of the exemption database every 90 days to ensure that all listed vehicles still meet the eligibility criteria and to purge records of vehicles no longer in service.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What documents are required for FASTag exemption?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Applicants must provide an official ID such as Aadhar or PAN, along with the vehicle's original Registration Certificate (RC) to verify eligibility according to NHAI guidelines."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is an exempted vehicle configured in the Toll Management System?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The vehicle's FASTag ID is whitelisted in the Toll Management System (TMS), tagged with an exemption code, and synced with Lane Controller software for zero-transaction recognition."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the validity of a FASTag exemption managed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exemption validity is set based on the permit duration, with the system configured to trigger a reminder 30 days prior to the expiration date."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Toll Management System (TMS)",
+  "applicationCategory": "Enterprise Software",
+  "description": "A centralized toll management system used for processing exempted FASTag requests, whitelisting vehicles, and monitoring zero-transaction lane entries.",
+  "operatingSystem": "Web-based",
+  "featureList": "Exempted category management, RFID tag mapping, automated lane controller syncing, and exception reporting."
+}
+</script>

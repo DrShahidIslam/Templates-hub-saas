@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Employees
+title: 'Employee Onboarding SOP: Best Practices & Lifecycle Guide'
 publishedAt: '2026-05-10T18:48:01.226Z'
+description: >-
+  Master employee onboarding and lifecycle management with our comprehensive
+  SOP. Learn key phases from pre-boarding to offboarding for operational
+  efficiency.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Employee Onboarding and Lifecycle Management
 
@@ -46,3 +51,52 @@ A: This SOP should be audited for compliance and operational effectiveness on a 
 
 **Q: What is the procedure if hardware is damaged during the employee lifecycle?**
 A: All incidents must be reported via the IT Support Ticket portal within 24 hours. Replacement hardware will be issued pending an assessment by the Asset Manager.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key phases of employee lifecycle management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The employee lifecycle is divided into four main phases: Pre-boarding and documentation, Integration and training, Ongoing performance and reporting, and Offboarding procedures."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should IT provisioning be requested for a new hire?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To ensure a seamless start, IT should be requested to create company email addresses, internal system accounts, and security credentials at least 72 hours prior to the employee's start date."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the purpose of the 30-60-90 day performance plan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 30-60-90 day plan is used to set specific, measurable objectives for new hires, ensuring they align with company goals and understand their role early in their tenure."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Employee Lifecycle Management SOP",
+  "applicationCategory": "Business Productivity",
+  "operatingSystem": "All",
+  "description": "A standardized operational protocol for managing the full employee lifecycle, covering documentation, integration, performance tracking, and asset recovery.",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "url": "https://example.com/onboarding-sop"
+  }
+}
+</script>

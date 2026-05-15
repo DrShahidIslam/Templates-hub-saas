@@ -1,8 +1,13 @@
 ---
-title: 'home safety checklist for kids'
-status: 'published'
-slug: 'home-safety-checklist-for-kids'
+title: 'Home Child Safety Checklist: Essential Baby Proofing Guide'
+status: published
+slug: home-safety-checklist-for-kids
 publishedAt: '2026-05-11T09:56:28.463Z'
+description: >-
+  Keep your child safe with our comprehensive home safety SOP. Learn
+  step-by-step room-by-room baby proofing tips for kitchens, bedrooms, and
+  bathrooms.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Comprehensive Home Safety for Children
@@ -47,3 +52,53 @@ A: Button batteries and magnets. These items are extremely dangerous if swallowe
 
 **Q: How often should I test my smoke and carbon monoxide detectors?**
 A: You should test these devices monthly by pressing the test button. Replace batteries at least once every six months, even if they appear to be functioning correctly.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I prevent heavy furniture from tipping over?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Secure all heavy furniture like bookshelves and dressers to wall studs using anti-tip straps or furniture anchors to prevent crushing injuries."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the recommended water heater temperature for child safety?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Set your water heater thermostat to a maximum of 120°F (49°C) to significantly reduce the risk of accidental scalding for children."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where should I install safety gates in my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Install hardware-mounted safety gates at both the top and bottom of every staircase to prevent falls. Pressure-mounted gates are suitable for interior doorways."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Home Safety SOP Management Tool",
+  "applicationCategory": "UtilitiesApplication",
+  "operatingSystem": "All",
+  "description": "A comprehensive home safety and baby-proofing procedural guide for parents and caregivers to mitigate household hazards.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

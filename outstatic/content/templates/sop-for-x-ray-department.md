@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop For X Ray Department
+title: 'Radiology SOP: Standard Protocols for X-Ray Operations'
 publishedAt: '2026-05-10T18:48:01.553Z'
+description: >-
+  Master radiology imaging protocols with our SOP guide. Ensure patient safety,
+  ALARA compliance, and high-quality X-ray workflow efficiency.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Radiology Imaging Operations
 
@@ -42,3 +46,53 @@ A: All X-ray equipment must undergo a formal physics inspection by a certified m
 
 **Q: What is the procedure if I suspect an image is of sub-optimal diagnostic quality?**
 A: If an image contains artifacts, motion, or incorrect positioning, you must repeat the exposure immediately. Document the repeat, including the reason, in the quality management log to track trends and identify training gaps.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of the Radiology SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary goal is to establish mandatory protocols for patient safety, minimize ionizing radiation exposure via the ALARA principle, and ensure diagnostic-quality imaging."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is patient safety ensured before an X-ray?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Safety is ensured by verifying patient identity with two identifiers, screening for pregnancy status, and removing metallic artifacts from the region of interest."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key steps for radiation protection during imaging?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key steps include applying lead shielding where appropriate, using precise collimation to limit the X-ray beam, and utilizing the lowest mA/kVp settings for the required image quality."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Radiology Imaging Workflow System",
+  "applicationCategory": "MedicalSoftware",
+  "description": "Standardized operational software workflow for radiology departments to manage imaging orders, PACS integration, and quality assurance.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

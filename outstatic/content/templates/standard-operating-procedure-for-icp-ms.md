@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Icp Ms
+title: 'ICP-MS SOP: Operating Protocols & Safety Guidelines'
 publishedAt: '2026-05-10T18:48:01.820Z'
+description: >-
+  Master ICP-MS operations with our comprehensive SOP. Learn mandatory start-up,
+  tuning, and analysis procedures to ensure data integrity and instrument
+  safety.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Inductively Coupled Plasma Mass Spectrometry (ICP-MS) Analysis
 
@@ -55,3 +60,49 @@ A: Only if you have an HF-resistant sample introduction kit (inert nebulizer and
 
 **Q3: What should I do if the vacuum system fails?**
 A: Do not attempt to reset the vacuum manually. Immediately shut down the plasma to prevent detector damage, notify the lead instrument scientist, and consult the manufacturer’s error log for fault codes.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long should the ICP-MS stabilize before tuning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After plasma ignition, you must allow for a minimum 30–45 minute thermal stabilization period to ensure consistent results."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the acceptable limits for oxide and doubly charged ratios?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To minimize spectral interferences, CeO+/Ce+ and Ba++/Ba+ ratios should be maintained below 3%."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the standard sample preparation for ICP-MS analysis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Samples must be acidified, typically using 2% HNO₃, and filtered to less than 0.45 µm to prevent nebulizer clogging and ensure stable aspiration."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "ICP-MS Control Software",
+  "applicationCategory": "Scientific Instrumentation Software",
+  "operatingSystem": "Windows",
+  "description": "Control and data acquisition software for Inductively Coupled Plasma Mass Spectrometry systems, managing ignition, tuning, and analysis.",
+  "softwareRequirements": "Requires connection to ICP-MS hardware and compatible analytical interface."
+}
+</script>

@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Qc Department
+title: 'Quality Control SOP: Step-by-Step Inspection Checklist'
 publishedAt: '2026-05-10T18:48:01.418Z'
+description: >-
+  Master your Quality Control process with this expert SOP. Learn the 4-phase
+  inspection checklist for IQC, IPQC, and Final Outgoing QC to ensure
+  excellence.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Quality Control (QC) Department Operations
 
@@ -61,3 +66,49 @@ All testing equipment must be calibrated according to the manufacturer’s sched
 
 **3. What constitutes a "Minor" vs. "Major" defect?**
 A "Minor" defect is a visual flaw that does not affect product safety or function. A "Major" defect is a condition that renders the product unusable or poses a safety risk to the consumer. Any major defect requires immediate cessation of the production line.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key phases of a Quality Control SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A robust QC SOP includes four main phases: Incoming Material Inspection (IQC), In-Process Quality Control (IPQC), Final Product Inspection (OQC), and Non-Conformance/Corrective Action management."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the purpose of the First Piece Inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The First Piece Inspection is conducted after shift changes, equipment maintenance, or setup adjustments to ensure the production line is operating within specified tolerances before full-scale production begins."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should non-conforming products be handled?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non-conforming items must be flagged immediately, documented via a Non-Conformance Report (NCR), and moved to a designated 'Blocked Stock' quarantine area to prevent them from entering the supply chain."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Quality Control SOP Management System",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web-based",
+  "description": "A standardized framework for quality control inspections, including IQC, IPQC, and final product release processes.",
+  "featureList": "Incoming inspection verification, in-process tolerance tracking, non-conformance reporting, and batch release documentation."
+}
+</script>

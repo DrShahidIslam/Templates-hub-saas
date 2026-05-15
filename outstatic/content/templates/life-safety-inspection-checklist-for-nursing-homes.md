@@ -1,8 +1,13 @@
 ---
-title: 'life safety inspection checklist for nursing homes'
-status: 'published'
-slug: 'life-safety-inspection-checklist-for-nursing-homes'
+title: Life Safety Code (LSC) Inspection Checklist for Facilities
+status: published
+slug: life-safety-inspection-checklist-for-nursing-homes
 publishedAt: '2026-05-11T10:01:56.796Z'
+description: >-
+  Ensure NFPA 101 and CMS compliance with our comprehensive Life Safety Code
+  inspection checklist. Maintain facility safety and prevent fire hazard
+  citations.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Life Safety Code (LSC) Compliance Inspection
@@ -48,3 +53,49 @@ No. Fire doors must be self-closing and self-latching at all times. If a door mu
 
 **3. What should I do if I find a penetration in a fire-rated wall?**
 Document the location immediately, take a photograph for your records, and schedule a certified contractor to apply fire-rated caulk or sealant designed specifically for fire-stop assemblies. Do not use standard construction foam or putty.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a Life Safety Code inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Life Safety Code inspection is a regulatory assessment based on NFPA 101 standards to ensure nursing homes and facilities maintain fire safety, clear egress, and operational integrity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should fire extinguishers be inspected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fire extinguishers must be inspected and tagged annually to ensure they are fully charged, wall-mounted, and free from obstructions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the requirement for fire door gap testing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During a Life Safety inspection, fire door gaps must be tested to ensure they do not exceed 1/8 inch at the door frame to maintain fire barrier integrity."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Life Safety Code Compliance Inspection Checklist",
+  "applicationCategory": "Compliance Management Software",
+  "operatingSystem": "Web-based",
+  "description": "A comprehensive digital SOP and checklist tool for managing NFPA 101 and CMS Life Safety Code compliance inspections in healthcare environments.",
+  "featureList": "Fire protection system monitoring, egress path auditing, fire door gap testing, and regulatory documentation."
+}
+</script>

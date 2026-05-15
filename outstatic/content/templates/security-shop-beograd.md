@@ -1,7 +1,12 @@
 ---
 status: published
-title: Security Shop Beograd
+title: 'Retail Security SOP: Standard Protocols | Security Shop Beograd'
 publishedAt: '2026-05-10T18:48:01.123Z'
+description: >-
+  Master professional retail security operations at Security Shop Beograd. Learn
+  our mandatory SOPs for daily opening, inventory management, and sales
+  protocols.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Retail Security Operations (Security Shop Beograd)
 
@@ -54,3 +59,52 @@ A: Inspect the device for physical damage and ensure the original packaging is i
 
 **Q: What is the protocol for a power outage during business hours?**
 A: Immediately secure high-value portable items. Switch to manual sales tracking if the POS is offline. If the outage exceeds 30 minutes, suspend operations and lock the store to ensure security until power is restored.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the opening procedures for Security Shop Beograd?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Opening procedures include deactivating the alarm system, checking the perimeter, preparing the cash float, verifying CCTV operations, and inspecting high-value demo units."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is inventory managed at the shop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Inventory is managed by cross-referencing incoming stock against digital packing lists and adhering to a First-In, First-Out (FIFO) stock organization method."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the rules regarding customer data privacy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Staff are strictly prohibited from storing or photographing customer personal security codes, PINs, or master keys on any personal devices."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Security Shop Beograd POS System",
+  "applicationCategory": "Retail Management System",
+  "operatingSystem": "Web-based",
+  "description": "A secure retail Point of Sale system used by Security Shop Beograd for managing sales, inventory, and fiscal compliance in accordance with Serbian trade laws.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Security Shop Beograd"
+  }
+}
+</script>

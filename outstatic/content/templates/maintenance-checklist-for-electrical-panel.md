@@ -1,8 +1,13 @@
 ---
-title: 'maintenance checklist for electrical panel'
-status: 'published'
-slug: 'maintenance-checklist-for-electrical-panel'
+title: 'Electrical Panel Maintenance SOP: Safety & Inspection Guide'
+status: published
+slug: maintenance-checklist-for-electrical-panel
 publishedAt: '2026-05-11T09:42:19.996Z'
+description: >-
+  Follow our expert electrical panel maintenance SOP. Ensure compliance, safety,
+  and equipment longevity with this systematic inspection and cleaning
+  checklist.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Electrical Panel Maintenance
@@ -60,3 +65,53 @@ A: Do not attempt to simply clean or tighten it. A discolored wire indicates a s
 
 **Q: Can I perform this maintenance while the panel is live?**
 A: While NFPA 70E allows for limited work on energized equipment for testing purposes, best practices dictate that all maintenance, cleaning, and tightening must be performed in a de-energized state using LOTO. Energized maintenance requires a specialized risk assessment and elevated PPE.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should electrical panels be maintained?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Electrical panels should be inspected and maintained regularly in accordance with NFPA 70B standards to ensure facility safety and prevent equipment failure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What safety protocols are required before panel maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintenance requires strict adherence to LOTO (Lockout/Tagout) procedures per OSHA 29 CFR 1910.147, the use of proper PPE, and verification of a zero-energy state."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the minimum clearance for an electrical panel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Per NEC requirements, a minimum clearance of 36 inches must be maintained in front of the electrical panel at all times."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Electrical Panel Maintenance SOP Tool",
+  "applicationCategory": "Industrial Maintenance Utility",
+  "description": "A comprehensive Standard Operating Procedure for the inspection, cleaning, and maintenance of electrical distribution panels to ensure safety and code compliance.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

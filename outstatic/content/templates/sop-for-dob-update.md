@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Dob Update
+title: 'DOB Update Protocol: Standard Operating Procedure Guide'
 publishedAt: '2026-05-10T18:48:01.213Z'
+description: >-
+  Learn the mandatory verification and documentation process for updating user
+  Date of Birth (DOB) records to ensure regulatory compliance and data
+  integrity.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Date of Birth (DOB) Update Protocol
 
@@ -41,3 +46,52 @@ A: Generally, expired documents are not acceptable for identity verification. Ad
 
 **Q: How long should I keep the proof-of-identity documents?**
 A: Documents should be retained according to your company’s Data Retention Policy. Usually, these are stored in a secure, encrypted archive for the duration of the account lifecycle plus a mandatory statutory period (e.g., 7 years) for audit purposes.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What documents are required to update a user's Date of Birth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To update a DOB, users must provide official government-issued documentation, such as a Passport, Birth Certificate, or a valid Driver’s License."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is the DOB update process so strict?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Strict adherence to the DOB update protocol is essential for maintaining data integrity, meeting regulatory compliance standards, and mitigating the risk of identity fraud."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should be done with identity documents after verification?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Once verified, identity documents must be archived in a secure vault. Storing personal ID copies in unsecured folders or local caches is strictly prohibited."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "DOB Update CRM Management Module",
+  "applicationCategory": "Administrative Software",
+  "operatingSystem": "Web-based",
+  "description": "An internal administrative tool used to manage and audit user profile data modifications, specifically designed for secure Date of Birth verification and synchronization.",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "name": "Standard Operating Procedure: Date of Birth Update Protocol"
+  }
+}
+</script>

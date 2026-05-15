@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: OCI Card Application (BLS Toronto)'
-status: 'published'
-slug: 'checklist-for-oci-application-toronto'
+title: 'OCI Card Application Guide: BLS Toronto Requirements'
+status: published
+slug: checklist-for-oci-application-toronto
 publishedAt: '2026-05-07T18:59:25.360Z'
+description: >-
+  Applying for an OCI card in Toronto? Follow this expert guide for BLS document
+  checklists, appointment booking, and essential application tips to avoid
+  delays.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: OCI Card Application (BLS Toronto)
@@ -46,3 +51,52 @@ While processing times fluctuate based on the volume at the Consulate, applicant
 
 **3. Do I need to surrender my Indian passport if I have already acquired foreign citizenship?**
 Yes. You are legally required to renounce your Indian citizenship and obtain a Surrender Certificate before your OCI application can be processed.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What documents are required for an OCI application at BLS Toronto?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key documents include the completed MHA application form, valid foreign passport, proof of Indian origin (Surrender Certificate), two 2x2 inch photos, proof of address in the Toronto jurisdiction, and proof of legal status (PR card or visa)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book an OCI appointment at BLS Toronto?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appointments must be scheduled directly through the official BLS International Toronto website. Ensure you print your appointment confirmation receipt for your visit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I staple my OCI application documents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, you should not staple your documents. BLS International requires applicants to organize paperwork using paperclips in the exact order specified on the checklist."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "MHA OCI Portal",
+  "applicationCategory": "GovernmentApplication",
+  "operatingSystem": "Web-based",
+  "description": "The official Ministry of Home Affairs portal for submitting and managing Overseas Citizen of India (OCI) card applications.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Ministry of Home Affairs, Government of India"
+  }
+}
+</script>

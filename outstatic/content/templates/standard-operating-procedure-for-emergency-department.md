@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Emergency Department
+title: 'ED Patient Management SOP: Clinical Triage & Stabilization'
 publishedAt: '2026-05-10T18:48:01.724Z'
+description: >-
+  Learn the standard ED patient management protocol, from ESI triage and
+  clinical stabilization to disposition and EMTALA-compliant transfer
+  procedures.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Emergency Department Patient Management
 
@@ -46,3 +51,53 @@ Ensure the patient is informed of the clinical risks. A formal AMA form must be 
 
 **3. What is the priority if the ED reaches capacity (surge status)?**
 Activate the Surge/Disaster Protocol. This involves clearing the waiting room of low-acuity patients, transitioning to "vertical" patient flow (treating patients in chairs rather than beds), and requesting additional staffing support from inpatient floors.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the Emergency Severity Index (ESI) used for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The ESI is a triage tool used to categorize patients into levels 1–5 based on acuity, ensuring life-saving interventions are prioritized within 5 minutes of arrival."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the primary goals of the ED disposition phase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The disposition phase aims to finalize a clear plan for admission, discharge, or transfer, ensuring patient safety through medication reconciliation and clear discharge education."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is patient safety maintained during ED handovers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patient safety during handovers is maintained by utilizing the SBAR (Situation, Background, Assessment, Recommendation) framework to ensure accurate clinical communication."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Emergency Department Patient Management SOP",
+  "applicationCategory": "MedicalSoftware",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure framework for ED clinical workflows, triage, and patient disposition management.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

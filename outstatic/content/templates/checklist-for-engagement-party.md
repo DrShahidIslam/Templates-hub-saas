@@ -1,8 +1,12 @@
 ---
-title: 'Standard Operating Procedure: Engagement Party Execution'
-status: 'published'
-slug: 'checklist-for-engagement-party'
+title: 'Engagement Party Planning SOP: Professional Execution Guide'
+status: published
+slug: checklist-for-engagement-party
 publishedAt: '2026-05-07T18:59:25.178Z'
+description: >-
+  Streamline your engagement party planning with our professional SOP. Learn the
+  essential steps for budgeting, logistics, and event day execution.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Engagement Party Execution
@@ -52,3 +56,53 @@ A: Generally, engagement parties are not "gift-heavy" events. However, it is pru
 
 **Q: How do we handle guests who RSVP late?**
 A: Have a policy in place: reach out once via phone or email three days after the RSVP deadline. If you do not receive a response, assume they are not attending. Do not wait for late RSVPs to finalize your catering numbers, as this risks shortages.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should be included in an engagement party budget?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your budget should cover all event costs plus a 10% contingency fund to account for unforeseen expenses and last-minute requirements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far in advance should I finalize engagement party vendors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is recommended to finalize contracts for catering, photography, and entertainment 1–2 months prior to the event date."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a run-of-show (ROS) document?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A run-of-show (ROS) is a minute-by-minute timeline for the event, detailing arrival times, speech slots, transitions, and vendor coordination."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Engagement Party Planning SOP Template",
+  "applicationCategory": "BusinessApplication",
+  "description": "A comprehensive operational framework for planning and executing professional engagement parties.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

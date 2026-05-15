@@ -1,8 +1,13 @@
 ---
-title: 'safety checklist for shoulder dystocia'
-status: 'published'
-slug: 'safety-checklist-for-shoulder-dystocia'
+title: 'Shoulder Dystocia Protocol: HELPERR Maneuver Guide'
+status: published
+slug: safety-checklist-for-shoulder-dystocia
 publishedAt: '2026-05-11T10:08:05.831Z'
+description: >-
+  Master the HELPERR protocol for shoulder dystocia. Learn rapid clinical
+  maneuvers, fetal safety steps, and emergency management to reduce birth
+  complications.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Shoulder Dystocia Emergency Management
@@ -49,3 +54,54 @@ Yes. High-reliability organizations conduct multidisciplinary simulation drills 
 
 **3. What is the primary indicator that the dystocia is resolved?**
 The delivery of the posterior arm or the rotation of the shoulders into the oblique diameter is the most reliable indicator of release. Once the shoulder is "unlocked," delivery of the torso should proceed smoothly without excessive downward traction.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the HELPERR mnemonic for shoulder dystocia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "HELPERR stands for Help, Episiotomy, Legs (McRoberts Maneuver), Pressure (Suprapubic), Enter maneuvers (internal rotation), Remove posterior arm, and Roll the patient."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the turtle sign in obstetrics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The turtle sign is the retraction of the fetal head against the maternal perineum, which is a clinical indicator that shoulder dystocia has occurred."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should fundal pressure be used during shoulder dystocia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Fundal pressure is strictly contraindicated in shoulder dystocia as it can worsen impaction and increase the risk of uterine rupture or fetal injury."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Shoulder Dystocia Emergency Management SOP",
+  "applicationCategory": "Medical Decision Support",
+  "description": "A clinical decision support guide for obstetricians and healthcare professionals to manage shoulder dystocia via the HELPERR protocol.",
+  "operatingSystem": "Web",
+  "softwareVersion": "1.0",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

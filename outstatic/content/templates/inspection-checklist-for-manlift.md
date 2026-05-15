@@ -1,3 +1,13 @@
+---
+title: 'Daily Manlift Inspection SOP: OSHA & ANSI Safety Checklist'
+description: >-
+  Ensure site safety with our daily manlift inspection SOP. Follow this
+  essential checklist for MEWP compliance with OSHA 29 CFR 1910.67 and ANSI A92
+  standards.
+status: published
+publishedAt: '2026-05-15T04:41:45.089Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Daily Manlift Inspection
 
 This Standard Operating Procedure (SOP) outlines the mandatory pre-operation inspection requirements for all mobile elevating work platforms (MEWPs), commonly referred to as manlifts. To ensure site safety and compliance with OSHA 29 CFR 1910.67 and ANSI/SAIA A92 standards, every operator must perform a documented walk-around inspection before the start of each shift or whenever the equipment changes operators. Failure to identify mechanical deficiencies or site hazards before elevating can result in catastrophic equipment failure or severe injury.
@@ -38,3 +48,54 @@ The inspection must be performed at the beginning of each shift. If the machine 
 
 **3. Am I required to wear a harness if the basket has rails?**
 Yes. OSHA and ANSI/SAIA standards strictly require the use of a fall restraint system (harness and lanyard) attached to the designated anchor point inside the basket at all times, regardless of the height or type of MEWP.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often must a manlift inspection be performed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A documented walk-around inspection must be performed before the start of each shift or whenever the equipment changes operators."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which safety standards govern manlift inspections?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Manlift inspections are governed by OSHA 29 CFR 1910.67 and ANSI/SAIA A92 standards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should be checked in the hydraulic system of a manlift?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Inspect hydraulic hoses, cylinders, and fittings for signs of leakage or 'sweating' and verify that hydraulic fluid levels are adequate."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Manlift Inspection SOP Checklist",
+  "applicationCategory": "Safety Management Tool",
+  "description": "Standard operating procedure for performing mandatory pre-operation inspections on mobile elevating work platforms (MEWPs).",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  },
+  "featureList": "Pre-start documentation, structural inspection, mechanical check, power and control system testing, emergency system verification."
+}
+</script>

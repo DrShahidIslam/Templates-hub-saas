@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: OCI Application Submission'
-status: 'published'
-slug: 'checklist-for-oci-application'
+title: 'OCI Application Guide: Expert SOP for Faster Processing'
+status: published
+slug: checklist-for-oci-application
 publishedAt: '2026-05-07T18:59:25.361Z'
+description: >-
+  Master the OCI application process with our step-by-step SOP. Learn document
+  requirements, avoid rejection, and ensure a smooth submission to the
+  consulate.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: OCI Application Submission
@@ -54,3 +59,48 @@ A: Processing times vary by jurisdiction, typically ranging from 8 to 12 weeks. 
 
 **Q: Do I need to surrender my Indian passport before applying for OCI?**
 A: Yes, the surrender of Indian citizenship and the acquisition of the Renunciation Certificate are mandatory prerequisites for any former Indian citizen.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What documents are required for an OCI application?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key documents include a current valid passport, proof of Indian origin (e.g., surrender certificate or old Indian passport), proof of address, and your signed OCI application form."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long should my passport be valid for OCI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your current foreign passport must have at least 6 months of validity remaining at the time of your OCI application."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can citizens of Pakistan or Bangladesh apply for OCI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, individuals who are citizens of Pakistan or Bangladesh, or who have ever held citizenship in these countries, are not eligible for the OCI card."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "OCI Online Application Portal",
+  "applicationCategory": "Government Application Portal",
+  "operatingSystem": "Web Browser",
+  "description": "The official online platform used by applicants to submit digital OCI documentation and registration data to the Ministry of Home Affairs."
+}
+</script>

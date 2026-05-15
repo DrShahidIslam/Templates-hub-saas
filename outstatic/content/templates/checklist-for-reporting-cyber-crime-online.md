@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Reporting Cybercrime Online'
-status: 'published'
-slug: 'checklist-for-reporting-cyber-crime-online'
+title: 'How to Report Cybercrime: Official SOP for Evidence Gathering'
+status: published
+slug: checklist-for-reporting-cyber-crime-online
 publishedAt: '2026-05-07T18:59:25.402Z'
+description: >-
+  Learn how to report cybercrime effectively. Follow our professional SOP for
+  incident containment, evidence preservation, and filing reports with
+  authorities.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Reporting Cybercrime Online
@@ -52,3 +57,53 @@ A: Generally, no. Most cybercrimes involve sophisticated, cross-border actors. P
 
 **Q: How long should I keep my evidence?**
 A: Retain all original documentation and digital files for a minimum of two years, or until you receive written notice that the investigation is closed and no longer requires your cooperation.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I turn off my computer if I suspect a cyberattack?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Powering off a machine can clear volatile memory (RAM) that may contain critical evidence like encryption keys or malicious code. It is recommended to disconnect from the network but keep the device powered on until an IT professional can assist."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What evidence is needed to report cybercrime?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key evidence includes screenshots of suspicious activity, full email headers, system logs, transaction IDs, a detailed timeline of events, and any communication records like chat transcripts or phishing emails."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I preserve evidence after a cyber incident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should disconnect affected devices from the internet to prevent data exfiltration, capture screenshots of the incident, export firewall and antivirus logs, and avoid modifying or opening files associated with the breach."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Cybercrime Reporting SOP Guide",
+  "applicationCategory": "SecuritySoftware",
+  "description": "An operational guide for individuals and organizations on documenting and reporting cyber-related criminal activity to legal and regulatory authorities.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

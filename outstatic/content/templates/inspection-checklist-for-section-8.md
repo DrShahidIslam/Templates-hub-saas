@@ -1,3 +1,13 @@
+---
+title: 'Section 8 HQS Inspection Checklist: Prep Guide for Landlords'
+description: >-
+  Pass your Section 8 HQS inspection with our expert SOP. Learn the essential
+  requirements for exterior, interior, and kitchen safety to keep your HAP
+  payments.
+status: published
+publishedAt: '2026-05-15T04:45:59.286Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Section 8 Housing Quality Standards (HQS) Inspection
 
 This Standard Operating Procedure (SOP) serves as a comprehensive guide for property owners and managers to prepare for Section 8 Housing Quality Standards (HQS) inspections. Compliance with HQS is mandatory to ensure the dwelling is "decent, safe, and sanitary" according to HUD regulations. Failure to pass these inspections can lead to the abatement of Housing Assistance Payments (HAP) and potential termination of the lease agreement. Use this document to conduct a proactive internal audit before the official Public Housing Authority (PHA) inspector arrives.
@@ -49,3 +59,53 @@ A: HQS regulations state that if the window was designed to have a screen and it
 
 **Q: Can I request a re-inspection if I disagree with the findings?**
 A: Yes. If you believe an item was flagged incorrectly, contact your local PHA immediately to provide documentation or request a supervisory review before the re-inspection date.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common causes for failing a Section 8 HQS inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common failures include smoke detector issues, peeling paint (especially in pre-1978 buildings), trip hazards from flooring, broken window locks, and active plumbing leaks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are smoke and carbon monoxide detectors mandatory for HQS inspections?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Smoke detectors are required on every level and near sleeping areas. Carbon monoxide detectors are mandatory if the unit has gas appliances or an attached garage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if a property fails an HQS inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Failure to pass may result in the abatement (suspension) of Housing Assistance Payments (HAP) and could lead to the termination of the lease agreement if repairs are not addressed promptly."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Section 8 HQS Inspection Checklist",
+  "applicationCategory": "Productivity",
+  "operatingSystem": "Web",
+  "description": "A comprehensive guide and checklist designed for property owners and managers to ensure compliance with HUD Housing Quality Standards (HQS) for Section 8 housing.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

@@ -1,3 +1,13 @@
+---
+title: 'JKKP Compliance Audit SOP: OSHA 1994 Best Practices'
+description: >-
+  Master your JKKP compliance audit with our detailed SOP. Learn how to meet
+  DOSH, OSHA 1994, and HIRARC standards to ensure workplace safety and legal
+  compliance.
+status: published
+publishedAt: '2026-05-15T02:54:53.083Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: JKKP Compliance Audit
 
 This Standard Operating Procedure (SOP) outlines the systematic approach for conducting a Jabatan Keselamatan dan Kesihatan Pekerjaan (JKKP) or DOSH compliance audit. The objective of this procedure is to ensure that all workplace activities, machinery, and safety management systems adhere to the Occupational Safety and Health Act (OSHA) 1994 and its associated regulations. Maintaining compliance is critical to mitigating legal risks, preventing industrial accidents, and fostering a culture of safety.
@@ -41,3 +51,53 @@ A: Incomplete documentation for Competent Persons and expired Certificates of Fi
 
 **Q: Are JKKP officers authorized to inspect all areas of the facility?**
 A: Yes, under the OSHA 1994, an authorized officer has the right to enter, inspect, and examine any premise, machinery, or equipment to ensure compliance with the Act. Full cooperation is a legal requirement.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary objective of a JKKP compliance audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary objective is to ensure that all workplace machinery, operations, and safety management systems strictly adhere to the Occupational Safety and Health Act (OSHA) 1994 regulations to mitigate risks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often must a Safety and Health Committee (SHC) meet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to regulatory requirements, the Safety and Health Committee must convene at least once every three months, with all minutes officially recorded and signed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documentation is required for JKKP machinery compliance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must maintain valid Certificates of Fitness (CF) or current inspection reports for all Prescribed Machinery (PMA) and Unfired Pressure Vessels (PMT)."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "JKKP Compliance Audit SOP Management System",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "All",
+  "description": "A standardized framework for maintaining occupational safety and health compliance under DOSH/JKKP regulations, covering documentation, machinery integrity, and risk controls.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "MYR"
+  }
+}
+</script>

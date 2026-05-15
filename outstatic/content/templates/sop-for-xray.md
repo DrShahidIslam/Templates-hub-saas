@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop For Xray
+title: 'Diagnostic X-Ray Imaging: SOP & Safety Protocols'
 publishedAt: '2026-05-10T18:48:01.565Z'
+description: >-
+  Master diagnostic X-ray imaging protocols. Learn patient preparation, safety,
+  equipment positioning, and ALARA standards in this comprehensive SOP guide.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Diagnostic X-Ray Imaging
 
@@ -52,3 +56,52 @@ A: No. Grids should only be used for body parts exceeding 10-12 cm in thickness.
 
 **Q: What is the procedure if a patient refuses the exam?**
 A: Document the refusal clearly in the patient's electronic health record, inform the ordering physician immediately, and have the patient sign a "Refusal of Diagnostic Procedure" form if required by hospital policy.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the core ALARA principles in X-ray imaging?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ALARA stands for 'As Low As Reasonably Achievable.' It involves minimizing radiation exposure through tight collimation, proper shielding, and precise equipment settings to ensure patient safety."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why must radiopaque objects be removed before X-ray?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Radiopaque objects like jewelry or metal fasteners can create artifacts on the image, obscuring critical anatomical details and potentially leading to misdiagnosis."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the importance of collimation in X-ray procedures?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Collimation restricts the X-ray beam to the specific area of interest. This reduces scatter radiation, improves image contrast, and minimizes the patient's radiation dose."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Radiology Information System (RIS)",
+  "applicationCategory": "MedicalSoftware",
+  "operatingSystem": "All",
+  "description": "Professional software used in clinical environments for managing patient demographics, examination parameters, and medical imaging workflows for X-ray procedures.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Professional Medical SOP"
+  }
+}
+</script>

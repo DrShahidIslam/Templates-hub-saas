@@ -1,3 +1,13 @@
+---
+title: Related Party Transactions (RPT) Audit SOP Guide
+description: >-
+  Master Related Party Transaction audits with this comprehensive SOP. Learn
+  identification, substantiation, and IAS 24 disclosure best practices for
+  compliance.
+status: published
+publishedAt: '2026-05-15T02:50:12.253Z'
+seo_optimized: true
+---
 # SOP: Audit Procedures for Related Party Transactions (RPT)
 
 ## Purpose and Scope
@@ -43,3 +53,52 @@ Yes. Even if an agreement is not formal, the economic impact is real. Auditors m
 
 **3. What if a management member denies the existence of a relationship?**
 If management denies a relationship that evidence suggests exists, this must be treated as a potential management integrity issue and elevated to the Audit Committee or external legal counsel immediately.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of an RPT audit procedure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary goal is to ensure all transactions between an entity and its related parties are identified, substantiated, properly approved, and accurately disclosed to prevent conflicts of interest."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you verify 'Arm's Length' terms in RPTs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Arm's length verification is achieved by benchmarking transaction terms against market price quotes, obtaining independent valuations, or comparing them to similar transactions with unrelated parties."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for RPT compliance testing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key documents include the Related Party Register, board meeting minutes, signed contracts, Master Service Agreements (MSAs), and the company's Delegation of Authority (DoA) matrix."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "RPT Audit Procedure Software",
+  "applicationCategory": "FinanceApplication",
+  "operatingSystem": "Web",
+  "description": "A comprehensive audit framework and SOP tool for managing Related Party Transactions (RPT) in compliance with IAS 24 standards.",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "name": "RPT Audit SOP Documentation"
+  }
+}
+</script>

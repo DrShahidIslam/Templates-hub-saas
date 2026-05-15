@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Friability Test Apparatus
+title: 'Friability Testing SOP: Tablet Durability Guide (USP <1216>)'
 publishedAt: '2026-05-10T18:48:01.257Z'
+description: >-
+  Master USP <1216> compliant friability testing with our step-by-step SOP.
+  Learn protocols for sample preparation, apparatus calibration, and durability
+  analysis.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Friability Testing (Tablet Durability)
 
@@ -52,3 +57,53 @@ A: According to standard industry practice, if a tablet cracks, splits, or break
 
 **Q: Does this procedure apply to sugar-coated or film-coated tablets?**
 A: No. Friability testing is generally intended for uncoated tablets. Coated tablets are typically subjected to different mechanical tests (e.g., tablet hardness or coating adhesion tests) because friability testing will damage the coating before testing the core.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the purpose of friability testing for tablets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Friability testing evaluates the physical integrity of uncoated tablets, measuring their ability to withstand abrasion and mechanical shock during shipping and handling."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the standard test parameters for friability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Per USP <1216> standards, the apparatus should be configured for 100 rotations at a speed of 25 ± 1 rpm."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should samples be prepared for a friability test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Samples should be de-dusted using a soft-bristled brush or compressed air, then weighed (W1) to the nearest 0.1mg before being placed into the drum."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Friability Test Apparatus Protocol",
+  "applicationCategory": "Quality Control Measurement",
+  "description": "Standard operating procedure for performing tablet friability testing in compliance with USP <1216> laboratory standards.",
+  "operatingSystem": "Laboratory Hardware",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

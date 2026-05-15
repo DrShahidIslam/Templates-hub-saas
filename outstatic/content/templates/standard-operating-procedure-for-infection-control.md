@@ -1,7 +1,11 @@
 ---
 status: published
-title: Standard Operating Procedure For Infection Control
+title: 'Infection Control SOP: Essential Safety & Hygiene Protocols'
 publishedAt: '2026-05-10T18:48:01.828Z'
+description: >-
+  Learn mandatory infection control protocols. Access essential guidelines for
+  hand hygiene, PPE, environmental cleaning, and biohazard waste management.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Infection Control Protocols
 
@@ -43,3 +47,53 @@ A: Every cleaning event must be logged immediately upon completion. If a surface
 
 **Q: What should I do if the designated biohazard waste container is full?**
 A: Never force waste into an overfilled container. Immediately notify the maintenance or custodial lead to request a replacement container. If a spill occurs while moving waste, isolate the area and contact the Environmental Services team for professional decontamination.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the proper hand hygiene protocol?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wash hands with soap and water for at least 20 seconds or use an alcohol-based hand rub (60-95% ethanol) before and after contact with patients or contaminated surfaces."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the correct sequence for removing PPE (Doffing)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Remove items in the following order: gloves first, followed by face shield or goggles, gown, and finally the mask. Perform hand hygiene immediately after removal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should biohazard waste be managed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Segregate infectious waste into red, biohazard-labeled bags. Ensure bags are sealed at 75% capacity to prevent leakage."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Infection Control SOP Management System",
+  "applicationCategory": "Healthcare Software",
+  "operatingSystem": "Web-based",
+  "description": "Standard Operating Procedure documentation for healthcare facilities, covering PPE, sterilization, and waste management compliance.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

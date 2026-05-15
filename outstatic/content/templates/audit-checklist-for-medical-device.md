@@ -1,3 +1,13 @@
+---
+title: 'Medical Device QMS Audit SOP: ISO 13485 & FDA Compliance'
+description: >-
+  Master your medical device QMS audit with this comprehensive SOP. Ensure
+  compliance with ISO 13485:2016 and FDA 21 CFR Part 820 standards for audit
+  readiness.
+status: published
+publishedAt: '2026-05-15T02:48:25.761Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Medical Device Quality Management System (QMS) Audit
 
 This Standard Operating Procedure (SOP) outlines the comprehensive audit process for verifying compliance with medical device regulatory requirements, including ISO 13485:2016 and FDA 21 CFR Part 820. This audit is designed to assess the effectiveness of the Quality Management System, ensure product safety and efficacy, and maintain a state of continuous "audit readiness." Auditors must document all findings objectively, referencing specific regulatory clauses or internal procedures to ensure transparency and traceability throughout the device lifecycle.
@@ -47,3 +57,54 @@ A: The CAPA log and the Management Review minutes. These two documents provide a
 
 **Q: If we find a non-conformance during an internal audit, does it automatically mean we will fail a regulatory inspection?**
 A: No. In fact, finding and documenting your own non-conformances—and initiating a CAPA to fix them—demonstrates a robust and functioning QMS. Regulatory bodies prefer to see a self-correcting system rather than a "perfect" system that hides errors.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What standards are covered in this Medical Device QMS Audit SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This SOP covers compliance requirements for ISO 13485:2016 and FDA 21 CFR Part 820 to ensure your Quality Management System meets global regulatory standards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is included in Phase 2 of the audit process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Phase 2 focuses on Design and Development Controls, including a review of the Design History File (DHF), design reviews, ISO 14971 risk management files, and verification of design changes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does this SOP address CAPA and Post-Market Surveillance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The SOP mandates a review of the CAPA log for root cause analysis, assessment of complaint handling procedures, and verification that Post-Market Surveillance (PMS) plans are actively managing real-world risk data."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Medical Device QMS Audit SOP Tool",
+  "applicationCategory": "Quality Management System Audit",
+  "operatingSystem": "All",
+  "description": "A standardized audit framework for ensuring regulatory compliance of Medical Device QMS processes including ISO 13485 and FDA 21 CFR Part 820.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Free",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

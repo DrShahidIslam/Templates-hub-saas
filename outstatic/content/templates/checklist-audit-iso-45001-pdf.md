@@ -1,3 +1,13 @@
+---
+title: 'ISO 45001 Internal Audit SOP: Complete Guide & Checklist'
+description: >-
+  Master the ISO 45001 internal audit process with our expert SOP. Learn to
+  plan, execute, and document OHSMS compliance for your organization
+  efficiently.
+status: published
+publishedAt: '2026-05-15T02:54:48.930Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: ISO 45001 Internal Audit Process
 
 This document outlines the systematic procedure for conducting an internal audit of an Occupational Health and Safety Management System (OHSMS) in compliance with ISO 45001:2018. The objective of this audit is to verify that the organization’s safety processes are effectively implemented, maintained, and continually improved. This SOP is designed to serve as a framework for generating or executing a comprehensive PDF audit checklist, ensuring all mandatory requirements of the standard are systematically evaluated and documented.
@@ -43,3 +53,53 @@ While you can, it is recommended to rotate auditors or introduce a fresh pair of
 
 **3. What happens if I find a non-conformity during the audit?**
 Do not panic. A non-conformity is a standard part of the ISO process. It provides the necessary evidence to trigger a corrective action, which is a core component of the "Plan-Do-Check-Act" cycle required for continuous improvement.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of an ISO 45001 internal audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary goal is to verify that an organization's Occupational Health and Safety Management System (OHSMS) is effectively implemented, maintained, and continually improved in compliance with ISO 45001:2018 standards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who should be appointed to the ISO 45001 audit team?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Internal auditors should be impartial, objective, and possess adequate competence in both ISO 45001 requirements and the specific hazards associated with the organization's workplace."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for ISO 45001 audit preparation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key documents include the Quality Manual, previous audit reports, risk registers, legal registers, safety meeting minutes, and a structured audit checklist covering ISO 45001 clauses 4.1 through 10.2."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "ISO 45001 Audit Management System",
+  "applicationCategory": "BusinessApplication",
+  "description": "A comprehensive SOP framework for managing ISO 45001 internal audits, including checklist generation, evidence collection, and non-conformity reporting.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

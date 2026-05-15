@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Nbfc
+title: 'NBFC Operations & Compliance SOP: A Complete Guide'
 publishedAt: '2026-05-10T18:48:01.869Z'
+description: >-
+  Master NBFC operational compliance. Learn mandatory KYC, loan underwriting,
+  disbursement protocols, and asset quality management in this comprehensive SOP
+  guide.
+seo_optimized: true
 ---
 # Standard Operating Procedure: NBFC Operations & Compliance
 
@@ -52,3 +57,52 @@ A: Unusual patterns such as multiple cash deposits just below the reporting thre
 
 **Q3: Can the company outsource the underwriting process?**
 A: While you may use third-party tools for credit scoring, the final responsibility of credit underwriting and the decision to sanction rests entirely with the NBFC; this cannot be outsourced to a third party.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key components of NBFC customer onboarding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key components include collecting OVDs (PAN, Aadhaar), performing Video-KYC, conducting AML/CFT screening against sanction lists, and verifying credit history via bureaus."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is a DOP matrix important for NBFC loan approvals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Delegation of Power (DOP) matrix ensures that loan sanctions are approved only by authorized personnel, maintaining internal risk controls and accountability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are cash disbursements allowed in NBFC operations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, cash disbursements are strictly prohibited per regulatory guidelines. All funds must be transferred directly to the customer’s verified bank account via NEFT/RTGS/IMPS."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "NBFC Operations & Compliance Management System",
+  "applicationCategory": "FinanceApplication",
+  "description": "Standardized operational framework for NBFCs covering KYC, credit underwriting, automated disbursement, and asset quality management.",
+  "operatingSystem": "Web-based",
+  "offers": {
+    "@type": "Offer",
+    "category": "Compliance Management"
+  }
+}
+</script>

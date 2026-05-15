@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop Safety Reporting Clinical Trials
+title: 'Clinical Trial Safety Reporting SOP: SAE & AE Guidelines'
 publishedAt: '2026-05-10T18:48:01.607Z'
+description: >-
+  Master clinical trial safety reporting with this comprehensive SOP. Learn
+  mandatory procedures for AE identification, SAE documentation, and regulatory
+  compliance.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Safety Reporting in Clinical Trials
 
@@ -42,3 +47,53 @@ Yes. In clinical trials, the safety reporting period usually begins upon the sig
 
 **3. What is the difference between "Expected" and "Unexpected" safety events?**
 An "Expected" event is one that is listed in the current Investigator’s Brochure (IB) or Protocol. An "Unexpected" event is one that is not listed or occurs with a greater severity/frequency than previously documented. Unexpected SAEs often require additional, immediate notification to regulatory authorities (e.g., SUSAR reports).
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the timeline for reporting a Serious Adverse Event (SAE)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to the SOP, sites must notify the Sponsor or CRO of any Serious Adverse Event (SAE) within 24 hours of site awareness, regardless of causality."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What defines an event as a Serious Adverse Event (SAE)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An event is classified as serious if it results in death, is life-threatening, requires inpatient hospitalization or prolonged stay, results in persistent disability/incapacity, or involves a congenital anomaly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is responsible for the causality assessment of an Adverse Event?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Principal Investigator (PI) is responsible for providing the initial assessment of the relationship between the investigational product and the Adverse Event."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Clinical Safety Reporting SOP Framework",
+  "applicationCategory": "Medical Software",
+  "description": "Standard Operating Procedure framework for managing and reporting Adverse Events in clinical trials to ensure regulatory compliance.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

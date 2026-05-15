@@ -1,3 +1,12 @@
+---
+title: 'UT Austin Audit Form Submission SOP: Compliance Guide'
+description: >-
+  Master the UT Austin audit form submission process. Follow this step-by-step
+  SOP for document compliance, data integrity, and internal audit readiness.
+status: published
+publishedAt: '2026-05-15T02:53:05.014Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Audit Form Submission and Compliance (UT Austin)
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for completing, reviewing, and submitting audit documentation within the University of Texas at Austin framework. Adherence to these procedures ensures fiscal responsibility, institutional compliance with UT System policies, and seamless coordination with the Office of Internal Audits or relevant departmental oversight committees. Accuracy in these filings is critical to maintaining audit readiness and institutional transparency.
@@ -43,3 +52,52 @@ A: Yes. Unless otherwise specified by your department, use the format: `YYYYMMDD
 
 **Q: How long must I keep the supporting documentation for these audit forms?**
 A: Per UT Austin records policy, most financial audit documentation must be retained for the current fiscal year plus three additional fiscal years. Always check the specific retention category for your department’s unique records in the *Records Management Services* database.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I access the UT Austin Internal Audit Portal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Access the UT Austin Internal Audit Portal by logging in with your UT EID and completing multi-factor authentication (Duo) at audit.utexas.edu."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What supporting documents are required for UT Austin audits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must compile ledger reports from DEFINE or Workday, proof of transaction authorization (VP forms), reconciliation summaries, and relevant inventory logs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should discrepancies be handled on audit forms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Any numerical discrepancies exceeding the department's materiality threshold must be explicitly documented in the 'Comments/Discrepancies' section of the form."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "UT Austin Internal Audit Portal",
+  "applicationCategory": "EducationalApplication",
+  "operatingSystem": "Web-based",
+  "provider": {
+    "@type": "EducationalOrganization",
+    "name": "University of Texas at Austin"
+  },
+  "description": "The official UT Austin portal for managing audit documentation, fiscal compliance, and internal audit form submissions."
+}
+</script>

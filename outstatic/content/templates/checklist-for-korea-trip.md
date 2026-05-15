@@ -1,8 +1,12 @@
 ---
-title: 'Standard Operating Procedure: South Korea Trip Preparation'
-status: 'published'
-slug: 'checklist-for-korea-trip'
+title: 'South Korea Travel SOP: Essential Checklist for 2024'
+status: published
+slug: checklist-for-korea-trip
 publishedAt: '2026-05-07T18:59:25.297Z'
+description: >-
+  Master your South Korea trip with this expert SOP. Learn about K-ETA,
+  essential apps like Naver Map & Papago, T-Money cards, and airport logistics.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: South Korea Trip Preparation
@@ -49,3 +53,53 @@ Avoid exchanging large amounts at the airport as rates are generally unfavorable
 
 **3. Do I need to book activities in advance?**
 For major tourist attractions like the Gyeongbokgung Palace (if wearing a Hanbok) or high-end restaurants, booking at least 1-2 weeks in advance is highly recommended, especially during peak seasons (cherry blossom season or autumn foliage).
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a K-ETA to travel to South Korea?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if you are from a visa-free country, you must apply for a K-ETA via the official website at least 72 hours before your flight."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why doesn't Google Maps work well in South Korea?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Due to local security policies, Google Maps has limited functionality. We recommend using Naver Map or KakaoMap for accurate navigation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a T-Money card and do I need one?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A T-Money card is a rechargeable transit card essential for using public transportation, including subways and buses, and for making small purchases at kiosks."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "South Korea Travel SOP Guide",
+  "applicationCategory": "TravelApplication",
+  "operatingSystem": "All",
+  "description": "A comprehensive operational framework and digital guide for travelers visiting South Korea.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

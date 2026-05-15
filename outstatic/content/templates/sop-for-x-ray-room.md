@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop For X Ray Room
+title: 'X-Ray Room Safety SOP: ALARA Protocols & Operational Guide'
 publishedAt: '2026-05-10T18:48:01.555Z'
+description: >-
+  Follow our comprehensive X-Ray Room SOP for safety, equipment maintenance, and
+  ALARA compliance. Ensure optimal diagnostic imaging and radiation protection.
+seo_optimized: true
 ---
 # Standard Operating Procedure: X-Ray Room Operations and Safety
 
@@ -50,3 +54,53 @@ A: If the warning light is non-functional, the room must be taken out of service
 
 **Q: Can I manually override a technique setting?**
 A: While manual overrides are possible, they should only be used by experienced technologists for non-standard anatomy or specialized orthopedic hardware. Always prioritize the facility’s validated exposure charts.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of the X-Ray room safety SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The SOP ensures compliance with ALARA (As Low As Reasonably Achievable) radiation safety standards, protects equipment, and guarantees diagnostic image quality."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should lead apparel be inspected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lead aprons, thyroid collars, and gonadal shields should undergo a visual inspection before every use and a fluoroscopic check of lead integrity on a monthly basis."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the mandatory procedure for patients of childbearing age?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All patients of childbearing age must undergo a mandatory verbal pregnancy screening, with the response documented in their medical record."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "X-Ray Room Safety Management System",
+  "applicationCategory": "Medical Software",
+  "operatingSystem": "All",
+  "description": "Standardized protocol management software for X-Ray suite operation, safety compliance, and patient radiation dose reduction.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

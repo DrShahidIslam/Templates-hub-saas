@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Basic Compliance with the Basic Conditions of Employment Act (BCEA)'
-status: 'published'
-slug: 'checklist-for-basic-compliance-bcea'
+title: 'BCEA Compliance SOP: Basic Conditions of Employment Guide'
+status: published
+slug: checklist-for-basic-compliance-bcea
 publishedAt: '2026-05-07T18:59:25.116Z'
+description: >-
+  Master South African labor law compliance with our BCEA SOP. Learn key
+  requirements for working hours, leave, contracts, and employment record
+  keeping.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Basic Compliance with the Basic Conditions of Employment Act (BCEA)
@@ -57,3 +62,53 @@ A: If the employee is absent for more than two consecutive days or on more than 
 
 <div data-html2canvas-ignore="true" style="display:none">BCEA compliance checklist, Basic Conditions of Employment Act South Africa, BCEA employment contract requirements, how to comply with BCEA, employee records management South Africa, labor law compliance for employers, BCEA working hours guidelines, HR compliance checklist South Africa, standard operating procedure for BCEA, employment contract templates South Africa, BCEA leave and remuneration rules, South African labor legislation for businesses, employer obligations under BCEA, guide to BCEA 75 of 1997, legal requirements for employment contracts SA</div>
 <!-- AI_KEYWORDS: BCEA compliance checklist, Basic Conditions of Employment Act South Africa, BCEA employment contract requirements, how to comply with BCEA, employee records management South Africa, labor law compliance for employers, BCEA working hours guidelines, HR compliance checklist South Africa, standard operating procedure for BCEA, employment contract templates South Africa, BCEA leave and remuneration rules, South African labor legislation for businesses, employer obligations under BCEA, guide to BCEA 75 of 1997, legal requirements for employment contracts SA -->
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the ordinary working hour limits under the BCEA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Under the BCEA, employees should not work more than 45 hours per week. This equates to a maximum of 9 hours per day for a 5-day work week or 8 hours per day for a 6-day work week."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much annual leave must an employer provide?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Employers must grant at least 21 consecutive days of paid annual leave per annual cycle, or 1 day of leave for every 17 days worked."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the requirements for meal intervals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Employees are entitled to a 60-minute unpaid meal break after 5 hours of continuous work."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "BCEA Compliance SOP Template",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "All",
+  "description": "A structured Standard Operating Procedure for managing South African Basic Conditions of Employment Act (BCEA) compliance, covering contracts, working hours, and leave policies.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "ZAR"
+  }
+}
+</script>

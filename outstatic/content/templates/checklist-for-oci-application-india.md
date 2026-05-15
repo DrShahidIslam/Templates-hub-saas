@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: OCI Card Application Process'
-status: 'published'
-slug: 'checklist-for-oci-application-india'
+title: 'OCI Card Application Guide: Step-by-Step SOP for Success'
+status: published
+slug: checklist-for-oci-application-india
 publishedAt: '2026-05-07T18:59:25.359Z'
+description: >-
+  Follow our expert SOP to master the OCI application process. Ensure document
+  compliance, photo specifications, and error-free registration for faster
+  approval.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: OCI Card Application Process
@@ -59,3 +64,54 @@ A: A foreign-origin spouse is eligible only after two years of marriage to an In
 
 **Q: What happens if my application is rejected due to a document error?**
 A: The consulate will usually email you a notification of "Deficiency." You must rectify the specific error and re-submit the requested documents promptly to avoid the application being closed/forfeited.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the essential requirements for an OCI application?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Applicants must provide proof of Indian origin (cancelled Indian passport or birth/school certificate), a valid foreign passport, a renunciation/surrender certificate, and proof of address."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the photo specifications for the OCI card?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The digital photograph must be 51mm x 51mm with a white background, no shadows, and no eyeglasses."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why do OCI applications get rejected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common reasons for rejection include discrepancies in data entry, incorrect image specifications, poor signature quality, or mismatched documentation details."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "OCI Services Portal",
+  "applicationCategory": "Governmental Application",
+  "operatingSystem": "Web-based",
+  "description": "Official portal provided by the Indian government for Overseas Citizen of India registration and processing.",
+  "url": "https://ociservices.gov.in/",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  }
+}
+</script>

@@ -1,7 +1,12 @@
 ---
 status: published
-title: Dha Onboarding Checklist For Contractor Employees
+title: 'DHA Contractor Onboarding SOP: Mandatory Compliance Guide'
 publishedAt: '2026-05-10T18:48:00.851Z'
+description: >-
+  Master the DHA contractor onboarding process. Learn requirements for vetting,
+  CAC eligibility, ICAM access, and security protocols in this official SOP
+  guide.
+seo_optimized: true
 ---
 # Standard Operating Procedure: DHA Contractor Onboarding
 
@@ -53,3 +58,53 @@ The COR or the designated TASS sponsor is responsible for ensuring the contracto
 
 **3. What should I do if a contractor leaves the project unexpectedly?**
 Notify the IT Security office and the local Security Manager immediately to revoke network and physical access. Submit a departure report to the Contracting Officer (KO) within 24 hours to ensure contract compliance.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the first steps for DHA contractor onboarding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The onboarding process begins with contract verification, ensuring a favorable background investigation, confirming CAC eligibility in TASS, and collecting necessary NDAs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is required for DHA system access?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Contractors must complete the annual DoD Cyber Awareness Challenge and submit a DD Form 2875 for every network, application, or database they require access to."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the Common Access Card (CAC) provisioned?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Once registered in TASS, contractors must visit a local ID office or RAPIDS station to register their CAC and configure Public Key Infrastructure (PKI) settings."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "DHA Contractor Onboarding Management System",
+  "applicationCategory": "Enterprise Workflow Management",
+  "description": "A standardized SOP framework for the onboarding, vetting, and security provisioning of Defense Health Agency contractors.",
+  "operatingSystem": "DoD Secure Networks",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

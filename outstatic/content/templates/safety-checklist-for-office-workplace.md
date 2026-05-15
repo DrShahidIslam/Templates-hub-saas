@@ -1,8 +1,12 @@
 ---
-title: 'safety checklist for office workplace'
-status: 'published'
-slug: 'safety-checklist-for-office-workplace'
+title: 'Office Workplace Safety Inspection SOP: Complete Checklist'
+status: published
+slug: safety-checklist-for-office-workplace
 publishedAt: '2026-05-11T10:02:32.350Z'
+description: >-
+  Ensure a safe work environment with our comprehensive Office Safety Inspection
+  SOP. Includes checklists for electrical, ergonomics, and emergency protocols.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Office Workplace Safety Inspection
@@ -48,3 +52,53 @@ Isolate the area. If a hazard (e.g., a broken chair or exposed wiring) poses an 
 
 **Who is responsible for the safety of the office?**
 While the Facilities or Operations Manager owns the process, office safety is a shared responsibility. Every employee is expected to maintain their own workstation and report hazards to management as soon as they are identified.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should office safety inspections be conducted?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regular inspections are mandatory to maintain OHS compliance and safety. We recommend a monthly audit of fire safety equipment and a quarterly comprehensive physical environment check."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the common electrical hazards in an office?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common hazards include daisy-chaining power strips, overloading wall outlets, and using power cords with frayed or exposed wiring."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should office workstations be set up for ergonomics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ensure monitors are at eye level, keyboards/mice allow for neutral wrist positioning, and chairs are structurally sound with functional height adjustments."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Office Workplace Safety Inspection SOP",
+  "applicationCategory": "BusinessApplication",
+  "description": "A comprehensive Standard Operating Procedure designed to help facility managers and HR personnel conduct thorough office safety inspections and maintain compliance.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

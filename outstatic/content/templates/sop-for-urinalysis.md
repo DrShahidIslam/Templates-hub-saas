@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Urinalysis
+title: 'Clinical Urinalysis SOP: Professional Lab Protocol Guide'
 publishedAt: '2026-05-10T18:48:01.503Z'
+description: >-
+  Master clinical urinalysis with our step-by-step SOP. Learn standardized
+  physical, chemical, and microscopic examination procedures for laboratory
+  accuracy.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Clinical Urinalysis
 
@@ -57,3 +62,52 @@ A: Note the visual appearance in the comments section. If the reagent strip show
 
 **Q: How do I handle a "QNS" (Quantity Not Sufficient) specimen?**
 A: If the volume is insufficient for all requested tests, prioritize the chemical dipstick and microscopic exam. Document the specific volume received and mark the report as "QNS" for any tests that could not be completed.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you perform a physical examination for urinalysis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The physical exam involves assessing the specimen's color against a white background, evaluating clarity or turbidity against a light source, and measuring specific gravity using a calibrated refractometer."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the procedure for chemical urinalysis using reagent strips?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mix the specimen, dip the strip briefly ensuring all pads are submerged, remove excess urine, and compare pad colors to the manufacturer's chart at the specified time intervals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should a urine specimen be rejected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Specimens should be rejected if they are contaminated with feces or toilet paper, or if the sample is older than two hours and has not been properly refrigerated."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Laboratory Information System (LIS) Urinalysis Module",
+  "applicationCategory": "MedicalSoftware",
+  "operatingSystem": "All",
+  "description": "Standardized protocol management and data entry system for clinical urinalysis procedures, ensuring diagnostic accuracy and laboratory safety compliance.",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "text": "Clinical Urinalysis Standard Operating Procedure"
+  }
+}
+</script>

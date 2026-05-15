@@ -1,3 +1,13 @@
+---
+title: 'VEX IQ Robot Inspection Checklist: SOP for Competition'
+description: >-
+  Master your VEX IQ robot inspection with our step-by-step SOP. Ensure
+  structural integrity, drivetrain performance, and competition compliance
+  today.
+status: published
+publishedAt: '2026-05-15T04:51:32.842Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: VEX IQ Robot Inspection
 
 This Standard Operating Procedure (SOP) outlines the mandatory inspection protocol for VEX IQ robotics systems. Ensuring each robot adheres to these guidelines is critical for maintaining mechanical integrity, safety compliance, and peak performance during competition or laboratory testing. All operators must perform this checklist prior to every practice session or competition event to mitigate failure risks and ensure adherence to official VEX IQ challenge rules.
@@ -41,3 +51,53 @@ A: Do not attempt to force a larger screw into the hole. Instead, relocate the c
 
 **Q: Why is my drivetrain pulling to one side?**
 A: This is usually caused by excessive friction in one of the wheel assemblies or an uneven weight distribution. Check the alignment of your drive shafts and ensure no cables are dragging on the floor.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I perform a VEX IQ robot inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should perform a full inspection prior to every practice session and competition event to ensure safety, mechanical integrity, and adherence to rules."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the most important check for the VEX IQ drivetrain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most critical checks are ensuring wheel alignment, smooth axle rotation without binding, and correct gear meshing to prevent friction or slipping."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure my VEX IQ robot is competition-compliant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compliance is achieved by verifying your firmware matches the current season's requirements, adhering to official size constraints, and securing all components."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "VEX IQ Robot Inspection SOP",
+  "applicationCategory": "EducationalApplication",
+  "operatingSystem": "VEX IQ Hardware",
+  "description": "A standardized technical inspection protocol for VEX IQ robotics systems to ensure mechanical integrity and competitive performance.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

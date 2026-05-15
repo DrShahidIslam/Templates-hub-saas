@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Construction Quality Control (QC)'
-status: 'published'
-slug: 'checklist-for-quality-control-in-construction'
+title: 'Construction Quality Control SOP: Site Inspection Guide'
+status: published
+slug: checklist-for-quality-control-in-construction
 publishedAt: '2026-05-07T18:59:25.385Z'
+description: >-
+  Master construction quality control with our comprehensive SOP. Ensure
+  structural integrity, MEP compliance, and project excellence through
+  systematic QC steps.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Construction Quality Control (QC)
@@ -49,3 +54,53 @@ The non-conforming material must be immediately tagged and quarantined. A Non-Co
 
 **3. Who is ultimately responsible for the QC checklist?**
 While subcontractors are responsible for the quality of their specific tasks, the General Contractor’s Site Superintendent or Quality Manager is ultimately responsible for signing off on the checklist and ensuring all work meets the project’s overarching quality standards.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in a Construction Quality Control SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A construction QC SOP covers document review, material verification, structural inspections (rebar, foundation), MEP rough-ins, pressure testing, and final commissioning procedures."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is material verification important in construction QC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Material verification ensures that all components, such as steel and concrete, meet engineering specifications and manufacturer certificates, preventing structural failure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key stages for MEP inspections?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key MEP QC stages include rough-in inspections, hydrostatic pressure testing for plumbing, electrical continuity testing, and verifying fire-stopping material applications."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Construction Quality Control SOP Framework",
+  "applicationCategory": "ProjectManagementApplication",
+  "description": "A systematic framework and SOP for site supervisors and project managers to ensure construction work conforms to specifications and building codes.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

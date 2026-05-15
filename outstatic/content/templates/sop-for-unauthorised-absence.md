@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop For Unauthorised Absence
+title: 'Handling Unauthorised Absence: SOP & Management Guide'
 publishedAt: '2026-05-10T18:48:01.498Z'
+description: >-
+  Master the protocol for managing unauthorised employee absence. Learn how to
+  verify, contact, document, and initiate disciplinary actions effectively.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Handling Unauthorised Absence
 
@@ -46,3 +50,52 @@ A: Yes, generally, employees are only paid for hours worked. However, ensure thi
 
 **Q: What if the employee claims a medical emergency prevented them from calling?**
 A: You should request medical documentation. If provided, assess the severity; if the medical issue was genuinely incapacitating, you may excuse the absence, though you should still provide a formal note for the personnel file.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should a manager handle an unauthorised absence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Managers should immediately verify the absence, attempt contact via all channels, conduct an emergency check if necessary, and document every interaction for HR records."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What steps occur if an employee is absent for 24-48 hours?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At 24-48 hours, managers must send formal written communication, review the company 'No Call, No Show' policy with the employee, and coordinate with HR regarding disciplinary steps."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the purpose of a return-to-work interview?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The interview is a mandatory meeting to discuss the reason for the absence, request supporting documentation, and issue disciplinary warnings if the absence is deemed invalid."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "HRIS Unauthorised Absence Management SOP",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "All",
+  "description": "A comprehensive Standard Operating Procedure for Human Resources and management to handle, track, and document unauthorised employee absences.",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "text": "Refer to the company Employee Handbook and HRIS documentation guidelines."
+  }
+}
+</script>

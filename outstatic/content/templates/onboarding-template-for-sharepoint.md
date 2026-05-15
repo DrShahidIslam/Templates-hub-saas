@@ -1,7 +1,12 @@
 ---
 status: published
-title: Onboarding Template For Sharepoint
+title: SharePoint Onboarding & Provisioning SOP Guide
 publishedAt: '2026-05-10T18:48:01.056Z'
+description: >-
+  Master SharePoint provisioning with our step-by-step SOP. Learn to manage
+  permissions, site architecture, and data security to prevent permission
+  sprawl.
+seo_optimized: true
 ---
 # Standard Operating Procedure: SharePoint Onboarding & Provisioning
 
@@ -45,3 +50,54 @@ A: SharePoint performs best when files are organized with flat structures and me
 
 **Q: How often should I audit site permissions?**
 A: It is recommended to perform a "Permission Review" every 90 days. During this audit, remove inactive users and ensure that Site Owners are still current employees.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best way to prevent permission sprawl in SharePoint?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prevent permission sprawl by enforcing a 'Least Privilege' access model, regularly reviewing user access, and assigning at least two dedicated Site Owners for oversight."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the recommended folder structure in SharePoint?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To maintain integrity and improve searchability, avoid nesting folders beyond three levels. Utilize metadata tags instead of deep folder structures."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I use a Team Site or a Communication Site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose a Team Site for internal collaboration among specific groups, and a Communication Site for broadcasting information across the entire organization."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Microsoft SharePoint",
+  "applicationCategory": "Enterprise Content Management",
+  "operatingSystem": "Web-based",
+  "description": "A web-based collaborative platform that integrates with Microsoft 365 to provide document management and storage solutions.",
+  "softwareVersion": "Online",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

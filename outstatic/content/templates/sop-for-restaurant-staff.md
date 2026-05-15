@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop For Restaurant Staff
+title: 'Restaurant Front-of-House SOP: Service Excellence Guide'
 publishedAt: '2026-05-10T18:48:01.445Z'
+description: >-
+  Boost restaurant operational efficiency with our professional FOH SOP. Learn
+  expert protocols for guest service, station prep, and sanitation standards.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Front-of-House Restaurant Excellence
 
@@ -42,3 +46,54 @@ A: Immediately confirm the allergy with the kitchen lead, ensure the order is ma
 
 **Q: What is the procedure if a customer is visibly intoxicated?**
 A: Stop service of alcohol immediately and discreetly notify the manager. Offer water or food, and facilitate a taxi or rideshare service if necessary. Do not engage in confrontation.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the standard greeting time for restaurant guests?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Service staff should acknowledge guests within 30 seconds of entry with a warm, professional greeting and provide a clear path to their table."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is 'silent service' in restaurant etiquette?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Silent service involves removing empty plates, refilling drinks, and replacing napkins without interrupting the guests' conversation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should staff prioritize during pre-service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Priorities include personal hygiene, full station setup, reviewing the '86' list for out-of-stock items, and inspecting the dining area for ambiance."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Restaurant FOH Operations Manual",
+  "applicationCategory": "Business Management",
+  "operatingSystem": "Web",
+  "description": "A comprehensive digital SOP for restaurant staff to streamline guest service, sanitation, and closing operations.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  },
+  "featureList": "Guest greeting protocols, table maintenance, closing sanitation, inventory management"
+}
+</script>

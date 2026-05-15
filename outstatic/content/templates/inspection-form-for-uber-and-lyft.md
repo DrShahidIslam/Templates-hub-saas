@@ -1,8 +1,13 @@
 ---
-title: 'inspection form for uber and lyft'
-status: 'published'
-slug: 'inspection-form-for-uber-and-lyft'
+title: 'Ride-Share Vehicle Inspection SOP: Safety & Compliance Guide'
+status: published
+slug: inspection-form-for-uber-and-lyft
 publishedAt: '2026-05-11T09:30:01.830Z'
+description: >-
+  Ensure your Uber or Lyft vehicle stays road-ready. Follow our professional SOP
+  for exterior, interior, and mechanical inspections to maintain platform
+  status.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Ride-Share Vehicle Inspection
@@ -50,3 +55,53 @@ A: Most platforms require inspections to be completed by a "certified mechanic."
 
 **Q: What happens if I fail an official platform inspection?**
 A: Your account will typically be placed on a temporary hold. You will be provided with a copy of the failed inspection report. Once the repairs are completed and verified by a new inspection, upload the corrected form to the app to have your account reactivated.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the minimum tire tread depth for ride-share vehicles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most ride-share platforms, such as Uber and Lyft, require a minimum tire tread depth of 4/32 inch for safety and compliance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which dashboard warning lights cause ride-share deactivation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Any active warning lights, including Check Engine, TPMS (Tire Pressure), Airbag, or ABS lights, are grounds for instant platform disqualification and must be addressed immediately."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should I conduct a ride-share vehicle inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prevent downtime and ensure passenger safety, you should perform a daily pre-trip inspection of lights, fluid levels, and interior cleanliness."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Ride-Share Vehicle Inspection Protocol",
+  "applicationCategory": "UtilitiesApplication",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure for drivers to maintain safety standards and regulatory compliance for ride-share platforms.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

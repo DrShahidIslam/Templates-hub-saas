@@ -1,7 +1,11 @@
 ---
 status: published
-title: Standard Operating Procedure For Gel Electrophoresis
+title: 'Agarose Gel Electrophoresis SOP: A Step-by-Step Guide'
 publishedAt: '2026-05-10T18:48:01.787Z'
+description: >-
+  Master agarose gel electrophoresis with our standardized SOP. Learn the
+  essential steps for DNA/RNA separation, gel casting, and safe lab protocols.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Agarose Gel Electrophoresis
 
@@ -52,3 +56,53 @@ A: You can reuse the buffer for a limited number of runs (usually 2–3), but en
 
 **Q: What should I do if the dye front moves in the wrong direction?**
 A: Immediately stop the power supply. You have likely placed the gel in the tank backward or swapped the leads. Always verify that the wells are closest to the negative (black) electrode, as DNA is negatively charged and migrates toward the positive (red) electrode.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What percentage of agarose should I use for DNA gel electrophoresis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For standard DNA fragments, a 1.0% agarose concentration is typically recommended to achieve optimal resolution."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is it important to cool the agarose solution to 55°C before adding stain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cooling the solution to approximately 55°C prevents heat degradation of the nucleic acid stain and ensures the gel sets uniformly without cracking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the correct electrode orientation for gel electrophoresis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Always ensure the electrodes are aligned correctly: Black to Black (Negative) and Red to Red (Positive). DNA migrates toward the positive electrode."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Agarose Gel Electrophoresis Protocol",
+  "applicationCategory": "Scientific Research Protocol",
+  "operatingSystem": "Laboratory Environment",
+  "description": "Standardized operating procedure for the separation of nucleic acids (DNA/RNA) using agarose gel electrophoresis techniques.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

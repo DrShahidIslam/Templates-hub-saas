@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: BLS PCC (Basic Life Support / Post-Cardiac Care) Readiness'
-status: 'published'
-slug: 'checklist-for-bls-pcc'
+title: 'BLS & Post-Cardiac Care Readiness: Standard Operating Procedure'
+status: published
+slug: checklist-for-bls-pcc
 publishedAt: '2026-05-07T18:59:25.121Z'
+description: >-
+  Ensure life-saving readiness with our comprehensive BLS and Post-Cardiac Care
+  SOP checklist for equipment verification, medication inventory, and team
+  protocols.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: BLS PCC (Basic Life Support / Post-Cardiac Care) Readiness
@@ -50,3 +55,52 @@ Do not wait until the next shift. Immediately contact the pharmacy or the centra
 
 **3. If the AED self-test indicator is red, should we use the backup unit?**
 Yes. If the primary AED indicates a fault, immediately tag the unit as "OUT OF SERVICE," move it to the biomedical holding area, and deploy the backup unit. Never attempt to "troubleshoot" a faulty AED during an emergency response.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the core components of BLS readiness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Core BLS readiness includes verifying AED/defibrillator status, checking battery levels, ensuring electrode pads are not expired, testing airway management tools, and confirming suction system integrity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should the crash cart be inspected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The crash cart should be inspected at the start of every shift, including a physical count of medications and a verification of expiration dates against the master log."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the required oxygen pressure for BLS preparedness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary oxygen tank pressure must be maintained at greater than 1500 PSI, with the regulator attached and the wrench present for immediate use."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "BLS/PCC Readiness Compliance System",
+  "applicationCategory": "MedicalApplication",
+  "operatingSystem": "All",
+  "description": "A standardized protocol and digital readiness checklist for Basic Life Support and Post-Cardiac Care unit management.",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "text": "Strict adherence to the provided SOP for equipment and personnel readiness."
+  }
+}
+</script>

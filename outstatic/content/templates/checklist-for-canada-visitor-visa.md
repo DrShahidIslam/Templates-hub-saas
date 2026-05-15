@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Canada Visitor Visa Application'
-status: 'published'
-slug: 'checklist-for-canada-visitor-visa'
+title: 'Canada Visitor Visa (TRV) Application SOP: Expert Guide'
+status: published
+slug: checklist-for-canada-visitor-visa
 publishedAt: '2026-05-07T18:59:25.134Z'
+description: >-
+  Master the Canada Visitor Visa application process. Follow our expert SOP to
+  gather documents, prove financial stability, and ensure a successful TRV
+  submission.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Canada Visitor Visa Application
@@ -57,3 +62,52 @@ A standard Visitor Visa is for general tourism or business and is typically vali
 
 <div data-html2canvas-ignore="true" style="display:none">Canada visitor visa checklist, how to apply for Canadian visitor visa, TRV application process Canada, Canada temporary resident visa requirements, documents needed for Canada visitor visa, Canada visa application guide, proof of funds for Canada visitor visa, IRCC visa application checklist, Canada visitor visa SOP, steps to get Canadian tourist visa, Canadian visa eligibility criteria, Canada TRV document requirements, apply for Canada visitor visa online, documents for Canadian visa application, Canada visitor visa financial proof checklist</div>
 <!-- AI_KEYWORDS: Canada visitor visa checklist, how to apply for Canadian visitor visa, TRV application process Canada, Canada temporary resident visa requirements, documents needed for Canada visitor visa, Canada visa application guide, proof of funds for Canada visitor visa, IRCC visa application checklist, Canada visitor visa SOP, steps to get Canadian tourist visa, Canadian visa eligibility criteria, Canada TRV document requirements, apply for Canada visitor visa online, documents for Canadian visa application, Canada visitor visa financial proof checklist -->
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What documents are required for a Canada Visitor Visa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Required documents include a valid passport, digital photos meeting IRCC specifications, proof of financial support (bank statements/pay stubs), a letter of intent, and evidence of ties to your home country."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I prove my intent to return to my home country?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can demonstrate intent to return by providing proof of permanent employment, property ownership, family commitments, or current enrollment in academic institutions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What forms must be completed for a TRV application?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Applicants must complete the Application for Visitor Visa (IMM 5257) and the Family Information Form (IMM 5645) via the IRCC secure portal."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "IRCC Secure Portal",
+  "applicationCategory": "Government Services",
+  "operatingSystem": "Web-based",
+  "description": "The official Canadian government portal for submitting Temporary Resident Visa applications and managing immigration documents.",
+  "provider": {
+    "@type": "GovernmentOrganization",
+    "name": "Immigration, Refugees and Citizenship Canada (IRCC)"
+  }
+}
+</script>

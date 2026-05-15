@@ -1,8 +1,12 @@
 ---
-title: 'Standard Operating Procedure: Daily Fire Hydrant System Inspection'
-status: 'published'
-slug: 'daily-checklist-for-fire-hydrant-system'
+title: 'Daily Fire Hydrant Inspection SOP: Safety & Compliance Guide'
+status: published
+slug: daily-checklist-for-fire-hydrant-system
 publishedAt: '2026-05-07T18:59:25.562Z'
+description: >-
+  Ensure facility fire safety with our daily fire hydrant inspection SOP. Learn
+  to check pump rooms, hose reels, and water levels to remain compliant.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Daily Fire Hydrant System Inspection
@@ -44,3 +48,53 @@ A: You may tighten a loose valve wheel or clear an obstruction. However, any mec
 
 **Q: Why is the jockey pump running continuously?**
 A: A continuously running jockey pump indicates a pressure leak somewhere in the system. Check the hydrant valves and pipe joints for leaks, as this constant operation will prematurely burn out the pump motor.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should fire hydrant systems be inspected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fire hydrant systems should undergo daily inspections to ensure all components are pressurized, unobstructed, and fully operational for life safety compliance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I check in the fire pump room during a daily inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Check the controller for fault indicators, verify isolation valves are locked open, confirm the jockey pump is in 'Auto' mode, and inspect for leaks or pressure fluctuations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is it important to inspect external hose reel stations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Daily inspection ensures that access paths are clear of obstructions, cabinet doors function properly, and hose couplings are intact to ensure rapid deployment during a fire emergency."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Fire System Inspection Logbook",
+  "applicationCategory": "Maintenance Management",
+  "description": "A standardized procedure and logging system for facility fire hydrant and suppression system inspections.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

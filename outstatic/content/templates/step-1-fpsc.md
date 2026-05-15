@@ -1,8 +1,13 @@
 ---
-title: 'step 1 fpsc'
-status: 'published'
-slug: 'step-1-fpsc'
+title: 'FP Canada Certification: Step 1 Process & Requirements Guide'
+status: published
+slug: step-1-fpsc
 publishedAt: '2026-05-11T10:43:16.378Z'
+description: >-
+  Master the FP Canada Step 1 certification process. Follow this essential SOP
+  for educational verification, registration, and compliance to fast-track your
+  CFP.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Step 1 FPSC (Financial Planning Standards Council) Certification Process
@@ -50,3 +55,53 @@ A: Once approved, your standing as a candidate is typically valid for several ye
 
 **Q: What should I do if a course I took is not on the recognized list?**
 A: You should contact the FP Canada certification department immediately to request a formal course assessment. You will likely need to provide a detailed syllabus and course description from the year you completed the study.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the FP Canada Step 1 certification process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Step 1 involves meeting foundational educational requirements, registering on the FP Canada portal, verifying transcripts, and completing mandatory ethics training before advancing to the CFP exam."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I verify my educational credits for FP Canada?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must request official transcripts to be sent directly to FP Canada, map your coursework against the Core Curriculum, and submit a PLAR if your experience or non-traditional education meets requirements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does transcript processing take for FPSC certification?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Transcript processing typically takes 2–4 weeks; it is highly recommended to initiate these requests early to avoid delays in your application audit."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "FP Canada Candidate Portal",
+  "applicationCategory": "Professional Certification Management",
+  "operatingSystem": "Web-based",
+  "description": "The official FP Canada portal for candidates to manage educational verification, submit Step 1 applications, and monitor certification progress.",
+  "provider": {
+    "@type": "Organization",
+    "name": "FP Canada",
+    "url": "https://fpcanada.ca/"
+  }
+}
+</script>

@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Managing Immediate Affairs Following the Death of a Spouse'
-status: 'published'
-slug: 'checklist-for-when-a-spouse-dies'
+title: 'Managing Affairs After a Spouse''s Death: A Step-by-Step SOP'
+status: published
+slug: checklist-for-when-a-spouse-dies
 publishedAt: '2026-05-07T18:59:25.472Z'
+description: >-
+  Navigate the legal and financial responsibilities after losing a spouse.
+  Follow our structured SOP for immediate actions, documentation, and estate
+  management.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Managing Immediate Affairs Following the Death of a Spouse
@@ -50,3 +55,53 @@ A: You must contact the SSA immediately. If you were receiving direct deposit, t
 
 **Q: Should I change my name or address on legal documents right away?**
 A: Focus on getting the death certificate and financial accounts in order first. Changing your own personal identification documents (like a driver's license or passport) should be prioritized only after the estate administrative tasks have been stabilized.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many death certificates should I request?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is recommended to obtain 10–20 certified copies of the death certificate, as you will need to provide them to banks, insurance companies, government agencies, and utility providers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the first step immediately after a spouse dies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first step is to ensure a physician, hospice nurse, or medical examiner has formally pronounced the death and signed the death certificate."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I contact the Social Security Administration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you must notify the Social Security Administration (SSA) to report the death to ensure the cessation of payments or to determine your eligibility for survivor benefits."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Estate Management SOP Tool",
+  "applicationCategory": "ProductivityApplication",
+  "description": "A structured Standard Operating Procedure guide designed to help individuals navigate the administrative, legal, and financial tasks following the death of a spouse.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

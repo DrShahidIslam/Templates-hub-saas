@@ -1,8 +1,13 @@
 ---
-title: 'safety checklist for baby'
-status: 'published'
-slug: 'safety-checklist-for-baby'
+title: 'Comprehensive Infant Safety SOP: Home Protection Checklist'
+status: published
+slug: safety-checklist-for-baby
 publishedAt: '2026-05-11T09:34:28.714Z'
+description: >-
+  Follow our expert infant safety protocol to childproof your home. Learn the
+  ABC sleep guidelines, hazard mitigation, and furniture anchoring techniques
+  today.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Comprehensive Infant Safety Protocol
@@ -51,3 +56,53 @@ A: Gates are non-negotiable for stairs (top and bottom). For other rooms, gates 
 
 **Q: Should I use baby powder or lotions?**
 A: From an operations and safety standpoint, avoid baby powder entirely, as inhalation of fine particles can cause respiratory distress. Limit lotions to hypoallergenic, fragrance-free products to avoid allergic reactions or chemical sensitivities.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the ABC protocol for infant sleep?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The ABC protocol stands for Alone (no items in the crib), Back (always place infants on their back to sleep), and Crib (using a firm mattress in a secure crib)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far apart should crib slats be?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prevent head entrapment, crib slats must be no more than 2 3/8 inches apart."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is furniture anchoring necessary for child safety?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Furniture anchoring prevents dressers, bookshelves, and TV stands from tipping over, which poses a severe crushing hazard to mobile infants."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Infant Safety Audit Tracker",
+  "applicationCategory": "Productivity",
+  "operatingSystem": "Web-based",
+  "description": "A digital checklist tool for parents and operations managers to perform standardized infant safety audits and hazard mitigation.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

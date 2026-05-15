@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Vendor Payment
+title: 'Vendor Payment Processing SOP: Step-by-Step Guide'
 publishedAt: '2026-05-10T18:48:01.984Z'
+description: >-
+  Master your vendor payment process with our standard operating procedure.
+  Learn how to implement three-way matching, ERP entry, and dual authorization
+  controls.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Vendor Payment Processing
 
@@ -46,3 +51,52 @@ Out-of-cycle payments are discouraged as they bypass internal controls. If absol
 
 **3. What is the standard procedure for handling disputed invoices?**
 The invoice must be flagged as "Disputed" in the accounting system to prevent automatic payment. The Finance team must notify the vendor in writing within 48 hours of the dispute, clearly outlining the reasons for the hold.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the three-way match in vendor payments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The three-way match is a verification process that ensures the invoice details align perfectly with the original Purchase Order and the Goods Receipt Note (GRN) or proof of service."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is dual authorization necessary for payments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dual authorization is a critical internal control measure that requires both an Accounts Payable Manager and a Financial Controller or CFO to review and release funds, preventing unauthorized disbursements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should be included on a vendor invoice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A valid invoice must include a unique invoice number and date, vendor contact details, a Purchase Order number, and a clear description of the goods or services provided."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Vendor Payment Processing System",
+  "applicationCategory": "FinanceApplication",
+  "description": "A structured SOP workflow designed to manage vendor invoicing, three-way matching, ERP data entry, and secure financial disbursement controls.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "category": "Standard Operating Procedure"
+  }
+}
+</script>

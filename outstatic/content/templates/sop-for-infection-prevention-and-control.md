@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Infection Prevention And Control
+title: 'IPC Standard Operating Procedure: Essential Safety Protocols'
 publishedAt: '2026-05-10T18:48:01.308Z'
+description: >-
+  Follow our comprehensive Infection Prevention and Control (IPC) SOP. Learn
+  hand hygiene, correct PPE donning/doffing, and clinical sanitation best
+  practices.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Infection Prevention and Control (IPC)
 
@@ -55,3 +60,52 @@ A: No. Artificial nails, chipped polish, and jewelry (rings, bracelets, watches)
 
 **Q: What is the procedure if a staff member experiences a needle-stick injury?**
 A: Immediately wash the site with soap and water, notify your supervisor, and report to the Occupational Health department or Emergency Room within 2 hours for post-exposure prophylaxis (PEP) assessment.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the Five Moments for Hand Hygiene?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Five Moments are: before touching a patient, before clean/aseptic procedures, after body fluid exposure risk, after touching a patient, and after touching patient surroundings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the correct order for doffing PPE?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Doffing should follow this order: remove gloves first, followed by the gown, face shield, and finally the mask. Always perform hand hygiene immediately after removal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should high-touch surfaces be disinfected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use EPA-registered hospital-grade disinfectants, follow a 'clean to dirty' flow, and strictly observe the contact or dwell times specified on the product labels."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "IPC Standard Operating Procedure Management System",
+  "applicationCategory": "Healthcare Software",
+  "description": "A standardized protocol and compliance management system for healthcare Infection Prevention and Control (IPC) procedures.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "category": "Compliance SOP"
+  }
+}
+</script>

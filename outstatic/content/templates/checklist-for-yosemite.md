@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Yosemite National Park Expedition'
-status: 'published'
-slug: 'checklist-for-yosemite'
+title: 'Yosemite National Park Trip Planner: Essential SOP & Gear'
+status: published
+slug: checklist-for-yosemite
 publishedAt: '2026-05-07T18:59:25.486Z'
+description: >-
+  Master your Yosemite trip with our expert SOP. Get essential checklists for
+  permits, gear, safety protocols, and bear-safe storage for a successful
+  expedition.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Yosemite National Park Expedition
@@ -49,3 +54,53 @@ Yes. If visiting between November and April, you are legally required to carry t
 
 **3. Can I drink the water from the streams?**
 No. Yosemite's water sources are susceptible to Giardia and Cryptosporidium. Always treat, filter, or boil stream water before consumption.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a reservation to enter Yosemite National Park?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Yosemite often requires peak-hour reservations. Please verify current requirements on NPS.gov and ensure you have digital or printed copies before arrival."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best way to handle food in Yosemite to avoid bears?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If car camping, all scented items, including food, toiletries, and trash, must be stored in the provided metal bear-resistant lockers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there cell phone service in Yosemite National Park?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cellular service is non-existent in the majority of the park. It is essential to download offline maps from Google Maps or AllTrails before you enter."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Yosemite Expedition Planner",
+  "applicationCategory": "TravelApplication",
+  "operatingSystem": "iOS, Android",
+  "description": "A comprehensive logistical planning SOP for hikers and visitors traveling to Yosemite National Park, covering permits, gear, and field safety.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

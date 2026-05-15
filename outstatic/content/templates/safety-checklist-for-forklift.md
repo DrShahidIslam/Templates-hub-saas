@@ -1,8 +1,13 @@
 ---
-title: 'safety checklist for forklift'
-status: 'published'
-slug: 'safety-checklist-for-forklift'
+title: 'Daily Forklift Inspection SOP: OSHA Compliance Guide'
+status: published
+slug: safety-checklist-for-forklift
 publishedAt: '2026-05-11T09:43:51.016Z'
+description: >-
+  Master daily forklift pre-operational inspections with our step-by-step SOP.
+  Ensure OSHA compliance and identify mechanical defects before they cause
+  accidents.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Daily Forklift Pre-Operational Inspection
@@ -55,3 +60,53 @@ OSHA requires the inspection to be performed daily. If your facility runs multip
 
 **3. Am I legally responsible for the inspection?**
 Yes. As the operator, you are the final line of defense. Signing the inspection log is a legal attestation that you have verified the safety of the equipment. Falsifying an inspection log is grounds for immediate disciplinary action and potential liability in the event of an accident.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often must a forklift be inspected according to OSHA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Per OSHA standard 1910.178, forklifts must be inspected daily. If the forklift is used around the clock, it must be inspected after every shift."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the first step in a forklift inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first step is a visual perimeter check performed with the engine off to identify structural damage, tire issues, or fluid leaks before operation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should be tested during the operational check?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The operational check includes testing the horn, backup alarms, steering, braking systems, hydraulic lift/tilt controls, and the dashboard gauges."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Forklift Inspection SOP Manager",
+  "applicationCategory": "Safety Management System",
+  "operatingSystem": "All",
+  "description": "A comprehensive Standard Operating Procedure for conducting daily forklift pre-operational safety inspections in compliance with OSHA requirements.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

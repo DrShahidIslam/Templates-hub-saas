@@ -1,3 +1,13 @@
+---
+title: 'Rental Move-In Inspection Checklist: Protect Your Deposit'
+description: >-
+  Master your rental move-in and move-out inspections with this comprehensive
+  SOP. Protect your security deposit with our room-by-room checklist and expert
+  tips.
+status: published
+publishedAt: '2026-05-15T07:09:48.941Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Rental Move-In/Move-Out Inspection
 
 This Standard Operating Procedure (SOP) provides a comprehensive framework for tenants to conduct a thorough property inspection. The primary objective is to document the precise condition of the rental unit at the start of a lease, protecting the tenant’s security deposit and ensuring accountability for any pre-existing damages. This document should be completed alongside the landlord or property manager whenever possible, and results must be submitted in writing within the timeframe specified by your lease agreement (typically 48–72 hours).
@@ -50,3 +60,53 @@ Generally, no. Unless your lease specifically permits tenant repairs, you risk d
 
 **3. Does this inspection protect me from normal wear and tear?**
 The inspection document is used to differentiate between "wear and tear" (which is expected) and "damage" (which is actionable). Documenting the condition prevents the landlord from labeling legitimate wear and tear as new damage caused by your residency.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to submit my move-in inspection report?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most lease agreements require tenants to submit their move-in inspection report within 48 to 72 hours of receiving the keys to the property."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is a move-in inspection important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A thorough move-in inspection documents the pre-existing condition of the rental unit, which is crucial for protecting your security deposit against unfair damage charges."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I document during a rental inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should document the condition of all appliances, plumbing, flooring, walls, electrical outlets, and safety systems like smoke detectors and fire extinguishers."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Rental Inspection SOP Checklist",
+  "applicationCategory": "ProductivityApplication",
+  "operatingSystem": "All",
+  "description": "A comprehensive framework and digital checklist for tenants to systematically document rental property conditions and protect security deposits.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

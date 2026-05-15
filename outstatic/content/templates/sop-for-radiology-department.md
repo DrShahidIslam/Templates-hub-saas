@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop For Radiology Department
+title: 'Radiology SOP: Clinical Operations & Patient Safety Guide'
 publishedAt: '2026-05-10T18:48:01.435Z'
+description: >-
+  Optimize radiology clinical workflows with our comprehensive SOP. Ensure
+  patient safety, ALARA compliance, and efficient image processing protocols.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Radiology Department Clinical Operations
 
@@ -51,3 +55,53 @@ Critical results must be communicated via a direct phone call to the ordering ph
 
 **3. What steps are taken if an allergic reaction to contrast media occurs?**
 The technologist must stop the injection immediately, alert the staff radiologist or the Rapid Response Team, and position the patient to maintain an airway. The Emergency Crash Cart must be brought to the room immediately, and the event must be documented in the department’s Safety Incident Reporting system.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary objective of the Radiology SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The SOP ensures patient safety, maintains diagnostic image quality, optimizes clinical workflow efficiency, and guarantees adherence to ALARA radiation safety principles."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is patient identity verified in the radiology department?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patient identity must be verified using two unique identifiers: the patient's full name and their Date of Birth, cross-referenced against the Electronic Health Record (EHR) and the radiology requisition order."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the requirements for pregnancy screening?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A thorough pregnancy screening must be performed for all patients of childbearing age, specifically defined as 12–55 years old, prior to any procedure involving ionizing radiation."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Radiology Department Clinical Operations SOP System",
+  "applicationCategory": "HealthcareWorkflowManagement",
+  "description": "A comprehensive operational framework for radiology departments, covering patient identification, image acquisition, ALARA compliance, and PACS reporting integration.",
+  "operatingSystem": "All",
+  "softwareVersion": "1.0",
+  "offers": {
+    "@type": "Offer",
+    "category": "Standard Operating Procedure"
+  }
+}
+</script>

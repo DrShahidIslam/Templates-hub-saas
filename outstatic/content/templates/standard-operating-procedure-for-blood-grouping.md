@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Blood Grouping
+title: 'Blood Grouping SOP: Forward & Reverse Method Guide'
 publishedAt: '2026-05-10T18:48:01.666Z'
+description: >-
+  Master ABO and Rh(D) blood grouping with this professional SOP. Includes
+  step-by-step procedures, equipment checklists, and critical quality control
+  protocols.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Blood Grouping (Forward and Reverse)
 
@@ -55,3 +60,53 @@ A: Washing removes excess plasma proteins, fibrinogen, and contaminants that can
 
 **Q: Can I use a sample that has been sitting at room temperature for 48 hours?**
 A: Generally, no. Samples for blood grouping should ideally be tested within 24–48 hours if stored at 2–8°C. If the sample shows signs of hemolysis or significant protein degradation, request a new collection to ensure the validity of the antigens.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary difference between forward and reverse blood grouping?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Forward grouping identifies antigens present on the patient's red blood cells using known antibodies, while reverse grouping identifies antibodies in the patient's serum using known reagent cells (A1 and B cells)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is sample quality critical in ABO blood grouping?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hemolyzed or lipemic samples can obscure agglutination results, leading to false-positive or false-negative readings, which compromises patient safety."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the correct cell suspension percentage for blood grouping?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For standard tube agglutination methods, a 2-5% red blood cell suspension in physiological saline is required to achieve the optimal antigen-antibody ratio."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Blood Grouping SOP Protocol",
+  "applicationCategory": "MedicalProcedure",
+  "operatingSystem": "Clinical Laboratory",
+  "description": "Standardized procedural guide for ABO and Rh(D) blood grouping using slide or tube agglutination techniques for clinical diagnostics.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

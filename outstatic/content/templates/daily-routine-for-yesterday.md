@@ -1,7 +1,12 @@
 ---
 status: published
-title: Daily Routine For Yesterday
+title: 'Daily Retrospective: The Yesterday Audit SOP for Efficiency'
 publishedAt: '2026-05-10T18:48:00.797Z'
+description: >-
+  Master the Daily Retrospective 'Yesterday Audit' with this proven SOP.
+  Optimize team workflows, eliminate bottlenecks, and boost productivity in 10
+  minutes.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Daily Retrospective (The "Yesterday" Audit)
 
@@ -39,3 +44,53 @@ A: That is the most important time to perform an audit. If you were unproductive
 
 **Q: Should I share my findings with the team?**
 A: Share "system-level" learnings, such as process improvements or calendar changes. Keep individual performance critiques private to maintain morale and psychological safety.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the Yesterday Audit in project management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Yesterday Audit is a daily retrospective SOP used to review performance, identify workflow bottlenecks, and re-allocate resources to ensure daily tasks align with strategic objectives."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long should a daily retrospective take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to the 10-Minute Rule, the daily retrospective should be completed in no more than 10 minutes to maintain efficiency without becoming a source of administrative bloat."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key phases of a daily retrospective?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process is divided into three phases: Data Aggregation and Performance Review, Workflow and Bottleneck Analysis, and Actionable Integration."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Daily Retrospective Audit Protocol",
+  "applicationCategory": "Productivity",
+  "description": "A structured SOP for conducting daily workflow audits to maximize team efficiency and identify operational bottlenecks.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop For Fire Control And Prevention In Pharmacy
+title: 'Pharmacy Fire Safety SOP: Prevention & Emergency Protocols'
 publishedAt: '2026-05-10T18:48:01.242Z'
+description: >-
+  Ensure pharmacy safety with our Fire Control SOP. Learn essential prevention
+  tips, R.A.C.E. emergency response, and P.A.S.S. fire extinguisher training.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Fire Control and Prevention in Pharmacy
 
@@ -53,3 +57,53 @@ A: Fire alarms should be tested by a certified third-party vendor at least annua
 
 **Q: Can we use water to extinguish a fire involving pharmacy equipment?**
 A: Absolutely not. Pharmacy equipment involves electrical components. Always use a Class ABC fire extinguisher, which is safe for electrical, liquid, and paper-based fires. Water may conduct electricity and cause severe injury.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the R.A.C.E. protocol for pharmacy fires?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "R.A.C.E. stands for Rescue individuals in danger, Alarm (pull the fire alarm and call 911), Contain the fire by closing doors, and Extinguish or Evacuate the area."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you correctly use a fire extinguisher?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Follow the P.A.S.S. method: Pull the pin, Aim at the base of the fire, Squeeze the handle, and Sweep side to side at the base of the fire."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the pharmacy requirements for storing flammable materials?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Flammable liquids and aerosols must be stored in designated fire-rated cabinets, ensuring you never exceed the maximum storage capacity defined by SDS logs."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Pharmacy Fire Safety Management SOP",
+  "applicationCategory": "Safety Management System",
+  "description": "Standard Operating Procedure for fire prevention, hazard mitigation, and emergency response in pharmacy environments.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

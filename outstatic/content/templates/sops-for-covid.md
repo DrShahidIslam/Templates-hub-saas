@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sops For Covid
+title: 'COVID-19 Workplace Safety SOP: Health & Hygiene Protocols'
 publishedAt: '2026-05-10T18:48:01.629Z'
+description: >-
+  Learn mandatory COVID-19 workplace safety protocols, including health
+  screening, hygiene standards, and physical distancing guidelines for business
+  continuity.
+seo_optimized: true
 ---
 # Standard Operating Procedure: COVID-19 Workplace Health and Safety
 
@@ -43,3 +48,52 @@ Yes. The company maintains a stock of masks and rapid antigen tests at the recep
 
 **3. If I have been exposed to someone with COVID-19 but have no symptoms, can I come to work?**
 Please follow the most recent local health department guidelines regarding exposure. Generally, we recommend a rapid test on day 3-5 post-exposure and wearing a high-quality mask while in the office during the observation window.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if I test positive for COVID-19?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you test positive, you must follow local health authority isolation guidelines, refrain from reporting to the workplace until medically cleared, and immediately notify HR for contact tracing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should high-touch points be sanitized?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "High-touch points such as doorknobs, elevator buttons, and light switches must be sanitized by facilities staff every four hours."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are in-person meetings allowed under these protocols?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We prioritize virtual-first meetings. If in-person meetings are necessary, room capacity is reduced by 50% to ensure safe physical distancing."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "COVID-19 Workplace Health & Safety SOP",
+  "applicationCategory": "BusinessApplication",
+  "description": "Standard Operating Procedure for managing workplace health, hygiene, and physical distancing protocols during COVID-19.",
+  "operatingSystem": "All",
+  "provider": {
+    "@type": "Organization",
+    "name": "Company Management"
+  }
+}
+</script>

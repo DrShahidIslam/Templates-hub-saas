@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop For Hospital
+title: 'Hospital SOP: Patient Safety & Operational Excellence Guide'
 publishedAt: '2026-05-10T18:48:01.290Z'
+description: >-
+  Master hospital operational excellence with our SOP guide. Covers patient
+  intake, infection control, clinical workflows, and essential safety protocols.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Hospital Operational Excellence and Patient Safety
 
@@ -45,3 +49,52 @@ A: Immediately halt the administration process. Cross-reference the order with t
 
 **Q: Who is responsible for reporting an infection control breach?**
 A: Every staff member is responsible. If a breach in sterile technique is witnessed, the observer must intervene immediately to prevent patient harm and notify the Infection Control Officer, regardless of the seniority of the individuals involved.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the two patient identifiers required during intake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The mandatory identifiers include the patient's full name and their date of birth, verified against government-issued documentation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the SBAR tool in clinical workflow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SBAR stands for Situation, Background, Assessment, and Recommendation. It is a communication tool used during shift handoffs to ensure accurate information transfer."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the 'Seven Rights' of medication safety?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Seven Rights are: Right Patient, Right Drug, Right Dose, Right Route, Right Time, Right Reason, and Right Documentation."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Hospital Operational Excellence SOP System",
+  "applicationCategory": "Healthcare Management System",
+  "operatingSystem": "Web-based",
+  "description": "A comprehensive protocol management framework for maintaining hospital clinical quality, patient safety, and regulatory compliance.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Enterprise"
+  }
+}
+</script>

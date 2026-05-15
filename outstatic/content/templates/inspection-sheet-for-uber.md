@@ -1,8 +1,13 @@
 ---
-title: 'inspection sheet for uber'
-status: 'published'
-slug: 'inspection-sheet-for-uber'
+title: 'Uber Vehicle Inspection Checklist: SOP for Drivers'
+status: published
+slug: inspection-sheet-for-uber
 publishedAt: '2026-05-11T10:12:43.074Z'
+description: >-
+  Maintain high driver ratings with this essential Uber vehicle inspection
+  checklist. Follow our SOP for exterior, interior, and mechanical safety
+  standards.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Uber Vehicle Inspection
@@ -50,3 +55,52 @@ A: If the issue relates to safety (brakes, tires, lights), the vehicle should be
 
 **Q: Am I required to keep an inspection log?**
 A: While Uber may not require a physical log for every single check, maintaining one is excellent evidence for your records if you are ever audited by local transportation authorities or if you need to provide proof of maintenance during a claims process.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I perform an Uber vehicle inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drivers are expected to complete a thorough vehicle inspection prior to the start of every shift to ensure safety, mechanical integrity, and compliance with platform standards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the minimum recommended tire tread depth for Uber vehicles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is recommended to maintain a minimum tire tread depth of 4/32 inch to ensure safety and proper traction on the road."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I check during the interior inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The interior inspection should cover sanitation, removal of odors, checking upholstery for damage, verifying climate control functionality, and ensuring seat belts and passenger doors operate correctly."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Uber Driver Platform",
+  "applicationCategory": "Transportation",
+  "operatingSystem": "iOS, Android",
+  "description": "A ride-sharing platform that connects drivers with riders, requiring strict vehicle maintenance and safety standards for operational compliance.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Uber Technologies, Inc."
+  }
+}
+</script>

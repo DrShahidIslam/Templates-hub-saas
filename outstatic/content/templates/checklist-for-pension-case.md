@@ -1,7 +1,12 @@
 ---
 status: published
-title: Checklist For Pension Case
+title: 'Pension Case Processing SOP: Step-by-Step Guide'
 publishedAt: '2026-05-10T18:48:00.484Z'
+description: >-
+  Streamline your pension case processing with this comprehensive SOP. Learn the
+  essential workflow from pre-retirement prep to final authorization and
+  disbursement.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Pension Case Processing
 
@@ -56,3 +61,52 @@ A: Yes. Regardless of the reason for separation, all institutional assets must b
 
 **Q: How long should we retain pension records after the file is closed?**
 A: Standard retention policies typically require maintaining pension case files for at least 7 to 10 years after the death of the pensioner or the cessation of all dependency benefits, whichever is later. Always consult your local legal compliance officer for jurisdictional specifics.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should pension case preparation begin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pension case preparation should ideally begin 6 to 12 months prior to the employee's retirement date to ensure all service records are audited and gaps are resolved."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for pension processing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key documents include the Pension Application Form (Form A), a No Dues Certificate, the Retirement/Relieving Order, joint photographs, and verified bank account details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the pension amount calculated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The pension amount is calculated based on the total qualifying service period, excluding leaves without pay, and the average emoluments from the last 10–12 months of salary."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Pension Case Processing Management System",
+  "applicationCategory": "Administrative Software",
+  "operatingSystem": "Web-based",
+  "description": "A standardized digital workflow system for managing pension applications, service record auditing, and automated benefit computation.",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "text": "Standard Operating Procedure for Pension Case Processing"
+  }
+}
+</script>

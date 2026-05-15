@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Operation Theatre
+title: 'Operating Theatre SOP: Surgical Safety & Protocols Guide'
 publishedAt: '2026-05-10T18:48:01.394Z'
+description: >-
+  Ensure optimal surgical safety and efficiency with our comprehensive Operating
+  Theatre (OT) management SOP, covering pre-op prep, aseptic workflows, and
+  recovery.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Operating Theatre (OT) Management
 
@@ -48,3 +53,52 @@ Terminal cleaning must be performed at the end of each surgical list or at the e
 
 **3. Who is responsible for the accuracy of the instrument count?**
 The surgical nurse (scrub nurse) and the circulating nurse share joint responsibility. The count must be verified verbally and documented in the patient’s surgical record. If there is a discrepancy, the surgeon must be notified, and an X-ray must be performed before the patient leaves the theatre.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary purpose of the OT management SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The SOP aims to maintain a sterile, efficient, and safe surgical environment to minimize surgical site infections (SSIs) and streamline clinical workflows."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the purpose of the 'Time-Out' in the operating theatre?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Time-Out is a mandatory safety check performed before the incision where the entire team verifies the patient identity, surgical site, procedure, and implant availability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What environmental standards are required for an OT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The OT must maintain positive pressure and a minimum of 20 air changes per hour to ensure an appropriate sterile environment."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Operating Theatre Management System",
+  "applicationCategory": "MedicalSoftware",
+  "description": "Standardized procedural management software for Operating Theatre clinical workflows, safety checklists, and sterility auditing.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "category": "Enterprise"
+  }
+}
+</script>

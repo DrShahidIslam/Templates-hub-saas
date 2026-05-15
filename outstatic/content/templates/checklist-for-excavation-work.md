@@ -1,8 +1,12 @@
 ---
-title: 'Standard Operating Procedure: Excavation Safety and Site Preparation'
-status: 'published'
-slug: 'checklist-for-excavation-work'
+title: 'Excavation Safety SOP: OSHA Compliance & Site Prep Guide'
+status: published
+slug: checklist-for-excavation-work
 publishedAt: '2026-05-07T18:59:25.183Z'
+description: >-
+  Master excavation safety with this comprehensive SOP. Learn essential pre-dig
+  planning, OSHA compliance, soil analysis, and hazard mitigation strategies.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Excavation Safety and Site Preparation
@@ -47,3 +51,52 @@ A: Under most regulatory standards, protective systems (sloping, benching, or sh
 
 **Q: Can I re-enter an excavation after a rainstorm?**
 A: Never re-enter an excavation after a rainstorm or any significant weather event until the Competent Person has re-inspected the structural integrity of the trench walls. Moisture significantly reduces the cohesion of soil, dramatically increasing the risk of a collapse.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the role of a Competent Person in excavation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Competent Person is a designated individual authorized to identify hazards, inspect soil conditions daily, and exercise the authority to stop work immediately if safety protocols are compromised."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far must spoils be kept from an excavation edge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All excavated material, or spoils, must be stored at least 2 feet back from the edge of the excavation to prevent surcharge loads and potential cave-ins."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is a safe means of egress required in an excavation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A safe means of egress, such as ladders, ramps, or stairways, is mandatory for all excavations deeper than 4 feet and must be located within 25 feet of all personnel."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Excavation Safety & Compliance SOP Management",
+  "applicationCategory": "Safety Management System",
+  "description": "A digital standard operating procedure framework for managing excavation safety, OSHA compliance, and site hazard mitigation.",
+  "operatingSystem": "Web-based",
+  "offers": {
+    "@type": "Offer",
+    "category": "Professional Safety Documentation"
+  }
+}
+</script>

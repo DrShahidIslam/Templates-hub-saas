@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Visitor Visa Canada
+title: How to Apply for a Canada Visitor Visa (TRV) | SOP Guide
 publishedAt: '2026-05-10T18:48:01.522Z'
+description: >-
+  Master the Canada Visitor Visa application with our step-by-step SOP. Learn
+  document requirements, IRCC form tips, and how to avoid common refusal
+  reasons.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Canada Visitor Visa (TRV) Application
 
@@ -44,3 +49,52 @@ A: Biometrics are used to confirm your identity. Once submitted, your biometrics
 
 **Q: How long does the processing take?**
 A: Processing times fluctuate based on the volume of applications and your country of residence. Always check the official IRCC "Check processing times" tool to get an estimate for your specific region.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What documents are required for a Canada visitor visa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key documents include a passport valid for at least six months, proof of financial support (last 4-6 months of bank statements), a detailed travel itinerary, and completed IRCC forms like IMM 5257 and IMM 5645."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the file requirements for Canada visa uploads?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All documents must be scanned in high resolution (minimum 300 DPI), saved in PDF format, and must not exceed 4MB per file."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I start a Canada visitor visa application?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must create or log into a secure GCKey account via the official IRCC portal and complete the eligibility questionnaire to receive your personalized document checklist."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "IRCC GCKey Portal",
+  "applicationCategory": "Government Application Portal",
+  "operatingSystem": "Web-based",
+  "description": "The official Immigration, Refugees and Citizenship Canada (IRCC) portal used for managing Temporary Resident Visa (TRV) applications and administrative processing.",
+  "provider": {
+    "@type": "GovernmentOrganization",
+    "name": "Immigration, Refugees and Citizenship Canada"
+  }
+}
+</script>

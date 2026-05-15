@@ -1,7 +1,11 @@
 ---
 status: published
-title: Standard Operating Procedure For X Ray
+title: 'Diagnostic X-Ray Imaging: Standard Operating Procedure (SOP)'
 publishedAt: '2026-05-10T18:48:02.002Z'
+description: >-
+  Follow our expert-led Diagnostic X-Ray SOP for high-quality imaging and
+  ALARA-compliant radiation safety protocols for clinical staff and patients.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Diagnostic X-Ray Imaging
 
@@ -63,3 +67,52 @@ A: Only if the object is permanent hardware (e.g., surgical implants) or if the 
 
 **Q: How often should the lead shielding be inspected?**
 A: All lead aprons, thyroid shields, and gloves must be inspected for cracks or tears via fluoroscopy or visual inspection every 6 to 12 months, and this inspection must be documented in the facility safety log.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of the X-ray SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary goal is to ensure high-quality diagnostic images while strictly adhering to the ALARA (As Low As Reasonably Achievable) principle to minimize radiation exposure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What steps are required for patient preparation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preparation includes verifying physician orders, confirming patient identity using two identifiers, assessing pregnancy status, reviewing medical history, and removing radiopaque objects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should an X-ray grid be used?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An X-ray grid should be utilized whenever the body part thickness being imaged exceeds 10–12 cm to improve image quality by reducing scatter radiation."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Diagnostic X-Ray Imaging Management System",
+  "applicationCategory": "MedicalSoftware",
+  "operatingSystem": "All",
+  "description": "Professional protocols and technical procedures for diagnostic X-ray imaging, focusing on ALARA safety compliance and equipment calibration.",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "text": "Standard Operating Procedure for Diagnostic X-Ray Imaging"
+  }
+}
+</script>

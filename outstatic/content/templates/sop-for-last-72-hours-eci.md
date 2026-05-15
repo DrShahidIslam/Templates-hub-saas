@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Last 72 Hours Eci
+title: 'ECI Last 72 Hours SOP: Election Readiness & Compliance Guide'
 publishedAt: '2026-05-10T18:48:01.348Z'
+description: >-
+  Master ECI operational readiness with this 72-hour SOP. Learn critical
+  compliance, security, and logistics mandates to ensure zero-error election
+  execution.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Last 72 Hours (ECI Readiness)
 
@@ -45,3 +50,54 @@ A: Do not engage directly. Notify the police nodal officer immediately to disper
 
 **Q: Is it permissible to deviate from the logistical route if a road is blocked?**
 A: Only if authorized by the Sector Magistrate. All deviations must be logged with the new ETA and communicated to the District Control Room to ensure the tracking team is aware of the change.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary objective of the last 72 hours before an ECI event?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary objective is to ensure procedural integrity, seamless resource deployment, and strict adherence to the Model Code of Conduct (MCC) to guarantee zero-error execution."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the 'Silence Period' enforced by election officials?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During the 48-hour period before polling, officials must remove all political banners, posters, and hoardings within a 200-meter radius of polling facilities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What protocols are required for EVM/VVPAT storage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "EVMs and VVPATs must be stored in secure strongrooms under 24/7 CCTV surveillance with dual-lock security protocols."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Election Readiness SOP Toolkit",
+  "applicationCategory": "Operational Management Software",
+  "operatingSystem": "Web-based",
+  "description": "A tactical digital framework for managing ECI election logistics, compliance, and incident response within the final 72-hour critical window.",
+  "softwareVersion": "1.0",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "INR"
+  }
+}
+</script>

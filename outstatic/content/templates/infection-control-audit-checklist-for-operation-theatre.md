@@ -1,3 +1,13 @@
+---
+title: 'OT Infection Control Audit SOP: Healthcare Compliance Guide'
+description: >-
+  Optimize your Operating Theatre safety. Learn the mandatory steps for
+  infection control audits, environmental monitoring, and sterile supply
+  management.
+status: published
+publishedAt: '2026-05-15T04:32:31.270Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Infection Control Audit for Operating Theatres
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols for conducting a comprehensive infection control audit within the Operating Theatre (OT) suite. The objective of this audit is to minimize the risk of Surgical Site Infections (SSIs), ensure compliance with national healthcare accreditation standards (e.g., NABH/JCI), and maintain a sterile environment through rigorous monitoring of environmental controls, personnel practices, and sterilization workflows. This audit must be conducted at least monthly by the designated Infection Control Officer or Head Nurse to ensure continuous quality improvement.
@@ -41,3 +51,52 @@ A: Routine surface swabbing of OT walls and equipment is generally recommended q
 
 **Q: Who is primarily responsible for the final sign-off of the infection control audit?**
 A: While the audit may be performed by an OT Nurse or Technician, the final review and signature must be provided by the OT In-charge or the Hospital Infection Control Officer (HICO) to ensure accountability.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should an infection control audit be conducted in an OT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to standard clinical protocols, infection control audits in an Operating Theatre must be conducted at least monthly by the Infection Control Officer or Head Nurse to ensure continuous quality improvement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the recommended temperature and humidity ranges for an OT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The temperature should be maintained between 18°C–22°C and humidity levels should be kept between 40%–60% to maintain a sterile environment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key environmental controls for infection prevention?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key controls include verifying HEPA filtration system functionality, maintaining positive pressure (10–15 Pascals), checking surface integrity, and ensuring rigorous terminal cleaning logs are maintained."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Infection Control Audit Management System",
+  "applicationCategory": "HealthcareApplication",
+  "operatingSystem": "Web-based",
+  "description": "A comprehensive digital framework for managing Operating Theatre infection control protocols, monitoring environmental data, and ensuring compliance with NABH and JCI accreditation standards.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Enterprise Compliance Tool"
+  }
+}
+</script>

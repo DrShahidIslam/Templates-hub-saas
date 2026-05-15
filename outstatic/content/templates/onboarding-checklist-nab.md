@@ -1,7 +1,12 @@
 ---
 status: published
-title: Onboarding Checklist Nab
+title: 'NAB Onboarding SOP: New Account Setup & Due Diligence Guide'
 publishedAt: '2026-05-10T18:48:00.998Z'
+description: >-
+  Master the New Account Business (NAB) onboarding process. This SOP covers
+  KYC/AML compliance, administrative setup, and operational integration for new
+  clients.
+seo_optimized: true
 ---
 # Standard Operating Procedure: New Account/Associate Business (NAB) Onboarding
 
@@ -47,3 +52,52 @@ If a screening returns a high-risk flag, immediately pause the onboarding proces
 
 **3. Is it possible to bypass the formal onboarding SOP for "priority" clients?**
 No. Expediting a process should never equate to skipping a step. If a client is high-priority, allocate more resources to complete the steps faster, but maintain all compliance and administrative checkpoints to protect the firm.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of the NAB onboarding SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary goal is to standardize the onboarding of new business accounts to ensure full administrative, compliance, and operational readiness while mitigating organizational risk."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What due diligence steps are required for new accounts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key due diligence includes validating entity registration, performing KYC/AML checks, identifying Ultimate Beneficial Owners (UBO), verifying credit worthiness, and running conflict of interest screenings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documentation is required for account activation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Activation requires a fully executed Master Service Agreement (MSA) or Statement of Work (SOW), alongside accurate entry of tax IDs, billing info, and payment terms into the ERP system."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "NAB Onboarding Management System",
+  "applicationCategory": "BusinessApplication",
+  "description": "A standardized SOP framework for managing the lifecycle of New Account/Business (NAB) onboarding, from due diligence to operational integration.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "category": "SOP Framework"
+  }
+}
+</script>

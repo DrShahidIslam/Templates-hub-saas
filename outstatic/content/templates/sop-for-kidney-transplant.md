@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop For Kidney Transplant
+title: 'Kidney Transplant Perioperative SOP: Clinical Workflow Guide'
 publishedAt: '2026-05-10T18:48:01.332Z'
+description: >-
+  Master the kidney transplant perioperative process with this standardized SOP,
+  covering pre-op verification, surgical workflow, and post-op stabilization.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Kidney Transplant Perioperative Management
 
@@ -50,3 +54,53 @@ Hyperacute rejection is mitigated through rigorous pre-operative HLA and ABO cro
 
 **What is the role of the ureteral stent?**
 The ureteral stent is placed to prevent stricture formation and urine leakage at the site of the anastomosis between the donor ureter and the recipient bladder; it is typically removed via cystoscopy several weeks post-operatively.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key pre-operative requirements for a kidney transplant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pre-operative readiness includes confirming patient identity, verifying ABO/HLA compatibility, conducting a surgical 'Time-Out', ensuring immunosuppression availability, and completing final lab panels."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What steps are involved in the intra-operative kidney transplant workflow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The intra-operative workflow involves anesthesia induction, iliac vessel exposure, graft inspection and bench surgery, vascular anastomosis, reperfusion, and ureteroneocystostomy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is hourly urine output tracking mandatory post-transplant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hourly urine output tracking is critical in the Transplant Intensive Care Unit to monitor immediate graft function and ensure stable hemodynamic recovery."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Kidney Transplant Perioperative Management SOP",
+  "applicationCategory": "MedicalProcedure",
+  "operatingSystem": "Clinical Workflow Management",
+  "description": "Standardized clinical and administrative workflow software protocol for kidney transplantation, focusing on patient safety and graft optimization.",
+  "softwareVersion": "1.0",
+  "offers": {
+    "@type": "Offer",
+    "category": "Institutional Clinical Standard"
+  }
+}
+</script>

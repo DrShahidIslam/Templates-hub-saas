@@ -1,7 +1,11 @@
 ---
 status: published
-title: Standard Operating Procedure For Esr
+title: 'ESR Test SOP: Professional Westergren Method Guide'
 publishedAt: '2026-05-10T18:48:01.733Z'
+description: >-
+  Master the Erythrocyte Sedimentation Rate (ESR) test with our standardized
+  clinical SOP. Ensure accurate inflammation marker results and lab compliance.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Erythrocyte Sedimentation Rate (ESR) Analysis
 
@@ -42,3 +46,53 @@ No. Samples older than 6 hours (even if refrigerated) are prone to cellular degr
 
 **3. What should I do if the ESR result is higher than the scale on the pipette?**
 If the red cell column falls below the graduation marks, report the result as "> [maximum value] mm/hr" and document that the result exceeded the analytical measurement range. Follow your laboratory's policy on dilution or further clinical consultation.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the correct sample tube for an ESR test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The ESR test requires venous blood collected in a purple-top (EDTA) vacuum tube, filled exactly to the designated fill line to ensure the correct blood-to-anticoagulant ratio."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long can an ESR sample be stored before analysis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Samples must be analyzed within 2 hours if stored at room temperature, or within 6 hours if refrigerated at 2-8°C. Always allow refrigerated samples to reach room temperature before testing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What temperature range is required for accurate ESR results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The test must be performed in an environment with an ambient room temperature between 18°C and 25°C, as extreme temperatures significantly alter erythrocyte settling rates."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "ESR Analysis SOP Protocol",
+  "applicationCategory": "MedicalApplication",
+  "operatingSystem": "Laboratory Information System",
+  "description": "Standardized laboratory operating procedure for the Westergren method of Erythrocyte Sedimentation Rate analysis.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

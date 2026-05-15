@@ -1,8 +1,12 @@
 ---
-title: 'Standard Operating Procedure: Daily Electric Forklift Inspection'
-status: 'published'
-slug: 'daily-checklist-for-electric-forklift'
+title: 'Daily Electric Forklift Inspection: OSHA Compliance SOP'
+status: published
+slug: daily-checklist-for-electric-forklift
 publishedAt: '2026-05-07T18:59:25.553Z'
+description: >-
+  Ensure workplace safety with our daily electric forklift inspection guide. A
+  step-by-step SOP for OSHA 29 CFR 1910.178 compliance to prevent accidents.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Daily Electric Forklift Inspection
@@ -51,3 +55,53 @@ A: Generally, no. Electrolyte levels should be checked according to the manufact
 
 **Q: Is it necessary to fill out a checklist if I am the only person using this forklift?**
 A: Yes. OSHA regulations require documentation of the inspection for every shift. Even if you are the sole operator, you must have a log of the daily inspection to remain compliant.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should an electric forklift be inspected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to OSHA 29 CFR 1910.178, forklifts must be inspected daily or before the start of every shift to ensure they are in safe operating condition."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my forklift fails an inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If a forklift fails any point of the inspection, it must be immediately tagged out of service, and the issue must be reported to maintenance personnel."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key components of a daily forklift check?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The inspection includes a visual check of tires, forks, hydraulic systems, and battery connectors, followed by an operational test of controls, steering, brakes, and safety alarms."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Electric Forklift Inspection SOP",
+  "applicationCategory": "Safety Management System",
+  "description": "Standard operating procedure for daily electric forklift inspections to maintain OSHA compliance and operational safety.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

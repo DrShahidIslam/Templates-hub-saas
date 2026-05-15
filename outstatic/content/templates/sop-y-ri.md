@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop Y Ri
+title: 'SOP Y-RI: Yield Reconciliation & Inventory Process Guide'
 publishedAt: '2026-05-10T18:48:01.622Z'
+description: >-
+  Master the Yield Reconciliation & Inventory (Y-RI) SOP. Learn the systematic
+  process for inventory verification, variance analysis, and audit accuracy.
+seo_optimized: true
 ---
 # Standard Operating Procedure: SOP Y-RI (Yield Reconciliation & Inventory)
 
@@ -46,3 +50,52 @@ For high-volume production, a daily cycle count of a subset of inventory is reco
 
 **3. Who has the authority to approve inventory write-offs?**
 Only the Operations Manager or the Finance Lead has the authority to authorize adjustments resulting from inventory shrinkage or damage reports.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary objective of the Y-RI SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The objective is to ensure physical inventory levels align with ledger entries, minimize variances, and identify production losses to maintain supply chain integrity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is 'Blind Counting' recommended during the physical count phase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blind counting is performed without referring to the Current Inventory Ledger (CIL) to prevent bias and ensure the accuracy of the physical count data."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What action is required if inventory variance exceeds 0.5%?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Any variance exceeding the 0.5% tolerance threshold requires a mandatory 'Double-Count' verification before submitting the report for final approval."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Y-RI Reconciliation Module",
+  "applicationCategory": "Inventory Management System",
+  "operatingSystem": "ERP Integrated",
+  "description": "A systematic software module for performing yield reconciliation, variance analysis, and ledger adjustment documentation.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Enterprise Resource Planning"
+  }
+}
+</script>

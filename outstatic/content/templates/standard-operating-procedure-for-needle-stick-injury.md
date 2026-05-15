@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Needle Stick Injury
+title: 'Needle Stick Injury SOP: Emergency Management & Reporting'
 publishedAt: '2026-05-10T18:48:01.872Z'
+description: >-
+  Learn the mandatory clinical protocol for needle stick injuries. Follow these
+  essential steps for first aid, exposure risk assessment, and incident
+  reporting.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Management of Needle Stick Injuries (NSI)
 
@@ -47,3 +52,53 @@ No. PEP is not required for all exposures. It is reserved for high-risk injuries
 
 **3. Will the incident report affect my employment record?**
 No. Incident reports are strictly for safety analysis and ensuring you receive the necessary medical follow-up. They are part of a non-punitive safety culture designed to identify systemic hazards (e.g., faulty sharps containers or high-risk workflows).
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the first step after a needle stick injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Immediately cease the procedure, remove gloves, and wash the affected area with soap and warm, running water for at least 15 minutes. Do not scrub the site."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How quickly should I seek medical evaluation after an NSI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should report to the Occupational Health Department or the nearest Emergency Department within 2 hours of the injury to determine the need for Post-Exposure Prophylaxis (PEP)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What pathogens are assessed following a needle stick injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clinical assessment focuses on the potential transmission risk of bloodborne pathogens, specifically HIV, Hepatitis B (HBV), and Hepatitis C (HCV)."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Safety Incident Reporting System (SIRS)",
+  "applicationCategory": "Healthcare Software",
+  "operatingSystem": "Web-based",
+  "description": "Standardized documentation platform for capturing clinical incidents, including needle stick injuries, site exposure data, and administrative follow-up protocols.",
+  "softwareVersion": "1.0",
+  "offers": {
+    "@type": "Offer",
+    "category": "Institutional Protocol"
+  }
+}
+</script>

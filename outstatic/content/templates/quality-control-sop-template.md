@@ -1,8 +1,12 @@
 ---
-title: 'quality control sop template'
-status: 'published'
-slug: 'quality-control-sop-template'
+title: 'Quality Control (QC) SOP: Standard Inspection Procedure'
+status: published
+slug: quality-control-sop-template
 publishedAt: '2026-05-11T10:35:23.547Z'
+description: >-
+  Master the Quality Control process with this standardized SOP. Learn essential
+  steps for inspection, defect identification, and compliance reporting.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Quality Control (QC) Process
@@ -43,3 +47,54 @@ A: Refer to the "Customer Acceptance Policy" manual. If it falls within the agre
 
 **Q: How often should this SOP be reviewed?**
 A: This SOP should be reviewed and audited annually, or immediately following any significant change in production technology, materials, or quality regulatory standards.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the three main phases of the QC process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The QC process is divided into Preparation and Planning, Inspection and Testing, and finally, Reporting and Disposition."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should non-conforming items be handled?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non-conforming items must be tagged appropriately and moved to a designated quarantine area until a disposition decision, such as rework or scrap, is made."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is a Root Cause Analysis (RCA) necessary in QC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An RCA is conducted for critical failures to identify the underlying source of a defect, such as operator error or machine malfunction, to prevent recurrence."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Quality Management System (QMS)",
+  "applicationCategory": "BusinessApplication",
+  "description": "A centralized system used to log inspection results, measurements, and status codes to ensure organizational quality compliance.",
+  "operatingSystem": "All",
+  "featureList": [
+    "Real-time inspection logging",
+    "Defect tracking",
+    "Calibration monitoring",
+    "Compliance reporting"
+  ]
+}
+</script>

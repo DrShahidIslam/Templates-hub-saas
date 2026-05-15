@@ -1,3 +1,12 @@
+---
+title: 'Non-Compliance Reporting SOP: Step-by-Step Guide'
+description: >-
+  Learn the standard operating procedure for reporting non-compliance. Follow
+  our guide on identification, documentation, and CAPA resolution processes.
+status: published
+publishedAt: '2026-05-15T07:51:32.831Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Non-Compliance Reporting
 
 This Standard Operating Procedure (SOP) outlines the mandatory process for identifying, documenting, and reporting instances of non-compliance within the organization. A non-compliance report (NCR) serves as a critical mechanism for maintaining quality standards, regulatory adherence, and operational integrity. By systematically recording deviations from established policies or procedures, the organization can perform root cause analysis (RCA) and implement corrective and preventive actions (CAPA) to mitigate future risk. All employees are responsible for upholding these standards and reporting observed deficiencies immediately.
@@ -42,3 +51,53 @@ A: A Critical NCR triggers an immediate review by senior leadership and legal co
 
 **Q: Can I edit an NCR after it has been submitted?**
 A: Generally, no. Once submitted, the report is locked for audit purposes. If you discover new information after submission, contact the Compliance Department to request that an addendum be attached to your existing report.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I report non-compliance in the workplace?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report non-compliance by identifying the deviation, gathering evidence, notifying your supervisor within 2 hours, and submitting a formal entry through the QMS portal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What information is required in a non-compliance report?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Include a factual, objective description of the incident, the parties involved, the specific policy violated, severity levels, and any relevant evidentiary documentation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the purpose of a CAPA plan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Corrective and Preventive Action (CAPA) plan addresses the root cause of a non-compliance to fix current errors and implement measures that prevent future recurrence."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Quality Management System (QMS) NCR Portal",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web-based",
+  "description": "A centralized digital portal used for documenting, tracking, and resolving non-compliance reports (NCRs) and managing CAPA workflows.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  }
+}
+</script>

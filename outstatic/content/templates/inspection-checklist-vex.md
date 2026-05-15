@@ -1,3 +1,13 @@
+---
+title: 'VEX Robotics Inspection SOP: Official Compliance Checklist'
+description: >-
+  Master the VEX Robotics Competition inspection with our official SOP. Follow
+  our step-by-step checklist for robot configuration, electronics, and part
+  legality.
+status: published
+publishedAt: '2026-05-15T04:51:41.194Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: VEX Robotics Competition Inspection
 
 This Standard Operating Procedure (SOP) outlines the mandatory inspection protocol for VEX Robotics competition robots. The purpose of this inspection is to ensure compliance with the current VRC Game Manual, verify student safety, and guarantee a level playing field for all competitors. Adherence to this checklist prior to arriving at the official inspection station will minimize wait times and ensure your team is ready for qualification matches.
@@ -42,3 +52,53 @@ A: Generally, no. VEX V5 and VEX IQ are separate ecosystems. Only parts specific
 
 **Q: Do I need to bring my robot to inspection fully charged?**
 A: Yes. It is standard practice to have your primary and backup batteries fully charged to verify that the robot operates correctly under full power conditions.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the starting size constraints for a VEX robot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All VEX competition robots must fit within an 18\" x 18\" x 18\" starting size box before a match begins. While expansion is permitted during gameplay, the robot must meet these dimensions at the start."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure my VEX V5 electronics are inspection-ready?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ensure your V5 Robot Brain is paired, all components are updated to the latest VEXos firmware, the battery is securely fastened with the clip engaged, and all wiring is neatly managed to avoid pinch points."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are custom 3D printed parts allowed in VEX Robotics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom parts, including 3D printed components, must strictly adhere to the size, usage, and material limitations defined in the current season's VRC Game Manual."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "VEXos Utility",
+  "applicationCategory": "DeveloperApplication",
+  "operatingSystem": "Windows, macOS",
+  "description": "The official VEX utility software for managing firmware updates and configuration for V5 Robot Brains, motors, and sensors.",
+  "softwareVersion": "Current",
+  "publisher": {
+    "@type": "Organization",
+    "name": "VEX Robotics"
+  }
+}
+</script>

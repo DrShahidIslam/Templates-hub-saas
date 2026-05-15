@@ -1,7 +1,12 @@
 ---
 status: published
-title: New Hire Checklist Baylor Scott And White
+title: 'BSW New Hire Onboarding SOP: A Manager''s Guide'
 publishedAt: '2026-05-10T18:48:00.905Z'
+description: >-
+  Streamline your team integration with the BSW New Hire Onboarding SOP. Follow
+  this structured guide for IT provisioning, compliance training, and role
+  integration.
+seo_optimized: true
 ---
 # Standard Operating Procedure: New Hire Onboarding Process
 
@@ -51,3 +56,52 @@ A: Specialized clinical software access must be requested through the IT Service
 
 **Q: What if the employee has not received their ID badge by Day 1?**
 A: Use the temporary visitor access badge provided by the facility security desk. Notify your department manager immediately to escalate the request with the Badge Office.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How far in advance should I submit an IT service request for a new hire?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IT service requests via the BSW ServiceNow portal must be submitted at least 10 business days prior to the new hire's start date."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What mandatory training must new employees complete on Day 1?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "New hires must complete initial compliance modules including HIPAA, Cybersecurity Awareness, and Patient Safety protocols."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the purpose of the Peer Mentor role during onboarding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Peer Mentor is assigned to guide the new hire through day-to-day department workflows, clinical protocols, and communication standards."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "BSW Onboarding Management System",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web-based",
+  "description": "A structured SOP workflow for managing new hire onboarding, IT provisioning, and compliance training at Baylor Scott & White.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Baylor Scott & White Health"
+  }
+}
+</script>

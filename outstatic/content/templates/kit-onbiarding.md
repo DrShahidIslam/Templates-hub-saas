@@ -1,7 +1,12 @@
 ---
 status: published
-title: Kit Onbiarding
+title: Employee Hardware Onboarding SOP | IT Provisioning Guide
 publishedAt: '2026-05-10T18:48:00.892Z'
+description: >-
+  Streamline your new hire onboarding with our standardized IT hardware and
+  software provisioning SOP. Ensure secure, efficient, and seamless Day 1
+  setups.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Employee Hardware & Software Kit Onboarding
 
@@ -51,3 +56,53 @@ A: Only pre-install "Standard" software. Role-specific software should be instal
 
 **Q: How do we track hardware returned by offboarded employees?**
 A: Every kit must be tracked via an Asset Tag ID. When an employee leaves, the device must be marked as "Recovered" in the AMS, audited for physical damage, and then moved back to "Inventory" for future refurbishment.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of the hardware onboarding SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The goal is to ensure new employees have a seamless Day 1 experience by standardizing the provisioning, configuration, and deployment of hardware and software assets while maintaining security compliance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What security measures are included in the configuration phase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Security hardening includes factory resetting/re-imaging the machine, installing EDR and antivirus software, enforcing disk encryption, and configuring VPN profiles and SSO access."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why should IT teams maintain a 'Golden Image'?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintaining a 'Golden Image' allows IT teams to quickly deploy a pre-configured OS environment, reducing re-imaging time to 30 minutes or less."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Employee Hardware & Software Onboarding Kit",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "All",
+  "description": "A standardized SOP for IT departments to automate and secure the provisioning, configuration, and deployment of hardware for new employees.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

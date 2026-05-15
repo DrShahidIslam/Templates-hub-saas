@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop For Dissolution Test Apparatus
+title: 'Dissolution Test Apparatus SOP: Compliance & Calibration'
 publishedAt: '2026-05-10T18:48:01.209Z'
+description: >-
+  Master the Dissolution Test Apparatus with our SOP. Ensure USP <711> and <724>
+  compliance for accurate pharmaceutical testing and equipment maintenance.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Dissolution Test Apparatus Operation
 
@@ -50,3 +54,52 @@ A: Immediately stop the test, invalidate the run, document the finding in the la
 
 **Q: Why is the "25 mm height" so critical?**
 A: The height of the paddle/basket from the vessel floor dictates the hydrodynamic environment. Even a deviation of 3-5 mm can significantly alter the stirring intensity and turbulence, leading to non-reproducible dissolution profiles.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the standard temperature for dissolution testing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The dissolution medium must be pre-warmed and maintained at 37°C ± 0.5°C throughout the test to ensure accurate pharmaceutical results."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the required distance for the paddle from the vessel bottom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to standard protocols, the distance between the bottom of the paddle or basket and the inside bottom of the vessel must be 25 mm ± 2 mm."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is compliance with USP <711> ensured?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compliance is ensured by following strict SOPs for pre-operational setup, mechanical calibration, precise temperature control, and validated cleaning procedures."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Dissolution Test Apparatus Controller",
+  "applicationCategory": "Laboratory Automation",
+  "operatingSystem": "Laboratory Standard",
+  "description": "System protocols for the operation, calibration, and maintenance of pharmaceutical dissolution test apparatus to meet USP standards.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Compliance SOP"
+  }
+}
+</script>

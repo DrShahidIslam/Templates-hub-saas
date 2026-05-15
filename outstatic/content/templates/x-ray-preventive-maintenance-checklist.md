@@ -1,8 +1,13 @@
 ---
-title: 'x ray preventive maintenance checklist'
-status: 'published'
-slug: 'x-ray-preventive-maintenance-checklist'
+title: 'X-Ray Preventive Maintenance SOP: Safety & Calibration Guide'
+status: published
+slug: x-ray-preventive-maintenance-checklist
 publishedAt: '2026-05-11T12:32:30.021Z'
+description: >-
+  Follow our expert X-Ray Preventive Maintenance SOP for regulatory compliance,
+  diagnostic accuracy, and radiation safety. Essential protocols for imaging
+  systems.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: X-Ray Preventive Maintenance (PM)
@@ -54,3 +59,49 @@ The X-ray tube is the most expensive and critical component. Regular monitoring 
 
 **3. What should I do if a safety test fails?**
 If any radiation protection or electrical safety test fails, the equipment must be immediately tagged "OUT OF SERVICE." It must not be used on patients until the fault is repaired, re-tested, and verified by a qualified service engineer.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is authorized to perform X-ray preventive maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preventive maintenance must be performed exclusively by certified biomedical engineers or authorized service personnel in accordance with manufacturer manuals and local safety standards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the primary electrical tests for X-ray maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key electrical tests include leakage current testing per IEC 60601-1, kVp accuracy calibration (within ±5%), timer accuracy checks, and grounding connection inspections."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the allowable alignment error for X-ray fields?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The light field to radiation field alignment must typically maintain an error of less than 2% of the Source-to-Image Distance (SID)."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "X-Ray Diagnostic Calibration & Diagnostic Tool",
+  "applicationCategory": "MedicalDiagnosticSoftware",
+  "operatingSystem": "Windows/Proprietary OEM",
+  "description": "Professional-grade software diagnostic suite utilized for the calibration, maintenance, and performance testing of diagnostic X-ray imaging equipment.",
+  "softwareVersion": "Latest Version"
+}
+</script>

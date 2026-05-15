@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Hajj 2025 Preparation and Execution'
-status: 'published'
-slug: 'checklist-for-hajj-2025'
+title: 'Hajj 2025 Preparation Guide: Essential SOP & Checklist'
+status: published
+slug: checklist-for-hajj-2025
 publishedAt: '2026-05-07T18:59:25.226Z'
+description: >-
+  Prepare for Hajj 2025 with our comprehensive SOP. Get expert tips on
+  documentation, essential gear, health requirements, and physical training for
+  a smooth journey.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Hajj 2025 Preparation and Execution
@@ -44,3 +49,53 @@ A: Carry a mix of Saudi Riyals in cash for small purchases and a travel-friendly
 
 **Q: How do I manage laundry while in Makkah and Mina?**
 A: Pack lightweight, quick-dry fabrics. Many hotels offer laundry services, but for the days in Mina, plan to hand-wash small essentials using travel-sized detergent sachets.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What documents are required for Hajj 2025?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must have a passport valid for at least 6 months, a confirmed Hajj visa via the Nusuk platform, a printed Hajj permit, and an International Certificate of Vaccination (Yellow Card)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should I prepare physically for Hajj?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is recommended to begin cardiovascular training 8 weeks prior to departure, specifically a daily walking regimen of 3–5km to prepare for the physical demands of Tawaf and Sa’i."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What essential electronics should I pack for Hajj?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key electronics include a high-capacity power bank for mobile navigation, a universal travel adapter, and a smartphone for accessing digital copies of your documentation."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Nusuk Hajj Platform",
+  "applicationCategory": "TravelApplication",
+  "operatingSystem": "Web, iOS, Android",
+  "description": "The official Saudi government platform for managing Hajj and Umrah permits, visa applications, and pilgrimage logistics.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  }
+}
+</script>

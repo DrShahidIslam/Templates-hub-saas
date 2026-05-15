@@ -1,8 +1,13 @@
 ---
-title: 'preventive maintenance checklist for capacitor bank'
-status: 'published'
-slug: 'preventive-maintenance-checklist-for-capacitor-bank'
+title: 'Capacitor Bank Preventive Maintenance: SOP & Safety Guide'
+status: published
+slug: preventive-maintenance-checklist-for-capacitor-bank
 publishedAt: '2026-05-11T11:02:28.098Z'
+description: >-
+  Follow this expert SOP for capacitor bank preventive maintenance. Ensure power
+  factor efficiency, safety, and avoid thermal failure with our step-by-step
+  guide.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Preventive Maintenance for Capacitor Banks
@@ -52,3 +57,54 @@ A: A bulge indicates that the internal pressure relief mechanism has been activa
 
 **Q: Is it safe to touch the terminals after turning off the breaker?**
 A: Absolutely not. Capacitors store energy. Even after the breaker is off, they hold a lethal charge. Always wait the manufacturer-specified discharge time and perform a manual grounding procedure before physical contact.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long should you wait before touching a capacitor bank?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must wait at least 15–20 minutes after isolation to allow internal discharge resistors to drain residual stored energy, followed by manual discharge using a grounded stick."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is thermal imaging important for capacitor maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Thermal imaging identifies hidden 'hot spots' at contactor points or fuse clips, which indicates potential failure points caused by loose connections or degradation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What safety protocols are required for capacitor maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintenance requires qualified personnel, strict adherence to site-specific Lock-Out/Tag-Out (LOTO) protocols, and the use of appropriate Personal Protective Equipment (PPE)."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Capacitor Bank Preventive Maintenance SOP",
+  "applicationCategory": "Industrial Maintenance Procedure",
+  "description": "A standardized operational procedure for the inspection, cleaning, and testing of low and medium-voltage capacitor banks to ensure optimal power factor correction.",
+  "operatingSystem": "All Industrial Environments",
+  "offers": {
+    "@type": "Offer",
+    "category": "Documentation",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

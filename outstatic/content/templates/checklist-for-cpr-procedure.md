@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Cardiopulmonary Resuscitation (CPR)'
-status: 'published'
-slug: 'checklist-for-cpr-procedure'
+title: 'CPR SOP: High-Quality Chest Compressions & AHA Guidelines'
+status: published
+slug: checklist-for-cpr-procedure
 publishedAt: '2026-05-07T18:59:25.145Z'
+description: >-
+  Master life-saving CPR techniques with our step-by-step SOP. Learn the AHA
+  'Push Hard, Push Fast' protocol for adult cardiac arrest response and AED
+  usage.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Cardiopulmonary Resuscitation (CPR)
@@ -56,3 +61,52 @@ Continue until:
 * An AED becomes available and indicates a shock or analysis is required. 
 * The scene becomes unsafe for the rescuer. 
 * You are too physically exhausted to continue.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the recommended rate for CPR chest compressions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to AHA guidelines, you should maintain a speed of 100 to 120 compressions per minute."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How deep should chest compressions be for an adult?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For an adult, you should compress the chest at least 2 inches (5 cm) but no more than 2.4 inches (6 cm)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the ratio of compressions to rescue breaths?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The standard protocol for adult CPR is a ratio of 30 chest compressions followed by 2 rescue breaths."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "CPR Standard Operating Procedure",
+  "applicationCategory": "MedicalGuidance",
+  "description": "A structured medical procedure outline for performing high-quality cardiopulmonary resuscitation following AHA guidelines.",
+  "operatingSystem": "All",
+  "provider": {
+    "@type": "Organization",
+    "name": "Medical Training Authority"
+  }
+}
+</script>

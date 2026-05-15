@@ -1,7 +1,11 @@
 ---
 status: published
-title: New Hire Checklist For California Employers
+title: 'California New Hire Onboarding: Compliance SOP & Checklist'
 publishedAt: '2026-05-10T18:48:00.906Z'
+description: >-
+  Streamline your California new hire onboarding with our expert SOP. Ensure
+  compliance with labor laws, EDD reporting, and mandatory state notices.
+seo_optimized: true
 ---
 # Standard Operating Procedure: California New Hire Onboarding
 
@@ -49,3 +53,53 @@ A: You must complete Section 2 of Form I-9 within three business days of the emp
 
 **Q: Am I required to provide sexual harassment training to part-time or seasonal employees?**
 A: Yes. In California, all employees—regardless of status—must receive the mandatory harassment prevention training if your organization has five or more employees. It must be completed within six months of hire.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the essential documents for hiring in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key documents include the Labor Code 2810.5 Wage Theft Prevention Act notice, Form I-9, Form W-4, the California DE 4, and mandatory EDD pamphlets like DE 2320, DE 2515, and DE 2511."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When must I report a new hire to the California EDD?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Employers are required by law to report all new employees to the California Employment Development Department (EDD) within 20 days of the employee's start date."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is sexual harassment training mandatory for new hires in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, California law requires employers to provide new hires with information regarding sexual harassment prevention, including the CRD’s sexual harassment prevention fact sheet."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "California New Hire Onboarding SOP",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "All",
+  "description": "A comprehensive Standard Operating Procedure for human resources professionals to ensure full compliance with California labor laws and state-specific hiring documentation requirements.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

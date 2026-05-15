@@ -1,7 +1,11 @@
 ---
 status: published
-title: Onboarding Template Google Docs
+title: 'New Hire Onboarding SOP: Google Docs Template Guide'
 publishedAt: '2026-05-10T18:48:01.061Z'
+description: >-
+  Master employee onboarding with our standardized Google Docs SOP. Learn how to
+  create, manage, and deploy consistent onboarding templates for new hires.
+seo_optimized: true
 ---
 # Standard Operating Procedure: New Hire Onboarding Template Management
 
@@ -45,3 +49,52 @@ A: Conduct a quarterly audit. Review the template during your recurring operatio
 
 **Q: How do I handle sensitive information like temporary passwords in these docs?**
 A: Never include raw passwords in an onboarding doc. Instead, link to a secure password management tool (e.g., 1Password or LastPass) where the credentials have already been securely shared with the employee.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why use a standardized Google Docs template for onboarding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standardized template ensures every new hire receives consistent company information, reduces administrative friction, and ensures all compliance and technical details are covered on Day 1."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should I name individual employee onboarding documents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To maintain organization, use the naming convention: YYMMDD_Onboarding_FirstNameLastName."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I give new hires 'Editor' access to their onboarding document?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, it is recommended to give new hires 'Commenter' access to prevent accidental deletion or modification of the core onboarding steps."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "New Hire Onboarding SOP Template",
+  "applicationCategory": "Business Productivity",
+  "operatingSystem": "Google Workspace",
+  "description": "A structured Standard Operating Procedure for managing employee onboarding documentation using Google Docs.",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "text": "Follow the three-phase process: Template Preparation, Execution & Deployment, and Lifecycle Management."
+  }
+}
+</script>

@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop For Lft Test
+title: 'Liver Function Test (LFT) SOP: Clinical Protocol Guide'
 publishedAt: '2026-05-10T18:48:01.352Z'
+description: >-
+  Follow our standardized clinical SOP for Liver Function Test (LFT) execution.
+  Learn proper patient prep, specimen collection, and lab processing procedures.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Liver Function Test (LFT) Execution
 
@@ -43,3 +47,52 @@ This indicates hemolysis (ruptured red blood cells). You must reject the sample 
 
 **3. Does hydration status affect LFT results?**
 Yes. Significant dehydration can lead to hemoconcentration, which may result in artificially elevated albumin and liver enzyme levels. Always encourage the patient to stay hydrated with water prior to the fasting window.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is fasting required for a Liver Function Test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fasting for 8–12 hours is necessary because post-prandial lipemia (fat in the blood after eating) can interfere with accurate enzyme assays and diagnostic results."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long should a blood sample for an LFT clot before centrifugation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The sample should stand vertically at room temperature for 30–60 minutes to ensure complete clot formation prior to the centrifugation process."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the recommended centrifugation speed for LFT samples?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Specimens should be processed in a centrifuge at 3000–3500 RPM for a duration of 10–15 minutes to ensure proper serum separation."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Liver Function Test (LFT) SOP Protocol",
+  "applicationCategory": "MedicalDiagnosticProtocol",
+  "description": "Standardized clinical procedure for the execution, collection, and processing of Liver Function Tests to ensure diagnostic accuracy and patient safety.",
+  "operatingSystem": "Clinical Laboratory Environment",
+  "offers": {
+    "@type": "Offer",
+    "category": "Free Access"
+  }
+}
+</script>

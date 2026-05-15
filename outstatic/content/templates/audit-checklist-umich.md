@@ -1,3 +1,13 @@
+---
+title: 'U-M Departmental Audit Protocol: Compliance SOP Guide'
+description: >-
+  Streamline U-M internal audits with this official SOP guide. Ensure compliance
+  with financial, grant, and personnel regulations at the University of
+  Michigan.
+status: published
+publishedAt: '2026-05-15T02:52:22.556Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: University of Michigan (U-M) Departmental Audit Protocol
 
 This Standard Operating Procedure (SOP) serves as a comprehensive framework for internal departmental audits at the University of Michigan. It is designed to ensure compliance with U-M Standard Practice Guides (SPGs), Sponsored Programs (ORSP) regulations, and generally accepted accounting principles (GAAP). Adherence to this protocol minimizes audit risk, optimizes resource allocation, and ensures transparency across university units. All financial and administrative staff are required to utilize this checklist to facilitate internal reviews prior to formal audits by the University Audits Department or external regulatory bodies.
@@ -36,3 +46,52 @@ Do not attempt to hide the error. Document the finding, consult with your depart
 
 **3. Does this audit checklist replace the University Audits Department’s formal review?**
 No. This checklist is a preparatory tool designed to increase your department's "Audit Readiness." Formal audits will still be conducted independently by the University Audits Department based on institutional risk assessments.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the purpose of the U-M Departmental Audit Protocol?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The protocol serves as a framework to ensure compliance with U-M Standard Practice Guides (SPGs), Sponsored Programs regulations, and GAAP to minimize audit risk."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should P-Card transactions be audited?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The protocol recommends auditing a 20% sample of P-Card transactions to ensure the absence of prohibited items and verify business purpose documentation in Concur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What systems are involved in U-M departmental audits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key systems include M-Pathways for financial and asset data, Concur for expense reporting, the Effort Certification System (ECS), and M-Inform for COI disclosures."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "University of Michigan Departmental Audit Protocol",
+  "applicationCategory": "Compliance Management",
+  "operatingSystem": "Web-based",
+  "description": "Standard Operating Procedure framework for financial and administrative audits at the University of Michigan.",
+  "provider": {
+    "@type": "Organization",
+    "name": "University of Michigan"
+  }
+}
+</script>

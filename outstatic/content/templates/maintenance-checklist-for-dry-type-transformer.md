@@ -1,8 +1,12 @@
 ---
-title: 'maintenance checklist for dry type transformer'
-status: 'published'
-slug: 'maintenance-checklist-for-dry-type-transformer'
+title: 'Dry-Type Transformer Maintenance: Essential SOP & Checklist'
+status: published
+slug: maintenance-checklist-for-dry-type-transformer
 publishedAt: '2026-05-11T09:39:38.410Z'
+description: >-
+  Ensure transformer longevity with our dry-type maintenance SOP. Follow expert
+  protocols for inspection, safety, cleaning, and preventing electrical failure.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Maintenance of Dry-Type Transformers
@@ -49,3 +53,53 @@ A: Only if the product is explicitly rated for the specific resin or epoxy insul
 
 **Q: What do I do if I find "tracking" on the coil surface?**
 A: Surface tracking is a sign of dielectric breakdown. Light carbon deposits can sometimes be sanded off with ultra-fine abrasive, but deep tracking usually indicates the need for a professional diagnostic test (e.g., TTR, Megger/Insulation Resistance test) or replacement of the unit. Consult an expert before attempting to energize.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should dry-type transformers be inspected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While frequency depends on environmental conditions, regular maintenance should be performed annually to prevent dust accumulation, moisture ingress, and thermal stress."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What safety precautions are required for transformer maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintenance requires strict adherence to Lockout/Tagout (LOTO) protocols, de-energizing both primary and secondary circuits, and using appropriate Arc Flash PPE."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is it important to clean dry-type transformer coils?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cleaning prevents insulation degradation and localized overheating caused by dust accumulation, which can eventually lead to catastrophic electrical failure."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Dry-Type Transformer Maintenance SOP",
+  "applicationCategory": "Industrial Maintenance Protocol",
+  "operatingSystem": "All",
+  "description": "A standardized operational procedure for the inspection, safety, and preventative maintenance of dry-type electrical transformers.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

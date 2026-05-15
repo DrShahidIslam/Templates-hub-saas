@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop For Ximb Sample
+title: 'XIMB Sample Processing SOP: Lab Protocol & Safety Guide'
 publishedAt: '2026-05-10T18:48:01.560Z'
+description: >-
+  Follow our expert SOP for XIMB sample processing. Ensure data integrity and
+  radiation safety with these standard protocols for handling and analysis.
+seo_optimized: true
 ---
 # Standard Operating Procedure: XIMB Sample Processing and Analysis
 
@@ -47,3 +51,49 @@ A: Recalibration is required at the start of every shift or if the ambient room 
 
 **Q: Is it safe to move the sample immediately after a high-energy scan?**
 A: Yes, provided the "Ready" indicator on the control panel is illuminated. The shielding design prevents residual radiation, but always utilize the provided handling tools rather than direct contact.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the baseline radiation limit for XIMB workstations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The baseline radiation level for an XIMB workstation must be maintained at less than 0.05 µSv/h."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What environmental conditions are required for XIMB samples?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The environmental control system must be set to a temperature of 22°C ± 1°C and a humidity level of 45% ± 5%."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What vacuum pressure is required for XIMB sample analysis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before initiating a scan, ensure the chamber reaches an operational pressure threshold of less than 10^-5 Torr."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "XIMB Control Software",
+  "applicationCategory": "ScientificApplication",
+  "operatingSystem": "Laboratory Information Management System (LIMS) Compatible",
+  "description": "Control software used for high-resolution X-ray imaging and measurement of biological samples within the XIMB protocol framework.",
+  "softwareVersion": "1.0"
+}
+</script>

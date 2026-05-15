@@ -1,7 +1,11 @@
 ---
 status: published
-title: Checklist For Us Passport
+title: 'US Passport Application Guide: Requirements & SOP'
 publishedAt: '2026-05-10T18:48:00.529Z'
+description: >-
+  Follow our expert SOP to apply for a US passport. Learn which form to use,
+  mandatory documentation, and how to avoid common processing delays.
+seo_optimized: true
 ---
 # Standard Operating Procedure: US Passport Application Process
 
@@ -49,3 +53,52 @@ A: Processing times fluctuate based on demand. As of the current cycle, standard
 
 **Q: What happens if my previous passport was damaged?**
 A: You cannot renew a damaged passport by mail. You must apply in person using Form DS-11 and include a signed statement explaining the nature of the damage.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use Form DS-11 or DS-82?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use Form DS-11 for first-time applicants or those not eligible for mail renewal. Use Form DS-82 only if you meet all specific criteria for passport renewal by mail."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for a US passport application?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need proof of U.S. citizenship (original/certified copy), a valid government-issued photo ID, a 2x2 inch passport photo, the appropriate application form, and payment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if I have travel within 14 days?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your international travel is within 14 days, you should contact the nearest official Passport Agency directly to schedule an urgent appointment."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "US Passport Application Process",
+  "applicationCategory": "GovernmentService",
+  "operatingSystem": "All",
+  "description": "A comprehensive SOP guide for completing and submitting US Passport application forms DS-11 and DS-82 correctly.",
+  "provider": {
+    "@type": "GovernmentOrganization",
+    "name": "U.S. Department of State"
+  }
+}
+</script>

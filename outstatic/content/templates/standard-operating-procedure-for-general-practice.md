@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For General Practice
+title: 'General Practice SOP: Clinical Workflow & Operations Guide'
 publishedAt: '2026-05-10T18:48:01.789Z'
+description: >-
+  Master clinical efficiency with our General Practice SOP. Learn standardized
+  protocols for patient intake, rooming, documentation, and discharge
+  compliance.
+seo_optimized: true
 ---
 # Standard Operating Procedure: General Practice Operations
 
@@ -57,3 +62,49 @@ A: All walk-ins must be triaged by a nurse or clinician immediately. If they are
 
 **Q: How often must clinical equipment be calibrated or inspected?**
 A: All diagnostic and clinical equipment must undergo maintenance and calibration according to the manufacturer’s schedule, or at least annually. Logs must be maintained in the clinic’s central operations binder for audit purposes.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key steps in patient intake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patient intake involves verifying identity with two identifiers, updating EHR data, performing symptom pre-screening, confirming visit purpose, and collecting co-pays and consent signatures."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is EHR documentation crucial in general practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "EHR documentation is essential for ensuring regulatory compliance, meeting ICD-10/CPT coding requirements, reconciling medications, and maintaining accurate clinical history for patient safety."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the standard procedure for clinical rooming?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rooming includes escorting the patient, recording vitals, documenting the chief complaint, updating allergies, checking for drug interactions, and sanitizing the exam area."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "General Practice Operations Management System",
+  "applicationCategory": "MedicalApplication",
+  "operatingSystem": "Web-based",
+  "description": "A comprehensive operational framework and SOP management system for clinical workflows, patient record maintenance, and healthcare compliance.",
+  "featureList": "Patient intake, automated vitals recording, EHR documentation, ICD-10 coding support, clinical discharge planning"
+}
+</script>

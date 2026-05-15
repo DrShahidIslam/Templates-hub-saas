@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Road Safety
+title: 'Road Safety SOP: Essential Fleet Operation Protocols'
 publishedAt: '2026-05-10T18:48:01.451Z'
+description: >-
+  Follow our mandatory Road Safety SOP to ensure fleet compliance. Learn
+  pre-departure inspections, defensive driving tactics, and driver readiness
+  protocols.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Road Safety and Fleet Operations
 
@@ -59,3 +64,53 @@ While technically permitted, we strongly advise against it. If a call is necessa
 
 **3. How often should the vehicle inspection checklist be completed?**
 The inspection must be completed before every trip, without exception. This includes short commutes and long-haul deliveries.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in the Pre-Departure Vehicle Inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The inspection covers tire pressure and tread, fluid levels (oil, coolant, brake), functional lights, safety equipment like fire extinguishers and first aid kits, and verification of insurance and registration documents."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the three-second rule in defensive driving?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The three-second rule is a safety guideline where a driver maintains a minimum distance of three seconds between their vehicle and the one in front to allow sufficient reaction time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who must follow these fleet operation protocols?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "These safety protocols are mandatory for all employees, contractors, and third-party drivers operating vehicles under company authority."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Road Safety and Fleet Operations SOP",
+  "applicationCategory": "BusinessApplication",
+  "description": "Standard Operating Procedure for managing road safety, vehicle inspections, and defensive driving protocols for fleet operations.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

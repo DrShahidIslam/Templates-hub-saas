@@ -1,7 +1,11 @@
 ---
 status: published
-title: Standard Operating Procedure For Document Control
+title: 'Document Control SOP: Best Practices & Compliance Guide'
 publishedAt: '2026-05-10T18:48:01.708Z'
+description: >-
+  Master document control with our comprehensive SOP guide. Learn how to draft,
+  review, approve, and manage documentation to ensure operational compliance.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Document Control
 
@@ -46,3 +50,54 @@ A: Authority is defined by the Document Approval Matrix. Generally, the document
 
 **Q: What do I do if I find an outdated document in use?**
 A: Immediately stop using the document, report the incident to the Quality department, and retrieve the latest version from the DMS. The incident may be logged as a minor non-conformance for process improvement.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the purpose of a Document Control SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Document Control SOP ensures that personnel use only the most current, accurate, and authorized versions of documentation, reducing operational risks and non-compliance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should version control be handled?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use version incrementing: increment to the next decimal (e.g., v1.1) for minor edits and to the next whole number (e.g., v2.0) for major revisions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you handle obsolete documents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Obsolete documents must be removed from active folders, marked as 'OBSOLETE', and moved to a secure, read-only archival folder to prevent accidental use."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Document Management System (DMS)",
+  "applicationCategory": "Enterprise Software",
+  "description": "A centralized system for the controlled distribution, archival, and lifecycle management of organizational standard operating procedures and technical specifications.",
+  "operatingSystem": "Web-based",
+  "featureList": [
+    "Version Control",
+    "Digital Signature Approval",
+    "Document Archival",
+    "Stakeholder Notification"
+  ]
+}
+</script>

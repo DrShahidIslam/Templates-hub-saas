@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: District Election Officer (DEO) Operations'
-status: 'published'
-slug: 'checklist-for-district-election-officer'
+title: 'DEO Election SOP: A Guide to Electoral Integrity & Operations'
+status: published
+slug: checklist-for-district-election-officer
 publishedAt: '2026-05-07T18:59:25.167Z'
+description: >-
+  Master district election management with this comprehensive DEO Standard
+  Operating Procedure. Learn best practices for voter rolls, MCC, and voting day
+  logistics.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: District Election Officer (DEO) Operations
@@ -49,3 +54,53 @@ A: The Flying Squad (FS) must be dispatched immediately. You or your designated 
 
 **Q: What is the most critical document to secure post-election?**
 A: The "Presiding Officer’s Diary." It serves as the primary legal record of events occurring inside the polling booth and is the first document reviewed during any election petition or legal challenge.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary responsibilities of a District Election Officer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The DEO is responsible for ensuring electoral integrity, managing polling station logistics, overseeing voter roll audits, and enforcing the Model Code of Conduct."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the Model Code of Conduct (MCC) monitored?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "MCC compliance is maintained through dedicated control rooms, deployment of Flying Squads (FS), Static Surveillance Teams (SST), and oversight of candidate campaign expenditures."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What steps are required for voting day readiness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Readiness includes secure material distribution with GPS tracking, testing redundant communication networks, and conducting mandatory mock polls at 05:30."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "DEO Operations Management SOP",
+  "applicationCategory": "Governmental Process Management",
+  "operatingSystem": "All",
+  "description": "A structured operational framework designed for District Election Officers to manage election logistics, MCC monitoring, and polling station security.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

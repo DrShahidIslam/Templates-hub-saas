@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Residential Property Inspection'
-status: 'published'
-slug: 'checklist-for-house-viewing'
+title: 'Residential Property Inspection SOP: Expert Checklist'
+status: published
+slug: checklist-for-house-viewing
 publishedAt: '2026-05-07T18:59:25.244Z'
+description: >-
+  Master your house viewing with our professional residential property
+  inspection SOP. Identify structural, mechanical, and functional issues like an
+  expert.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Residential Property Inspection
@@ -46,3 +51,53 @@ A: Absolutely. With the owner's or agent's permission, document everything. You 
 
 **Q: How do I identify if the neighborhood is a "good" investment?**
 A: Look for signs of pride of ownership in surrounding properties—manicured lawns, well-maintained exteriors, and a lack of abandoned vehicles. These are high-level indicators of a stable or appreciating neighborhood.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the first signs of structural foundation issues?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Look for horizontal or stair-step cracks in brickwork or concrete, as well as doors that stick or floors that appear to slope, which indicate settling."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I check plumbing pressure during a viewing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Flush all toilets and run multiple taps simultaneously in the kitchen and bathrooms to test for consistent water pressure and proper drainage speed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is it important to check the age of a water heater?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Water heaters typically last about 10 years. If the unit is older, you should factor an immediate replacement cost into your purchase budget."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Residential Property Inspection SOP",
+  "applicationCategory": "ProductivityApplication",
+  "description": "A systematic standard operating procedure for evaluating structural and mechanical integrity in residential properties.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

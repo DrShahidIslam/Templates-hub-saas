@@ -1,7 +1,12 @@
 ---
 status: published
-title: Safety Sop Army
+title: Military Unit Safety & Risk Management SOP Guide
 publishedAt: '2026-05-10T18:48:01.099Z'
+description: >-
+  Learn the essential framework for military risk management. This SOP covers
+  hazard identification, DD Form 2977, safety briefings, and operational
+  oversight.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Unit Safety and Risk Management
 
@@ -47,3 +52,53 @@ A: It is required for any military operation, training event, or high-risk admin
 
 **Q: What is the procedure if a soldier is injured during training?**
 A: Follow the "Nine-Line" MEDEVAC request protocol immediately. Ensure the scene is secured to prevent further injury, notify the Chain of Command, and provide initial first aid according to TCCC (Tactical Combat Casualty Care) guidelines.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary purpose of a Risk Management (RM) Worksheet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The DD Form 2977 is used to identify hazards, assess risk levels from Extremely High to Low, and document specific control measures to mitigate those risks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who has the authority to stop an unsafe military operation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Every service member possesses the authority and responsibility to 'Call a Knock-It-Off' if they observe an unsafe condition during an operation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key requirements for medical readiness in this SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical readiness requires the presence of a certified Combat Life Saver (CLS) or medic, alongside a validated and communicated MEDEVAC/CASEVAC plan."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Unit Safety and Risk Management SOP Tool",
+  "applicationCategory": "Professional Tool",
+  "description": "A standardized digital framework for military risk management, hazard identification, and operational safety compliance.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

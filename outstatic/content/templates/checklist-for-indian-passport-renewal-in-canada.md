@@ -1,8 +1,12 @@
 ---
-title: 'Standard Operating Procedure: Indian Passport Renewal in Canada'
-status: 'published'
-slug: 'checklist-for-indian-passport-renewal-in-canada'
+title: 'Indian Passport Renewal in Canada: Complete Guide 2024'
+status: published
+slug: checklist-for-indian-passport-renewal-in-canada
 publishedAt: '2026-05-07T18:59:25.251Z'
+description: >-
+  Renew your Indian passport in Canada easily. Follow our step-by-step SOP for
+  Passport Seva registration, documentation, and BLS appointment requirements.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Indian Passport Renewal in Canada
@@ -43,3 +47,52 @@ A: Yes, you must submit your original old passport with the application. It will
 
 **Q: Can I apply for a renewal if my Canadian visa is expired?**
 A: You generally need valid Canadian legal status to renew your Indian passport. If your status has expired, you may be required to provide a notarized affidavit explaining your circumstances.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I start my Indian passport renewal in Canada?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by visiting the official Passport Seva Portal to register, fill out the online application form, and generate your Application Reference Number (ARN)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for passport renewal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need your current passport, proof of Canadian legal status (PR card or permit), two proofs of residence, the signed online application form, and two 2x2 inch photographs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where do I submit my Indian passport renewal application?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Applications must be submitted in person at a BLS International center in Canada. You must book an appointment via the official BLS Canada website prior to your visit."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Passport Seva Portal",
+  "applicationCategory": "Government Service",
+  "operatingSystem": "Web",
+  "description": "The official online portal for Indian citizens to apply for passport renewal and related consular services.",
+  "provider": {
+    "@type": "GovernmentOrganization",
+    "name": "Ministry of External Affairs, Government of India"
+  }
+}
+</script>

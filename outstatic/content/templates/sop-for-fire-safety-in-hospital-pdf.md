@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop For Fire Safety In Hospital Pdf
+title: 'Hospital Fire Safety SOP: RACE & PASS Protocols Explained'
 publishedAt: '2026-05-10T18:48:01.245Z'
+description: >-
+  Learn essential hospital fire safety protocols including the RACE response and
+  PASS extinguisher method to ensure patient safety and regulatory compliance.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Hospital Fire Safety and Emergency Response
 
@@ -60,3 +64,53 @@ Patient safety is always the priority. You should only attempt to extinguish a f
 
 **3. How often should staff receive fire safety training?**
 Per regulatory standards, all hospital personnel must receive comprehensive fire safety training during onboarding and at least annually thereafter. Drills should be conducted quarterly to ensure muscle memory during high-stress scenarios.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does the RACE protocol stand for in hospital fire safety?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "RACE stands for Rescue (move patients from danger), Alarm (activate the fire alarm), Contain (close doors to stop smoke), and Extinguish/Evacuate (fight small fires or begin evacuation)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you correctly use a fire extinguisher using the PASS method?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The PASS method involves: Pulling the pin, Aiming at the base of the fire, Squeezing the handle, and Sweeping from side to side until the fire is out."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should non-ambulatory patients be evacuated during a fire?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use 'S-E-D' techniques—Slide, Evac-mat, or Drag—utilizing the specialized evacuation equipment stored in designated hospital hallway cabinets."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Hospital Fire Safety SOP Management System",
+  "applicationCategory": "Healthcare Operations",
+  "operatingSystem": "Web-based",
+  "description": "Standard Operating Procedure documentation software for clinical environment emergency response, covering NFPA 101 compliance and staff training protocols.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Educational",
+    "price": "0.00"
+  }
+}
+</script>

@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Petty Cash
+title: 'Petty Cash Management SOP: Best Practices & Guidelines'
 publishedAt: '2026-05-10T18:48:01.885Z'
+description: >-
+  Master petty cash management with our step-by-step SOP. Learn secure
+  disbursement, reconciliation procedures, and internal control best practices
+  for businesses.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Petty Cash Management
 
@@ -41,3 +46,52 @@ A: No. Petty cash is strictly for minor out-of-pocket operational expenses (e.g.
 
 **Q: How do I handle a request for an expense that exceeds the pre-set limit?**
 A: Any expense exceeding the petty cash limit (e.g., $50) should be denied and redirected to the standard company procurement or expense reimbursement policy, requiring a corporate credit card or a formal Purchase Order.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an Imprest petty cash system?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An Imprest system maintains a fixed balance of petty cash. The total of cash on hand plus processed receipts must always equal the pre-set fund balance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who should be responsible for the petty cash fund?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A single designated 'Petty Cash Custodian' should be responsible for physical security and record-keeping, with only one secondary backup manager authorized for access."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should petty cash be reconciled?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Perform a surprise physical count of the cash box at least once per month to ensure accuracy and prevent misappropriation."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Petty Cash Management System",
+  "applicationCategory": "FinanceApplication",
+  "description": "A standardized operational framework for the administration, security, and replenishment of petty cash funds within an organization.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "category": "Standard Operating Procedure"
+  }
+}
+</script>

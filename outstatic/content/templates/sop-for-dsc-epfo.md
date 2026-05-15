@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Dsc Epfo
+title: 'EPFO DSC Management Guide: Register & Update Digital Signature'
 publishedAt: '2026-05-10T18:48:01.217Z'
+description: >-
+  Master EPFO DSC management with our step-by-step SOP. Learn to register,
+  update, and troubleshoot Digital Signature Certificates for seamless ECR
+  filing.
+seo_optimized: true
 ---
 # Standard Operating Procedure: DSC Management for EPFO Portal
 
@@ -45,3 +50,49 @@ No. The DSC must be issued in the name of the authorized signatory whose details
 
 **3. How do I change the authorized signatory DSC on the portal?**
 You must first update the Authorized Signatory details in the 'Establishment Profile' section. Once the change is reflected and verified, you can proceed to register the new signatory’s DSC following the standard Phase 2 steps.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I register a new DSC on the EPFO Employer Portal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Navigate to the 'Establishment' tab, select 'DSC/E-Sign', choose the authorized signatory, select your certificate from the token, enter your password, and submit the request for approval."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my DSC registration is pending?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Monitor the status under the 'Pending Requests' tab. Registration often requires approval from the EPFO regional office; ensure all details provided match your establishment records."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which browser is best for EPFO DSC operations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "EPFO typically requires Internet Explorer mode in Microsoft Edge or Chrome with the specific E-Sign/DSC browser extensions and the correct Java Runtime Environment installed."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "EPFO Employer Unified Portal",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Windows",
+  "description": "The official EPFO Employer Portal for managing establishment compliance, filing ECRs, and digital signature certificate (DSC) authorization.",
+  "softwareVersion": "Unified Portal"
+}
+</script>

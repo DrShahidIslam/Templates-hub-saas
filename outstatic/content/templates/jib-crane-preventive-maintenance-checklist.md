@@ -1,8 +1,12 @@
 ---
-title: 'jib crane preventive maintenance checklist'
-status: 'published'
-slug: 'jib-crane-preventive-maintenance-checklist'
+title: Jib Crane Preventive Maintenance SOP | OSHA & ASME Standards
+status: published
+slug: jib-crane-preventive-maintenance-checklist
 publishedAt: '2026-05-11T11:35:26.885Z'
+description: >-
+  Follow this expert Jib Crane Preventive Maintenance SOP to ensure structural
+  integrity, hoist safety, and compliance with OSHA and ASME B30.11 standards.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Jib Crane Preventive Maintenance
@@ -50,3 +54,53 @@ A: No. Any structural weld repair on a jib crane must be performed by a certifie
 
 **Q: What is the most critical item to check for daily?**
 A: The emergency stop button and the hook safety latch. These are your final layers of defense against human error and load drop incidents. If these fail, the crane must be locked out immediately.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should jib cranes be inspected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jib cranes require regular preventive maintenance and inspections to ensure safety. Following an SOP for periodic inspections helps identify wear, structural fatigue, and mechanical issues before they lead to failure, in compliance with OSHA and ASME B30.11."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the critical components of a jib crane inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key components include the structural base plate and anchor bolts, the vertical mast and jib boom, trolley wheel integrity, hoist hook condition, load chain/wire rope health, and the functionality of electrical limit switches and emergency stops."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is LOTO required for jib crane maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lockout/Tagout (LOTO) is mandatory before any inspection to ensure the equipment is de-energized, preventing accidental startup and protecting maintenance personnel from electrical or mechanical hazards."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Jib Crane Preventive Maintenance SOP",
+  "applicationCategory": "Industrial Maintenance Utility",
+  "description": "A standardized preventive maintenance protocol for floor and wall-mounted jib cranes focusing on structural integrity, hoist safety, and electrical system compliance.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Ncrp
+title: Non-Conformance Reporting Process (NCRP) SOP Guide
 publishedAt: '2026-05-10T18:48:01.370Z'
+description: >-
+  Learn the standard operating procedure for identifying, documenting, and
+  resolving non-conformances to ensure quality management and prevent
+  recurrence.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Non-Conformance Reporting Process (NCRP)
 
@@ -49,3 +54,49 @@ A: While complexity varies, the standard goal for containment is 24 hours, and t
 
 **Q: Do I need to initiate an NCR for a minor scratch that does not affect function?**
 A: Yes. All deviations from established quality standards must be documented to allow for trend analysis, which may reveal systemic issues in handling or storage.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the first steps in the Non-Conformance Reporting Process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The initial steps involve identifying the deviation, immediately quarantining the non-conforming item or halting the process, tagging the item, and notifying the Quality Manager."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is non-conformance severity classified?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non-conformances are classified as Minor (no impact on safety), Major (functional or regulatory impact), or Critical (posing a significant safety hazard)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the possible dispositions for a non-conforming item?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Final dispositions include Reworking to specification, Use-as-is (via formal concession), Scrap/Reject, or returning the item to the vendor."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "NCRP Management System",
+  "applicationCategory": "Quality Management Software",
+  "operatingSystem": "Web-based",
+  "description": "A systematic software solution for managing non-conformance reporting, root cause analysis, and quality assurance processes.",
+  "featureList": "Non-conformance tracking, root cause analysis tools, disposition management, risk assessment, and quality reporting"
+}
+</script>

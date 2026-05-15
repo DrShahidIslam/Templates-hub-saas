@@ -1,8 +1,13 @@
 ---
-title: 'maintenance checklist for new homeowners'
-status: 'published'
-slug: 'maintenance-checklist-for-new-homeowners'
+title: New Homeowner Preventive Maintenance Checklist | SOP Guide
+status: published
+slug: maintenance-checklist-for-new-homeowners
 publishedAt: '2026-05-11T10:00:35.725Z'
+description: >-
+  Master your home upkeep with our expert preventive maintenance SOP. Follow our
+  monthly, quarterly, and annual checklists to protect your property and save
+  costs.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: New Homeowner Preventive Maintenance
@@ -53,3 +58,53 @@ A: If your hot water supply seems shorter than usual, or if you hear "popping" o
 
 **Q: What is the most common cause of home water damage?**
 A: Aside from major plumbing failures, the most common cause is poor exterior drainage. If your gutters are clogged or your downspouts are dumping water against your foundation, you are at a high risk for basement leaks and foundation shifting.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I change my HVAC air filters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should inspect and replace your HVAC air filters every 30 to 90 days. The frequency depends on factors like pet ownership and local environmental air quality."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is it important to flush a water heater?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Flushing your water heater bi-annually removes sediment buildup, which improves heating efficiency and helps extend the lifespan of the heating element or burner."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I test my garage door safety sensors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To test the auto-reverse feature, place a solid object, such as a cardboard box, in the path of the door while it is closing to ensure the door reverses safely."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Homeowner Preventive Maintenance SOP",
+  "applicationCategory": "Productivity",
+  "description": "A comprehensive structured framework designed to help new homeowners manage preventive maintenance tasks through cyclical inspection schedules.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

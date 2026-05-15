@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Electrical Safety
+title: 'Electrical Safety SOP: OSHA & NFPA 70E Compliance Guide'
 publishedAt: '2026-05-10T18:48:01.220Z'
+description: >-
+  Master electrical safety protocols with this comprehensive SOP guide. Learn
+  LOTO procedures, JHA requirements, and NFPA 70E compliance for hazard
+  mitigation.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Electrical Safety Management
 
@@ -48,3 +53,52 @@ A: Stop work immediately. Test the meter on a known live power source. If it fai
 
 **Q: Can I use standard work gloves instead of voltage-rated gloves?**
 A: No. Voltage-rated gloves are tested for specific dielectric strength. Standard leather or cotton gloves provide zero protection against electric shock and can actually trap moisture, increasing conductivity.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the core requirements for Electrical Safety SOP compliance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Core requirements include mandatory authorization verification, performing a formal Job Hazard Analysis (JHA), utilizing certified PPE, and strict adherence to OSHA 29 CFR 1910 Subpart S and NFPA 70E standards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is Zero-Energy Verification critical during LOTO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zero-energy verification is critical to confirm that equipment is truly de-energized. It involves testing with a calibrated voltmeter, verified against a known live source before and after the check to prevent false negatives."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is an energized work permit required?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An energized work permit is required whenever live testing or troubleshooting is necessary, as de-energization remains the preferred and safest state for all electrical work."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Electrical Safety Management SOP",
+  "applicationCategory": "Safety Management System",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure for maintaining electrical safety, covering LOTO, hazard analysis, and regulatory compliance.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Compliance Documentation"
+  }
+}
+</script>

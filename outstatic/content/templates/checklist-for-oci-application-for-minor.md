@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: OCI Application for Minors'
-status: 'published'
-slug: 'checklist-for-oci-application-for-minor'
+title: 'OCI Card Application for Minors: Step-by-Step SOP Guide'
+status: published
+slug: checklist-for-oci-application-for-minor
 publishedAt: '2026-05-07T18:59:25.358Z'
+description: >-
+  Applying for an OCI card for a minor? Follow our expert SOP guide for
+  documentation requirements, parental authorization steps, and application
+  tips.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: OCI Application for Minors
@@ -47,3 +52,53 @@ A: Generally, no. However, if you are submitting via a physical appointment at a
 
 **Q: How long does the OCI process usually take?**
 A: Processing times vary significantly based on jurisdiction and background verification. Expect a minimum of 8 to 12 weeks. Always track your application status via the official government portal using your registration number.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is eligible to apply for an OCI card as a minor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Minors who are citizens of a foreign country and were eligible to become citizens of India on or after January 26, 1950, are eligible to apply."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do both parents need to sign the OCI application for a minor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a notarized Parental Authorization Form signed by both parents is mandatory for all OCI minor applications."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What proof of Indian origin is required for a minor's OCI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must provide copies of the parents' or grandparents' Indian passports, OCI cards, or birth certificates proving their previous Indian citizenship."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "OCI Online Application Portal",
+  "applicationCategory": "GovernmentService",
+  "operatingSystem": "Web",
+  "description": "Official online portal for submitting Overseas Citizen of India (OCI) registration applications.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

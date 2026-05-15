@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop Y Embarazo
+title: 'PCOS and Pregnancy: Clinical Management SOP'
 publishedAt: '2026-05-10T18:48:01.619Z'
+description: >-
+  Expert SOP for managing PCOS during pregnancy. Learn clinical protocols for
+  pre-conception, metabolic screening, GDM monitoring, and obstetric safety.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Clinical Management of PCOS and Pregnancy
 
@@ -42,3 +46,53 @@ A: No. While the risk is significantly higher than in the general population, ma
 
 **Q: Should I continue my fertility treatments after getting pregnant?**
 A: Once a viable pregnancy is confirmed, fertility-specific drugs (like Clomid or Letrozole) are typically discontinued. All medication changes must be directed by your fertility specialist during the transition to routine prenatal care.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the primary risks of PCOS during pregnancy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients with PCOS have an increased risk of gestational diabetes, hypertension, pre-eclampsia, and preterm labor, requiring proactive obstetric monitoring."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should GDM screening occur for PCOS patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Screening for Gestational Diabetes Mellitus (GDM) should occur earlier than the general population, typically between 20–24 weeks or sooner if symptoms arise."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Metformin safe for PCOS patients during pregnancy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Metformin usage should be evaluated and continued or initiated under direct physician supervision to manage glycemic control if clinically indicated."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "PCOS Pregnancy Management SOP",
+  "applicationCategory": "MedicalSoftware",
+  "operatingSystem": "Web",
+  "description": "A standardized clinical protocol framework for healthcare providers managing pregnant patients with Polycystic Ovary Syndrome (PCOS).",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

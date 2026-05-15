@@ -1,7 +1,12 @@
 ---
 status: published
-title: Onboarding Checklist Cj
+title: 'CJ Department Employee Onboarding SOP: A Step-by-Step Guide'
 publishedAt: '2026-05-10T18:48:00.938Z'
+description: >-
+  Streamline your CJ department onboarding with this comprehensive SOP. Learn
+  best practices for system provisioning, role training, and employee
+  integration.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Employee Onboarding (CJ)
 
@@ -40,3 +45,53 @@ A: You should conduct a 15-minute informal check-in daily during the first week,
 
 **Q: Can the "Buddy" be their direct supervisor?**
 A: No, the Buddy should be a peer or a senior team member, not the direct supervisor. This encourages the new hire to ask "silly" questions without the pressure of formal performance evaluation.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in the CJ onboarding pre-boarding phase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The pre-boarding phase includes system provisioning, hardware procurement, email/credential setup, and the digital signing of essential HR documentation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should a manager handle the first 30 days of a new hire?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Managers should use a structured 30-60-90 day roadmap, assign a mentor/buddy, conduct technical walkthroughs, and schedule regular progress reviews."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is assigning a mentor important for onboarding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pairing a new hire with a 'buddy' provides essential informal support, helps with cultural integration, and offers a safe space for questions during the transition."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "CJ Department Onboarding SOP",
+  "applicationCategory": "BusinessApplication",
+  "description": "Standard Operating Procedure for managing employee onboarding, system provisioning, and training within the CJ department.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

@@ -1,8 +1,12 @@
 ---
-title: 'maintenance checklist for house'
-status: 'published'
-slug: 'maintenance-checklist-for-house'
+title: 'Residential Preventive Maintenance SOP: A Homeowner’s Guide'
+status: published
+slug: maintenance-checklist-for-house
 publishedAt: '2026-05-11T09:47:39.160Z'
+description: >-
+  Protect your property value with this professional residential preventive
+  maintenance SOP. Learn expert tips for HVAC, plumbing, and exterior upkeep.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Residential Preventive Maintenance
@@ -56,3 +60,53 @@ A: Moisture management. Keeping water away from your foundation (via gutters) an
 
 **Q: Should I perform these tasks myself or hire a pro?**
 A: Simple tasks like filter changes, gutter cleaning, and smoke detector testing are DIY-friendly. Complex tasks involving electrical wiring, gas lines, or roof structural repairs should always be handled by licensed, insured professionals.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I replace HVAC air filters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "HVAC air filters should be replaced every 30 to 90 days depending on your specific usage, indoor air quality, and whether you have pets in the home."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is it important to clean dryer vents annually?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cleaning the dryer exhaust duct annually is critical to mitigate potential fire hazards and to ensure the appliance operates at maximum drying efficiency."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I test if my sump pump is working?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can test your sump pump by manually pouring a bucket of water into the basin. This triggers the float switch, allowing you to verify that the pump activates properly."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Residential Preventive Maintenance SOP Tracker",
+  "applicationCategory": "Productivity",
+  "operatingSystem": "Web-based",
+  "description": "A standardized framework for systematic residential maintenance, covering HVAC, plumbing, structural integrity, and life safety protocols.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

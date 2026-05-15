@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Zero Fir
+title: 'Zero FIR Registration: Step-by-Step SOP & Legal Guide'
 publishedAt: '2026-05-10T18:48:01.571Z'
+description: >-
+  Learn the standard protocol for filing a Zero FIR. Understand how to register
+  a crime outside of jurisdiction to ensure urgent investigation and victim
+  rights.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Zero FIR Registration
 
@@ -41,3 +46,49 @@ A: This is a violation of legal protocol. The receiving station is legally oblig
 
 **Q: Is the complainant required to visit the jurisdictional police station immediately?**
 A: While the investigation will continue at the jurisdictional station, the complainant's presence is required as per the Investigating Officer's (IO) summons. The initial registration station should provide clear guidance on the next steps for the victim.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a Zero FIR?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Zero FIR allows a victim to register a complaint at any police station, regardless of where the crime occurred, ensuring immediate action without jurisdictional delays."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can a police station refuse to file a Zero FIR?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. According to legal mandates, police stations cannot refuse to record a complaint based on jurisdiction. They must register it as a 'Zero FIR' and then transfer it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens after a Zero FIR is filed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After filing, the case is assigned the serial number '0'. The station then initiates any immediate medical or evidence-gathering needs before transferring the file to the jurisdictional police station."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Zero FIR Registration System",
+  "applicationCategory": "GovernmentalApplication",
+  "operatingSystem": "All",
+  "description": "Standardized digital protocol and software procedure for recording and transferring Zero FIRs across jurisdictional police boundaries.",
+  "featureList": "Immediate complaint recording, Jurisdictional identification, Evidence documentation, Automated case transfer"
+}
+</script>

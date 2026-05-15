@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Needle Stick Injury
+title: 'Needle Stick & Sharps Injury Protocol: Immediate SOP Guide'
 publishedAt: '2026-05-10T18:48:01.373Z'
+description: >-
+  Follow this mandatory SOP for needle stick and sharps injuries. Learn
+  essential first aid, reporting steps, and post-exposure prophylaxis (PEP)
+  protocols.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Management of Needle Stick and Sharps Injuries
 
@@ -42,3 +47,53 @@ A: No. In accordance with OSHA guidelines, all medical evaluations, treatments, 
 
 **Q: What information should I have ready for the medical provider?**
 A: Be prepared to provide the exact time of injury, a description of the type of needle (hollow bore vs. solid), the depth of the injury, whether blood was injected, and the known health status of the source patient.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the first step after a needle stick injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Immediately stop the procedure, safely discard the sharp, and thoroughly wash the affected area with soap and warm running water. Do not scrub or squeeze the wound."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How quickly should I report a sharps injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must notify your immediate clinical supervisor or department manager within 30 minutes of the occurrence."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the timeframe for starting Post-Exposure Prophylaxis (PEP)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PEP should be initiated as soon as possible after a risk assessment, ideally within 2 hours and no later than 72 hours post-exposure."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Needle Stick and Sharps Injury Management SOP",
+  "applicationCategory": "MedicalProcedure",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure for the management and reporting of occupational needle stick and sharps injuries.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

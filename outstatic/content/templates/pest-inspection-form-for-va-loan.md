@@ -1,8 +1,13 @@
 ---
-title: 'pest inspection form for va loan'
-status: 'published'
-slug: 'pest-inspection-form-for-va-loan'
+title: 'VA Loan Pest Inspection SOP: Compliance & Guidelines'
+status: published
+slug: pest-inspection-form-for-va-loan
 publishedAt: '2026-05-11T10:17:22.546Z'
+description: >-
+  Master VA loan pest inspection compliance with our SOP. Learn NPMA-33 form
+  requirements, regional guidelines, and inspection steps to avoid underwriting
+  delays.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: VA Loan Pest Inspection Compliance
@@ -47,3 +52,53 @@ A: Under VA rules, the veteran (buyer) is generally prohibited from paying for a
 
 **Q: What happens if the inspection reveals an active infestation?**
 A: The loan cannot proceed until a licensed professional treats the property and provides a guarantee/warranty that the infestation is eradicated. Once treated, a re-inspection is required to confirm the work was performed to industry standards.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is a wood-destroying insect (WDI) inspection required for all VA loans?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "WDI inspection requirements depend on the property's location. You must verify if the specific state or county mandates a pest inspection per VA Regional Loan Center guidelines."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What form is required for VA loan pest inspections?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The VA accepts the standardized NPMA-33 (National Pest Management Association) form to document wood-destroying insect inspection findings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does a VA-compliant pest inspection cover?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The inspection covers visual assessment of structural wood components, moisture evaluation, and identification of wood-destroying organisms like termites or powderpost beetles."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "VA Loan Pest Inspection Compliance SOP",
+  "applicationCategory": "BusinessApplication",
+  "description": "A comprehensive standard operating procedure for managing and documenting VA loan wood-destroying insect inspections.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

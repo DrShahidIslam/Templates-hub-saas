@@ -1,7 +1,12 @@
 ---
 status: published
-title: Onboarding Checklist Template Google Sheets
+title: 'Employee Onboarding SOP: Google Sheets Template Guide'
 publishedAt: '2026-05-10T18:48:01.020Z'
+description: >-
+  Streamline your hiring process with our Google Sheets onboarding SOP. Learn
+  how to centralize tasks, improve new hire engagement, and track progress
+  efficiently.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Employee Onboarding via Google Sheets
 
@@ -39,3 +44,53 @@ Use the 'Assignee' column in your sheet and use the '@' mention feature within G
 
 **3. What should I do if a new hire accidentally deletes a row?**
 Use the 'Version History' feature (File > Version History > See version history) to restore the sheet to a previous state before the data loss occurred.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I start a new onboarding sheet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Duplicate the Master Template in Google Sheets, then rename the file using the naming convention: [YYYY-MM-DD]_[NewHireName]_Onboarding."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What permissions should I give the new hire?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should grant the new hire 'Editor' permissions so they can update their task progress and access linked resources."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should managers monitor the onboarding sheet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Managers should review the onboarding sheet every Tuesday and Thursday to identify blockers and address pending tasks."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Google Sheets",
+  "applicationCategory": "ProductivitySoftware",
+  "operatingSystem": "Web-based",
+  "description": "A cloud-based spreadsheet application used for project tracking, task management, and documentation in corporate onboarding workflows.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

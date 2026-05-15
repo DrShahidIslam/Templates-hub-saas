@@ -1,7 +1,11 @@
 ---
 status: published
-title: Standard Operating Procedure For Soil Electrical Conductivity
+title: 'Soil Electrical Conductivity (EC) Testing Protocol (1:2 Method)'
 publishedAt: '2026-05-10T18:48:01.940Z'
+description: >-
+  Learn the standardized 1:2 soil-to-water dilution method for measuring soil
+  electrical conductivity (EC) to assess salinity and nutrient availability.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Soil Electrical Conductivity (EC) Measurement
 
@@ -52,3 +56,53 @@ The conversion is a 1:1 ratio. 1 mS/cm (milliSiemens per centimeter) is numerica
 
 **3. What should I do if my EC readings are consistently erratic?**
 First, check the calibration of your meter using a fresh standard. If calibration fails, the electrode may be "poisoned" or dried out—clean it according to the manufacturer’s instructions or replace the probe. Additionally, ensure your deionized water source is still producing high-purity water.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the 1:2 soil-to-water ratio method?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 1:2 method involves mixing 20g of sieved soil with 40mL of deionized water to create a standardized suspension for accurate EC measurement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is soil EC measurement important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Measuring EC is critical for assessing soil salinity levels and determining nutrient availability, which directly impacts crop health and production suitability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should I calibrate my EC meter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should calibrate your EC meter before every testing session using a standard solution that matches your expected salinity range."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Soil EC Measurement SOP",
+  "applicationCategory": "Scientific Procedure",
+  "description": "Standardized protocol for measuring soil electrical conductivity using the 1:2 dilution method for agricultural analysis.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

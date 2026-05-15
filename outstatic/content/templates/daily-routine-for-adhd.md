@@ -1,7 +1,11 @@
 ---
 status: published
-title: Daily Routine For Adhd
+title: 'ADHD Daily SOP: A Proven System to Manage Executive Function'
 publishedAt: '2026-05-10T18:48:00.634Z'
+description: >-
+  Struggling with ADHD focus? Use this structured Daily Executive Function SOP
+  to reduce decision fatigue, manage tasks, and build consistent daily momentum.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Daily Executive Function Management (ADHD)
 
@@ -48,3 +52,54 @@ A: Use "Body Doubling." Work alongside someone else (in person or via a virtual 
 
 **Q: Is it better to use digital or analog tools?**
 A: For ADHD, analog tools (paper, whiteboards, physical timers) are generally superior. Digital tools offer infinite potential for distraction; physical tools provide tactile feedback and visual permanence that helps the brain "see" the passage of time.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does this ADHD SOP help with decision fatigue?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The SOP externalizes cognitive load by providing a repeatable framework, allowing you to follow pre-defined steps instead of making complex decisions throughout the day."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the Five-Minute Rule for ADHD?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Five-Minute Rule is a strategy to overcome task paralysis by committing to work on a difficult task for only five minutes, which significantly lowers the mental barrier to entry."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why use a physical timer instead of a phone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Physical timers prevent the 'digital rabbit hole' effect, where checking a phone for a timer leads to unintended distractions and notifications."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Daily Executive Function Management Protocol",
+  "applicationCategory": "ProductivityApplication",
+  "operatingSystem": "All",
+  "description": "A structured Standard Operating Procedure designed to help individuals with ADHD manage tasks, minimize executive dysfunction, and maintain focus through time-boxing and environmental regulation.",
+  "featureList": [
+    "Morning Launch Protocol",
+    "Time-boxed Work Blocks",
+    "Evening Shutdown Routine",
+    "Brain Dump and Context Switching"
+  ]
+}
+</script>

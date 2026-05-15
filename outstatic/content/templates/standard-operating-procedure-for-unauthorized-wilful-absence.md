@@ -1,7 +1,11 @@
 ---
 status: published
-title: Standard Operating Procedure For Unauthorized Wilful Absence
+title: 'Handling Unauthorized Willful Absence: Step-by-Step SOP'
 publishedAt: '2026-05-10T18:48:01.968Z'
+description: >-
+  Learn how to manage unauthorized willful absence in the workplace with this
+  professional SOP guide, covering verification, documentation, and compliance.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Handling Unauthorized Willful Absence
 
@@ -54,3 +58,53 @@ You must request verifiable proof, such as a doctor’s note or discharge summar
 
 **3. Do I need to pay the employee for the time they were absent?**
 Generally, no. Unauthorized, willful absence is unpaid. However, ensure your company policy and local labor laws do not mandate specific pay structures for disciplinary suspensions before withholding pay.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What defines an unauthorized willful absence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An unauthorized willful absence occurs when an employee is absent without prior approval, fails to notify management, or exceeds granted leave without justification."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the first step when an employee is absent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Supervisors must attempt to contact the employee via all registered channels within the first two hours of the missed shift and log all communication efforts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should a fact-finding meeting be conducted?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Schedule a meeting upon the employee's return, allow for representation if applicable, and review all gathered evidence while providing the employee an opportunity to respond."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Workplace Attendance SOP Guide",
+  "applicationCategory": "Human Resources Management",
+  "operatingSystem": "All",
+  "description": "A structured SOP framework for managing and documenting unauthorized willful absence in professional work environments.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

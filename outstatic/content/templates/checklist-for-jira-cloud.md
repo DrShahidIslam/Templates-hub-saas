@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Jira Cloud Hygiene and Maintenance'
-status: 'published'
-slug: 'checklist-for-jira-cloud'
+title: 'Jira Cloud Maintenance SOP: Optimize & Clean Up Your Instance'
+status: published
+slug: checklist-for-jira-cloud
 publishedAt: '2026-05-07T18:59:25.273Z'
+description: >-
+  Learn essential Jira Cloud maintenance workflows. Follow our expert SOP to
+  audit users, clean custom fields, and optimize instance performance for your
+  team.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Jira Cloud Hygiene and Maintenance
@@ -47,3 +52,50 @@ A: Yes. Before deleting a custom field, always perform a search using that field
 
 **Q: Does Jira Cloud allow me to restore a deleted project?**
 A: Deleted projects are moved to the Trash for 60 days before being permanently purged. You can restore them within this window via the "Trash" section in the Jira administration settings.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I conduct a Jira Cloud administrative audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is recommended to perform a comprehensive administrative audit on a quarterly basis to ensure user access accuracy, security compliance, and optimal instance performance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why should I delete unused custom fields in Jira?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Deleting unused custom fields helps optimize your Jira database performance, improves page loading speeds, and reduces configuration clutter."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Jira automation cleanup impact performance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Removing or disabling unused or failing automation rules prevents execution limit exhaustion and reduces unnecessary background processing load on your Jira instance."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Jira Cloud",
+  "applicationCategory": "Project Management Software",
+  "operatingSystem": "Web-based",
+  "description": "Jira Cloud is an agile project management tool that requires regular maintenance, including user access reviews, custom field auditing, and scheme standardization to maintain peak efficiency.",
+  "softwareVersion": "Cloud",
+  "featureList": "User Access Management, Permission Scheme Audit, Workflow Optimization, Custom Field Cleanup, Automation Governance"
+}
+</script>

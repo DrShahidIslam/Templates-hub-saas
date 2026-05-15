@@ -1,7 +1,12 @@
 ---
 status: published
-title: Audit Checklist For Gold Loan
+title: 'Gold Loan Audit SOP: Compliance & Risk Management Guide'
 publishedAt: '2026-05-10T18:48:00.348Z'
+description: >-
+  Master gold loan audits with our comprehensive SOP. Ensure KYC compliance,
+  accurate valuation, and secure collateral management with these expert
+  protocols.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Gold Loan Audit Protocol
 
@@ -47,3 +52,53 @@ A: A 100% physical verification of all gold packets should be conducted at least
 
 **Q: What should I do if I find a discrepancy in the weight of a gold packet?**
 A: Immediately freeze the loan account in the system, escalate the matter to the Compliance and Security Departments, and secure the vault until a secondary investigation is completed.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key steps in a gold loan audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A gold loan audit involves four main phases: KYC and documentation verification, appraisal and valuation audit, physical inventory and vault security inspection, and operational disbursement review."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is LTV ratio compliance verified in a gold loan audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Auditors verify LTV ratio compliance by cross-referencing the net gold weight and market price against the sanctioned loan amount to ensure it remains within regulatory and internal risk ceilings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the importance of dual custody in gold loan vault security?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dual custody ensures that vault keys are held by two authorized officials, providing a critical internal control measure to prevent unauthorized access and mitigate fraud risk."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Gold Loan Audit SOP Framework",
+  "applicationCategory": "Financial Management System",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure framework designed for internal audits of gold loan portfolios to ensure regulatory compliance and risk mitigation.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

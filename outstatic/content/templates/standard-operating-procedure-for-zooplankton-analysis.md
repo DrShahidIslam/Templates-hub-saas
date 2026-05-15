@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Zooplankton Analysis
+title: 'Zooplankton Analysis SOP: Lab Identification & Counting'
 publishedAt: '2026-05-10T18:48:02.004Z'
+description: >-
+  Master professional zooplankton analysis with our step-by-step SOP. Learn
+  standardized methods for sample processing, identification, and accurate
+  enumeration.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Zooplankton Analysis
 
@@ -51,3 +56,53 @@ Do not guess. Assign it to a "Category X" or "Unknown" group, photograph it for 
 
 **Q3: How often should I calibrate my counting equipment?**
 The Stempel pipette should be checked for accuracy every six months. Sedgewick-Rafter cells should be inspected for deep scratches or clouding monthly; damaged cells must be replaced as they alter volume accuracy.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the recommended dilution method for dense zooplankton samples?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For samples that are too dense to count effectively, perform a known-volume dilution using a graduated cylinder to ensure individual organisms can be clearly identified and enumerated without overlap."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I prevent double-counting during zooplankton identification?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Perform a systematic, serpentine scan of the Sedgewick-Rafter cell, moving from left to right and top to bottom, to ensure complete coverage without repeating areas."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What magnification is required for rotifer identification?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While a 40x magnification is suitable for general surveys, you should switch to 100x or 400x magnification for the taxonomic confirmation of smaller species like rotifers and nauplii."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Zooplankton Analysis Laboratory Protocol",
+  "applicationCategory": "Scientific Research Tool",
+  "description": "Standardized operating procedure for the laboratory identification, enumeration, and biomass estimation of aquatic zooplankton samples.",
+  "operatingSystem": "Laboratory Environment",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

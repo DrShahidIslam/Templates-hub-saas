@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Working At Height
+title: 'Working at Height SOP: Safety Protocols & Fall Protection'
 publishedAt: '2026-05-10T18:48:01.551Z'
+description: >-
+  Master essential Working at Height safety protocols. Learn about PFAS
+  equipment, risk assessment, and 100% tie-off rules to ensure a zero-incident
+  workplace.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Working at Height
 
@@ -57,3 +62,52 @@ A: While pre-use inspections are done by the user, a formal, documented inspecti
 
 **Q: What is the most common cause of injury during work at height?**
 A: Aside from falling from the structure, the most common injury is "dropped objects." Always secure your tools with lanyards; a falling wrench from height can be lethal to those below.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the 100% tie-off rule when working at height?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 100% tie-off rule requires that an employee must be connected to an approved anchorage point at all times while in the designated danger zone to prevent accidental falls."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should fall protection equipment be inspected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All fall protection equipment, including harnesses, lanyards, and Self-Retracting Lifelines (SRLs), must be inspected thoroughly prior to every use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the minimum requirements for anchor points?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Anchor points must be verified to support a minimum of 5,000 lbs (22.2 kN) per person attached to the system."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Working at Height Compliance SOP",
+  "applicationCategory": "Safety Management System",
+  "operatingSystem": "All",
+  "description": "Standard Operating Procedure documentation for mitigating fall hazards and ensuring OSHA-compliant work-at-height practices.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Safety Compliance Division"
+  }
+}
+</script>

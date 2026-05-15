@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Dob Update In Aadhaar
+title: 'How to Update Date of Birth in Aadhaar: Official SOP Guide'
 publishedAt: '2026-05-10T18:48:01.210Z'
+description: >-
+  Learn the official step-by-step process to update your Date of Birth in
+  Aadhaar. Follow our guide for document requirements, online portal tips, and
+  error-free steps.
+seo_optimized: true
 ---
 # Standard Operating Procedure (SOP): Date of Birth (DOB) Update in Aadhaar
 
@@ -45,3 +50,52 @@ A: Standard documents include a Birth Certificate, Passport, SSLC Certificate/Ma
 
 **Q: How long does the update process typically take?**
 A: Once the request is submitted, the verification process usually takes between 7 to 30 working days. You can track the real-time status using your URN on the UIDAI website.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What documents are required to update Date of Birth in Aadhaar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need an original, valid Proof of Date of Birth (PoDB) document such as a birth certificate, passport, or SSLC/school mark sheet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I update my Aadhaar DOB online?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can update your DOB via the official UIDAI 'MyAadhaar' portal if you haven't exhausted your one-time update limit and have a registered mobile number for OTP."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if I have exceeded the Aadhaar DOB update limit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you have exhausted your limit, you must visit your nearest Aadhaar Enrollment Center in person to request an update."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "MyAadhaar Portal",
+  "applicationCategory": "GovernmentService",
+  "operatingSystem": "Web-based",
+  "provider": {
+    "@type": "Organization",
+    "name": "Unique Identification Authority of India (UIDAI)"
+  },
+  "description": "Official portal provided by UIDAI for residents to manage Aadhaar demographic updates, including Date of Birth."
+}
+</script>

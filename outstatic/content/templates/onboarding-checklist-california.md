@@ -1,7 +1,11 @@
 ---
 status: published
-title: Onboarding Checklist California
+title: 'California Employee Onboarding Checklist: Compliance SOP'
 publishedAt: '2026-05-10T18:48:00.936Z'
+description: >-
+  Ensure legal compliance with our California employee onboarding SOP. Learn
+  mandatory steps for wage notices, EDD filings, and labor law documentation.
+seo_optimized: true
 ---
 # Standard Operating Procedure: California Employee Onboarding
 
@@ -45,3 +49,57 @@ A: California requires that new non-managerial employees complete the training w
 
 **Q: Can I use a standard federal W-4 instead of the California DE 4?**
 A: No. While they serve similar purposes, California requires the DE 4 to calculate state-specific withholding correctly. You must collect both.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What documents are mandatory for California onboarding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mandatory documents include Form I-9, federal W-4, state DE 4, the Labor Code § 2810.5 Notice to Employee, and EDD pamphlets (DE 2320, DE 2515, DE 2511)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are meal and rest break policies required in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. California law mandates strict policies on 30-minute unpaid meal breaks and 10-minute paid rest periods, which should be documented in the employee handbook."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the California minimum salary threshold for exempt employees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To be classified as exempt in California, a position must meet a minimum salary threshold equivalent to twice the state minimum wage for full-time employment."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "California Employee Onboarding SOP",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure for managing legally compliant employee onboarding in the state of California.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Compliance HR Solutions"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

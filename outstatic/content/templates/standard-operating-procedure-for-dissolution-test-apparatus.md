@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Dissolution Test Apparatus
+title: 'Dissolution Test Apparatus SOP: Operation & Calibration Guide'
 publishedAt: '2026-05-10T18:48:01.707Z'
+description: >-
+  Master USP dissolution testing with our comprehensive SOP. Learn expert
+  procedures for equipment calibration, vessel assembly, and precise sampling
+  protocols.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Dissolution Test Apparatus
 
@@ -48,3 +53,52 @@ A: Dissolved gases in the medium can form bubbles on the dosage form or the stir
 
 **Q: What should be done if a vessel fails the wobble test?**
 A: If a drive shaft or vessel exceeds the allowable wobble tolerance (as defined by USP <711>), the equipment must be tagged "Out of Service." An engineer must adjust the centering or replace the bearing/shaft before the unit can be returned to use.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the standard temperature for dissolution testing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The dissolution medium temperature should be maintained at 37°C ± 0.5°C to simulate physiological conditions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you verify the height of the paddle or basket?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a validated gauge block to ensure the distance between the bottom of the paddle or basket and the inner bottom of the vessel is 25 mm ± 2 mm."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is media degassing important in dissolution testing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Degassing the dissolution medium is critical to prevent air bubble formation on the dosage form, which can alter dissolution rates and compromise test reproducibility."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Dissolution Test Apparatus SOP",
+  "applicationCategory": "Industrial Application",
+  "operatingSystem": "Laboratory Equipment",
+  "description": "Standard Operating Procedure for the operation, calibration, and maintenance of USP dissolution test apparatus (Apparatus 1 & 2).",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "text": "Follow sections on Pre-Operational Setup, Vessel Assembly, Execution, and Maintenance to ensure regulatory compliance."
+  }
+}
+</script>

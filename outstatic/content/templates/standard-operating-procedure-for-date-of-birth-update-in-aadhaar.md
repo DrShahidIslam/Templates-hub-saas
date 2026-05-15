@@ -1,7 +1,11 @@
 ---
 status: published
-title: Standard Operating Procedure For Date Of Birth Update In Aadhaar
+title: 'How to Update Aadhaar Date of Birth: Official SOP Guide'
 publishedAt: '2026-05-10T18:48:01.694Z'
+description: >-
+  Learn the official UIDAI process to update your Aadhaar Date of Birth. Follow
+  our expert guide on required documents, biometric rules, and step-by-step SOP.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Aadhaar Date of Birth (DoB) Update
 
@@ -50,3 +54,52 @@ A: Generally, updates are processed within 7 to 30 working days. You can track t
 
 **Q3: What if I have already updated my Date of Birth once in the past?**
 A: According to UIDAI policy, the Date of Birth can be updated only once in a lifetime. If you have already utilized this opportunity, further changes may require a visit to a Regional UIDAI office with a formal request and evidence of a genuine clerical error.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many times can I update my Date of Birth in Aadhaar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to UIDAI guidelines, the Date of Birth in an Aadhaar record can be updated only once in a lifetime."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for an Aadhaar DoB update?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must provide original scanned copies of valid Proof of Date of Birth (PoDoB) documents, such as a Birth Certificate, SSLC/Matriculation Certificate, Passport, or PAN Card."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is physical presence required for an Aadhaar DoB change?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if self-service online modification is not feasible, the resident must be physically present at an Aadhaar Enrolment Centre for biometric authentication."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Aadhaar ECMP Client Application",
+  "applicationCategory": "UtilitySoftware",
+  "operatingSystem": "Windows",
+  "description": "The official client application used by Enrolment Operators for managing Aadhaar updates, including biometric authentication, data entry, and document verification.",
+  "provider": {
+    "@type": "GovernmentOrganization",
+    "name": "Unique Identification Authority of India (UIDAI)"
+  }
+}
+</script>

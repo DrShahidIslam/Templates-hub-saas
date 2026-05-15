@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Drug Testing
+title: 'Workplace Drug Testing SOP: Compliance & Procedure Guide'
 publishedAt: '2026-05-10T18:48:01.713Z'
+description: >-
+  Learn the essential steps for a legally defensible workplace drug testing
+  program. Follow our SOP checklist for specimen collection, documentation, and
+  compliance.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Workplace Drug Testing Program
 
@@ -49,3 +54,53 @@ A: Unless prohibited by specific state law, the employer is generally responsibl
 
 **Q: Can I share test results with the employee's supervisor?**
 A: No. Results should be shared only on a "need-to-know" basis, typically restricted to HR, Legal, and the safety department. Supervisors should only be notified of the employment status impact, not the specific medical/laboratory details.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary objective of a drug testing SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary objective is to establish a standardized, legally defensible process that ensures compliance with regulations, maintains a safe work environment, and protects employee privacy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the required temperature range for a urine specimen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The specimen must be between 90°F and 100°F and checked within four minutes of collection to ensure sample integrity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is the Chain of Custody (COC) form critical?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The COC form is essential for maintaining the legal integrity of the specimen, verifying donor identity, and ensuring that the testing process is unbiased and tamper-proof."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Workplace Drug Testing Management SOP",
+  "applicationCategory": "BusinessApplication",
+  "description": "A comprehensive standard operating procedure for managing workplace drug testing programs, covering pre-collection, specimen handling, and chain of custody documentation.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

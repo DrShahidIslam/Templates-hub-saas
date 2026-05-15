@@ -1,3 +1,12 @@
+---
+title: 'Standard Operating Procedure: Process Flow Naming Guide'
+description: >-
+  Learn the professional standard for process flow nomenclature. Master syntax,
+  versioning, and tagging to improve documentation searchability and efficiency.
+status: published
+publishedAt: '2026-05-15T07:02:05.250Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Process Flow Nomenclature
 
 ## Introduction
@@ -37,3 +46,54 @@ A: If the change is purely typographical, do not increment the major version. Us
 
 **Q: How do I handle a process that is being retired?**
 A: Rename the file by appending `_Archived` to the start of the string, move it to the "Archive" folder, and update the internal document header to state "Retiree Date: [Date]".
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the standard syntax for process flow naming?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The approved syntax is [Department]_[Process Name]_[Lifecycle Stage]_[Version], using PascalCase for components and underscores as separators."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should versioning be handled in process documentation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a two-digit format with a 'v' prefix (e.g., v01). Use minor increments like v01.1 for editorial changes and major increments like v02 for process overhauls."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the valid lifecycle stages for process flows?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The three valid stages are 'Draft' for work in progress, 'Active' for current operations, and 'Archived' for historical superseded processes."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Process Flow Nomenclature Protocol",
+  "applicationCategory": "Business Management System",
+  "description": "A standardized SOP protocol for defining, naming, and versioning organizational process flows to ensure operational transparency.",
+  "operatingSystem": "All",
+  "softwareVersion": "1.0",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

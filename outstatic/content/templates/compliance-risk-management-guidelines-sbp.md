@@ -1,3 +1,13 @@
+---
+title: 'SBP Compliance Risk Management SOP: AML/CFT Guidelines'
+description: >-
+  Master SBP compliance risk management with our SOP guide. Learn essential
+  protocols for AML/CFT, KYC, CDD, and transaction monitoring to ensure
+  regulatory adherence.
+status: published
+publishedAt: '2026-05-15T03:22:26.484Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Compliance Risk Management (SBP Guidelines)
 
 This document outlines the operational framework for managing compliance risks in accordance with the State Bank of Pakistan (SBP) regulatory requirements. As an organization, we are committed to maintaining a robust Compliance Risk Management (CRM) program that effectively identifies, assesses, monitors, and reports risks related to money laundering, terrorism financing, and general regulatory non-compliance. This SOP serves as a foundational guide for all departments to ensure alignment with Prudential Regulations and anti-money laundering (AML) / combating the financing of terrorism (CFT) directives.
@@ -43,3 +53,52 @@ Immediately freeze the account/transaction, refrain from tipping off the custome
 
 **3. Are we required to report all high-value transactions?**
 Yes. You must file Currency Transaction Reports (CTRs) for all cash transactions involving amounts exceeding the threshold defined by the SBP/FMU, regardless of whether they appear suspicious.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of the SBP Compliance Risk Management SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The SOP provides a framework to identify, assess, monitor, and report risks related to money laundering, terrorism financing, and regulatory non-compliance in accordance with SBP directives."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How are customers classified under SBP KYC requirements?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Customers are classified into Low, Medium, and High-risk categories using a risk-based approach (RBA), with Enhanced Due Diligence (EDD) required for high-risk profiles and PEPs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is required for effective transaction monitoring?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Effective monitoring requires automated systems to detect suspicious patterns, screening against UNSC and SBP sanctions lists, and maintaining clear audit trails of investigations."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Compliance Risk Management System",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web-based",
+  "description": "An automated system designed to manage compliance risks, monitor transactions for AML/CFT, and ensure adherence to SBP regulatory requirements.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Regulatory Compliance Tool"
+  }
+}
+</script>

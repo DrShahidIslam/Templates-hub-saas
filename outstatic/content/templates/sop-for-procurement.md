@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Procurement
+title: 'Procurement Management SOP: Step-by-Step Guide'
 publishedAt: '2026-05-10T18:48:01.413Z'
+description: >-
+  Master your procurement process with this standardized SOP. Learn the
+  essential steps from requisition and vendor selection to quality control and
+  compliance.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Procurement Management
 
@@ -45,3 +50,49 @@ No. "Splitting" to circumvent authorization limits is a serious policy violation
 
 **3. What is the process for choosing a sole-source vendor?**
 If a product is only available from one specific supplier, you must submit a "Sole Source Justification" form along with your PR, detailing the unique features of the product and why alternatives were deemed unsuitable.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the core phases of the procurement management process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The procurement process is divided into four main phases: Requisition and Authorization, Sourcing and Vendor Selection, Procurement Execution, and Receiving and Quality Control."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is a competitive bidding process required?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A competitive bidding process is typically initiated when a purchase order exceeds defined financial thresholds, such as $5,000, to ensure price competitiveness."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is formal vendor evaluation important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vendor evaluation ensures that suppliers meet organizational standards for price, lead time, historical performance, and ethical sourcing policies."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "ERP Procurement Management System",
+  "applicationCategory": "BusinessApplication",
+  "description": "An ERP-based system designed to manage the full lifecycle of procurement, including purchase requisitions, vendor selection, PO issuance, and receipt tracking.",
+  "operatingSystem": "Web-based",
+  "featureList": "Purchase Requisition Submission, Budget Verification, Vendor Quotation Management, Purchase Order Tracking, Quality Control Inspection"
+}
+</script>

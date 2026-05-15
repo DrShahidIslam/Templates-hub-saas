@@ -1,8 +1,13 @@
 ---
-title: 'inspection checklist nc'
-status: 'published'
-slug: 'inspection-checklist-nc'
+title: 'Non-Conformance (NC) Inspection SOP: ISO 9001 Compliance Guide'
+status: published
+slug: inspection-checklist-nc
 publishedAt: '2026-05-11T10:01:22.253Z'
+description: >-
+  Master your Non-Conformance (NC) inspection protocol. Learn how to identify,
+  contain, and document non-conforming items to ensure ISO 9001 quality
+  compliance.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Non-Conformance (NC) Inspection Protocol
@@ -56,3 +61,52 @@ Generally, no. A "Use-as-is" disposition requires approval from Engineering or Q
 
 **3. What should I do if the NC involves a vendor-supplied part?**
 You must document the RTV (Return to Vendor) status, attach the NC report to the return shipping manifest, and notify the Procurement department so they can issue a formal claim against the supplier.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of the NC inspection protocol?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary goal is to accurately identify, isolate, and evaluate non-conforming materials to prevent accidental shipment while ensuring ISO 9001 compliance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should non-conforming materials be handled upon identification?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Materials must be tagged as 'HOLD', moved to a Quality Quarantine Area, and their status updated in the Inventory Management System to 'Restricted'."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the common disposition actions for non-conforming goods?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Disposition actions include: Rework, Use-as-is (with concession), Scrap, or Return to Vendor (RTV)."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "NC Inspection Management System",
+  "applicationCategory": "Quality Management Software",
+  "description": "An operational protocol and software framework for tracking, documenting, and resolving non-conforming material incidents in manufacturing workflows.",
+  "operatingSystem": "Web-based",
+  "offers": {
+    "@type": "Offer",
+    "category": "Quality Control"
+  }
+}
+</script>

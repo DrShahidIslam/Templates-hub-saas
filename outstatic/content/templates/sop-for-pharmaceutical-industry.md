@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Pharmaceutical Industry
+title: 'Pharma Document Control SOP: cGMP & 21 CFR Compliance Guide'
 publishedAt: '2026-05-10T18:48:01.403Z'
+description: >-
+  Master pharmaceutical document control with our comprehensive SOP. Ensure
+  cGMP, 21 CFR Part 11, and EudraLex compliance in your QMS. Optimize your
+  workflow today.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Document Control and Compliance in Pharmaceutical Manufacturing
 
@@ -49,3 +54,50 @@ A: Immediately report the error to your supervisor and initiate a Document Chang
 
 **Q: How long must a superseded SOP be kept on file?**
 A: Retention policies vary by region and product type, but generally, superseded documents must be kept for at least 5 years beyond the expiration of the batches produced under that procedure, or as defined by local site retention policies.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the core regulatory requirements for pharmaceutical document control?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Core requirements include adherence to Current Good Manufacturing Practices (cGMP), 21 CFR Part 11 for electronic records, and EudraLex Volume 4 guidelines to ensure data integrity and patient safety."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why must obsolete documents be removed immediately?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Removing obsolete documents from production floors is critical to prevent the use of outdated procedures, ensuring operational consistency and regulatory compliance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does an EDMS play in document approval?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An Electronic Document Management System (EDMS) facilitates a controlled approval routing process, capturing digital signatures and timestamps for 21 CFR Part 11 compliance."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Pharma Document Management System (EDMS)",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web-based",
+  "description": "An enterprise-grade document management and compliance platform designed for pharmaceutical manufacturing, supporting cGMP, 21 CFR Part 11, and EudraLex document lifecycle management.",
+  "softwareRequirements": "Compliance with 21 CFR Part 11 electronic signature standards",
+  "featureList": "Document version control, electronic signature capture, automated workflow routing, audit trail archiving"
+}
+</script>

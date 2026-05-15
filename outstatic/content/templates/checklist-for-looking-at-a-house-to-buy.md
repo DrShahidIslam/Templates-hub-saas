@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Residential Property Evaluation'
-status: 'published'
-slug: 'checklist-for-looking-at-a-house-to-buy'
+title: 'Residential Property Evaluation Checklist: SOP for Buyers'
+status: published
+slug: checklist-for-looking-at-a-house-to-buy
 publishedAt: '2026-05-07T18:59:25.313Z'
+description: >-
+  Master home buying with our expert residential property evaluation SOP.
+  Identify structural risks, utility issues, and maintenance needs before you
+  invest.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Residential Property Evaluation
@@ -50,3 +55,53 @@ Significant foundation shifts, active termite infestation, non-permitted structu
 
 **3. How do I know if the systems (HVAC/Roof) are at the end of their lifespan?**
 Check the serial numbers on equipment; manufacturers often hide the year of production in the code. For roofs, if you see "cupping" or large amounts of granules in the gutters, it likely needs replacement within 3–5 years.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the most critical exterior items to check during a home evaluation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most critical items include checking the foundation for structural cracks, inspecting the roof for shingle damage or sagging, and ensuring proper grading/drainage to prevent water damage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I check for plumbing issues during a home inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Turn on all faucets simultaneously to check for water pressure drops. Additionally, inspect under all sinks for signs of current or past water leaks, stains, or mildew."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is it important to check for masking scents in a home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Heavy scents like plug-ins or candles are often used to mask underlying issues like pet odors, mold, or mildew, which could indicate deeper maintenance or hygiene problems."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Residential Property Evaluation SOP Tool",
+  "applicationCategory": "ProductivityApplication",
+  "description": "A systematic, data-driven framework for evaluating residential property to mitigate investment risk and identify deferred maintenance.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

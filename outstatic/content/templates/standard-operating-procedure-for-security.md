@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Security
+title: 'Security SOP: Physical & Digital Protocols Guide'
 publishedAt: '2026-05-10T18:48:01.936Z'
+description: >-
+  Master our mandatory security SOP for physical access control, incident
+  response, and cybersecurity to ensure operational integrity and regulatory
+  compliance.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Physical and Digital Security Protocols
 
@@ -45,3 +50,52 @@ A: Yes. All personnel, including contractors and temporary workers, must follow 
 
 **Q: How long should incident reports be kept on file?**
 A: Security Incident Reports must be archived for a minimum of seven years, or as dictated by your local legal and industry-specific compliance mandates.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the daily requirements for perimeter security?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Daily perimeter security includes verifying all entry points are locked, reviewing Access Control System (ACS) logs, managing visitor logs and identification, and ensuring all CCTV surveillance equipment is fully functional."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should security breaches be reported?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Upon detecting a breach, assess the threat level, contain the area, notify the Operations Manager within 15 minutes, and document the event in a Security Incident Report (SIR)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the policy for workstation and device security?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workstations must be locked whenever left unattended, sensitive credentials must never be stored in plain view, and weekly device audits are required to check for unauthorized external hardware."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Security SOP Management Framework",
+  "applicationCategory": "SecurityManagement",
+  "operatingSystem": "All",
+  "description": "A comprehensive framework for organizational physical and digital security protocols, encompassing access control, threat detection, and incident response procedures.",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "text": "Standard Operating Procedure for Physical and Digital Security"
+  }
+}
+</script>

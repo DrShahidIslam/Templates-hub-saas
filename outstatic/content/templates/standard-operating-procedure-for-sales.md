@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Sales
+title: 'Sales SOP: Pipeline Management & Execution Guide'
 publishedAt: '2026-05-10T18:48:01.934Z'
+description: >-
+  Master our proven Sales SOP. Learn step-by-step lead qualification, discovery
+  techniques, and closing strategies to scale your revenue and pipeline
+  efficiency.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Sales Execution & Pipeline Management
 
@@ -44,3 +49,53 @@ A: We recommend a sequence of 8–10 touchpoints over a 21-day period across mul
 
 **Q: What constitutes a 'Qualified Lead'?**
 A: A lead is qualified only if they meet our BANT criteria: Budget (identified), Authority (decision-maker engaged), Need (explicit pain point mentioned), and Timeline (an intent to solve the issue within the next 6 months).
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of this Sales SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary goal is to standardize the sales process from lead qualification to contract execution, ensuring consistent client experiences and predictable revenue growth."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should sales representatives handle initial lead outreach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reps must verify lead data in the CRM, score the lead based on BANT criteria, and execute the first touchpoint within 4 hours of assignment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the '70/30 Rule' in the discovery process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 70/30 rule dictates that the prospect should be speaking 70% of the time, allowing the sales representative to listen actively and probe for pain points."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Sales Execution & Pipeline Management System",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "All",
+  "description": "A standardized framework for sales departments to manage lead pipelines, discovery calls, and contract execution effectively.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

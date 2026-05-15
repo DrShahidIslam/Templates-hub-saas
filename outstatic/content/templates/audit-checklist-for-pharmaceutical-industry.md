@@ -1,7 +1,12 @@
 ---
 status: published
-title: Audit Checklist For Pharmaceutical Industry
+title: 'Pharma Quality Audit SOP: cGMP Compliance Checklist'
 publishedAt: '2026-05-10T18:48:00.354Z'
+description: >-
+  Master pharmaceutical quality audits with our comprehensive SOP. Ensure cGMP
+  compliance, facility validation, and supply chain integrity with this expert
+  guide.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Pharmaceutical Quality Audit
 
@@ -65,3 +70,53 @@ A: Data Integrity. Regulatory bodies prioritize the ability to track the history
 
 **Q: If an auditor finds a discrepancy, what is the immediate next step?**
 A: The discrepancy should be logged into the QMS immediately as a "Finding" or "Deviation." A CAPA plan should be drafted within 24–48 hours to mitigate the risk and address the root cause.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary objective of a pharmaceutical quality audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The objective is to verify compliance with cGMP, regulatory standards (FDA, EMA), and internal QMS to ensure product integrity, patient safety, and data traceability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which areas must be covered in a pharmaceutical audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Audits must cover Quality Management Systems (QMS), facility and equipment maintenance, materials and supply chain management, and production/batch release processes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is CAPA management audited during an inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Auditing CAPA logs ensures that corrective and preventive actions are closed in a timely manner and that investigations are effective in preventing quality issues."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Pharmaceutical Quality Audit SOP Framework",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure framework for internal and external pharmaceutical quality audits, focusing on cGMP and regulatory compliance.",
+  "softwareRequirements": "PDF viewer or text editor",
+  "offers": {
+    "@type": "Offer",
+    "category": "Free Documentation"
+  }
+}
+</script>

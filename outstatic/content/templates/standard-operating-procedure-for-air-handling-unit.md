@@ -1,7 +1,11 @@
 ---
 status: published
-title: Standard Operating Procedure For Air Handling Unit
+title: 'Air Handling Unit (AHU) Maintenance SOP: Best Practices'
 publishedAt: '2026-05-10T18:48:01.651Z'
+description: >-
+  Follow our comprehensive SOP for Air Handling Unit (AHU) maintenance. Ensure
+  energy efficiency, air quality, and safety with this expert-led guide.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Air Handling Unit (AHU) Maintenance and Operation
 
@@ -54,3 +58,52 @@ First, check the amperage against the motor nameplate. If it is within range, ch
 
 **3. Why is there standing water in the drain pan?**
 This is typically caused by a clogged drain line or an improperly vented trap. Clear the line with a wet/dry vac or compressed air, then verify that the trap has a water seal to prevent sewer gas backflow.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is LOTO essential for AHU maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lockout/Tagout (LOTO) is mandatory to isolate power sources and prevent accidental equipment startup, ensuring the safety of technical personnel during inspection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should AHU filters be replaced?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Filters should be replaced whenever the differential pressure gauge exceeds the manufacturer's recommended threshold to maintain optimal air quality and airflow."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should AHU blower bearings be lubricated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lubrication should be performed according to the specific manufacturer's maintenance schedule for the motor and blower bearings to prevent overheating and premature failure."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "AHU Maintenance Management Protocol",
+  "applicationCategory": "Maintenance Management System",
+  "description": "Standard operating procedure for the operation and maintenance of Air Handling Units (AHUs), covering safety, filtration, and mechanical drive components.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "category": "Maintenance SOP"
+  }
+}
+</script>

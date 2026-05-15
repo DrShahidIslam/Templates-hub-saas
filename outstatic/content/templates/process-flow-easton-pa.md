@@ -1,3 +1,13 @@
+---
+title: 'Easton PA Logistics SOP: Warehouse Fulfillment Guide'
+description: >-
+  Master the Easton, PA logistics process flow. Learn standard operating
+  procedures for inbound receiving, inventory management, and outbound shipping
+  efficiency.
+status: published
+publishedAt: '2026-05-15T06:38:30.282Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Logistics and Distribution Process Flow (Easton, PA)
 
 This Standard Operating Procedure (SOP) outlines the standardized process flow for fulfillment and distribution operations within the Easton, PA facility. As a critical node in our regional supply chain, maintaining efficiency in Easton requires strict adherence to inbound receipt, inventory control, and outbound dispatch protocols. This document ensures consistent throughput, inventory accuracy, and safety compliance across all shifts.
@@ -37,3 +47,52 @@ A: Any discrepancy must be logged in the WMS under "Receipt Exception." You must
 
 **Q: Is there a specific process for handling returned goods (RMA)?**
 A: All RMAs must be routed to the designated "Returns Processing Station" in the southwest corner of the facility. Do not put returned items back into active inventory until they have been inspected and re-stickered by the QC team.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the procedure for inbound trailer inspection in Easton?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Inspectors must verify the Advance Shipping Notice (ASN) 24 hours prior, check seal integrity against the Bill of Lading, and inspect pallets for transit damage before recording receipt against the purchase order."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is inventory accuracy maintained in the Easton facility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Accuracy is maintained through daily blind cycle counts of 5% of all active SKUs, aiming to keep inventory system accuracy above 99.8%."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the process for damaged goods during receiving?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If damage is detected, the pallet must be moved immediately to the designated 'Quarantine/Damage' zone, and an Overage, Shortage, and Damage (OS&D) report must be generated."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Warehouse Management System (WMS) SOP",
+  "applicationCategory": "Logistics Software",
+  "operatingSystem": "All",
+  "description": "Standardized process flow for fulfillment and distribution operations including WMS integration for inbound, storage, and outbound logistics.",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "text": "The SOP covers Pre-Arrival Notification, Directed Put-Away, and Wave Planning optimization within the WMS."
+  }
+}
+</script>

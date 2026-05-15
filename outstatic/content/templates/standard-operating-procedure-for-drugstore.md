@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Drugstore
+title: 'Pharmacy SOP: Retail Operations & Compliance Guide'
 publishedAt: '2026-05-10T18:48:01.714Z'
+description: >-
+  Master pharmacy operations with this comprehensive SOP. Learn essential
+  protocols for inventory management, patient safety, HIPAA compliance, and
+  store security.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Retail Pharmacy & Drugstore Operations
 
@@ -52,3 +57,52 @@ A: Immediately cease all pharmacy operations, perform a recount, and notify the 
 
 **Q: Can I restock a prescription if a patient returns it at the counter?**
 A: No. Once a prescription leaves the pharmacy's physical control, it cannot be restocked due to the risk of tampering or improper storage, regardless of whether the bottle was opened. Dispose of it immediately via the designated hazardous waste/pharmaceutical return bin.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the 'Triple Check' rule in pharmacy operations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Triple Check rule requires pharmacy staff to verify the patient's name, date of birth, and medication dosage with the patient at the point of sale to ensure accuracy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should expiring medications be handled in a pharmacy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expired stock should be immediately pulled and quarantined using the FIFO (First-In, First-Out) method to ensure patient safety and regulatory compliance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the procedure for returning prescription drugs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prescription drugs that are returned must be handled as hazardous waste and never restocked, in accordance with strict pharmacy safety and regulatory guidelines."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Pharmacy SOP Management System",
+  "applicationCategory": "BusinessApplication",
+  "description": "A comprehensive digital framework for managing retail pharmacy operations, compliance, and inventory protocols.",
+  "operatingSystem": "Web-based",
+  "offers": {
+    "@type": "Offer",
+    "category": "Standard Operating Procedure"
+  }
+}
+</script>

@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Urine Microscopy
+title: 'Urine Microscopy SOP: Professional Laboratory Procedure'
 publishedAt: '2026-05-10T18:48:01.974Z'
+description: >-
+  Follow our standardized SOP for urine microscopy analysis. Ensure accurate
+  clinical results with step-by-step guidance on specimen handling and
+  examination.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Urine Microscopy Analysis
 
@@ -50,3 +55,53 @@ A: Large numbers of squamous epithelial cells usually indicate a poorly collecte
 
 **Q: Why are hyaline casts sometimes difficult to see?**
 A: Hyaline casts have a refractive index very close to that of urine. If the microscope light is too bright, they will "wash out." Always use reduced light and fine-tune your focus to catch the edges of these structures.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the recommended timeframe for processing urine specimens?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Urine specimens should be processed within 2 hours of collection. If immediate processing is not possible, the sample must be refrigerated at 2-8°C."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the centrifugation requirements for urine sediment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Centrifuge exactly 10 mL of urine at 400 x g (approximately 1500-2000 RPM) for 5 minutes to ensure proper sediment concentration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should urine sediment be quantified under a microscope?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use a 10x objective for an initial scan, then switch to a 40x high-power objective to identify and enumerate cells and microorganisms per High Power Field (HPF)."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Urine Microscopy Analysis SOP",
+  "applicationCategory": "MedicalApplication",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure for the laboratory analysis of urine sediment, including centrifugation, slide preparation, and microscopic quantification protocols.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

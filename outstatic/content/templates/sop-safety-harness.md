@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop Safety Harness
+title: Fall Protection Harness Inspection & Donning SOP | OSHA Guide
 publishedAt: '2026-05-10T18:48:01.599Z'
+description: >-
+  Learn the essential SOP for inspecting and donning full-body safety harnesses.
+  Ensure OSHA compliance and worker safety with this step-by-step guide.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Fall Protection Harness Inspection and Donning
 
@@ -59,3 +63,52 @@ A: Use a mild detergent and water. Wipe with a clean cloth and hang in a shaded 
 
 **Q: What should I do if I find a small frayed edge on my harness webbing?**
 A: If the fraying involves more than a few surface fibers, the harness must be tagged "Out of Service" and reported to your safety manager. Never attempt to "repair" or stitch the harness yourself.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I inspect my fall protection harness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Every user must perform a visual and tactile inspection of their harness before each use to ensure equipment integrity and compliance with OSHA standards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if the impact indicator on my harness is deployed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If the impact indicators (stitching designed to pull apart during a fall) are deployed, the harness must be removed from service immediately as it is no longer safe for use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How tight should leg straps be on a safety harness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Leg straps should be adjusted so that there is enough room for the palm of a flat hand to fit between the strap and your leg—no tighter, no looser."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Fall Protection Harness Safety SOP",
+  "applicationCategory": "Safety Protocol",
+  "operatingSystem": "All",
+  "description": "Standard operating procedure for the inspection, fitting, and utilization of full-body safety harnesses in compliance with OSHA 1910.140 and 1926.503.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Safety Compliance Standards"
+  }
+}
+</script>

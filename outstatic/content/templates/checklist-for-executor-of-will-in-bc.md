@@ -1,8 +1,12 @@
 ---
-title: 'Standard Operating Procedure: Executor of a Will in British Columbia'
-status: 'published'
-slug: 'checklist-for-executor-of-will-in-bc'
+title: 'Executor of a Will in BC: Professional SOP Guide'
+status: published
+slug: checklist-for-executor-of-will-in-bc
 publishedAt: '2026-05-07T18:59:25.188Z'
+description: >-
+  Master the BC executor process. Learn your legal duties under WESA, from
+  probate applications to asset distribution, and minimize personal liability.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Executor of a Will in British Columbia
@@ -51,3 +55,52 @@ Depending on the complexity of the estate and the current workload of the BC Sup
 
 **3. Am I personally liable for the deceased’s debts?**
 Generally, no. As long as you act honestly and prudently, you are only responsible for paying debts out of the estate’s assets. However, you become personally liable if you distribute assets to beneficiaries before settling the estate’s debts or taxes.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the first steps for an executor in British Columbia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first steps include locating the original Will, securing high-value assets, obtaining at least 10-15 original death certificates, and notifying beneficiaries and financial institutions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is probate required for all estates in BC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Probate is not always required for every estate. However, it is often necessary if financial institutions or the Land Title Office require a Grant of Probate to transfer assets."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I protect myself from unknown creditors as an executor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can protect yourself by placing a formal notice in the BC Gazette, which provides a legal 'safe harbor' by inviting unknown creditors to come forward within a specified period."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "BC Estate Administration SOP Guide",
+  "applicationCategory": "Professional Services",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure framework for executors managing estates in British Columbia under WESA guidelines.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Legal Resource Center"
+  }
+}
+</script>

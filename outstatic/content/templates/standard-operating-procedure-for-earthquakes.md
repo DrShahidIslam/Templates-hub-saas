@@ -1,7 +1,11 @@
 ---
 status: published
-title: Standard Operating Procedure For Earthquakes
+title: 'Earthquake Emergency Response SOP: Safety Protocols'
 publishedAt: '2026-05-10T18:48:01.715Z'
+description: >-
+  Follow our expert earthquake emergency response guide. Learn essential Drop,
+  Cover, and Hold On procedures to ensure staff safety during a seismic event.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Earthquake Emergency Response
 
@@ -47,3 +51,53 @@ A: Lock your wheels, cover your head and neck with your arms, a book, or a pillo
 
 **Q: When is it safe to re-enter the building?**
 A: Never re-enter the building based on your own judgment. Re-entry is only permitted after a formal structural assessment has been conducted by a professional engineer or local fire/rescue authorities.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do during an earthquake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Immediately Drop to your hands and knees, take Cover under sturdy furniture, and Hold On until the shaking stops."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I use the elevator to evacuate after an earthquake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Under no circumstances should you use elevators during or after an earthquake; always use the stairs to evacuate."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the procedure for aftershocks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Be prepared for aftershocks by remaining alert and being ready to perform the 'Drop, Cover, and Hold On' procedure again if necessary."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Earthquake Emergency Response SOP",
+  "applicationCategory": "Safety Management",
+  "description": "Standard operating procedure for workplace earthquake safety, covering immediate actions, evacuation, and muster point accountability.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

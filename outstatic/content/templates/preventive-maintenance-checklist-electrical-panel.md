@@ -1,8 +1,13 @@
 ---
-title: 'preventive maintenance checklist electrical panel'
-status: 'published'
-slug: 'preventive-maintenance-checklist-electrical-panel'
+title: Electrical Panel Preventive Maintenance SOP | Safety Guide
+status: published
+slug: preventive-maintenance-checklist-electrical-panel
 publishedAt: '2026-05-11T11:14:04.703Z'
+description: >-
+  Follow this professional SOP for electrical panel maintenance. Learn LOTO
+  procedures, thermal scanning, and torque requirements to prevent equipment
+  failure.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Electrical Panel Preventive Maintenance
@@ -48,3 +53,53 @@ Standard shop vacuums are not filtered to prevent the spread of fine conductive 
 
 **3. What should I do if I find a "hot spot" during thermography?**
 If a hot spot is identified, immediately document the temperature delta compared to other phases. If the temperature exceeds the manufacturer's threshold (or typical industrial standards), the circuit must be de-energized, the connection cleaned/re-terminated, and the component inspected for permanent damage.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is preventive maintenance required for electrical panels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preventive maintenance identifies potential failure points like loose connections and thermal degradation, preventing catastrophic equipment failure or electrical fires."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What safety procedures are mandatory before inspecting electrical panels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Personnel must adhere to NFPA 70E standards, execute full Lockout/Tagout (LOTO) procedures, and wear arc-flash rated PPE based on the panel's hazard label."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should compressed air be used to clean electrical panels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, compressed air should not be used as it can force conductive particles into sensitive electronic components. Use a HEPA-rated vacuum with non-conductive attachments instead."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Electrical Panel Preventive Maintenance SOP",
+  "applicationCategory": "Industrial Maintenance Utility",
+  "description": "Standard Operating Procedure for the inspection, cleaning, and mechanical testing of electrical distribution panels to ensure safety and operational reliability.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

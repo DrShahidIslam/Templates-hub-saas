@@ -1,7 +1,12 @@
 ---
 status: published
-title: Statutory Audit Checklist For Banks
+title: 'Statutory Audit SOP for Banks: Compliance & Prep Guide'
 publishedAt: '2026-05-10T18:48:02.038Z'
+description: >-
+  Streamline your banking statutory audit with this comprehensive SOP. Learn key
+  steps for cash verification, NPA management, and KYC compliance to ensure
+  audit success.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Statutory Audit Preparation for Banking Institutions
 
@@ -49,3 +54,53 @@ A: If an auditor identifies a potential qualification, provide immediate evidenc
 
 **Q: Should the Branch Manager participate in every meeting with the auditors?**
 A: While the Branch Manager should be present for the opening and closing meetings, functional leads (e.g., Credit, Operations) should handle day-to-day queries to ensure accuracy and reduce the Manager's administrative burden.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of a Statutory Audit SOP for banks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The SOP standardizes document retrieval, reconciles ledger discrepancies, and ensures compliance with regulatory mandates like Basel norms to mitigate audit observations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the role of an Audit Liaison (SPOC)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Audit Liaison acts as the single point of contact between the external audit team and branch functional heads to ensure seamless communication and coordination."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should banks prepare for NPA classification audits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Banks should audit Days Past Due (DPD) reports to verify correct classification of assets as Standard, Sub-standard, Doubtful, or Loss according to regulatory norms."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Banking Statutory Audit SOP Framework",
+  "applicationCategory": "FinanceApplication",
+  "description": "A standardized framework for banking institutions to manage documentation, ensure regulatory compliance, and facilitate efficient statutory audits.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

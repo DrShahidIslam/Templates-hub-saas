@@ -1,8 +1,13 @@
 ---
-title: 'safety checklist for scaffolding'
-status: 'published'
-slug: 'safety-checklist-for-scaffolding'
+title: 'Scaffolding Safety Inspection SOP: OSHA Compliance Checklist'
+status: published
+slug: safety-checklist-for-scaffolding
 publishedAt: '2026-05-11T10:08:26.740Z'
+description: >-
+  Ensure site safety with our comprehensive scaffolding inspection SOP. Expert
+  checklist for foundation, structural integrity, and OSHA-compliant fall
+  protection.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Scaffolding Safety Inspection
@@ -50,3 +55,53 @@ No. Adding ladders, crates, or blocks on top of a scaffold platform to gain extr
 
 **3. What should I do if I find a damaged component during an inspection?**
 Immediately secure the area to prevent access, tag the scaffold as "Out of Service" (Red Tag), notify the site supervisor, and replace the component before authorizing the scaffold for use again.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is qualified to perform a scaffolding inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Inspections must be performed by a designated 'Competent Person' who has the training and authority to identify hazards and take corrective action."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should a scaffolding system be inspected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Scaffolding must be inspected before each work shift, after any weather events that could affect integrity, and on a weekly basis."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the proper plank overhang for scaffolding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Scaffold planks should extend beyond their supports by at least 6 inches, but not more than 12 inches, unless they are specifically restrained."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Scaffolding Safety Inspection SOP",
+  "applicationCategory": "Safety Management System",
+  "description": "A comprehensive standard operating procedure and digital inspection checklist for ensuring structural integrity and OSHA compliance in scaffolding systems.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

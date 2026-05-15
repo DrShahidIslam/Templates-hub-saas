@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Malaria
+title: 'Malaria Clinical Management: SOP for Healthcare Facilities'
 publishedAt: '2026-05-10T18:48:01.858Z'
+description: >-
+  Master malaria clinical management with this standard operating procedure
+  covering triage, diagnostic testing protocols, ACT treatment, and severe care
+  steps.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Malaria Clinical Management and Control
 
@@ -49,3 +54,57 @@ A: Clinical trials (such as the SEAQUAMAT and AQUAMAT studies) demonstrated that
 
 **Q: How do we handle malaria during pregnancy?**
 A: Malaria in pregnancy requires specific attention. Follow the WHO or national guidelines regarding the use of specific ACTs in the first trimester vs. later trimesters and ensure the patient is enrolled in intermittent preventive treatment (IPTp) programs if available.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary diagnostic protocol for malaria?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The protocol begins with a Rapid Diagnostic Test (RDT) within 30 minutes of triage. If the RDT is negative but clinical suspicion persists, thick and thin blood film microscopy is required."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is severe malaria treated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Severe malaria requires immediate initiation of parenteral therapy, typically Intravenous Artesunate, followed by a full course of oral ACT once the patient can tolerate oral medication."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the danger signs of severe malaria?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Danger signs include inability to drink or breastfeed, persistent vomiting, lethargy or coma, convulsions, dark urine, and respiratory distress."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Malaria Clinical Management SOP",
+  "applicationCategory": "MedicalApplication",
+  "operatingSystem": "All",
+  "description": "An evidence-based Standard Operating Procedure for the diagnosis, triage, and clinical management of malaria in healthcare facilities.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Healthcare Policy and Clinical Standards Board"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

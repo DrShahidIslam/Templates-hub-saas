@@ -1,8 +1,12 @@
 ---
-title: 'Standard Operating Procedure: Zanzibar Travel Preparation'
-status: 'published'
-slug: 'checklist-zanzibar'
+title: 'Zanzibar Travel Guide: Essential SOP & Preparation Checklist'
+status: published
+slug: checklist-zanzibar
 publishedAt: '2026-05-07T18:59:25.518Z'
+description: >-
+  Prepare for your Zanzibar trip with our expert SOP. Covering visas, health
+  requirements, currency tips, and cultural protocols for a seamless visit.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Zanzibar Travel Preparation
@@ -52,3 +56,53 @@ No. Tap water is not potable. Always consume sealed, bottled water or utilize a 
 
 **Do I need to tip for services?**
 Tipping is not strictly mandatory but is highly appreciated. It is standard to tip hotel staff, safari guides, and restaurant staff approximately 5-10% of the service value in TZS or USD.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a visa to visit Zanzibar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you must apply for an e-Visa via the official Tanzania Immigration website at least 14 days before your departure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What vaccinations are recommended for Zanzibar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is recommended to be up to date on Hepatitis A/B, Typhoid, and Tetanus. A Yellow Fever vaccination certificate is mandatory if you are transiting through high-risk countries."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I bring USD or local currency to Zanzibar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bring crisp, post-2009 USD bills for large expenses and visa fees, and carry Tanzanian Shillings (TZS) for local markets and small vendors."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Zanzibar Travel Preparation SOP",
+  "applicationCategory": "TravelUtility",
+  "operatingSystem": "All",
+  "description": "A comprehensive digital checklist and standard operating procedure for travel documentation, health, and logistics in Zanzibar.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

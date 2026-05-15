@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Ximb Bhubaneswar
+title: 'XIMB SOP: Academic & Administrative Guidelines | XIMB Bhubaneswar'
 publishedAt: '2026-05-10T18:48:01.558Z'
+description: >-
+  Master the XIMB Bhubaneswar SOP. Essential guidelines for academic rigor,
+  campus infrastructure, and placement protocols to ensure institutional
+  excellence.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Academic and Administrative Excellence at XIMB Bhubaneswar
 
@@ -44,3 +49,52 @@ A: You must log into the institutional remote access portal using your XIMB emai
 
 **Q: What is the protocol for seeking financial support for academic competitions?**
 A: All funding requests for national/international competitions must be routed through the Dean’s office with a detailed proposal, budget breakdown, and a recommendation letter from your Faculty Advisor.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the minimum attendance requirement at XIMB?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Students are required to maintain a minimum of 75% attendance in all core and elective courses and should monitor their individual portals daily to ensure accuracy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should I submit assignments at XIMB?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Assignments must be submitted via the Learning Management System (LMS) in the specified format, typically PDF, at least one hour before the deadline to avoid technical issues."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book campus facilities at XIMB?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seminar halls and discussion rooms must be reserved through the central administration portal at least 48 hours in advance."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "XIMB Academic and Administrative Portal",
+  "applicationCategory": "Educational Application",
+  "operatingSystem": "Web-based",
+  "provider": {
+    "@type": "EducationalOrganization",
+    "name": "Xavier Institute of Management, Bhubaneswar (XIMB)"
+  },
+  "description": "The central digital framework used by XIMB students and staff for managing academic compliance, facility bookings, and administrative communications."
+}
+</script>

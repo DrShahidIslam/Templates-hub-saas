@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Library
+title: 'Library SOP: Best Practices for Operations & Management'
 publishedAt: '2026-05-10T18:48:01.353Z'
+description: >-
+  Streamline your library operations with this comprehensive SOP guide covering
+  opening/closing procedures, circulation, shelving, and patron service
+  standards.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Library Operations and Management
 
@@ -65,3 +70,52 @@ A: All donations should be screened against the library’s collection developme
 
 **Q: What is the protocol for a patron experiencing a medical emergency?**
 A: Prioritize patron safety. Call emergency services (911) immediately, clear the surrounding area to provide space for responders, and notify the library manager or building security on duty. Do not attempt to move the patron unless they are in immediate danger.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the essential opening procedures for a library?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Opening procedures include disarming security systems, conducting a safety walkthrough, powering on public computers and the ILS workstation, and verifying cash drawer balances."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should library staff handle incoming book returns?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Returns should be processed by clearing the return bin, inspecting items for damage, checking the ILS for pending holds, and shelving items according to their classification."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should library shelves be organized?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Staff should perform 'shelf reading' at least once per week to ensure all materials are in the correct numerical or alphabetical sequence."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Integrated Library System (ILS)",
+  "applicationCategory": "LibraryManagementSystem",
+  "description": "Standardized software used for managing library circulation, patron data, material acquisition, and cataloging operations.",
+  "operatingSystem": "Web-based/Networked",
+  "offers": {
+    "@type": "Offer",
+    "category": "Professional"
+  }
+}
+</script>

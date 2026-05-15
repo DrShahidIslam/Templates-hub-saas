@@ -1,7 +1,11 @@
 ---
 status: published
-title: Onboarding Template Document
+title: New Hire Onboarding SOP Template | HR Process Guide
 publishedAt: '2026-05-10T18:48:01.047Z'
+description: >-
+  Streamline your recruitment with our New Hire Onboarding SOP Template. Learn
+  the step-by-step process for onboarding, from prep to post-hire review.
+seo_optimized: true
 ---
 # Standard Operating Procedure: New Hire Onboarding Template Documentation
 
@@ -40,3 +44,53 @@ A: Use a core template for 80% of the content, but maintain a secondary module s
 
 **Q: What is the primary metric for measuring the success of the onboarding template?**
 A: The primary metric is the "Time-to-Proficiency," measured by how quickly the new hire can complete their first independent project compared to previous benchmarks.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in the New Hire Onboarding SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The SOP covers template preparation, role-specific customization, logistical coordination with IT and facilities, and a structured post-onboarding review."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should the welcome packet be sent to a new hire?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The customized onboarding template and digital welcome packet should be sent to the new hire no later than 48 hours before their start date."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I maintain the onboarding template?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regularly review the master template, update policy links, and incorporate feedback from new hires during the end-of-week-one debrief meetings."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "New Hire Onboarding SOP Template",
+  "applicationCategory": "BusinessApplication",
+  "description": "A standardized SOP template designed to streamline new hire integration, enhance time-to-productivity, and ensure organizational consistency.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

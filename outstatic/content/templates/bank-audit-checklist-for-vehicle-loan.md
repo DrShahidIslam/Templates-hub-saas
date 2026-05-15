@@ -1,3 +1,12 @@
+---
+title: 'Vehicle Loan Audit SOP: Compliance & Risk Protocol Guide'
+description: >-
+  Master the vehicle loan audit process. This SOP covers KYC/AML verification,
+  collateral checks, and disbursement accuracy to ensure regulatory compliance.
+status: published
+publishedAt: '2026-05-15T02:54:10.049Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Vehicle Loan Audit Protocol
 
 This Standard Operating Procedure (SOP) serves as a comprehensive framework for internal and external auditors to evaluate the integrity, compliance, and risk profile of a bank’s vehicle loan portfolio. The objective of this audit is to ensure that all credit disbursements strictly adhere to the institution’s lending policy, regulatory requirements (such as KYC/AML norms), and internal risk management frameworks. By following this systematic approach, auditors can identify potential non-performing assets (NPAs), verify collateral security, and ensure the enforceability of legal documentation.
@@ -45,3 +54,53 @@ A: This must be flagged as a high-risk finding. Without this, there is no proof 
 
 **Q: What happens if the dealer’s invoice and the loan amount differ?**
 A: This is an immediate red flag. The loan amount should only cover the invoice value plus permissible add-ons. If the loan amount is higher, it indicates "top-up" or "personal loan" behavior disguised as a vehicle loan, which violates lending policy.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of a vehicle loan audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary goal is to evaluate the integrity, regulatory compliance, and risk profile of a vehicle loan portfolio, ensuring all disbursements adhere to lending policies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for KYC/AML verification in auto loans?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Verification requires valid Aadhar, PAN, or Passport documentation, while checking the customer against sanctioned and denied party lists."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is collateral verified in a vehicle loan audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Collateral is verified by checking the Hypothecation status on the RC book, ensuring comprehensive insurance coverage, and cross-referencing VIN/Engine numbers."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Vehicle Loan Audit Protocol SOP",
+  "applicationCategory": "FinanceApplication",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure framework for auditing vehicle loan portfolios to ensure regulatory compliance and risk mitigation.",
+  "softwareVersion": "1.0",
+  "offers": {
+    "@type": "Offer",
+    "category": "Audit Documentation"
+  }
+}
+</script>

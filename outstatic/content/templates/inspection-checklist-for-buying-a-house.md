@@ -1,7 +1,12 @@
 ---
 status: published
-title: Inspection Checklist For Buying A House
+title: 'Residential Property Inspection SOP: Expert Checklist'
 publishedAt: '2026-05-10T18:48:00.876Z'
+description: >-
+  Perform a thorough home inspection with our expert SOP. Learn to identify
+  structural issues, HVAC faults, and plumbing risks before you buy your next
+  property.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Residential Property Inspection
 
@@ -46,3 +51,53 @@ Major structural issues (foundation failure), significant safety hazards (active
 
 **3. What happens if the inspection reveals major problems?**
 You generally have three options: request the seller perform the repairs, request a price reduction or closing cost credit to handle the repairs yourself, or exercise your inspection contingency to terminate the contract and recoup your earnest money.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of a residential property inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary goal is to mitigate financial risk, identify deferred maintenance, and establish a baseline for purchase negotiations or future capital expenditure planning."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I look for when checking the building foundation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Check for horizontal cracks, bowing, or significant settling. Most importantly, ensure the ground slopes away from the house to facilitate positive drainage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I check the plumbing system during an inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Turn on all faucets simultaneously to test water pressure, flush all toilets, and check underneath sinks for signs of active leaks or water-damaged cabinetry."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Residential Property Inspection SOP",
+  "applicationCategory": "Productivity",
+  "description": "A structured methodology and checklist for evaluating residential property conditions, including exterior, infrastructure, and interior living space assessments.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

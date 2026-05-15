@@ -1,7 +1,11 @@
 ---
 status: published
-title: Standard Operating Procedure For Unauthorised Absence
+title: 'How to Handle Unauthorised Absence: Manager''s SOP Guide'
 publishedAt: '2026-05-10T18:48:01.967Z'
+description: >-
+  Learn the professional process for managing unauthorised employee absence.
+  Follow our SOP for documentation, verification, and return-to-work interviews.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Handling Unauthorised Absence
 
@@ -45,3 +49,53 @@ A: Only use the emergency contact information explicitly provided by the employe
 
 **Q: What if the employee claims they had an emergency but has no proof?**
 A: Ask for documentation (e.g., a doctor’s note or a breakdown of the emergency). If they cannot provide it, note the lack of evidence in the incident log and proceed based on the company’s policy regarding unexplained absences.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the first step when an employee is absent without notice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Within one hour of the expected start time, the manager must verify attendance records and attempt to reach the employee via primary and secondary contact methods."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should HR be involved in an AWOL case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "HR should be formally notified if contact is not established within two hours of the employee's expected start time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a Return-to-Work interview?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A mandatory meeting held within 24 hours of an employee's return to gather evidence-based reasons for their absence and determine appropriate next steps."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Unauthorised Absence Management SOP",
+  "applicationCategory": "BusinessApplication",
+  "description": "A comprehensive standard operating procedure for identifying, documenting, and resolving unauthorised employee absences in compliance with HR standards.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Oxy Acetylene Cutting
+title: 'Oxy-Acetylene Cutting SOP: Essential Safety Protocols'
 publishedAt: '2026-05-10T18:48:01.883Z'
+description: >-
+  Follow this expert SOP for oxy-acetylene cutting. Learn mandatory safety
+  protocols, PPE requirements, and step-by-step equipment setup to prevent
+  hazards.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Oxy-Acetylene Cutting
 
@@ -56,3 +61,52 @@ A: Most systems are modular. You can switch between a welding nozzle and a cutti
 
 **Q: Why must I bleed the hoses after I finish?**
 A: Leaving hoses pressurized puts unnecessary stress on the regulator diaphragms and hose materials. Furthermore, if a leak occurs while the system is unattended, the lines could continue to bleed flammable gas into the workspace.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What PPE is required for oxy-acetylene cutting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Operators must wear minimum shade 5 cutting goggles or a face shield, flame-resistant jacket or apron, leather gloves, and steel-toed boots."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far should combustible materials be from the work zone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All combustible materials must be removed from a minimum 35-foot radius of the work zone to prevent fires and explosions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you check for gas leaks in an oxy-acetylene setup?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use an approved soap-water solution to test all connections for leaks. Never use a flame or lighter to check for gas leaks."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Oxy-Acetylene Cutting SOP Workflow",
+  "applicationCategory": "Industrial Safety Protocol",
+  "operatingSystem": "All",
+  "description": "A standardized operational procedure for the manual oxy-acetylene cutting process, detailing safety, gas handling, and equipment maintenance.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Technical Safety Division"
+  }
+}
+</script>

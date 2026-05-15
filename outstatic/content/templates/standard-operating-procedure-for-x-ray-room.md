@@ -1,7 +1,11 @@
 ---
 status: published
-title: Standard Operating Procedure For X Ray Room
+title: 'X-Ray Room SOP: Safety & Operational Guidelines'
 publishedAt: '2026-05-10T18:48:02.002Z'
+description: >-
+  Master X-Ray room operations with our comprehensive SOP. Learn essential
+  safety protocols, ALARA radiation protection, and patient screening standards.
+seo_optimized: true
 ---
 # Standard Operating Procedure: X-Ray Room Operations
 
@@ -47,3 +51,52 @@ A: Per regulatory standards, lead-lined protective gear must be fluoroscoped for
 
 **Q: What is the procedure if the emergency stop button is pressed?**
 A: Do not panic. Determine the cause of the emergency. Once the area is cleared, ensure the patient is safe, perform a full system reboot, and report the incident in the hospital’s safety reporting system (e.g., RLDatix or equivalent).
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of the ALARA principle in X-ray operations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The ALARA principle stands for 'As Low As Reasonably Achievable.' Its goal is to minimize radiation exposure to patients, staff, and the public while maintaining diagnostic image quality."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What steps are required during pre-examination room preparation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preparation includes performing safety inspections on lead protective gear, running equipment calibration and QC sequences, sanitizing contact surfaces, and conducting a consumables audit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should patient identity be verified before an X-ray?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Staff must confirm the patient's identity using two distinct identifiers: the patient's full legal name and date of birth, cross-referenced against the digital radiology order."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "X-Ray Room Management Protocol",
+  "applicationCategory": "Medical Software",
+  "operatingSystem": "All",
+  "description": "Standard Operating Procedure software module for clinical X-ray suite management, radiation safety compliance, and diagnostic imaging workflows.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Institutional"
+  }
+}
+</script>

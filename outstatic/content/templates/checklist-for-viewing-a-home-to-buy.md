@@ -1,8 +1,12 @@
 ---
-title: 'Standard Operating Procedure: Residential Property Inspection for Potential Buyers'
-status: 'published'
-slug: 'checklist-for-viewing-a-home-to-buy'
+title: 'Home Inspection Checklist: A Buyer''s SOP for Property Review'
+status: published
+slug: checklist-for-viewing-a-home-to-buy
 publishedAt: '2026-05-07T18:59:25.448Z'
+description: >-
+  Master your property viewing with our professional home inspection SOP.
+  Identify structural issues, plumbing, and electrical red flags before you buy.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Residential Property Inspection for Potential Buyers
@@ -60,3 +64,53 @@ A: Always check the smell. A musty odor often indicates mold or dampness trapped
 
 **Q: How many times should I view a home before making an offer?**
 A: At minimum, twice. The first viewing is for initial impressions, and the second should be at a different time of day to observe changes in lighting, neighborhood noise, and traffic patterns.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the most critical structural red flags in a home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key structural red flags include stair-step cracking in foundation brickwork, sagging rooflines indicating truss failure, and poor yard grading that causes water to pool against the foundation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I check the home's plumbing during a viewing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Test water pressure by running multiple faucets simultaneously, and always inspect under every sink for active leaks or signs of past water damage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is the HVAC age important when buying a house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The HVAC system is a major capital expense. Knowing the manufacture date helps you estimate the remaining lifespan and potential replacement costs, which impacts your total investment."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Residential Property Inspection SOP",
+  "applicationCategory": "Checklist Tool",
+  "description": "A professional framework and standard operating procedure for prospective homebuyers to evaluate property structural integrity, systems, and maintenance.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

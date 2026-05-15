@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: NCT (National Car Test) Compliance and Inspection'
-status: 'published'
-slug: 'checklist-for-nct'
+title: 'NCT Preparation Checklist: How to Pass Your Test First Time'
+status: published
+slug: checklist-for-nct
 publishedAt: '2026-05-07T18:59:25.336Z'
+description: >-
+  Prepare for your NCT with our expert checklist. Learn the essential
+  documentation, safety checks, and mechanical requirements to ensure a
+  first-time pass.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: NCT (National Car Test) Compliance and Inspection
@@ -58,3 +63,53 @@ A service indicator (which usually tracks mileage/time since the last oil change
 
 **3. If the car fails, do I have to pay for the full test again?**
 If the vehicle fails due to minor items that can be checked visually (e.g., bulbs, wipers), a re-test is often free. If the vehicle requires a re-inspection involving technical testing equipment (e.g., brake alignment, emissions), a reduced re-test fee will apply.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What documents do I need for the NCT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must bring your original Vehicle Registration Certificate (VRC) and a valid form of identification, such as a driver's license or passport, to your appointment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will a warning light on my dashboard cause an NCT failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Dashboard warning lights, including Check Engine, ABS, Airbag, or Oil Pressure lights, are considered major defects and will cause your vehicle to fail the NCT."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the rule regarding windscreen damage in the NCT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Any crack or chip larger than 10mm located within the wiper sweep area on the driver's side of the windscreen is a mandatory failure point."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "NCT Compliance & Inspection Checklist",
+  "applicationCategory": "Utility",
+  "operatingSystem": "All",
+  "description": "A comprehensive SOP and checklist for preparing passenger vehicles for mandatory National Car Test compliance and safety inspection.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "EUR"
+  }
+}
+</script>

@@ -1,7 +1,11 @@
 ---
 status: published
-title: Standard Operating Procedure For Microscope
+title: 'Compound Light Microscope SOP: Professional Operating Guide'
 publishedAt: '2026-05-10T18:48:01.866Z'
+description: >-
+  Master compound light microscope operation with our comprehensive SOP. Learn
+  expert tips for setup, slide mounting, focusing, and equipment maintenance.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Compound Light Microscope Operation
 
@@ -52,3 +56,48 @@ A: Use only manufacturer-recommended lens cleaners. Standard household glass cle
 
 **Q: Why does the image look dark even when the light is at maximum intensity?**
 A: Check the position of the condenser. If the condenser is too low, the light will not focus correctly through the slide. Also, ensure the iris diaphragm is sufficiently open to allow light passage.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the correct way to focus a compound microscope?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Begin with the lowest magnification objective. View from the side while raising the stage, then look through the eyepieces and lower the stage using the coarse adjustment knob until the image comes into view, refining it with the fine adjustment knob."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I use the iris diaphragm to control brightness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. The iris diaphragm should be used to optimize contrast and resolution. Brightness should be adjusted using the microscope's rheostat or intensity dial."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I safely transition to higher magnification?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rotate the nosepiece to the next objective and adjust only using the fine focus knob. Exercise extreme caution, especially when switching to the 100x oil-immersion objective to prevent lens damage."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Compound Light Microscope SOP",
+  "applicationCategory": "Educational Tool",
+  "operatingSystem": "Laboratory Equipment",
+  "description": "Standard operating procedure for the safe and effective operation, maintenance, and imaging protocols for laboratory compound light microscopes."
+}
+</script>

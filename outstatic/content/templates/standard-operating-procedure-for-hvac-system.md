@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Hvac System
+title: 'HVAC Maintenance SOP: Best Practices & Checklist'
 publishedAt: '2026-05-10T18:48:01.819Z'
+description: >-
+  Follow our comprehensive HVAC system maintenance SOP to optimize climate
+  control, extend equipment lifespan, and ensure safety compliance. Read the
+  guide.
+seo_optimized: true
 ---
 # Standard Operating Procedure: HVAC System Maintenance and Operation
 
@@ -43,3 +48,52 @@ Immediately isolate power to the unit and inspect the blower assembly or fan bla
 
 **3. Why is there water pooling around the HVAC unit base?**
 This is typically caused by a restricted condensate drain line or an improperly vented P-trap. Clear the line using a vacuum or compressed air and verify that the unit is slightly pitched toward the drain port to ensure gravity flow.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should HVAC air filters be inspected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Air filters should be inspected monthly. Replace them if visual inspection shows heavy dust loading or if the differential pressure exceeds the manufacturer’s recommended threshold."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the purpose of the HVAC maintenance SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The SOP ensures optimal climate control, extends equipment lifecycle, minimizes energy consumption, and maintains compliance with indoor air quality (IAQ) safety standards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should be taken during seasonal HVAC transitions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During spring, transition to cooling mode and check refrigerant pressures. During fall, transition to heating mode and inspect heat exchangers for cracks or oxidation."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Facility Maintenance Management System (CMMS)",
+  "applicationCategory": "Maintenance Management Software",
+  "description": "A centralized digital platform for logging, tracking, and managing facility HVAC preventive maintenance tasks and operational logs.",
+  "operatingSystem": "Web-based",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "text": "Standard Operating Procedure: HVAC System Maintenance and Operation"
+  }
+}
+</script>

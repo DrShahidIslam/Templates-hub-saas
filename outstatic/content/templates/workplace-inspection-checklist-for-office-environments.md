@@ -1,3 +1,12 @@
+---
+title: 'Office Workplace Inspection SOP: Safety Checklist Guide'
+description: >-
+  Ensure a safe office with our comprehensive workplace inspection SOP. Includes
+  fire safety, electrical, and ergonomic checklists to maintain OHS compliance.
+status: published
+publishedAt: '2026-05-15T08:26:42.203Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Office Workplace Inspection
 
 ## Introduction
@@ -58,3 +67,53 @@ If a hazard poses an immediate risk (e.g., exposed live wires or a major trip ha
 
 **3. Is it necessary to involve employees in the inspection process?**
 While the safety officer is responsible for the formal report, it is highly recommended to include at least one non-managerial employee. This promotes a "safety culture" and ensures that the inspection covers areas that employees interact with most frequently.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should office workplace inspections be conducted?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workplace inspections should be conducted on a quarterly basis, or immediately following any significant office reconfiguration to ensure ongoing safety compliance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the common electrical hazards to check in an office?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key electrical hazards include frayed cords, daisy-chained power strips, blocked outlets, and appliances that have not passed mandatory Portable Appliance Testing (PAT)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is an office inspection checklist important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A checklist helps identify hazards like trip-and-fall risks, fire safety issues, and ergonomic strains, ensuring OHS compliance and employee well-being."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Office Workplace Inspection SOP Template",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "All",
+  "description": "A comprehensive Standard Operating Procedure template for facility managers to conduct quarterly office safety and hazard inspections.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

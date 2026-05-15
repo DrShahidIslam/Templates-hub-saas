@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Good Documentation Practices
+title: Good Documentation Practices (GDP) SOP Guide | ALCOA+ Rules
 publishedAt: '2026-05-10T18:48:01.274Z'
+description: >-
+  Master Good Documentation Practices (GDP) with our expert SOP guide. Learn
+  ALCOA+ principles, data integrity, and compliance requirements for accurate
+  records.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Good Documentation Practices (GDP)
 
@@ -46,3 +51,52 @@ A: Do not fill in information you did not witness. Mark the space with a single 
 
 **Q: Is it acceptable to use abbreviations?**
 A: Only use approved, organization-wide standard abbreviations. If an abbreviation is specific to a department, it must be defined in the document footer or an associated glossary. When in doubt, spell it out.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the ALCOA+ principle in documentation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ALCOA+ stands for Attributable, Legible, Contemporaneous, Original, Accurate, Complete, Consistent, Enduring, and Available. It is the gold standard for ensuring data integrity in regulated environments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should I correct an error on a manual record?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not use correction fluid. Instead, draw a single line through the error, write the correct data, and add your initials, the date, and a brief reason code for the change."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is the timeliness of documentation important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Documentation must be contemporaneous to ensure accuracy and prevent errors caused by relying on memory. Data should be recorded at the exact time the action is performed."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "GDP Compliance Management System",
+  "applicationCategory": "Quality Management Software",
+  "operatingSystem": "Web-based",
+  "description": "A standardized framework for maintaining Good Documentation Practices (GDP) to ensure data integrity, traceability, and regulatory compliance.",
+  "offers": {
+    "@type": "Offer",
+    "category": "SOP Compliance"
+  }
+}
+</script>

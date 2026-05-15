@@ -1,8 +1,12 @@
 ---
-title: 'Standard Operating Procedure: Family Pension Processing'
-status: 'published'
-slug: 'checklist-for-family-pension-cases'
+title: 'Family Pension Processing SOP: Streamlined Claims Guide'
+status: published
+slug: checklist-for-family-pension-cases
 publishedAt: '2026-05-07T18:59:25.191Z'
+description: >-
+  Learn the essential steps for family pension processing. This SOP guide covers
+  documentation, eligibility verification, and PPO approval workflows.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Family Pension Processing
@@ -53,3 +57,52 @@ A: The pension is typically paid to the natural guardian (spouse) until the chil
 
 **Q: How long should an organization keep family pension files?**
 A: Given the legal implications of pension disbursements, these files should generally be retained for the duration of the pension payment plus seven years post-termination of the pension.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What documents are required for family pension claims?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key documents include the death certificate, a formal pension application, claimant bank details, Aadhaar or identity proof, and a joint photograph if mandated by local regulations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is beneficiary eligibility verified?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Eligibility is verified through nomination record validation, age proof for dependents, marital status checks, income certification, and a non-employment affidavit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the final step in the pension processing SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The final step involves the generation of the Pension Payment Order (PPO), a compliance audit by an authorized signatory, and entry of banking details into the dispersal system."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Pension Processing Management System",
+  "applicationCategory": "BusinessApplication",
+  "description": "An automated workflow management system designed to handle family pension claims, eligibility validation, and PPO generation for deceased employees.",
+  "operatingSystem": "Web-based",
+  "offers": {
+    "@type": "Offer",
+    "category": "Enterprise"
+  }
+}
+</script>

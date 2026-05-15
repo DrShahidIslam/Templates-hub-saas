@@ -1,7 +1,11 @@
 ---
 status: published
-title: Onboarding Checklist Australia
+title: 'Employee Onboarding Checklist: Australia Compliance SOP'
 publishedAt: '2026-05-10T18:48:00.934Z'
+description: >-
+  Master Australian employee onboarding. Follow this SOP to ensure Fair Work Act
+  compliance, ATO TFN requirements, and seamless payroll setup.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Employee Onboarding (Australia)
 
@@ -41,3 +45,49 @@ Failure to provide the FWIS is a breach of the Fair Work Act. It can lead to civ
 
 **3. Do I need to verify work rights for Australian citizens?**
 While you do not need to perform a VEVO check for citizens, it is best practice to keep a copy of their birth certificate or Australian passport on file to protect the business in the event of an audit.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What documents are required for Australian employee onboarding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mandatory documents include a compliant employment contract, a Tax File Number (TFN) declaration, a Superannuation Choice form, and the Fair Work Information Statement (FWIS)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I verify a new hire's right to work in Australia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For non-Australian citizens, you must conduct a VEVO (Visa Entitlement Verification Online) check to confirm their eligibility and visa status."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the role of the Fair Work Information Statement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Fair Work Information Statement is a mandatory document that must be provided to all new employees to inform them of their rights under the National Employment Standards."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Employee Onboarding SOP System",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "All",
+  "description": "A structured Standard Operating Procedure for managing Australian employee onboarding, payroll compliance, and workplace induction processes.",
+  "featureList": "Fair Work Act compliance, ATO tax reporting, VEVO verification, WHS induction tracking"
+}
+</script>

@@ -1,3 +1,12 @@
+---
+title: 'GST Audit SOP: Step-by-Step Compliance & Filing Guide'
+description: >-
+  Master GST audit compliance with this comprehensive SOP. Learn to reconcile
+  GSTR-1, 3B, 2A/2B, and prepare GSTR-9/9C forms efficiently and accurately.
+status: published
+publishedAt: '2026-05-15T02:53:20.625Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: GST Audit and Compliance Documentation
 
 This Standard Operating Procedure (SOP) outlines the systematic process for preparing, verifying, and filing audit-related forms under the Goods and Services Tax (GST) framework. Proper adherence to these procedures ensures accuracy in financial reporting, minimizes the risk of scrutiny from tax authorities, and maintains the integrity of the company’s tax filings. This document is intended for finance departments, tax consultants, and internal auditors responsible for GST compliance.
@@ -38,3 +47,53 @@ A: Communicate with the supplier immediately to ensure they file their GSTR-1. I
 
 **Q: Are there any specific penalties for errors found during the GST audit process?**
 A: Yes, if the audit reveals under-reported tax, the company is liable for the tax amount plus interest (typically 18% per annum) and potential penalties for non-compliance depending on whether the error was due to negligence or deliberate suppression of facts.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I reconcile ITC for GST audits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ITC reconciliation involves downloading GSTR-2B for the financial year and matching it against the Input Tax Credit (ITC) claimed in your GSTR-3B filings to ensure accuracy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the purpose of GSTR-9C in an audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GSTR-9C is a self-certified reconciliation statement that matches the turnover declared in your audited annual financial statements with the turnover reported in GSTR-9."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is RCM verification critical during GST audits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "RCM verification ensures that all tax liabilities on inward supplies, particularly services from unregistered persons or imports, have been correctly paid and recorded."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "GST Audit Compliance SOP",
+  "applicationCategory": "FinanceApplication",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure for financial departments to manage GST audits, data reconciliation, and regulatory filing requirements.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

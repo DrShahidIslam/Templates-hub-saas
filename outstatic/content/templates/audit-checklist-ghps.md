@@ -1,3 +1,13 @@
+---
+title: 'GHG Protocol Audit SOP: Ensure Emission Data Integrity'
+description: >-
+  Master the Greenhouse Gas Protocol audit process. Learn how to verify Scope 1,
+  2, and 3 emissions, organizational boundaries, and reporting accuracy
+  standards.
+status: published
+publishedAt: '2026-05-15T02:51:51.631Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Greenhouse Gas Protocol (GHGP) Audit
 
 This Standard Operating Procedure (SOP) outlines the rigorous process for auditing Greenhouse Gas Protocol (GHGP) reporting. The objective of this audit is to ensure data integrity, verify adherence to the principles of relevance, completeness, consistency, transparency, and accuracy, and confirm that all Scope 1, 2, and 3 emissions are calculated in alignment with the World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD) standards.
@@ -47,3 +57,52 @@ A: Significance is generally determined by your organization's materiality thres
 
 **Q: Can we use spend-based data for all of Scope 3?**
 A: While spend-based data is acceptable under the GHGP for initial screenings, auditors prefer activity-based data (e.g., weight of material, distance traveled) as it is more accurate. Over-reliance on spend-based data can lead to lower data quality scores.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary objective of a GHGP audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The objective is to ensure data integrity, verify adherence to reporting principles (relevance, completeness, consistency, transparency, accuracy), and confirm alignment with WRI/WBCSD standards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How are Scope 2 emissions audited?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Auditors verify electricity/steam invoices, confirm both location-based and market-based calculations, and inspect Energy Attribute Certificates (EACs) and PPAs for quality criteria."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What must be verified regarding Scope 3 emissions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Auditors verify all 15 Scope 3 categories, ensuring any categories excluded as 'not relevant' are backed by documented justification and validated data collection methods."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "GHGP Audit Standard Operating Procedure",
+  "applicationCategory": "BusinessApplication",
+  "description": "A comprehensive SOP framework for auditing Greenhouse Gas Protocol emissions reporting, covering organizational boundaries and Scope 1, 2, and 3 calculations.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "category": "Documentation"
+  }
+}
+</script>

@@ -1,8 +1,13 @@
 ---
-title: 'safety checklist for gas cutting set'
-status: 'published'
-slug: 'safety-checklist-for-gas-cutting-set'
+title: 'Gas Cutting Safety SOP: Mandatory Inspection Checklist'
+status: published
+slug: safety-checklist-for-gas-cutting-set
 publishedAt: '2026-05-11T09:45:50.557Z'
+description: >-
+  Follow this expert gas cutting safety SOP to prevent fires and explosions.
+  Learn the mandatory pre-operational checklist for cylinders, hoses, and
+  torches.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Gas Cutting Safety Inspection
@@ -49,3 +54,52 @@ A: If a flashback occurs (typically heard as a popping sound or a screeching noi
 
 **Q: How often should I perform a formal leak test?**
 A: While a quick visual check should be part of every pre-start routine, a formal leak test using an approved leak detection solution should be performed every time a cylinder is changed or if the equipment has been disconnected and reconnected.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How far apart should oxygen and fuel gas cylinders be stored?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oxygen and fuel gas cylinders must be separated by at least 20 feet, or by a non-combustible barrier that is at least 5 feet high."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use an open flame to check for gas leaks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, never use an open flame to test for leaks. Always use an approved leak detection solution, such as a soapy water mixture."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where should flashback arrestors be installed on gas cutting equipment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Flashback arrestors must be installed at both the regulator end and the torch handle end for both the oxygen and fuel gas lines."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Gas Cutting Safety Inspection SOP",
+  "applicationCategory": "Industrial Safety Management",
+  "operatingSystem": "All",
+  "description": "A standardized safety procedure for the inspection and maintenance of oxy-fuel gas cutting equipment to prevent workplace hazards.",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "text": "Follow the four-step checklist covering cylinder storage, regulator integrity, hose safety, and torch functionality."
+  }
+}
+</script>

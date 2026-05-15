@@ -1,3 +1,12 @@
+---
+title: Food Truck Health & Safety Inspection SOP Checklist
+description: >-
+  Ensure your food truck passes health inspections with this comprehensive SOP
+  checklist covering hygiene, temperature control, and sanitation requirements.
+status: published
+publishedAt: '2026-05-15T04:28:55.601Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Food Truck Health & Safety Inspection
 
 This Standard Operating Procedure (SOP) serves as a comprehensive guide for maintaining the highest standards of food safety, sanitation, and regulatory compliance for mobile food units. Consistent adherence to this checklist not only ensures passing grades during unannounced health department inspections but also safeguards the health of our customers and the longevity of our business. All staff members are required to perform these inspections at the start of every shift, documenting findings in the digital logbook.
@@ -44,3 +53,53 @@ Politely acknowledge the inspector, inform them you are in the middle of a rush,
 
 **3. If a refrigerator unit fails, can I keep selling food?**
 No. If the temperature exceeds 41°F for more than four hours, the food is considered unsafe and must be discarded. Do not attempt to "re-cool" or "re-heat" food that has been sitting in a failed refrigerator.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What temperature must food truck refrigeration units be maintained at?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All refrigeration units on a food truck must be maintained at an internal temperature of 41°F or below to ensure food safety."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should food truck health inspections be conducted?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Staff members are required to perform health and safety inspections at the start of every shift and document the findings in a digital logbook."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the proper method for washing hands in a food truck?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Employees must use soap and hot water (minimum 100°F) to scrub their hands for at least 20 seconds at a dedicated handwashing station."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Food Truck SOP Digital Logbook",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "All",
+  "description": "A digital logbook tool designed to manage food truck health and safety inspection SOPs, compliance tracking, and sanitation documentation.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

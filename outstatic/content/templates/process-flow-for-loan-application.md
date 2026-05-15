@@ -1,3 +1,12 @@
+---
+title: 'Loan Application Processing SOP: Step-by-Step Guide'
+description: >-
+  Master the end-to-end loan application process. Learn intake, underwriting,
+  and closing procedures to ensure regulatory compliance and risk mitigation.
+status: published
+publishedAt: '2026-05-15T06:46:13.833Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Loan Application Processing
 
 This Standard Operating Procedure (SOP) defines the end-to-end lifecycle of a loan application, from initial intake to final disbursement. The objective of this process is to ensure regulatory compliance, mitigate credit risk, and provide a seamless experience for the borrower. All personnel involved in the loan lifecycle must adhere to these steps to maintain operational consistency and ensure that all documentation meets internal underwriting standards and external legal requirements.
@@ -37,3 +46,49 @@ A: For a standard application, the goal is to reach conditional approval within 
 
 **Q: What should I do if the appraisal comes in lower than the requested loan amount?**
 A: Immediately notify the Loan Officer. The applicant must be given the option to cover the shortfall in cash, renegotiate the purchase price, or withdraw the application.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key stages of loan application processing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The loan lifecycle consists of three primary stages: Application Intake and Pre-Screening, Underwriting and Risk Assessment, and Final Approval and Closing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is KYC verification mandatory in loan processing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "KYC (Know Your Customer) verification is essential for regulatory compliance, identity verification, and to prevent financial fraud during the loan origination process."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the purpose of the Closing Disclosure (CD)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Closing Disclosure provides the borrower with final loan terms and costs. It must be provided for a mandatory review period, typically 3 business days, before funding."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Loan Origination System (LOS)",
+  "applicationCategory": "Financial Software",
+  "operatingSystem": "Web-based",
+  "description": "A centralized system used for managing the loan application lifecycle, including documentation, credit analysis, underwriting, and disbursement tracking.",
+  "featureList": "KYC verification, credit analysis, DTI/LTV calculation, document management, loan status tracking"
+}
+</script>

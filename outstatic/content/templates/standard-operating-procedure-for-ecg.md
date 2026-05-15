@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Ecg
+title: '12-Lead ECG Acquisition: Clinical Standard Procedure Guide'
 publishedAt: '2026-05-10T18:48:01.716Z'
+description: >-
+  Learn the professional SOP for 12-lead ECG acquisition. Ensure accurate
+  cardiac diagnostics with our step-by-step guide on electrode placement and
+  patient care.
+seo_optimized: true
 ---
 Standard Operating Procedure: 12-Lead Electrocardiogram (ECG) Acquisition
 
@@ -60,3 +65,52 @@ A: Place the limb lead as proximally as possible on the stump (e.g., upper arm o
 
 Q: Why does the ECG look "noisy" despite good electrode placement?
 A: This is often caused by AC interference. Ensure no other electronic devices (like cell phones or nearby wall-plugged equipment) are touching the patient or the lead wires. If the interference persists, try moving the ECG machine to a different wall outlet.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where should the V4 electrode be placed for a 12-lead ECG?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The V4 electrode should be placed in the 5th intercostal space at the mid-clavicular line."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you prepare the patient's skin for an ECG?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clean electrode sites with alcohol wipes to remove oils. If excessive chest hair is present, trim the hair to ensure optimal conduction, avoiding skin abrasion."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is patient positioning important during an ECG?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proper positioning, typically supine or semi-Fowler’s, helps ensure patient comfort, minimizes muscle artifact interference, and provides consistent diagnostic results."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "12-Lead ECG Acquisition System",
+  "applicationCategory": "MedicalSoftware",
+  "operatingSystem": "Medical Device Firmware",
+  "description": "A standardized clinical protocol for operating 12-lead ECG systems to ensure high-quality signal acquisition and accurate cardiac monitoring.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Professional Training Documentation"
+  }
+}
+</script>

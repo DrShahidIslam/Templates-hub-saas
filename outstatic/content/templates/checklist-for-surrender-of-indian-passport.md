@@ -1,8 +1,12 @@
 ---
-title: 'Standard Operating Procedure: Surrender of Indian Passport'
-status: 'published'
-slug: 'checklist-for-surrender-of-indian-passport'
+title: 'How to Surrender Indian Passport: Step-by-Step SOP Guide'
+status: published
+slug: checklist-for-surrender-of-indian-passport
 publishedAt: '2026-05-07T18:59:25.419Z'
+description: >-
+  Learn the mandatory process for surrendering your Indian passport after
+  acquiring foreign citizenship. Follow our expert SOP to ensure MEA compliance.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Surrender of Indian Passport
@@ -52,3 +56,52 @@ A: No. Traveling on an Indian passport after acquiring foreign citizenship is a 
 
 **Q: How long does the process take?**
 A: Processing times vary significantly based on the jurisdiction and the complexity of the case (e.g., lost passports require more time). On average, allow for 15–30 business days from the date of physical submission.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it illegal to hold an Indian passport after becoming a foreign citizen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, under the Indian Citizenship Act, 1955, it is illegal for an Indian citizen to retain an Indian passport after acquiring the nationality of another country."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required to surrender my Indian passport?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You will need your original Indian passport, proof of foreign citizenship (Naturalization Certificate), the completed online application form, two 2x2 inch photographs, and applicable payment receipts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to visit an Indian Embassy in person?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, physical submission and verification at an Indian Embassy, Consulate, or authorized VFS service center is generally required to complete the surrender process."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "MEA Passport Surrender Portal",
+  "applicationCategory": "Government Application",
+  "operatingSystem": "Web-based",
+  "description": "The official digital portal for Indian citizens to initiate the surrender of their Indian passport upon acquiring foreign citizenship.",
+  "provider": {
+    "@type": "GovernmentOrganization",
+    "name": "Ministry of External Affairs, India"
+  }
+}
+</script>

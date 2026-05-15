@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Laboratory Tests
+title: 'Laboratory Testing SOP: GLP Compliance & Execution Guide'
 publishedAt: '2026-05-10T18:48:01.845Z'
+description: >-
+  Master standardized laboratory testing protocols. Learn essential
+  pre-analytical, handling, and analytical procedures to ensure data integrity
+  and GLP compliance.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Laboratory Testing Protocols
 
@@ -47,3 +52,52 @@ A: Retention periods vary by test type and local regulatory requirements. Refer 
 
 **Q: What is the procedure if a patient sample is received with inadequate labeling?**
 A: The sample must be rejected. Do not attempt to guess the patient identity. Mark the sample as "Rejected - Improper Labeling" in the LIMS and contact the nursing station or requesting provider to facilitate a recollect.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of the Laboratory Testing SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary goal is to establish a standardized workflow that ensures data integrity, maintains personnel safety, and guarantees compliance with GLP and institutional regulatory standards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the required steps for pre-analytical preparation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pre-analytical preparation includes verifying testing orders via LIMS, calibrating analytical equipment, donning appropriate PPE, and confirming the lab environment meets temperature and humidity requirements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should specimen integrity be assessed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before processing, samples must be inspected for indicators such as hemolysis, lipemia, icterus, or insufficient volume to ensure the integrity of the analytical results."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Laboratory Information Management System (LIMS)",
+  "applicationCategory": "Scientific Software",
+  "description": "A system used to manage laboratory testing requests, specimen tracking, and data integrity in accordance with Good Laboratory Practice (GLP).",
+  "operatingSystem": "Web-based/Server-side",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "text": "Refer to the Laboratory Testing Protocols SOP for integration and operational guidelines."
+  }
+}
+</script>

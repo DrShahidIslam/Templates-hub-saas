@@ -1,8 +1,13 @@
 ---
-title: 'preventive maintenance checklist for semi trucks'
-status: 'published'
-slug: 'preventive-maintenance-checklist-for-semi-trucks'
+title: 'Semi-Truck Preventive Maintenance SOP: Fleet Guide'
+status: published
+slug: preventive-maintenance-checklist-for-semi-trucks
 publishedAt: '2026-05-11T12:10:47.239Z'
+description: >-
+  Master Class 8 semi-truck preventive maintenance with this SOP. Ensure FMCSA
+  compliance, maximize uptime, and optimize fuel economy with our detailed
+  guide.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Preventive Maintenance for Semi-Trucks
@@ -50,3 +55,53 @@ A: While drivers are required to perform a Pre-Trip and Post-Trip inspection, ma
 
 **Q: What should I do if I find a defect during a PM?**
 A: Categorize the defect. If it is a "Must-Fix" (e.g., brakes, steering, lighting), the truck must be placed Out-of-Service (OOS) immediately until repairs are signed off by a lead mechanic. Documentation of the repair must be attached to the PM report.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should semi-truck oil be changed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Engine oil should be replaced according to the OEM-specified mileage intervals to ensure engine longevity and peak performance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the critical components of a semi-truck brake inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Inspections must include checking brake lining thickness, inspecting drums/rotors for heat cracks or scoring, performing air system leakage tests, and verifying slack adjuster settings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is this SOP mandatory for fleet managers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adherence ensures FMCSA regulatory compliance, maximizes vehicle uptime, improves fuel efficiency, and prevents costly emergency repairs."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Fleet Maintenance Management System",
+  "applicationCategory": "MaintenanceManagementSoftware",
+  "operatingSystem": "Web-based",
+  "description": "A digital solution for logging Class 8 semi-truck preventive maintenance inspections and tracking component defects as outlined in the SOP.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

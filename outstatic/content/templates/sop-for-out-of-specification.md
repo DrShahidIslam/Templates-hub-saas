@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Out Of Specification
+title: 'OOS Investigation SOP: Handling Out-of-Specification Results'
 publishedAt: '2026-05-10T18:48:01.398Z'
+description: >-
+  Master the OOS investigation process with our comprehensive SOP. Learn key
+  steps for containment, laboratory Phase I/II investigations, and CAPA
+  implementation.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Handling Out-of-Specification (OOS) Results
 
@@ -53,3 +58,48 @@ No. A re-test is only performed if the Phase I investigation finds a legitimate,
 
 **3. What is the timeline for closing an OOS report?**
 While complex investigations may take longer, industry standards (such as FDA guidelines) suggest that an OOS investigation should be completed as quickly as possible, generally aiming for a 30-day target unless a formal extension is requested and justified by Quality Assurance.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an Out-of-Specification (OOS) result?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An OOS result occurs when a laboratory test value falls outside the defined specifications or acceptance criteria established in product dossiers or internal controls."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the first steps after discovering an OOS result?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Immediate actions include quarantining the affected material, notifying the QA Manager and Lab Supervisor within 24 hours, and performing a preliminary review of logs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is involved in a Phase I Laboratory investigation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Phase I investigation involves interviewing the analyst, auditing equipment calibration, verifying sample integrity, and reviewing the reagents and standards used."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "OOS Tracking System",
+  "applicationCategory": "Quality Management Software",
+  "operatingSystem": "Web-based",
+  "description": "A digital tool designed for documenting, tracking, and managing laboratory Out-of-Specification investigation workflows and CAPA requirements."
+}
+</script>

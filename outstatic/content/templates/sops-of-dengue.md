@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sops Of Dengue
+title: 'Dengue Prevention SOP: Facility Management & Control Guide'
 publishedAt: '2026-05-10T18:48:01.637Z'
+description: >-
+  Learn essential Dengue prevention protocols. Our SOP covers environmental
+  vector control, staff protection strategies, and rapid incident response
+  measures.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Dengue Prevention and Management
 
@@ -51,3 +56,52 @@ A: Dengue-carrying mosquitoes are "day biters." They are most active during the 
 
 **Q: What is the most important step in prevention?**
 A: Source reduction is the single most effective method. Eliminating standing water removes the breeding ground for larvae, breaking the mosquito life cycle before they reach maturity.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can facilities prevent Dengue transmission?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Facilities can prevent transmission by eliminating stagnant water, maintaining clear drainage, trimming vegetation, and ensuring physical barriers like window screens are intact."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What personal protection measures are recommended for staff?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Staff should wear long-sleeved shirts and light-colored clothing, and use DEET or Picaridin-based insect repellents during peak biting hours."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should be done if an employee has Dengue symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Employees exhibiting symptoms such as high fever or joint pain should be referred to a medical professional immediately, and vector mapping should be initiated."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Dengue Prevention and Management SOP",
+  "applicationCategory": "Health & Safety Management",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure for the environmental control, vector mitigation, and health surveillance of Dengue Fever within corporate or industrial facilities.",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "text": "Standard Operating Procedure documentation for facility-wide viral infection control."
+  }
+}
+</script>

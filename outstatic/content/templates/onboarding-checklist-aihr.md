@@ -1,7 +1,11 @@
 ---
 status: published
-title: Onboarding Checklist Aihr
+title: 'AIHR Onboarding SOP: A Guide for New Employee Success'
 publishedAt: '2026-05-10T18:48:00.932Z'
+description: >-
+  Learn the standard AIHR onboarding process. Master user provisioning, platform
+  navigation, and goal setting to maximize your HR certification ROI today.
+seo_optimized: true
 ---
 # Standard Operating Procedure: AIHR Onboarding Process
 
@@ -40,3 +44,52 @@ Access the "Admin" settings in the AIHR portal, deactivate the current user’s 
 
 **3. Are there prerequisites required before starting a specific AIHR track?**
 While most AIHR tracks are designed to be standalone, it is recommended to review the "Course Overview" document provided on the landing page of each track to ensure the user has the foundational knowledge required for advanced data or technical modules.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the first step in the AIHR onboarding process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first step is administrative provisioning: verifying the user's license, sending an invitation via the AIHR admin console, and mapping them to the correct program path."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I ensure my team member stays on track with AIHR training?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Set clear completion timelines, align modules with current OKRs, and encourage blocking dedicated learning hours in their calendars for consistent progress."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a way to access AIHR content on the go?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we recommend downloading the AIHR mobile app to consume bite-sized video content and learning materials during commutes or downtime."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "AIHR (Academy to Innovate HR) Platform",
+  "applicationCategory": "EducationalSoftware",
+  "description": "An online learning platform providing certification tracks for HR professionals in areas like People Analytics and Digital Transformation.",
+  "operatingSystem": "Web-based, Browser agnostic",
+  "offers": {
+    "@type": "Offer",
+    "category": "Enterprise Subscription"
+  }
+}
+</script>

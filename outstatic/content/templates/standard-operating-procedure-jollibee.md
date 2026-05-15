@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure Jollibee
+title: 'Jollibee Store SOP: Operational Excellence & Quality Guide'
 publishedAt: '2026-05-10T18:48:02.009Z'
+description: >-
+  Master Jollibee store operations with this SOP guide covering opening, kitchen
+  safety, POS management, and the gold standard for quality, service, and
+  cleanliness.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Jollibee Store Operations Excellence
 
@@ -47,3 +52,52 @@ A: A self-assessment audit should be conducted weekly by the store manager, whil
 
 **Q: What is the procedure if a customer reports a food-related illness?**
 A: Take the report seriously, record all contact details, preserve the food sample if available, and immediately escalate the report to the Area Manager and the corporate safety department. Do not admit liability; simply follow the incident reporting protocol.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the standard target service time at Jollibee?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The target transaction time is under 3 minutes for counter orders and under 2 minutes for drive-thru orders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the Jollibee 'LAST' method for customer complaints?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The LAST method stands for: Listen to the customer, Apologize for the issue, Solve the problem, and Thank the customer for their feedback."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should food contact surfaces be sanitized?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Food contact surfaces must be sanitized every 4 hours or immediately after handling raw poultry, following the 'Clean As You Go' (CAYG) policy."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Jollibee Store Operations SOP",
+  "applicationCategory": "Business SOP Manual",
+  "operatingSystem": "All",
+  "description": "Comprehensive Standard Operating Procedure for Jollibee store management, covering food safety, customer service, and kitchen protocols.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Jollibee"
+  }
+}
+</script>

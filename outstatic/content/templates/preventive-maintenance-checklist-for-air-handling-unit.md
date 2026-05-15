@@ -1,8 +1,12 @@
 ---
-title: 'preventive maintenance checklist for air handling unit'
-status: 'published'
-slug: 'preventive-maintenance-checklist-for-air-handling-unit'
+title: AHU Preventive Maintenance SOP | HVAC Best Practices Guide
+status: published
+slug: preventive-maintenance-checklist-for-air-handling-unit
 publishedAt: '2026-05-11T10:58:01.556Z'
+description: >-
+  Follow our expert AHU preventive maintenance SOP to improve energy efficiency,
+  ensure ASHRAE compliance, and extend your HVAC equipment's service life.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Air Handling Unit (AHU) Preventive Maintenance
@@ -48,3 +52,52 @@ High-pitched squealing, a low-frequency rumble, or excessive heat on the bearing
 
 **3. Why is my condensate pan constantly overflowing?**
 This is typically caused by a clogged P-trap or improper slope of the drain line. Ensure the trap has a vent to prevent airlocks and verify that the pan has a minimum 1/8-inch per foot pitch toward the drain outlet.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should AHU filters be replaced?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Filter replacement frequency depends on environment and usage, but they should be inspected regularly for bypass gaps and dirt accumulation during scheduled preventive maintenance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is coil cleaning important for AHUs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regular coil cleaning prevents dust buildup, which improves heat exchange efficiency, reduces energy consumption, and maintains indoor air quality."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the critical safety steps before AHU maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Always implement Lockout/Tagout (LOTO) procedures, ensure technicians wear proper PPE (N95 masks, safety glasses), and record operational baselines before shutdown."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "AHU Preventive Maintenance SOP",
+  "applicationCategory": "Industrial Maintenance Documentation",
+  "description": "A standardized protocol for Air Handling Unit (AHU) maintenance, covering safety, filtration, mechanical inspection, and electrical compliance.",
+  "operatingSystem": "All",
+  "provider": {
+    "@type": "Organization",
+    "name": "HVAC Professional Standards"
+  }
+}
+</script>

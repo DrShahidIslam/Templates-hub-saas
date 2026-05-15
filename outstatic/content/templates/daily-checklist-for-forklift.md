@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Daily Forklift Inspection'
-status: 'published'
-slug: 'daily-checklist-for-forklift'
+title: 'Daily Forklift Inspection SOP: OSHA Compliance Guide'
+status: published
+slug: daily-checklist-for-forklift
 publishedAt: '2026-05-07T18:59:25.563Z'
+description: >-
+  Ensure workplace safety with our daily forklift inspection SOP. Follow this
+  step-by-step guide to meet OSHA 29 CFR 1910.178 requirements and avoid
+  hazards.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Daily Forklift Inspection
@@ -54,3 +59,53 @@ A: No. Initial checks must be done while the unit is stationary and the engine i
 
 **Q: Who is responsible for the inspection if multiple people use the same forklift?**
 A: The operator assigned to the machine for the start of their specific shift is responsible for the inspection. If you are taking over a machine mid-shift, you should perform your own visual walkthrough to ensure the safety of the equipment.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often must a forklift be inspected per OSHA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Per OSHA 29 CFR 1910.178, a forklift must be inspected daily, or after every shift if the equipment is utilized on a round-the-clock basis."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is included in a forklift visual inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A visual inspection includes checking for fluid leaks, inspecting tire integrity, checking forks and carriage for damage, examining mast chains and hoses, and ensuring all safety guards are secure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is a forklift operational inspection necessary?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The operational inspection is necessary to test functional safety systems, including steering, brakes, hydraulics, instrumentation, and audible/visual warning devices."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Daily Forklift Inspection SOP",
+  "applicationCategory": "Safety Management System",
+  "operatingSystem": "All",
+  "description": "A standardized protocol and checklist for conducting daily safety inspections of industrial forklift equipment in compliance with OSHA regulations.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Safety Compliance Division"
+  },
+  "featureList": "Visual inspection of engine and structure, Operational testing of safety systems, Documentation and reporting logs"
+}
+</script>

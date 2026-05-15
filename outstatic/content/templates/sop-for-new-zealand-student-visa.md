@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For New Zealand Student Visa
+title: 'NZ Student Visa Guide: SOP for a Successful Application'
 publishedAt: '2026-05-10T18:48:01.377Z'
+description: >-
+  Master the New Zealand Student Visa process with our comprehensive SOP. Learn
+  about CoE, financial requirements, and document preparation to ensure
+  approval.
+seo_optimized: true
 ---
 # Standard Operating Procedure: New Zealand Student Visa Application
 
@@ -42,3 +47,52 @@ An RFI is not a rejection; it is an opportunity to clarify or provide missing ev
 
 **3. Do I need to buy health insurance before the visa is approved?**
 Yes. All international students must have acceptable insurance for the duration of their student visa. Many education providers offer their own, or you may purchase a compliant policy from an approved third-party provider. Proof of this insurance is often required before the final approval of the visa.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much money do I need for a NZ student visa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Applicants must demonstrate access to sufficient funds, typically at least NZD $20,000 per year, to cover tuition and living expenses, evidenced by six months of bank statements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for a New Zealand student visa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Required documents include a Confirmation of Enrolment (CoE), valid passport, academic transcripts, English proficiency test results, financial evidence, and proof of ties to your home country."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a medical exam for a New Zealand student visa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, depending on your country of origin and the duration of your stay, you may require a chest X-ray (INZ 1096) or a full medical examination (INZ 1165)."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Immigration New Zealand RealMe Portal",
+  "applicationCategory": "Government Service",
+  "operatingSystem": "Web-based",
+  "description": "The official online portal provided by Immigration New Zealand for the digital submission and management of student visa applications.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Immigration New Zealand"
+  }
+}
+</script>

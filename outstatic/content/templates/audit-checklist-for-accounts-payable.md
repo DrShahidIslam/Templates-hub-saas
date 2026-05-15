@@ -1,7 +1,12 @@
 ---
 status: published
-title: Audit Checklist For Accounts Payable
+title: 'Accounts Payable Audit SOP: Best Practices & Checklist'
 publishedAt: '2026-05-10T18:48:00.333Z'
+description: >-
+  Master your Accounts Payable audit with our comprehensive SOP. Ensure
+  financial integrity, prevent fraud, and verify internal controls with this
+  step-by-step guide.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Accounts Payable (AP) Audit
 
@@ -47,3 +52,53 @@ A: The most frequent finding is usually "duplicate payments" caused by vendors s
 
 **Q: What should I do if I find a fraudulent transaction during the audit?**
 A: Immediately escalate the finding to the Controller or CFO. Do not attempt to confront the vendor or the employee involved until an official internal investigation plan has been established by legal or executive leadership.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the purpose of an Accounts Payable audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AP audit ensures financial integrity, verifies internal controls, validates ledger accuracy, and helps prevent fraudulent disbursements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you verify vendor legitimacy in an AP audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Verify legitimacy by checking for valid W-9/W-8BEN forms, performing duplicate vendor checks, and ensuring all new vendors have independent manager approval."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is three-way matching in AP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three-way matching is the process of confirming that the Purchase Order (PO), Receiving Report, and Vendor Invoice all align before a payment is issued."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Accounts Payable Audit SOP",
+  "applicationCategory": "FinanceApplication",
+  "description": "A comprehensive standard operating procedure for auditing accounts payable processes, vendor verification, and disbursement controls.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

@@ -1,3 +1,13 @@
+---
+title: 'Fire Extinguisher Inspection SOP: Monthly Safety Checklist'
+description: >-
+  Ensure OSHA compliance with our comprehensive fire extinguisher inspection
+  SOP. Follow our expert monthly checklist to maintain safety and equipment
+  readiness.
+status: published
+publishedAt: '2026-05-15T04:50:51.445Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Fire Extinguisher Inspection
 
 ## Introduction
@@ -39,3 +49,52 @@ A: Treat the unit as "compromised." While the gauge may show pressure, you canno
 
 **Q: Can I perform repairs on a dented or leaking extinguisher?**
 A: Never attempt to repair, weld, or refill a fire extinguisher yourself. Pressure vessels are extremely dangerous. If a unit is damaged, leaking, or fails an inspection, remove it from the area and contact your licensed fire equipment vendor for professional service or disposal.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should fire extinguishers be inspected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Portable fire extinguishers must be inspected monthly by designated personnel to ensure they are accessible, charged, and free of physical damage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I look for on the pressure gauge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The needle on the pressure gauge must be within the green operating zone. If it falls into the red zone, the unit is under or over-pressurized and requires immediate service."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the required mounting height for a fire extinguisher?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For units weighing under 40 lbs, the carrying handle must be positioned between 3.5 and 5 feet above the floor."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Fire Extinguisher Inspection SOP Tool",
+  "applicationCategory": "Safety Management System",
+  "operatingSystem": "Web-based",
+  "description": "A standardized protocol and digital logging framework for conducting and documenting mandatory monthly fire extinguisher inspections.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Safety Compliance Standards"
+  }
+}
+</script>

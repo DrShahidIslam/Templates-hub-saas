@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Joint Declaration In Epfo
+title: 'EPFO Joint Declaration SOP: Step-by-Step Guide for Employers'
 publishedAt: '2026-05-10T18:48:01.327Z'
+description: >-
+  Master the EPFO Joint Declaration process. Follow this official SOP to correct
+  UAN member details, avoid claim rejections, and ensure seamless KYC
+  compliance.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Processing EPFO Joint Declarations
 
@@ -46,3 +51,52 @@ A: While timelines vary by region, approval typically takes 15 to 30 working day
 
 **Q: What should I do if the field office rejects my Joint Declaration request?**
 A: Review the rejection reason provided in the 'Remarks' column on the portal. Rectify the specific document or data discrepancy cited by the official and initiate a fresh request.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an EPFO Joint Declaration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Joint Declaration is a formal request submitted by an employee and employer to the EPFO to correct discrepancies in member details like Name, DOB, or DOJ, ensuring alignment with Aadhar data."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which documents are required for a Joint Declaration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mandatory documents include a self-attested Aadhar card, PAN card or Voter ID, the updated Joint Declaration form, and proof of service like an appointment letter."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I submit a Joint Declaration on the EPFO portal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Employers must log into the EPFO Employer Interface, navigate to the 'Member' tab, select 'Joint Declaration', input correct details, upload supporting PDFs, and sign using a DSC or E-Sign."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "EPFO Unified Portal",
+  "applicationCategory": "Government Services",
+  "operatingSystem": "Web-based",
+  "description": "The official EPFO Employer Interface used for managing provident fund member data, KYC updates, and Joint Declaration requests.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Employees’ Provident Fund Organisation"
+  }
+}
+</script>

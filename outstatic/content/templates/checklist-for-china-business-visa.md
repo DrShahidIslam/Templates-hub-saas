@@ -1,8 +1,12 @@
 ---
-title: 'Standard Operating Procedure: China Business (M-Visa) Application'
-status: 'published'
-slug: 'checklist-for-china-business-visa'
+title: 'China Business (M) Visa: SOP & Application Requirements'
+status: published
+slug: checklist-for-china-business-visa
 publishedAt: '2026-05-07T18:59:25.138Z'
+description: >-
+  Master the China Business M-Visa application process. Follow our expert SOP
+  checklist for invitation letters, documentation, and successful processing.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: China Business (M-Visa) Application
@@ -55,3 +59,48 @@ A: While it is possible to change hotels after arrival in China, you must ensure
 
 <div data-html2canvas-ignore="true" style="display:none">China business visa requirements, M visa application checklist, how to apply for China M visa, China business visa documentation, China visa invitation letter requirements, COVA form guide, China business visa application process, document checklist for China M visa, business visa for China application, step by step China visa guide, Chinese business visa eligibility, M visa application SOP, China visa photo requirements, business travel to China visa, China visa application instructions</div>
 <!-- AI_KEYWORDS: China business visa requirements, M visa application checklist, how to apply for China M visa, China business visa documentation, China visa invitation letter requirements, COVA form guide, China business visa application process, document checklist for China M visa, business visa for China application, step by step China visa guide, Chinese business visa eligibility, M visa application SOP, China visa photo requirements, business travel to China visa, China visa application instructions -->
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a China M-Visa used for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The China M-Visa is specifically intended for individuals traveling to China for commercial and trade-related business activities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for an M-Visa invitation letter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The invitation letter must include the applicant's full details, the purpose of the visit, travel dates, locations to be visited, funding sources, and the inviting entity's official seal and contact information."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the passport requirements for a China Business Visa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your passport must be original, have at least six months of remaining validity, and contain at least two blank visa pages."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "China Online Visa Application (COVA)",
+  "applicationCategory": "GovernmentApplication",
+  "operatingSystem": "Web-based",
+  "description": "The official online portal required for completing the China Visa Application form as part of the M-Visa submission process."
+}
+</script>

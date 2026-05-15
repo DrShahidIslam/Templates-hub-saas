@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Iit Madras
+title: 'IIT Madras Partnership Guide: Research & Industrial SOP'
 publishedAt: '2026-05-10T18:48:01.303Z'
+description: >-
+  Master the engagement process with IIT Madras. Our guide covers research
+  collaborations, IC&SR proposal requirements, legal protocols, and campus
+  access.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Academic and Operational Engagement with IIT Madras
 
@@ -41,3 +46,57 @@ A: Depending on the complexity and scope of the legal clauses, the approval proc
 
 **Q: How do I recruit students from IIT Madras?**
 A: All recruitment activities must be coordinated through the Training and Placement (T&P) Office. Direct outreach to individual students for internships or hiring without T&P notification is considered a violation of institute policy.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I initiate a research partnership with IIT Madras?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start by identifying your objective (e.g., sponsored research or CSR) and checking alignment with the IC&SR guidelines. Then, contact the relevant Department Faculty Coordinator or the IIT Madras Research Park."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for an IITM research proposal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must prepare an executive summary, use official IC&SR proposal templates, and ensure all financial budgets include mandated Institutional Overhead Charges (O&M)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is Intellectual Property handled at IIT Madras?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All IP must be defined in alignment with the Technology Transfer Office (TTO) policies, clearly distinguishing between foreground and background intellectual property."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "IIT Madras Engagement Protocol",
+  "applicationCategory": "Professional/Educational",
+  "description": "Standardized workflow and administrative protocol for industrial partnerships, research collaborations, and campus engagement with IIT Madras.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Indian Institute of Technology Madras"
+  },
+  "operatingSystem": "Web-based",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "INR"
+  }
+}
+</script>

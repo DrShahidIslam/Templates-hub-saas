@@ -1,7 +1,11 @@
 ---
 status: published
-title: Onboarding Checklist Canva
+title: 'Canva Enterprise Onboarding SOP: Best Practices Guide'
 publishedAt: '2026-05-10T18:48:00.937Z'
+description: >-
+  Streamline your team's design workflow with our Canva Enterprise onboarding
+  SOP. Learn provisioning, workspace setup, and brand kit configuration steps.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Canva Enterprise Onboarding
 
@@ -41,3 +45,52 @@ Report the discrepancy to the Design Lead or Admin. They will upload the missing
 
 **3. Can I work on designs offline?**
 Canva is a web-based, cloud-native platform. You must have an active internet connection to save changes and collaborate with your team; therefore, offline work is not supported.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I add a new user to Canva Enterprise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Navigate to the People tab in your Canva Enterprise dashboard, ensure the user has a corporate email, and send an invitation link linked to your organization's SSO."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between Member and Administrator roles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Members are standard users, while Administrators have elevated access, allowing them to manage folders, billing, and team settings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I ensure new hires follow brand guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Map users to specific departmental Brand Kits and share your internal Canva Style Guide during their orientation training."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Canva Enterprise",
+  "applicationCategory": "Design Software",
+  "operatingSystem": "Web-based",
+  "description": "A collaborative design platform for organizations providing brand-compliant assets, team-based folder permissions, and SSO security.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Enterprise"
+  }
+}
+</script>

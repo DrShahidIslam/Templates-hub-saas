@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop For Purchase Department
+title: 'Procurement SOP: A Guide to Purchasing & Vendor Management'
 publishedAt: '2026-05-10T18:48:01.416Z'
+description: >-
+  Master procurement operations with our standardized SOP. Learn the end-to-end
+  process from purchase requisitions and vendor selection to final PO issuance.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Procurement and Purchasing Operations
 
@@ -51,3 +55,53 @@ A: Perform a formal review of the AVL annually. Remove vendors with consistent p
 
 **Q: Can verbal agreements with vendors be considered binding?**
 A: No. All purchasing activity must be documented by a written Purchase Order. Verbal agreements are impossible to audit and pose a significant financial risk to the company.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of a Procurement SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary goal is to establish a standardized framework for the procurement lifecycle to ensure transparency, cost-efficiency, risk mitigation, and regulatory audit readiness."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is a new vendor vetted for procurement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "New vendors must undergo a comprehensive due diligence process, including KYC checks, business registration verification, tax certification, and evaluation against the Approved Vendor List (AVL)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What steps are involved in the Purchase Requisition process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process includes requirement identification, budget verification, adherence to the approval hierarchy by budget holders, and validation for completeness."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Procurement and Purchasing Operations SOP",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "All",
+  "description": "A standardized operational framework for managing the complete procurement lifecycle, vendor sourcing, and purchasing compliance.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

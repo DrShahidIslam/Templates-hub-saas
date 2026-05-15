@@ -1,8 +1,12 @@
 ---
-title: 'Standard Operating Procedure: Residential Security and Readiness for Extended Absence'
-status: 'published'
-slug: 'checklist-for-leaving-house-on-vacation'
+title: 'Home Security Checklist: How to Secure Your House Before Travel'
+status: published
+slug: checklist-for-leaving-house-on-vacation
 publishedAt: '2026-05-07T18:59:25.308Z'
+description: >-
+  Protect your home while away. Follow our expert residential security SOP to
+  secure utilities, prevent damage, and deter theft before your next vacation.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Residential Security and Readiness for Extended Absence
@@ -49,3 +53,53 @@ A: Group plants together away from direct sun to reduce evaporation. Use self-wa
 
 **Q: Is it advisable to leave a spare key with a neighbor?**
 A: Yes, this is recommended. Having a trusted neighbor hold a key allows for emergency access in the event of a fire, alarm trip, or water leak, provided you trust them with entry to your home.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I turn off my water main before leaving for vacation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, turning off the main water shut-off valve is recommended to prevent catastrophic leaks or burst pipes while the property is unattended."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What temperature should I set my thermostat to when away?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In winter, set it to 55°F–60°F to prevent freezing pipes. In summer, set it to 80°F–85°F to minimize energy consumption."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I make my home look occupied while I am away?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use programmable timers or smart-home automations for interior lighting and ensure outdoor motion-sensor lights are fully operational."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Residential Security & Readiness SOP",
+  "applicationCategory": "Utility",
+  "description": "A comprehensive standard operating procedure for securing residential properties before extended absences to mitigate risks of theft, damage, and energy waste.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

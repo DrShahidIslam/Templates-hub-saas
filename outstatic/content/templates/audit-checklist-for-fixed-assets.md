@@ -1,3 +1,13 @@
+---
+title: 'Fixed Asset Audit SOP: A Comprehensive Step-by-Step Guide'
+description: >-
+  Master fixed asset auditing with our expert SOP. Learn the essential steps for
+  physical verification, financial reconciliation, and maintaining GAAP
+  compliance.
+status: published
+publishedAt: '2026-05-15T02:46:15.495Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Fixed Asset Audit
 
 This Standard Operating Procedure (SOP) outlines the systematic process for auditing fixed assets to ensure financial accuracy, physical accountability, and compliance with accounting standards (e.g., GAAP/IFRS). An effective audit verifies that all recorded assets exist, are in working condition, are correctly valued, and that disposals or impairments are properly documented. This process is essential for maintaining accurate balance sheets, calculating accurate depreciation, and preventing internal fraud or asset mismanagement.
@@ -45,3 +55,49 @@ A: Ghost assets represent a major internal control failure. If they cannot be lo
 
 **Q: How often should a full fixed asset audit be performed?**
 A: At a minimum, a full physical inventory should be conducted annually. However, high-turnover industries or companies with high-value mobile equipment may benefit from semi-annual or quarterly audits.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary purpose of a fixed asset audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary purpose is to ensure financial accuracy, physical accountability, and compliance with accounting standards like GAAP or IFRS by verifying that assets exist, are correctly valued, and properly documented."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you identify 'Ghost Assets' during an audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ghost assets are identified by performing a 'book-to-floor' inspection, where you attempt to locate items from the Fixed Asset Register (FAR) in the physical environment. If an asset is listed in the register but cannot be physically found, it is flagged as a ghost asset."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should be included in the fixed asset audit report?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The audit findings report should detail all identified discrepancies, missing assets, the status of asset disposals, and remediation steps to align physical findings with the general ledger."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Fixed Asset Audit SOP Management Tool",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure for conducting accurate fixed asset audits, managing depreciation schedules, and ensuring regulatory compliance.",
+  "featureList": "Fixed Asset Register integration, physical verification tracking, automated financial reconciliation, audit reporting"
+}
+</script>

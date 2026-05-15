@@ -1,8 +1,13 @@
 ---
-title: 'rtu preventive maintenance checklist'
-status: 'published'
-slug: 'rtu-preventive-maintenance-checklist'
+title: 'RTU Preventive Maintenance SOP: A Comprehensive Guide'
+status: published
+slug: rtu-preventive-maintenance-checklist
 publishedAt: '2026-05-11T12:07:27.112Z'
+description: >-
+  Optimize your HVAC performance with our professional RTU preventive
+  maintenance SOP. Learn step-by-step protocols for safety, efficiency, and
+  system longevity.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: RTU Preventive Maintenance
@@ -57,3 +62,52 @@ A: Neglected airflow restrictions, specifically dirty filters and clogged conden
 
 **Q: Should I clean the condensate drain with bleach?**
 A: No, avoid harsh chemicals. Use a manufacturer-approved drain pan tablet or a mild enzymatic cleaner to prevent corrosion of metal pans and damage to surrounding components.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is LOTO important for RTU maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lock-Out/Tag-Out (LOTO) is critical to isolate energy sources, ensuring that the unit cannot be accidentally energized while technicians are performing inspections or repairs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should RTU air filters be inspected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Filters should be inspected during every scheduled preventive maintenance visit. Technicians should log the pressure drop across the filter bank to determine if replacement is necessary."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key signs of a refrigerant leak in an RTU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key indicators include visible oil stains on refrigerant lines, abnormal superheat/subcooling values, or suboptimal discharge and suction pressures."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "RTU Preventive Maintenance SOP",
+  "applicationCategory": "Maintenance Management",
+  "operatingSystem": "All",
+  "description": "A standardized protocol for the maintenance, safety inspection, and efficiency optimization of commercial Rooftop Units (RTUs).",
+  "provider": {
+    "@type": "Organization",
+    "name": "Facility Management Standards"
+  }
+}
+</script>

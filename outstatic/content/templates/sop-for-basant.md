@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop For Basant
+title: 'Basant Festival SOP: Safety, Logistics & Event Execution'
 publishedAt: '2026-05-10T18:48:01.170Z'
+description: >-
+  Ensure a safe Basant Festival with this comprehensive SOP. Learn essential
+  safety protocols, kite flying guidelines, and event management requirements.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Basant Festival Execution
 
@@ -46,3 +50,53 @@ Never attempt to retrieve a kite that has snagged on a power line. Cordon off th
 
 **3. What is the protocol if a participant exceeds the rooftop capacity?**
 Security must immediately implement a "one-in, one-out" policy, or close off access to the affected roof level until the density is reduced to safe, pre-calculated limits.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the essential safety protocols for the Basant Festival?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Essential protocols include banning glass-coated manjha, maintaining 50-meter clearance from electrical grids, installing perimeter barricades, and conducting pre-event site structural assessments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is the use of glass-coated manjha prohibited?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Glass-coated manjha is prohibited due to the severe injury risks it poses to participants, pedestrians, and local wildlife."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you manage crowd safety during Basant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Crowd safety is managed by assigning security personnel to verify attendees, enforcing roof weight-bearing limits, and maintaining constant surveillance of participant density."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Basant Festival Execution Management System",
+  "applicationCategory": "Event Management Software",
+  "description": "A comprehensive standard operating procedure tool for managing Basant Festival logistics, safety compliance, and site execution.",
+  "operatingSystem": "Web-based",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

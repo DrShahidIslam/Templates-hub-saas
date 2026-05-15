@@ -1,7 +1,12 @@
 ---
 status: published
-title: Maintenance Checklist For Forklift
+title: 'Forklift Daily Inspection SOP: OSHA Compliance Guide'
 publishedAt: '2026-05-10T18:48:00.895Z'
+description: >-
+  Master daily forklift preventive maintenance with this step-by-step SOP.
+  Ensure OSHA 1910.178 compliance, reduce downtime, and improve workplace
+  safety.
+seo_optimized: true
 ---
 # SOP: Forklift Preventive Maintenance Inspection
 
@@ -42,3 +47,58 @@ A: Do not operate the equipment. Notify your supervisor immediately to obtain a 
 
 **Q: How often should I check the battery water level in electric forklifts?**
 A: Water levels should be checked weekly, or as dictated by the manufacturer’s manual, specifically after the battery has been fully charged. Never add water to a battery before charging, as it can cause overflow during the heating process.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should a forklift inspection be performed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "OSHA requires that forklifts be inspected daily or before each shift if used on a round-the-clock basis."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if a forklift fails an inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If a defect is identified, the forklift must be immediately tagged out of service with a 'DO NOT OPERATE' tag and reported to maintenance management."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is forklift cleanliness important for maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Excessive dirt and grease buildup can mask critical issues like chassis cracks or hydraulic leaks, making thorough inspections impossible."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Forklift Inspection Management SOP",
+  "applicationCategory": "Industrial Safety & Maintenance",
+  "operatingSystem": "All",
+  "description": "A comprehensive Standard Operating Procedure for daily forklift preventive maintenance and OSHA 1910.178 compliance.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Industrial Safety Standards"
+  },
+  "featureList": [
+    "Visual inspection protocol",
+    "Operational performance testing",
+    "Safety feature verification",
+    "Digital logging and reporting"
+  ]
+}
+</script>

@@ -1,8 +1,12 @@
 ---
-title: 'safety checklist for surgery'
-status: 'published'
-slug: 'safety-checklist-for-surgery'
+title: 'Surgical Safety Checklist SOP: WHO Standards & Protocols'
+status: published
+slug: safety-checklist-for-surgery
 publishedAt: '2026-05-11T10:07:43.416Z'
+description: >-
+  Optimize surgical safety with our comprehensive SOP. Learn the mandatory WHO
+  checklist phases—Sign-In, Time-Out, and Sign-Out—to reduce clinical risk.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Surgical Safety and Verification
@@ -57,3 +61,53 @@ Yes. In an emergency, the checklist should be condensed to the most critical ver
 
 **3. Who is responsible for keeping the checklist record?**
 The circulating nurse is typically responsible for documenting the completion of the checklist in the electronic medical record (EMR), but the accountability for verifying the information is shared equally among the entire surgical team.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the three phases of the surgical safety checklist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The three phases are Sign-In (before anesthesia induction), Time-Out (before skin incision), and Sign-Out (before the patient leaves the operating room)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is the Time-Out procedure mandatory?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Time-Out is a formal pause to ensure all team members agree on the patient's identity, the specific surgical procedure, and the correct surgical site to prevent wrong-site or wrong-patient errors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is responsible for the Surgical Safety Checklist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adherence to the checklist is mandatory for the entire perioperative team, including surgeons, anesthesiologists, and nursing staff."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Surgical Safety Verification SOP",
+  "applicationCategory": "Medical/Clinical Management",
+  "description": "Standard Operating Procedure based on WHO guidelines for ensuring patient safety and standardized verification during surgical interventions.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop For X Ray Machine
+title: 'X-Ray Machine SOP: Safety, Operation & Calibration Guide'
 publishedAt: '2026-05-10T18:48:01.554Z'
+description: >-
+  Learn the mandatory SOP for diagnostic X-ray machine operation. Ensure ALARA
+  compliance, safety, and imaging accuracy with this professional guide.
+seo_optimized: true
 ---
 # Standard Operating Procedure: X-Ray Machine Operation
 
@@ -46,3 +50,49 @@ A: You should conduct a visual inspection before every shift. Additionally, a fo
 
 **Q: If I suspect a radiation leak, what is my immediate action?**
 A: Terminate the exposure immediately, evacuate the room, lock the door to prevent unauthorized entry, and notify the Radiation Safety Officer (RSO) or facility manager to conduct a radiation survey.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the core ALARA radiation safety principles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ALARA stands for 'As Low As Reasonably Achievable.' It requires operators to minimize radiation exposure through time, distance, and shielding to ensure patient and staff safety."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is dosimeter placement important during X-ray procedures?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wearing a dosimeter at the collar level outside of lead-lined aprons provides an accurate measurement of the operator's radiation dose, ensuring they remain within safe occupational limits."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should be taken before activating an X-ray tube?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before activation, operators must perform a manufacturer-recommended warm-up sequence, verify equipment integrity, confirm lead-lined doors are closed, and ensure warning indicators are active."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "X-Ray Machine Diagnostic Control Interface",
+  "applicationCategory": "MedicalApplication",
+  "operatingSystem": "Embedded System",
+  "description": "Standard software interface for diagnostic X-ray imaging equipment, featuring pre-exposure calibration, beam localization, and exposure monitoring controls.",
+  "softwareRequirements": "Requires manufacturer-authorized hardware connectivity and routine calibration validation."
+}
+</script>

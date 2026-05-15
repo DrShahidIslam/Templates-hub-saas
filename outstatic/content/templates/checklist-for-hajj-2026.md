@@ -1,8 +1,13 @@
 ---
-title: 'Standard Operating Procedure: Hajj 2026 Preparation and Execution'
-status: 'published'
-slug: 'checklist-for-hajj-2026'
+title: 'Hajj 2026 Preparation Guide: Essential SOP & Checklist'
+status: published
+slug: checklist-for-hajj-2026
 publishedAt: '2026-05-07T18:59:25.227Z'
+description: >-
+  Prepare for Hajj 2026 with our comprehensive SOP. Get expert tips on Nusuk
+  registration, vaccination requirements, essential packing, and spiritual
+  readiness.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Hajj 2026 Preparation and Execution
@@ -44,3 +49,53 @@ A: Keep a printed folder containing copies of your passport, Hajj permit, accomm
 
 **Q: What should I do if I get separated from my group?**
 A: Carry your hotel business card or a written address in Arabic at all times. Before leaving for Jamarat or other crowded rites, establish a pre-arranged meeting point with your group leader.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What documents are required for Hajj 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need a passport valid for at least six months, proof of mandatory vaccinations (like meningitis ACWY), your Hajj permit (Tasreeh) linked to the Nusuk app, and comprehensive travel insurance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I register for Hajj 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Registration is managed through the official Saudi Ministry of Hajj and Umrah portal, Nusuk. Monitor the site for official windows and ensure your identity is verified early."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What items are essential for the Hajj packing list?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Essentials include high-quality Ihram attire, broken-in walking sandals, a personal hygiene kit with unscented products, a 30-day supply of prescription medication, and a Saudi-compatible eSIM."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Nusuk App",
+  "applicationCategory": "TravelApplication",
+  "operatingSystem": "iOS, Android",
+  "description": "The official Saudi Ministry of Hajj and Umrah portal for managing pilgrimage permits, registration, and documentation for Hajj 2026.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  }
+}
+</script>

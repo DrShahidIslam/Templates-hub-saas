@@ -1,8 +1,13 @@
 ---
-title: 'property inspection checklist for landlords'
-status: 'published'
-slug: 'property-inspection-checklist-for-landlords'
+title: 'Residential Property Inspection SOP: A Complete Guide'
+status: published
+slug: property-inspection-checklist-for-landlords
 publishedAt: '2026-05-11T09:59:15.943Z'
+description: >-
+  Master professional property inspections with our comprehensive residential
+  SOP. Learn key steps for interior, exterior, and safety system checks to
+  protect assets.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Residential Property Inspection
@@ -50,3 +55,53 @@ Do not confront the tenant aggressively. Document the evidence (photos of the pe
 
 **3. Is it mandatory for the tenant to be present?**
 Unless stipulated otherwise in your specific lease agreement or local law, the landlord generally does not require the tenant to be present. However, having them present can be beneficial for discussing maintenance needs directly.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much notice is required for a property inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must provide a formal 'Notice of Entry' at least 24–48 hours in advance, depending on local jurisdiction requirements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should be checked during a kitchen and bathroom inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Inspect all plumbing for leaks under sinks, verify appliance functionality, check bathroom ventilation fans to prevent mold, and ensure faucet and toilet fixtures are secure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is a residential property inspection SOP important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An SOP preserves asset value, ensures tenant lease compliance, identifies preventative maintenance needs, and helps mitigate long-term liability."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Property Inspection Management Tool",
+  "applicationCategory": "BusinessApplication",
+  "description": "Professional software designed to streamline residential property inspections, automate checklists, and document property conditions for asset protection.",
+  "operatingSystem": "iOS, Android, Web",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

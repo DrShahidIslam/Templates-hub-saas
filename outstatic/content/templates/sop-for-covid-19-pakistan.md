@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Covid 19 Pakistan
+title: 'COVID-19 Workplace SOP: Pakistan Compliance Guide'
 publishedAt: '2026-05-10T18:48:01.197Z'
+description: >-
+  Ensure business continuity with our NCOC-compliant COVID-19 safety SOP. Learn
+  mandatory protocols for facility hygiene, social distancing, and incident
+  response.
+seo_optimized: true
 ---
 # Standard Operating Procedure: COVID-19 Health & Safety Protocols (Pakistan)
 
@@ -42,3 +47,52 @@ A: While cloth masks are permitted for general use, surgical masks (or N95/KN95 
 
 **Q: Should we demand proof of vaccination from all visitors?**
 A: Yes. In alignment with Pakistani government policies for public/commercial spaces, it is advised to check vaccination certificates (or the NADRA-issued digital QR code) for all external visitors to ensure a fully vaccinated environment.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the entrance screening requirements for offices in Pakistan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All facilities must implement mandatory thermal scanning. Individuals displaying a temperature above 99°F (37.2°C) must be denied entry."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the recommended social distancing protocol?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workspaces should be arranged to maintain a minimum of 6 feet between employees. If this is not feasible, physical barriers such as plexiglass must be installed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are face masks mandatory in the workplace?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, strictly enforce the wearing of surgical or cloth face masks for all employees and visitors at all times while on the premises."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "COVID-19 Health & Safety Compliance SOP",
+  "applicationCategory": "BusinessApplication",
+  "description": "An NCOC-compliant standard operating procedure document for maintaining workplace health, hygiene, and social distancing protocols in Pakistan.",
+  "operatingSystem": "All",
+  "provider": {
+    "@type": "Organization",
+    "name": "NCOC and Ministry of National Health Services, Pakistan"
+  }
+}
+</script>

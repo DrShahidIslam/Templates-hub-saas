@@ -1,8 +1,12 @@
 ---
-title: 'Standard Operating Procedure: Indian Passport Surrender'
-status: 'published'
-slug: 'checklist-for-indian-passport-surrender'
+title: 'How to Surrender Indian Passport: Complete SOP & Guide'
+status: published
+slug: checklist-for-indian-passport-surrender
 publishedAt: '2026-05-07T18:59:25.256Z'
+description: >-
+  Learn the mandatory steps to surrender your Indian passport after acquiring
+  foreign citizenship. Follow our expert SOP for a smooth, penalty-free process.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Indian Passport Surrender
@@ -57,3 +61,53 @@ Processing times vary by jurisdiction, typically ranging from 10 to 20 business 
 
 **3. Do I need the Surrender Certificate to apply for an OCI card?**
 Yes. The Surrender Certificate is a mandatory document for the OCI application process. Without proof of surrender, your OCI application will be rejected.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why must I surrender my Indian passport?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Under the Indian Citizenship Act, 1955, holding an Indian passport after acquiring foreign citizenship is illegal. Surrender is mandatory to avoid penalties and ensure eligibility for future Indian visas or OCI cards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for Indian passport surrender?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You will need your original Indian passport, foreign passport, naturalization certificate, proof of residency, completed surrender application form, and recent 2x2 photographs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens after my passport is surrendered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Once processed, your Indian passport will be returned with a 'Cancelled' stamp and clipped corners, along with an official Surrender Certificate."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Indian Passport Surrender Portal",
+  "applicationCategory": "Government Service",
+  "operatingSystem": "Web",
+  "description": "The official online registration system for Indian citizens to initiate the surrender of their Indian travel documents upon acquisition of foreign nationality.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  }
+}
+</script>

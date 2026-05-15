@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Excavation
+title: 'Excavation SOP: Safety, Permits & OSHA Compliance Guide'
 publishedAt: '2026-05-10T18:48:01.237Z'
+description: >-
+  Follow our expert excavation SOP for site safety, utility locating, soil
+  classification, and OSHA-compliant protective systems. Ensure project
+  compliance today.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Excavation Operations
 
@@ -49,3 +54,53 @@ A: Yes. Any item near the edge has the potential to be knocked into the trench, 
 
 **Q: What qualifies a person as a "Competent Person"?**
 A: An individual who has specific training in soil mechanics, the use of protective systems, and the requirements of OSHA standards, and who has been explicitly designated by the employer to have the authority to halt work.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How far in advance should I call 811 before excavating?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must contact local 'Call Before You Dig' services (811) at least 48 hours prior to breaking ground to ensure all underground utilities are identified."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the role of a Competent Person in excavation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Competent Person is responsible for identifying hazards, inspecting soil conditions, classifying soil types, and has the authority to stop work if safety is compromised."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When are ladders or egress required in a trench?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For any excavation 4 feet or deeper, you must install ladders, ramps, or stairways within 25 feet of all employees to ensure safe access and egress."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Excavation SOP Management System",
+  "applicationCategory": "Safety Compliance Software",
+  "operatingSystem": "Web-based",
+  "description": "A digital standard operating procedure platform for managing excavation safety, OSHA compliance, utility permits, and soil analysis documentation.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

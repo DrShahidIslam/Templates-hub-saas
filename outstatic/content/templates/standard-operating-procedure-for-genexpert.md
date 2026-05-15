@@ -1,7 +1,12 @@
 ---
 status: published
-title: Standard Operating Procedure For Genexpert
+title: 'GeneXpert SOP: Diagnostic Testing & Operating Procedures'
 publishedAt: '2026-05-10T18:48:01.792Z'
+description: >-
+  Master the GeneXpert diagnostic testing process with our expert SOP. Learn
+  essential steps for sample preparation, cartridge loading, and system
+  operation.
+seo_optimized: true
 ---
 # Standard Operating Procedure: GeneXpert Diagnostic Testing
 
@@ -48,3 +53,53 @@ A: No. Opening the door during a run will immediately abort the test and invalid
 
 **Q: How often should the GeneXpert system be calibrated?**
 A: Calibration is typically required annually or as specified by the manufacturer's service contract. Always verify the calibration sticker on the back of your specific unit.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the required PPE for GeneXpert testing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before operating the GeneXpert system, personnel must wear appropriate PPE, including a laboratory coat, gloves, and eye protection to ensure safety."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you prevent cross-contamination in the GeneXpert workstation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Decontaminate the workstation surface using a 10% bleach solution, followed by a 70% ethanol wipe to maintain a clean environment and prevent sample cross-contamination."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should be checked before loading a GeneXpert cartridge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before loading, ensure cartridges are at room temperature, verify the expiration date, cross-reference patient IDs, and ensure the sample-reagent mixture is properly homogenized."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "GeneXpert Diagnostic Software",
+  "applicationCategory": "MedicalApplication",
+  "operatingSystem": "Windows",
+  "description": "Molecular diagnostic software used for managing GeneXpert instrument testing, patient data entry, and result analysis.",
+  "softwareVersion": "Standard",
+  "provider": {
+    "@type": "Organization",
+    "name": "Cepheid"
+  }
+}
+</script>

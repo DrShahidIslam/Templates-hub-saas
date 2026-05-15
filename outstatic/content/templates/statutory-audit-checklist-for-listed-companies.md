@@ -1,3 +1,13 @@
+---
+title: Statutory Audit SOP for Listed Companies | Audit Prep Guide
+description: >-
+  Streamline your statutory audit with our comprehensive SOP. Learn best
+  practices for audit planning, revenue recognition, IFC compliance, and RPT
+  disclosures.
+status: published
+publishedAt: '2026-05-15T08:21:01.861Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Statutory Audit Preparation for Listed Companies
 
 As a listed entity, the statutory audit process is a critical governance exercise that extends beyond simple financial verification to include rigorous compliance with securities regulations, accounting standards (Ind AS/IFRS/GAAP), and internal control mandates (e.g., SOX or IFC). This SOP serves as a comprehensive roadmap for Finance and Compliance teams to streamline audit workflows, ensure data integrity, and minimize audit findings. The objective is to facilitate a seamless audit lifecycle while maintaining the high standards of transparency required by market regulators and stakeholders.
@@ -42,3 +52,52 @@ A: Auditors will review your cash flow forecasts, liquidity ratios, and access t
 
 **Q: How should we manage communication with the Audit Committee?**
 A: The Audit Committee should be briefed periodically (at least quarterly). Provide a "Status of Audit" report highlighting any management disagreements or high-risk items identified by the auditors during the process.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary objective of a statutory audit SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The objective is to provide a roadmap for finance teams to ensure data integrity, maintain compliance with securities regulations and accounting standards, and facilitate a seamless audit lifecycle."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can listed companies improve audit readiness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Companies can improve readiness by establishing a secure digital portal (VDR) for evidence, conducting early internal control reviews, and finalizing a clear audit calendar with defined sign-off deadlines."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should be prioritized during the revenue audit process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prioritize verifying performance obligations, conducting cut-off testing for period-end allocation, auditing Expected Credit Losses (ECL), and cross-referencing high-value contracts with recognized revenue."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Audit Preparation Workflow SOP",
+  "applicationCategory": "Finance Management",
+  "description": "A comprehensive standard operating procedure for listed companies to manage statutory audit requirements, internal controls, and financial reporting compliance.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "category": "Free Documentation"
+  }
+}
+</script>

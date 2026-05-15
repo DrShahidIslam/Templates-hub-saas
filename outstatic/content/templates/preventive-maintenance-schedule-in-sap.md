@@ -1,8 +1,13 @@
 ---
-title: 'preventive maintenance schedule in sap'
-status: 'published'
-slug: 'preventive-maintenance-schedule-in-sap'
+title: 'SAP PM Preventive Maintenance: Step-by-Step SOP Guide'
+status: published
+slug: preventive-maintenance-schedule-in-sap
 publishedAt: '2026-05-11T11:31:03.109Z'
+description: >-
+  Master SAP PM preventive maintenance scheduling. Learn to configure
+  maintenance plans, set call horizons, and automate order generation with this
+  SOP guide.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Preventive Maintenance Scheduling in SAP PM
@@ -48,3 +53,53 @@ Yes. You can edit the plan via IP02. However, be aware that changes to cycles on
 
 **3. What is the difference between IP30 and IP10?**
 IP10 is the manual simulation and monitoring tool for individual plans, allowing you to see specific dates and statuses. IP30 is the mass-processing background transaction used to trigger all due maintenance plans into orders simultaneously.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I create a preventive maintenance plan in SAP PM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To create a plan, use T-code IP41 for single-cycle plans or IP42 for strategy plans. You must link your equipment to the plan and attach a Task List created in IA05 to define the required maintenance steps."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the function of the Call Horizon in SAP PM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Call Horizon defines the percentage of the maintenance cycle at which the system triggers the maintenance order. For example, a 10% call horizon on a 30-day plan triggers the order 3 days before the due date."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which T-code is used for automatic maintenance order generation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "T-code IP30 is used to schedule and run the background job that automatically converts maintenance calls into actionable maintenance orders."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "SAP Plant Maintenance (PM)",
+  "applicationCategory": "Enterprise Resource Planning Software",
+  "operatingSystem": "SAP NetWeaver",
+  "description": "SAP PM is an enterprise-level module designed for managing equipment, maintenance scheduling, and asset lifecycle tracking within the SAP ERP ecosystem.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  }
+}
+</script>

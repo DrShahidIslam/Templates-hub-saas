@@ -1,7 +1,12 @@
 ---
 status: published
-title: Onboarding Checklist Employment Hero
+title: 'How to Onboard Employees with Employment Hero: SOP Guide'
 publishedAt: '2026-05-10T18:48:00.947Z'
+description: >-
+  Master employee onboarding with Employment Hero. Follow our step-by-step SOP
+  for contract setup, data collection, compliance, and seamless new hire
+  integration.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Employee Onboarding via Employment Hero
 
@@ -43,3 +48,52 @@ Yes, you can edit the onboarding pack in real-time, though significant changes s
 
 **3. Does Employment Hero automatically store all signed contracts?**
 Yes, once an employee digitally signs a document via the platform, it is automatically saved to their secure "Documents" tab within their employee file for future audit and reference.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I initiate a new hire in Employment Hero?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Initiate the onboarding process by selecting the appropriate template (Full-time, Part-time, or Contractor) within the Onboarding module and assigning a direct manager."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents should be included in the onboarding pack?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The onboarding pack should include mandatory company policies such as the Company Handbook, WHS Policy, and IT Acceptable Use policy for digital acknowledgement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How are IT assets and software provisioned for new hires?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the Employment Hero task list to trigger automated IT tickets for hardware procurement and software licensing based on the employee's start date."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Employment Hero",
+  "applicationCategory": "HR Management Software",
+  "operatingSystem": "Web-based",
+  "description": "A cloud-based HR platform designed for onboarding, payroll, performance management, and compliance tracking.",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD"
+  }
+}
+</script>

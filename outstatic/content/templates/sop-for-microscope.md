@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Microscope
+title: 'How to Use a Compound Light Microscope: Step-by-Step SOP'
 publishedAt: '2026-05-10T18:48:01.367Z'
+description: >-
+  Master compound light microscope operation. Follow our expert SOP for
+  pre-inspection, sample mounting, oil immersion techniques, and proper storage
+  protocols.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Compound Light Microscope Operation
 
@@ -51,3 +56,52 @@ A: Only use cleaning agents explicitly approved by the manufacturer. Some commer
 
 **Q: The light is on, but I cannot see anything through the eyepieces. What should I check?**
 A: First, ensure the objective lens is fully "clicked" into place. Next, verify that the aperture diaphragm (under the stage) is not completely closed. Finally, ensure the slide is not upside down.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I safely focus a microscope without breaking the slide?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Always look from the side while using the coarse adjustment knob to raise the stage to its highest position. Once the stage is raised, look through the eyepieces and slowly lower the stage to bring the specimen into focus."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is oil immersion used correctly on a compound microscope?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rotate the nosepiece halfway between objectives, apply a single drop of immersion oil to the cover slip, then rotate the 100x objective into place so it makes contact with the oil. Use only the fine adjustment knob to focus."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the proper way to shut down a microscope?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Return to the lowest objective, remove the slide, clean oil from lenses with authorized lens paper, lower the stage, turn off the light, unplug the unit, and cover it for storage."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Compound Light Microscope SOP",
+  "applicationCategory": "Laboratory Equipment Protocol",
+  "operatingSystem": "N/A",
+  "description": "Standard operating procedure for the safe maintenance, operation, and storage of laboratory compound light microscopes.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Laboratory Safety Department"
+  }
+}
+</script>

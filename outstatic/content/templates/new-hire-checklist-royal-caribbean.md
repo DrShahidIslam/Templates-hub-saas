@@ -1,7 +1,11 @@
 ---
 status: published
-title: New Hire Checklist Royal Caribbean
+title: Royal Caribbean New Hire Onboarding SOP | Employee Guide
 publishedAt: '2026-05-10T18:48:00.920Z'
+description: >-
+  Streamline your onboarding process with Royal Caribbean Group’s official new
+  hire SOP. Learn about documentation, safety briefings, and integration steps.
+seo_optimized: true
 ---
 # Standard Operating Procedure: New Hire Onboarding – Royal Caribbean Group
 
@@ -48,3 +52,52 @@ A: Shoreside staff focus on local labor law and corporate compliance, whereas sh
 
 **Q: Is the mentor program mandatory for all new arrivals?**
 A: Yes. Every new crew member must be assigned a "Buddy" for the first 14 days to ensure they understand both the operational requirements and the social dynamics of living and working at sea.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What documentation is required for Royal Caribbean shipboard onboarding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "New hires must provide valid employment contracts, medical clearances (ENG1/PEME), background checks, C1/D visas, Seaman’s Books, and valid STCW certificates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does the Royal Caribbean 'Royal Way' safety briefing cover?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The safety briefing focuses on emergency protocols, Muster Station assignments, and familiarization with life-saving appliances onboard."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How are new employees introduced to Royal Caribbean systems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IT provisioning includes access to the Royal IQ portal, ShipNet, company email, VPN, and internal communication apps configured on Day One."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Royal IQ",
+  "applicationCategory": "Employee Portal",
+  "operatingSystem": "Web-based",
+  "provider": {
+    "@type": "Organization",
+    "name": "Royal Caribbean Group"
+  },
+  "description": "An internal employee portal used by Royal Caribbean Group for new hire onboarding, system provisioning, and workforce management."
+}
+</script>

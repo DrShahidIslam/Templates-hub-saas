@@ -1,7 +1,12 @@
 ---
 status: published
-title: Sop For Non Sterile Compounding
+title: USP <795> Non-Sterile Compounding SOP Guide & Best Practices
 publishedAt: '2026-05-10T18:48:01.380Z'
+description: >-
+  Master non-sterile compounding with our comprehensive SOP guide. Ensure USP
+  <795> compliance, safety, and accuracy in your pharmacy’s medication
+  preparation.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Non-Sterile Compounding
 
@@ -46,3 +51,52 @@ A: Stop immediately. Notify the supervising pharmacist, document the discrepancy
 
 **Q: Can I use tap water for compounding preparations?**
 A: No. USP standards require the use of Purified Water (USP grade) for all non-sterile compounded preparations unless otherwise specified in the Master Formulation Record.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary standard for non-sterile compounding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary standard for non-sterile compounding in the United States is USP <795>, which provides requirements for ensuring the safety and quality of compounded non-sterile preparations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is geometric dilution important in compounding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Geometric dilution is a critical technique used to ensure the uniform distribution of active pharmaceutical ingredients (APIs) within a mixture, preventing concentration gradients."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What PPE is required for non-sterile compounding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compounding personnel must wear a clean lab coat, hair net, face mask, and powder-free gloves, changing gloves immediately if they become soiled or torn."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Pharmacy Compounding Management System",
+  "applicationCategory": "HealthcareApplication",
+  "operatingSystem": "Web-based",
+  "description": "Standard Operating Procedure documentation and compliance management software for USP <795> non-sterile compounding workflows.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Enterprise Compliance"
+  }
+}
+</script>

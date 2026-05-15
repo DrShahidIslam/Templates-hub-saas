@@ -1,8 +1,12 @@
 ---
-title: 'quality control sop example'
-status: 'published'
-slug: 'quality-control-sop-example'
+title: 'Quality Control Inspection SOP: Standardized Process Guide'
+status: published
+slug: quality-control-sop-example
 publishedAt: '2026-05-11T10:24:44.396Z'
+description: >-
+  Master your quality control process with this expert SOP guide. Learn
+  essential steps for pre-inspection, physical testing, and defect reporting.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Quality Control (QC) Inspection Process
@@ -44,3 +48,52 @@ A: Consult the "Golden Sample" or the Customer Quality Agreement. If ambiguity r
 
 **Q: What is the procedure if a defect is found during the inspection of a critical safety component?**
 A: Quarantine the entire lot immediately. A critical safety failure requires an automatic halt to production and an emergency meeting with the engineering team to conduct a root cause analysis (RCA).
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of a QC inspection SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary goal is to ensure all products meet internal specifications and customer expectations, minimizing defects and reducing production waste."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should be checked during pre-inspection preparation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preparation includes documentation retrieval (BOM), calibration checks for measurement tools, environment verification, and determining the sampling plan based on AQL standards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is a non-conformance handled in the QC process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If a defect is found, a Non-Conformance Report (NCR) must be triggered immediately, detailing the nature of the failure and the potential root cause."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Quality Management System (QMS)",
+  "applicationCategory": "BusinessApplication",
+  "description": "A comprehensive system for tracking inspection results, pass/fail status, and non-conformance reporting within manufacturing production environments.",
+  "operatingSystem": "Web-based",
+  "offers": {
+    "@type": "Offer",
+    "category": "Enterprise Software"
+  }
+}
+</script>

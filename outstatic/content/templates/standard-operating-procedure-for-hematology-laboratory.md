@@ -1,7 +1,11 @@
 ---
 status: published
-title: Standard Operating Procedure For Hematology Laboratory
+title: 'Hematology Laboratory SOP: Best Practices & Procedures'
 publishedAt: '2026-05-10T18:48:01.807Z'
+description: >-
+  Master hematology laboratory operations with our comprehensive SOP. Learn
+  specimen handling, instrument QC, and accurate result reporting protocols.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Hematology Laboratory Operations
 
@@ -52,3 +56,49 @@ A: Automated analyzers are excellent at counting but struggle with morphological
 
 **Q: How long should clinical blood samples be retained?**
 A: Retain samples in the refrigerated storage area (2°C–8°C) for at least 48 to 72 hours post-analysis, or as dictated by your specific hospital policy, to allow for add-on testing or result verification.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the requirements for specimen verification in hematology?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Specimens must be verified using at least two unique patient identifiers, such as full name and date of birth, and checked for integrity, correct tube type, and adequate volume."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is quality control managed in the hematology lab?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "QC involves running Low, Normal, and High levels daily, ensuring results fall within ±2 Standard Deviation on Levey-Jennings charts before processing patient samples."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What action should be taken for critical laboratory results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Critical values, such as extreme hemoglobin or platelet levels, must be reported to the ordering clinician via direct telephone notification."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Laboratory Information System (LIS)",
+  "applicationCategory": "MedicalSoftware",
+  "description": "Software for managing laboratory workflow, including specimen logging, instrument calibration integration, and clinical result reporting.",
+  "operatingSystem": "All",
+  "featureList": "Specimen logging, QC monitoring, result validation, delta checks"
+}
+</script>

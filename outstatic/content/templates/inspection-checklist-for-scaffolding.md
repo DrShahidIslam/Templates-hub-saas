@@ -1,3 +1,13 @@
+---
+title: 'Scaffolding Inspection SOP: OSHA Compliance Guide'
+description: >-
+  Master scaffolding safety with our expert inspection SOP. Learn critical
+  requirements for foundations, framework, and fall protection to ensure OSHA
+  compliance.
+status: published
+publishedAt: '2026-05-15T04:45:47.719Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Scaffolding Inspection Protocol
 
 This Standard Operating Procedure (SOP) establishes the mandatory requirements for the pre-use, weekly, and post-modification inspection of scaffolding systems. Ensuring the structural integrity of scaffolding is critical to preventing falls, collapses, and workplace injuries. All inspections must be conducted by a "Competent Person"—defined as an individual capable of identifying existing and predictable hazards and who has the authority to take prompt corrective measures. This protocol ensures compliance with OSHA 1926.451 standards and internal safety benchmarks.
@@ -42,3 +52,52 @@ A: No. Any modification—including the removal of a single cross-brace or handr
 
 **Q: What should I do if I find a defect?**
 A: Immediately tag the scaffold as "Out of Service" (Red Tag), notify the site supervisor, and restrict access to all personnel until the defect is repaired and the scaffold is cleared for use by the Competent Person.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is qualified to conduct a scaffold inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Inspections must be performed by a 'Competent Person' who is capable of identifying existing and predictable hazards and has the authority to implement corrective measures."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should scaffolding be inspected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Scaffolding must be inspected pre-use, on a weekly basis, and immediately following any modifications to ensure structural integrity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the proper plank overhang for scaffold boards?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Scaffold planks should extend at least 6 inches, but no more than 12 inches beyond their supports unless they are properly cleated or restrained."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Scaffolding Inspection Protocol SOP",
+  "applicationCategory": "Safety Management System",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure for maintaining OSHA 1926.451 compliance during scaffolding setup and inspection.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Safety Compliance Division"
+  }
+}
+</script>

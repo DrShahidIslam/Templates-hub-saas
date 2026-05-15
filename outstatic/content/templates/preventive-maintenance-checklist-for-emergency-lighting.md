@@ -1,8 +1,12 @@
 ---
-title: 'preventive maintenance checklist for emergency lighting'
-status: 'published'
-slug: 'preventive-maintenance-checklist-for-emergency-lighting'
+title: 'Emergency Lighting Maintenance SOP: NFPA & OSHA Compliance'
+status: published
+slug: preventive-maintenance-checklist-for-emergency-lighting
 publishedAt: '2026-05-11T11:43:30.434Z'
+description: >-
+  Ensure life safety compliance with our expert SOP for emergency lighting.
+  Follow our monthly functional and annual 90-minute testing checklists.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Preventive Maintenance for Emergency Lighting Systems
@@ -47,3 +51,53 @@ A: While LED lamps have a significantly longer lifespan than incandescent bulbs,
 
 **Q: Can I use an automated testing system?**
 A: Yes, "Self-Diagnostic/Self-Testing" (SDST) units are compliant with most codes. However, you must still perform a visual inspection annually to ensure the self-test report logs are being generated and that the units are physically intact.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should emergency lighting be tested?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Emergency lighting requires monthly functional testing to ensure immediate operation and annual comprehensive testing involving a full 90-minute battery discharge."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the purpose of the 90-minute annual test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 90-minute test is required by safety codes to verify that the battery capacity is sufficient to sustain emergency lighting for the duration mandated by NFPA 101."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I look for during a monthly emergency light inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Monthly inspections include verifying the 'AC Power On' indicator, testing the lamps for 30 seconds using the 'Push-to-Test' button, and documenting the results."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Emergency Lighting Maintenance SOP System",
+  "applicationCategory": "Facility Management Software",
+  "description": "A comprehensive maintenance protocol for emergency lighting and exit signage systems to ensure regulatory compliance with NFPA 101 and OSHA standards.",
+  "operatingSystem": "All Systems",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

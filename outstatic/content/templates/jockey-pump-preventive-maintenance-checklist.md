@@ -1,8 +1,12 @@
 ---
-title: 'jockey pump preventive maintenance checklist'
-status: 'published'
-slug: 'jockey-pump-preventive-maintenance-checklist'
+title: Jockey Pump Preventive Maintenance SOP | NFPA 25 Standards
+status: published
+slug: jockey-pump-preventive-maintenance-checklist
 publishedAt: '2026-05-11T11:35:08.592Z'
+description: >-
+  Follow this expert jockey pump maintenance SOP to ensure fire protection
+  system reliability, extend equipment life, and maintain NFPA 25 compliance.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Jockey Pump Preventive Maintenance
@@ -53,3 +57,52 @@ A: Continuous running usually indicates a system leak, a faulty check valve, or 
 
 **Q: Should the jockey pump be isolated during testing of the main fire pump?**
 A: Yes. It is best practice to isolate the jockey pump when performing full-flow or churn tests on the main fire pump to prevent the jockey pump from fighting the system pressure or sustaining damage from pressure surges.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is jockey pump maintenance important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regular maintenance is critical to maintain fire system pressure, prevent unnecessary cycling of the main fire pump, and ensure compliance with NFPA 25 standards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the acceptable leakage rate for a jockey pump stuffing box?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For packing-type seals, a slight drip of approximately 10–20 drops per minute is considered typical. Constant stream leakage indicates a need for adjustment or replacement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What safety procedures are required before servicing a jockey pump?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Always perform Lockout/Tagout (LOTO) on electrical components, wear appropriate PPE, and set the fire pump controller to 'Manual' mode to prevent accidental startup."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Jockey Pump Preventive Maintenance SOP",
+  "applicationCategory": "IndustrialMaintenanceSoftware",
+  "operatingSystem": "All",
+  "description": "A standardized operational procedure for maintaining fire protection jockey pumps to ensure system pressure and safety compliance.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Facility Management Standards"
+  }
+}
+</script>

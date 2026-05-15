@@ -1,7 +1,11 @@
 ---
 status: published
-title: Sop For New Product Development In Pharmaceutical
+title: 'NPD Lifecycle SOP: Pharma Product Development Guide'
 publishedAt: '2026-05-10T18:48:01.374Z'
+description: >-
+  Master the pharmaceutical New Product Development (NPD) lifecycle. Learn the
+  steps from feasibility to cGMP-compliant scale-up and regulatory filing.
+seo_optimized: true
 ---
 # Standard Operating Procedure: New Product Development (NPD) Lifecycle
 
@@ -47,3 +51,54 @@ A: The TPP is a living document. It should be formally reviewed at the conclusio
 
 **Q: What is the most common reason for a rejected regulatory submission?**
 A: Inadequate or incomplete CMC documentation—specifically, failing to demonstrate that the manufacturing process is sufficiently robust to maintain the CQAs established during the development phase.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary purpose of the NPD lifecycle in pharmaceuticals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The NPD lifecycle ensures that new pharmaceutical products are developed according to cGMP and ICH guidelines, guaranteeing safety, efficacy, and full regulatory compliance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the critical steps in the Discovery and Feasibility phase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The phase includes defining the Target Product Profile (TPP), conducting technical feasibility assessments, performing IP clearance (freedom-to-operate), and executing initial Quality Risk Management (QRM) sessions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is Process Performance Qualification (PPQ) required?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PPQ is required to demonstrate process robustness and reproducibility by executing three consecutive successful full-scale manufacturing batches."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Pharmaceutical NPD Lifecycle Framework",
+  "applicationCategory": "Project Management",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure for end-to-end pharmaceutical new product development, covering discovery, formulation, and technology transfer.",
+  "softwareRequirements": "Compliance with cGMP and ICH guidelines",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>
