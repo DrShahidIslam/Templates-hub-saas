@@ -58,8 +58,9 @@ export async function generateMetadata({
     return { title: "Template Not Found" };
   }
 
-  const title = `${template.title} | Template Registry`;
-  const description = template.description || `Download our free ${template.title} template. A comprehensive, step-by-step guide with actionable checklists, pro tips, and FAQs. Available as PDF and Notion export — no signup required.`;
+  const rawTitle = template.title || slug.replace(/-/g, " ");
+  const title = toTitleCase(rawTitle);
+  const description = template.description || `Download our free ${title} template. A comprehensive, step-by-step guide with actionable checklists, pro tips, and FAQs. Available as PDF and Notion export — no signup required.`;
 
   // 2. Extract Ghost SEO Keywords from raw content for the meta keywords tag
   const extractedMatch = template.content?.match(/<div data-html2canvas-ignore="true"[^>]*>([\s\S]*?)<\/div>/);

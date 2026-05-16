@@ -1,0 +1,17 @@
+name: Daily IndexNow Ping
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at 00:00 UTC every day
+  workflow_dispatch: # Allows manual triggering from the GitHub Actions UI
+
+jobs:
+  ping-indexnow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping IndexNow API
+        run: |
+          curl -X POST https://www.templateregistry.com/api/indexnow \
+            -H "Authorization: Bearer ${{ secrets.CRON_SECRET }}" \
+            -H "Content-Type: application/json" \
+            -d '{"urlList": ["https://www.templateregistry.com/"]}'

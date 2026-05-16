@@ -2,6 +2,7 @@ import { Metadata } from "next";
 import { FileText, ArrowRight } from "lucide-react";
 import Link from "next/link";
 import { getDocuments } from "outstatic/server";
+import Pagination from "@/app/components/Pagination";
 
 export const metadata: Metadata = {
   title: "All Templates & Checklists | Template Registry",
@@ -61,29 +62,11 @@ export default async function TemplatesIndexPage({ searchParams }: PageProps) {
       </div>
 
       {/* ── PAGINATION ── */}
-      {totalPages > 1 && (
-        <div className="mt-16 flex items-center justify-center gap-4">
-          <Link
-            href={`/templates?page=${currentPage - 1}`}
-            className={`px-6 py-3 rounded-xl border border-border font-medium transition-all ${
-              currentPage <= 1 ? 'opacity-50 pointer-events-none' : 'hover:bg-muted'
-            }`}
-          >
-            Previous
-          </Link>
-          <span className="text-sm font-medium text-muted-foreground">
-            Page {currentPage} of {totalPages}
-          </span>
-          <Link
-            href={`/templates?page=${currentPage + 1}`}
-            className={`px-6 py-3 rounded-xl border border-border font-medium transition-all ${
-              currentPage >= totalPages ? 'opacity-50 pointer-events-none' : 'hover:bg-muted'
-            }`}
-          >
-            Next
-          </Link>
-        </div>
-      )}
+      <Pagination 
+        currentPage={currentPage} 
+        totalPages={totalPages} 
+        basePath="/templates" 
+      />
 
     </main>
   );
