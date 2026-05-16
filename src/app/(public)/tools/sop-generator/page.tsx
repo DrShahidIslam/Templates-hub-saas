@@ -402,7 +402,7 @@ export default function SOPGeneratorPage() {
                   </div>
 
                   <div className="space-y-3">
-                    <PdfDownloadButton title={pdfTitle} />
+                    <PdfDownloadButton title={pdfTitle} requireEmailGate={true} />
                     <NotionExportButton markdownContent={markdown} />
                   </div>
 
@@ -496,6 +496,26 @@ export default function SOPGeneratorPage() {
           </motion.section>
         )}
       </main>
+
+      {/* ── JSON-LD SCHEMA ── */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebApplication",
+            "name": "AI SOP Generator | Template Registry",
+            "applicationCategory": "BusinessApplication",
+            "operatingSystem": "All",
+            "description": "Instantly generate custom, clinical-grade standard operating procedures using AI.",
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          })
+        }}
+      />
     </div>
   );
 }

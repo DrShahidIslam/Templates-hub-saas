@@ -60,7 +60,7 @@ export async function generateMetadata({
 
   const rawTitle = template.title || slug.replace(/-/g, " ");
   const title = toTitleCase(rawTitle);
-  const description = template.description || `Download our free ${title} template. A comprehensive, step-by-step guide with actionable checklists, pro tips, and FAQs. Available as PDF and Notion export — no signup required.`;
+  const description = template.description || `Download our free ${title} template. A comprehensive, step-by-step guide with actionable checklists, pro tips, and FAQs. Available as PDF and Notion export.`;
 
   // 2. Extract Ghost SEO Keywords from raw content for the meta keywords tag
   const extractedMatch = template.content?.match(/<div data-html2canvas-ignore="true"[^>]*>([\s\S]*?)<\/div>/);
@@ -344,7 +344,7 @@ export default async function TemplatePage({
 
                 {/* CTA Buttons */}
                 <div className="space-y-3">
-                  <PdfDownloadButton title={titleCased} />
+                  <PdfDownloadButton title={titleCased} requireEmailGate={true} />
                   <NotionExportButton markdownContent={generatedMarkdown} />
                 </div>
 
@@ -357,7 +357,7 @@ export default async function TemplatePage({
                     <div className="w-5 h-5 rounded-full bg-emerald-50 flex items-center justify-center">
                       <div className="w-2 h-2 rounded-full bg-emerald-500" />
                     </div>
-                    Free to download — no signup required
+                    Free to download
                   </div>
                   <div className="flex items-center gap-2.5 text-sm text-gray-500">
                     <div className="w-5 h-5 rounded-full bg-emerald-50 flex items-center justify-center">

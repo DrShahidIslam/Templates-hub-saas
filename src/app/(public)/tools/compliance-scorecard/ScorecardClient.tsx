@@ -313,7 +313,7 @@ export default function ScorecardClient() {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 max-w-lg mx-auto">
-              <PdfDownloadButton title={pdfTitle} />
+              <PdfDownloadButton title={pdfTitle} requireEmailGate={true} />
               <NotionExportButton markdownContent={markdownReport} />
             </div>
 
@@ -323,6 +323,26 @@ export default function ScorecardClient() {
           </div>
         </motion.div>
       </main>
+
+      {/* ── JSON-LD SCHEMA ── */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebApplication",
+            "name": "Interactive Compliance Risk Scorecard | Template Registry",
+            "applicationCategory": "BusinessApplication",
+            "operatingSystem": "All",
+            "description": "Calculate your company's operational compliance risk score. Instantly evaluate your business against enterprise security standards.",
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          })
+        }}
+      />
     </div>
   );
 }

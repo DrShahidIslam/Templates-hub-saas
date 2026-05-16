@@ -6,11 +6,13 @@ import { checkPremiumStatus } from "@/app/actions";
 import Link from "next/link";
 import toast from "react-hot-toast";
 
-export default function PdfDownloadButton({ title }: { title: string }) {
+export default function PdfDownloadButton({ title, requireEmailGate = false }: { title: string, requireEmailGate?: boolean }) {
   const [isGenerating, setIsGenerating] = useState(false);
   const [isPremium, setIsPremium] = useState(false);
   const [freeDownloadUsed, setFreeDownloadUsed] = useState(false);
   const [showPaywallModal, setShowPaywallModal] = useState(false);
+  const [isEmailModalOpen, setIsEmailModalOpen] = useState(false);
+  const [userEmail, setUserEmail] = useState("");
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
@@ -39,7 +41,31 @@ export default function PdfDownloadButton({ title }: { title: string }) {
     };
   }, []);
 
-  const handleDownload = async () => {
+  const handleDownloadClick = async () => {
+    if (requireEmailGate) {
+      const capturedEmail = localStorage.getItem('capturedEmail');
+      if (!capturedEmail) {
+        setIsEmailModalOpen(true);
+        return;
+      }
+    }
+    await processDownload();
+  };
+
+  const handleEmailSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!userEmail.trim()) return;
+
+    localStorage.setItem('capturedEmail', userEmail.trim());
+    setIsEmailModalOpen(false);
+
+    // Fire placeholder API
+    fetch('/api/leads', { method: 'POST', body: JSON.stringify({ email: userEmail.trim(), source: title }) }).catch(() => {});
+
+    await processDownload();
+  };
+
+  const processDownload = async () => {
     // Strictly verify premium status securely on the server before generating PDF
     const serverVerifiedPremium = await checkPremiumStatus();
     
@@ -167,7 +193,7 @@ export default function PdfDownloadButton({ title }: { title: string }) {
   return (
     <>
       <button
-        onClick={handleDownload}
+        onClick={handleDownloadClick}
         disabled={isGenerating}
         id="download-pdf-btn"
         className={`cta-pulse w-full flex items-center justify-center gap-2 px-5 py-3.5 bg-accent text-white rounded-xl font-medium text-sm hover:bg-accent-hover transition-all duration-200 cursor-pointer ${
@@ -177,6 +203,49 @@ export default function PdfDownloadButton({ title }: { title: string }) {
         <Download className="w-4 h-4" />
         {buttonText}
       </button>
+
+      {/* ── EMAIL SOFT GATE MODAL ── */}
+      {isEmailModalOpen && (
+        <div className="fixed inset-0 z-[100] flex items-center justify-center bg-black/60 backdrop-blur-md px-4">
+          <div className="bg-[#111827] border border-white/10 rounded-2xl w-full max-w-md overflow-hidden shadow-2xl relative text-white">
+            <button
+              onClick={() => setIsEmailModalOpen(false)}
+              className="absolute top-4 right-4 text-gray-400 hover:text-white transition-colors"
+              aria-label="Close modal"
+            >
+              <X className="w-5 h-5" />
+            </button>
+
+            <div className="p-8">
+              <h2 className="text-2xl font-bold mb-2 tracking-tight">
+                Where should we send your PDF?
+              </h2>
+              <p className="text-sm text-gray-400 mb-6">
+                Enter your email to download your generated document instantly.
+              </p>
+
+              <form onSubmit={handleEmailSubmit} className="space-y-4">
+                <div>
+                  <input
+                    type="email"
+                    required
+                    value={userEmail}
+                    onChange={(e) => setUserEmail(e.target.value)}
+                    placeholder="you@company.com"
+                    className="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder:text-gray-500 focus:outline-none focus:ring-2 focus:ring-indigo-500/50 focus:border-transparent transition-all"
+                  />
+                </div>
+                <button
+                  type="submit"
+                  className="w-full py-3.5 bg-gradient-to-r from-indigo-600 to-purple-600 text-white font-semibold rounded-xl hover:from-indigo-500 hover:to-purple-500 transition-all duration-200 shadow-lg shadow-indigo-500/25"
+                >
+                  Download Now
+                </button>
+              </form>
+            </div>
+          </div>
+        </div>
+      )}
 
       {/* ── PAYWALL MODAL ── */}
       {showPaywallModal && (

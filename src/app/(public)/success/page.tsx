@@ -39,6 +39,10 @@ export default function SuccessPage() {
             if (result.success) {
               setStatus("success");
               setEmail(result.email || null);
+              
+              // Automatically bypass the email soft gate for premium buyers
+              localStorage.setItem('capturedEmail', result.email || 'premium-buyer');
+
               toast.success("Lifetime Access Activated!", {
                 duration: 5000,
                 icon: '💎',
