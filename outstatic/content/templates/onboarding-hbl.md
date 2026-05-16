@@ -1,7 +1,12 @@
 ---
 status: published
-title: Onboarding Hbl
+title: House Bill of Lading (HBL) Onboarding SOP Guide
 publishedAt: '2026-05-10T18:48:01.042Z'
+description: >-
+  Master the House Bill of Lading (HBL) onboarding process. Ensure documentation
+  accuracy, regulatory compliance, and seamless TMS integration for logistics
+  pros.
+seo_optimized: true
 ---
 # Standard Operating Procedure: House Bill of Lading (HBL) Onboarding
 
@@ -51,3 +56,52 @@ Once an HBL is issued, any changes require a "Bill of Lading Amendment." You mus
 
 **3. What should I do if the consignee refuses to accept the HBL draft?**
 Immediately pause the release process. Identify the specific clause or data point in dispute, request written feedback from the consignee, and resolve the discrepancy with the shipper before moving to the final document issuance phase.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of the HBL onboarding SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The HBL onboarding SOP ensures accurate documentation, international trade compliance, and seamless integration of carrier and shipper data into the TMS to prevent customs delays and minimize liability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which documents must be verified before HBL initiation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must verify the Master Bill of Lading (MBL), cross-reference the Commercial Invoice and Packing List, confirm Incoterms, and validate the Consignee’s EORI or Tax ID."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a 'Three-Way Match' in logistics documentation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A three-way match involves comparing the HBL draft against the Master Bill of Lading and the Commercial Invoice to ensure consistency and prevent amendment fees."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Transport Management System (TMS) HBL Onboarding Module",
+  "applicationCategory": "LogisticsSoftware",
+  "operatingSystem": "Web-based",
+  "description": "A standardized protocol and system integration process for managing House Bill of Lading documentation within a Transport Management System.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Enterprise Logistics"
+  }
+}
+</script>

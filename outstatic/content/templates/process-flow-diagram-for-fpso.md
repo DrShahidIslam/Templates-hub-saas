@@ -1,3 +1,12 @@
+---
+title: FPSO Process Flow Diagram (PFD) Development SOP Guide
+description: >-
+  Learn the systematic methodology for developing, reviewing, and approving PFDs
+  for FPSO facilities. Ensure compliance with API and ASME offshore standards.
+status: published
+publishedAt: '2026-05-16T04:12:47.560Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Process Flow Diagram (PFD) Development for FPSO Facilities
 
 This procedure outlines the systematic methodology for developing, reviewing, and approving Process Flow Diagrams (PFDs) for Floating Production, Storage, and Offloading (FPSO) units. PFDs serve as the primary technical baseline for offshore oil and gas processing facilities, defining the main flow paths, equipment configuration, and operating parameters essential for safe design and operational oversight. Strict adherence to this workflow ensures compliance with international offshore standards (e.g., API, ASME) and facilitates efficient multidisciplinary coordination.
@@ -42,3 +51,52 @@ A: PFDs should be updated whenever a "Management of Change" (MOC) request impact
 
 **Q: Can I use simplified symbols for the PFD?**
 A: Yes, provided you include a comprehensive Legend/Symbols sheet on the first page of the drawing set. The symbols must be consistent throughout the entire document set to avoid confusion among operational personnel.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the purpose of a PFD in FPSO design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A PFD serves as the technical baseline for offshore FPSO facilities, defining primary flow paths, equipment configurations, and operating parameters essential for safe design."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which standards govern FPSO PFD development?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PFD development for FPSO units must strictly adhere to international offshore standards, including API (American Petroleum Institute) and ASME (American Society of Mechanical Engineers) requirements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What critical data is needed before drafting an FPSO PFD?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key preliminary data includes the Basis of Design (BoD), reservoir fluid composition, target production rates, heat and material balance (HMB) tables, and defined battery limits."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "FPSO PFD Development Workflow",
+  "applicationCategory": "EngineeringManagement",
+  "description": "A systematic technical procedure for the creation, verification, and interdisciplinary approval of Process Flow Diagrams for Floating Production, Storage, and Offloading units.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "category": "Standard Operating Procedure"
+  }
+}
+</script>

@@ -1,8 +1,12 @@
 ---
-title: 'preventive maintenance checklist electrical'
-status: 'published'
-slug: 'preventive-maintenance-checklist-electrical'
+title: 'Electrical Preventive Maintenance SOP: Safety & Standards'
+status: published
+slug: preventive-maintenance-checklist-electrical
 publishedAt: '2026-05-11T11:14:16.751Z'
+description: >-
+  Follow this Electrical Preventive Maintenance SOP to ensure NEC/NFPA 70B
+  compliance, improve system safety, and extend infrastructure service life.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Electrical Preventive Maintenance
@@ -60,3 +64,53 @@ A: Only if the product is explicitly rated for electrical components and is non-
 
 **Q: What is the most common cause of electrical failure identified during maintenance?**
 A: Loose connections. Over time, thermal expansion and contraction cycles cause terminal screws to loosen, which leads to high resistance, heat buildup, and eventual component failure or arcing.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of electrical preventive maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary goal is to ensure operational continuity, extend the service life of equipment, mitigate fire and safety hazards, and maintain compliance with NEC and NFPA 70B standards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is compressed air avoided during electrical cleaning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compressed air should not be used because it can force conductive dust deep into sensitive electrical components, potentially causing short circuits or equipment failure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What safety protocols are mandatory before starting maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mandatory protocols include obtaining a Work Order, conducting a Job Hazard Analysis (JHA), donning arc-rated PPE, and performing full Lockout/Tagout (LOTO) procedures."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Electrical Preventive Maintenance SOP",
+  "applicationCategory": "Industrial Maintenance Utility",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure for maintaining electrical distribution systems, ensuring safety, and enforcing NFPA 70B standards.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

@@ -1,3 +1,13 @@
+---
+title: 'How to File EPF e-Nomination Online: Step-by-Step Guide'
+description: >-
+  Learn how to file your EPF e-Nomination online via the EPFO Unified Member
+  Portal. Follow our easy guide to secure your benefits and ensure a seamless
+  transfer.
+status: published
+publishedAt: '2026-05-16T04:21:33.013Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: EPF e-Nomination Process
 
 This Standard Operating Procedure (SOP) outlines the mandatory steps for Employees’ Provident Fund (EPF) members to complete their e-Nomination through the Unified Member Portal. Filing an e-Nomination is a critical compliance requirement that ensures social security benefits are transferred seamlessly to the designated nominee in the event of the member’s demise, avoiding complex legal disputes and delays. All active EPF members are advised to ensure their profile data is updated and their UAN is linked with an active Aadhaar and mobile number before initiating this process.
@@ -46,3 +56,52 @@ Yes, providing the nominee's Aadhaar number is mandatory as it acts as the prima
 
 **Q3: What should I do if the e-Sign authentication keeps failing?**
 Check if your Aadhaar-linked mobile number is active. If the issue persists, visit the UIDAI website to verify that your Aadhaar demographic details are current, or clear your browser history and try during off-peak hours (early morning or late night).
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is EPF e-Nomination mandatory?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "EPF e-Nomination is essential to ensure that your social security benefits are transferred seamlessly to your legal nominee in the event of your demise, preventing legal disputes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents are required for e-Nomination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need your active UAN, an Aadhaar number linked to your mobile, and the nominee's details including Aadhaar, DOB, address, and a digital photograph (50KB-200KB)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I authenticate my EPF e-Nomination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After entering nominee details and saving, you must complete the process using E-Sign authentication via an OTP sent to your Aadhaar-linked mobile number."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "EPFO Unified Member Portal",
+  "applicationCategory": "FinanceApplication",
+  "operatingSystem": "Web Browser",
+  "description": "The official digital platform for EPF members to manage accounts, perform KYC, and file e-nominations.",
+  "provider": {
+    "@type": "GovernmentOrganization",
+    "name": "Employees' Provident Fund Organisation (EPFO)"
+  }
+}
+</script>

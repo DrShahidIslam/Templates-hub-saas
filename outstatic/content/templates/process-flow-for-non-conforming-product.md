@@ -1,3 +1,13 @@
+---
+title: 'Non-Conforming Product SOP: Quality Management Guide'
+description: >-
+  Master your Non-Conforming Product (NCP) process with this SOP guide. Learn
+  how to identify, document, and manage defective goods to ensure quality
+  compliance.
+status: published
+publishedAt: '2026-05-16T04:24:20.246Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Management of Non-Conforming Products (NCP)
 
 ### Purpose and Scope
@@ -50,3 +60,53 @@ Immediately pull the order from the shipping queue, notify the Logistics Manager
 
 **3. Who has the final authority to scrap a high-value product?**
 The QA Manager holds final authority, though it is standard practice to consult with the Production Manager or Finance lead for high-value items to ensure all salvage options have been exhausted.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the first step when a non-conforming product is identified?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Upon identification, you must immediately cease processing or shipping the item, suspend work if the issue suggests a systemic failure, and move the product to a designated quarantine area."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the common dispositions for non-conforming products?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Material Review Board (MRB) typically assigns one of four dispositions: Rework, Use-As-Is (concession), Return to Vendor (RTV), or Scrap."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is responsible for the formal review of an NCP report?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Material Review Board (MRB), consisting of the Quality Assurance Manager, Production Lead, and an Engineering Representative, is responsible for the formal review."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Non-Conforming Product Management System",
+  "applicationCategory": "Quality Management System",
+  "operatingSystem": "All",
+  "description": "A standardized protocol and procedural framework for identifying, quarantining, and dispositioning non-conforming items within manufacturing facilities to ensure quality assurance.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

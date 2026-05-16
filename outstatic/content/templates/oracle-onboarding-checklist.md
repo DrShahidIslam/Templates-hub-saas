@@ -1,7 +1,11 @@
 ---
 status: published
-title: Oracle Onboarding Checklist
+title: 'Oracle ERP System Onboarding SOP: Secure User Provisioning'
 publishedAt: '2026-05-10T18:48:01.074Z'
+description: >-
+  Streamline your Oracle ERP onboarding with this expert SOP. Learn the secure
+  steps for user provisioning, RBAC compliance, and technical configuration.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Oracle System Onboarding
 
@@ -59,3 +63,52 @@ First, verify that the assigned Job Role includes the required "Privilege." If i
 
 **3. How often should Oracle user access be audited?**
 Best practice dictates a quarterly access certification review. All managers should verify that their direct reports still require the access levels currently granted to them.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the first step in the Oracle system onboarding process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first step is the Request and Approval workflow, where you must verify identity, submit an Oracle Access Request Form, obtain management approval, and perform a Segregation of Duties (SoD) check."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is technical provisioning handled in Oracle Cloud?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Technical provisioning involves creating the user in IDCS/OCI IAM, assigning specific job roles, mapping data security policies for specific Business Units, and configuring MFA."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is Segregation of Duties (SoD) important during onboarding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SoD is critical to ensure that no conflicting roles are assigned to a user, which prevents unauthorized access and maintains security compliance within the Oracle environment."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Oracle ERP Cloud",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Cloud-based",
+  "description": "Enterprise Resource Planning software for managing organizational business processes, finance, HCM, and supply chain operations.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Enterprise"
+  }
+}
+</script>

@@ -1,3 +1,13 @@
+---
+title: ServiceNow Process Flow Formatter Configuration Guide
+description: >-
+  Learn how to configure the ServiceNow Process Flow Formatter. Follow this
+  step-by-step SOP to visualize task lifecycle stages and improve process
+  transparency.
+status: published
+publishedAt: '2026-05-16T04:31:23.111Z'
+seo_optimized: true
+---
 # SOP: ServiceNow Process Flow Formatter Configuration
 
 This Standard Operating Procedure (SOP) outlines the standardized method for configuring and maintaining the Process Flow Formatter within the ServiceNow platform. The Process Flow Formatter is a critical UI component used to display the lifecycle stages of a task-based record (e.g., Incident, Change, or Request). Proper implementation ensures that stakeholders have a clear, visual representation of current progress and future milestones, thereby improving user experience and process transparency.
@@ -47,3 +57,52 @@ A: First, check if the formatter was added to the correct Form View. If you are 
 
 **Q: Can I make the process flow formatter read-only?**
 A: The process flow formatter is inherently a display-only UI component. It is intended to reflect the current state, not to act as an input method. If you need users to be able to click stages to update the state, you must configure UI Actions or Business Rules to handle state transitions.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the ServiceNow Process Flow Formatter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Process Flow Formatter is a UI component in ServiceNow that provides a visual representation of task-based record lifecycle stages, helping stakeholders track progress and milestones."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I add a Process Flow to a ServiceNow form?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Navigate to the target form, right-click the header, select Configure > Form Layout, and move the 'Process Flow' item from the Available column to your desired position."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the sequence of process flow stages determined?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The sequence is determined by the 'Order' field in the sys_process_flow record, where lower numerical values appear earlier in the visual flow."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "ServiceNow Process Flow Formatter",
+  "applicationCategory": "Enterprise Management Software",
+  "operatingSystem": "ServiceNow Platform",
+  "description": "A UI component for ServiceNow that displays the workflow lifecycle stages of task-based records.",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "text": "Configure process flows by defining state conditions and integration into form layouts via System UI."
+  }
+}
+</script>

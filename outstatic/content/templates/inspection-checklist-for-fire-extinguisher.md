@@ -1,3 +1,13 @@
+---
+title: 'Fire Extinguisher Inspection SOP: Checklist & NFPA 10 Guide'
+description: >-
+  Master fire extinguisher inspections with our expert SOP. Learn the essential
+  monthly checklist, NFPA 10 compliance steps, and safety tips for your
+  facility.
+status: published
+publishedAt: '2026-05-16T03:10:26.973Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Fire Extinguisher Inspection
 
 ## Introduction
@@ -40,3 +50,52 @@ Do not attempt to repressurize the unit yourself. Remove the extinguisher from s
 
 **3. If an extinguisher is used even slightly, does it need to be recharged?**
 Yes. Even a one-second discharge can cause a pressure drop that prevents the extinguisher from functioning correctly in a future emergency. Any used extinguisher must be taken out of service and sent for professional recharging immediately.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should fire extinguishers be inspected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to NFPA 10 standards, fire extinguishers should undergo a visual inspection at least once every month to ensure they are accessible and fully functional."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I look for on the pressure gauge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The needle on the pressure gauge must be positioned within the green 'charged' zone. If it points to the red zone, the unit requires immediate professional service."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "At what height should fire extinguishers be mounted?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For extinguishers weighing 40 lbs or less, the unit should generally be mounted so that the top is not higher than 5 feet from the floor."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Fire Extinguisher Inspection SOP",
+  "applicationCategory": "Safety Management System",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure for conducting monthly fire extinguisher inspections in compliance with NFPA 10 regulations.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Safety Compliance Department"
+  }
+}
+</script>

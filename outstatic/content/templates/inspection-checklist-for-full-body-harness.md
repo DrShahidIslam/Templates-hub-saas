@@ -1,3 +1,12 @@
+---
+title: 'Full Body Harness Inspection: OSHA & ANSI Safety Guide'
+description: >-
+  Follow this expert SOP for full body harness inspections to ensure OSHA
+  1910.140 compliance, prevent equipment failure, and keep workers safe.
+status: published
+publishedAt: '2026-05-16T03:10:53.214Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Full Body Harness Inspection
 
 ## Introduction
@@ -42,3 +51,54 @@ A: Avoid long-term storage in vehicles. Extreme temperature fluctuations, UV exp
 
 **Q: What should I do if I find a minor defect?**
 A: Do not use the harness. In the world of fall protection, there is no such thing as a "minor" defect. If it is damaged, it is considered unsafe. Tag it "DO NOT USE," remove it from the job site, and submit it for formal decommissioning.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should a full body harness be inspected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A full body harness must be inspected by a competent person before every use, after any fall incident, and by a qualified professional at least annually."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are signs of chemical damage on harness webbing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Look for visible discoloration, areas that feel stiff or brittle, or sudden texture changes, which are all indicators of exposure to hazardous chemicals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When must a harness be removed from service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A harness must be decommissioned if it shows frayed webbing, hardware deformation, corrosion, missing or unreadable manufacturer labels, or deployed impact indicators."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Full Body Harness Inspection SOP",
+  "applicationCategory": "Safety Management System",
+  "operatingSystem": "All",
+  "description": "Standard operating procedure for performing mandatory safety inspections on fall protection full body harnesses according to OSHA and ANSI standards.",
+  "softwareRequirements": "Requires visual inspection by a competent person",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

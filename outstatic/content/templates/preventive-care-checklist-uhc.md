@@ -1,8 +1,13 @@
 ---
-title: 'preventive care checklist uhc'
-status: 'published'
-slug: 'preventive-care-checklist-uhc'
+title: 'UHC Preventive Care SOP: Verification & Billing Guide'
+status: published
+slug: preventive-care-checklist-uhc
 publishedAt: '2026-05-11T12:16:25.829Z'
+description: >-
+  Master UnitedHealthcare preventive care verification with our expert SOP.
+  Learn to reduce claim denials, handle Z-code billing, and improve patient
+  outcomes.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: UnitedHealthcare (UHC) Preventive Care Verification and Coordination
@@ -43,3 +48,52 @@ The claim may be processed as diagnostic. You will be responsible for the cost b
 
 **3. Why did I receive a bill for a "free" annual physical?**
 This usually occurs if the provider coded for an "office visit" (for a medical complaint) in addition to the preventive exam, or if the lab work performed was not on the ACA-approved list of preventive services for your specific age and gender. Always review your Explanation of Benefits (EOB) before paying.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I verify UHC preventive care benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Access the UHC Provider Portal to pull the Summary of Benefits and Coverage (SBC). Verify eligibility, identify frequency limitations, and determine if the plan is Grandfathered or Non-Grandfathered."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which diagnosis codes are used for UHC preventive visits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preventive encounters should use Z-codes (e.g., Z00.00 or Z00.01) to correctly signal the nature of the visit to UnitedHealthcare."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should I bill if a diagnostic issue arises during a wellness exam?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To ensure proper billing and avoid denials, document the preventive wellness exam and the diagnostic consultation as two separate clinical encounters."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "UHC Preventive Care Verification SOP",
+  "applicationCategory": "MedicalOperationsSoftware",
+  "operatingSystem": "Web-based",
+  "description": "Standardized workflow for medical offices to verify UHC preventive care benefits, manage coding, and ensure ACA compliance for clinical documentation.",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "url": "https://www.uhcprovider.com"
+  }
+}
+</script>

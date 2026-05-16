@@ -1,3 +1,13 @@
+---
+title: 'Electrical Equipment Inspection SOP: Safety & Compliance Guide'
+description: >-
+  Master electrical equipment inspections with this comprehensive SOP. Learn
+  mandatory safety protocols, LOTO procedures, and maintenance best practices
+  today.
+status: published
+publishedAt: '2026-05-16T03:09:27.030Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Electrical Equipment Inspection
 
 This Standard Operating Procedure (SOP) establishes the mandatory protocol for conducting routine inspections of electrical equipment to ensure operational safety, regulatory compliance, and the mitigation of fire or shock hazards. All personnel performing these inspections must be qualified, wear appropriate Personal Protective Equipment (PPE), and follow Lockout/Tagout (LOTO) procedures where applicable. The objective is to identify deteriorating components, improper installations, and environmental threats before they result in equipment failure or workplace injury.
@@ -44,3 +54,54 @@ If a hazard is identified, immediately isolate the equipment using LOTO procedur
 
 **3. Is it necessary to wear gloves if the equipment is off?**
 Yes. Always treat equipment as energized until it has been physically verified as de-energized using a calibrated test instrument. PPE should remain on until the "zero energy" state is confirmed.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What PPE is required for electrical equipment inspections?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Personnel must wear arc-rated clothing, certified insulated gloves, safety glasses, and non-conductive footwear to ensure protection against electrical hazards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is LOTO required during electrical inspections?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lockout/Tagout (LOTO) procedures are mandatory to de-energize equipment, preventing accidental startup or electrical discharge during maintenance or inspection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What tools are necessary for a standard electrical inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Required tools include a calibrated multimeter, an infrared thermal imager, the equipment maintenance manual, and an official inspection log sheet."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Electrical Equipment Inspection Protocol",
+  "applicationCategory": "Industrial Safety Management",
+  "description": "A standardized operating procedure for conducting safety-compliant electrical equipment inspections, covering physical integrity, wiring, and thermal imaging.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "category": "Free",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

@@ -1,7 +1,12 @@
 ---
 status: published
-title: Onboarding Checklist Cmu
+title: 'CMU New Hire Onboarding SOP: A Step-by-Step Guide'
 publishedAt: '2026-05-10T18:48:00.939Z'
+description: >-
+  Streamline your team's integration with the official CMU New Hire Onboarding
+  SOP. Learn the essential workflow for Workday, IT provisioning, and
+  compliance.
+seo_optimized: true
 ---
 # Standard Operating Procedure: CMU New Hire Onboarding
 
@@ -43,3 +48,52 @@ A: Submit a request through the university’s software portal or your departmen
 
 **Q: Is the onboarding process identical for remote vs. on-campus employees?**
 A: While the core administrative tasks remain the same, remote onboarding requires additional emphasis on virtual meeting etiquette, VPN configuration, and proactive digital check-ins to ensure the employee feels connected to the university culture.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How early should hardware be requested for a new CMU hire?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hardware, including laptops and peripherals, should be requested through the department IT liaison or central Service Desk at least two weeks before the employee's start date."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the first step in the CMU onboarding administrative process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process begins with ensuring the offer letter is fully executed and initiating the 'Hire' business process within the Workday HCM system."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Duo Security required for new CMU employees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, configuring Duo Mobile for multi-factor authentication is mandatory for all new hires to ensure secure access to CMU systems."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Workday HCM",
+  "applicationCategory": "Human Resources Management System",
+  "operatingSystem": "Web-based",
+  "description": "The primary human capital management system used by Carnegie Mellon University for initiating new hire processes, payroll, and employee lifecycle management.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Carnegie Mellon University"
+  }
+}
+</script>

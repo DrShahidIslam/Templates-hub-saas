@@ -1,8 +1,13 @@
 ---
-title: 'home safety checklist for older adults'
-status: 'published'
-slug: 'home-safety-checklist-for-older-adults'
+title: 'Home Safety Assessment for Older Adults: A Step-by-Step SOP'
+status: published
+slug: home-safety-checklist-for-older-adults
 publishedAt: '2026-05-11T10:03:48.239Z'
+description: >-
+  Reduce fall risks with our expert Home Safety Assessment SOP. Learn essential
+  tips for lighting, mobility, and accessibility to keep older adults safe at
+  home.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Home Safety Assessment for Older Adults
@@ -58,3 +63,53 @@ A: Ideally, yes. If keeping a rug for aesthetic or cultural reasons is non-negot
 
 **Q: What is the most common "hidden" hazard in the home?**
 A: Poor lighting and transition zones (the thresholds between rooms with different flooring types, such as carpet to hardwood) are the most frequent, yet overlooked, causes of trips and falls.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I make a home safer for an older adult?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prioritize removing tripping hazards like loose rugs, installing adequate lighting, placing frequently used items at waist-level, and adding grab bars in bathrooms."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the most important area to secure first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Entryways and high-traffic hallways are the top priorities to prevent falls. Ensure pathways are clear of clutter and that all thresholds are flush with the floor."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is lighting important for aging-in-place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proper lighting reduces the risk of accidental falls by improving depth perception and visibility, especially for those with declining vision."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Home Safety Assessment Checklist",
+  "applicationCategory": "Productivity",
+  "description": "A comprehensive Standard Operating Procedure for identifying and mitigating environmental hazards in the homes of older adults to prevent falls.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  },
+  "operatingSystem": "All"
+}
+</script>

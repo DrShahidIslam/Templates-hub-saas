@@ -1,7 +1,12 @@
 ---
 status: published
-title: Inspection Checklist For A House
+title: 'Residential Property Inspection SOP: Comprehensive Checklist'
 publishedAt: '2026-05-10T18:48:00.867Z'
+description: >-
+  Master residential property inspections with our step-by-step SOP. Learn to
+  assess structural integrity, HVAC, plumbing, and electrical systems
+  effectively.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Residential Property Inspection
 
@@ -43,3 +48,53 @@ A: Poor attic ventilation is a frequent oversight. It leads to moisture buildup,
 
 **Q: Should I bring a professional contractor along?**
 A: While a general home inspector is great for a broad overview, bringing a specialist (electrician or plumber) is recommended if the house is over 40 years old or shows signs of specific system failure.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What tools are needed for a residential property inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Essential tools include a high-lumen flashlight, a moisture meter for detecting leaks, and a GFCI circuit tester for verifying electrical safety."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you check for foundation issues during an inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Inspect the building perimeter for vertical or horizontal cracks, signs of bowing, or noticeable settling of the foundation structure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is proper grading important for a property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proper grading ensures that soil slopes away from the foundation, preventing water accumulation that can lead to structural damage and basement moisture."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Residential Property Inspection SOP",
+  "applicationCategory": "Professional Services",
+  "description": "A standardized framework and methodology for conducting comprehensive residential property inspections, covering structural, electrical, and plumbing assessments.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

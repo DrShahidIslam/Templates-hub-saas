@@ -1,8 +1,13 @@
 ---
-title: 'contoh sop quality assurance'
-status: 'published'
-slug: 'contoh-sop-quality-assurance'
+title: 'Quality Assurance SOP: Complete QA Protocol & Framework'
+status: published
+slug: contoh-sop-quality-assurance
 publishedAt: '2026-05-11T10:27:24.002Z'
+description: >-
+  Master our Quality Assurance SOP. Learn the essential phases of
+  pre-inspection, execution, and corrective action to ensure consistent
+  operational excellence.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Quality Assurance Protocol
@@ -43,3 +48,49 @@ A: QA is process-oriented and focuses on preventing defects by improving the pro
 
 **Q: What should I do if a product passes inspection but fails in the field?**
 A: This indicates a failure in your testing protocols. Immediately initiate an incident report, perform a gap analysis on your testing environment, and update your acceptance criteria to include real-world stress testing.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the core phases of the Quality Assurance SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The SOP consists of three phases: Pre-Inspection Preparation, Execution and Evaluation, and Reporting and Remediation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should non-conformance defects be documented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Defects must be logged immediately in the central QMS with a severity rating (Minor, Major, or Critical) and supported by timestamped evidence."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the purpose of Root Cause Analysis in QA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Root Cause Analysis (RCA) is used to identify the underlying cause of failures, allowing teams to implement permanent Corrective Action Plans."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "QA Management System (QMS)",
+  "applicationCategory": "Quality Management Software",
+  "description": "A centralized digital platform designed to log, track, and analyze quality assurance data, inspection results, and corrective action plans.",
+  "operatingSystem": "Web-based",
+  "featureList": "Data logging, timestamped metadata recording, defect tracking, and RCA reporting"
+}
+</script>

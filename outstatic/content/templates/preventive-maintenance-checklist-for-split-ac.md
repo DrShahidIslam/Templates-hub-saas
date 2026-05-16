@@ -1,8 +1,12 @@
 ---
-title: 'preventive maintenance checklist for split ac'
-status: 'published'
-slug: 'preventive-maintenance-checklist-for-split-ac'
+title: 'Split AC Preventive Maintenance SOP: A Step-by-Step Guide'
+status: published
+slug: preventive-maintenance-checklist-for-split-ac
 publishedAt: '2026-05-11T12:11:03.314Z'
+description: >-
+  Follow this professional SOP for split air conditioning maintenance. Learn
+  expert protocols for electrical safety, coil cleaning, and system efficiency.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Preventive Maintenance for Split Air Conditioning Systems
@@ -49,3 +53,53 @@ A: Yes, but only with a specialized no-rinse foam cleaner and a catch-pan/tarp i
 
 **Q: Why does my AC still have a musty smell after cleaning?**
 A: This usually indicates mold growth within the blower housing or the insulation lining of the indoor unit. A thorough professional deep-clean of the blower wheel is typically required to resolve this.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I perform preventive maintenance on my split AC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preventive maintenance for split air conditioning systems should be performed semi-annually by qualified technicians to ensure optimal efficiency."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is capacitor testing important in AC maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Testing capacitors ensures they are within the manufacturer’s specified tolerance (+/- 5%). Replacing failing capacitors prevents compressor startup issues."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best way to clean evaporator coils?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Apply an approved non-acidic coil cleaner, let it sit for 5-10 minutes, then rinse if drain access allows or vacuum gently with a soft brush."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Split AC Maintenance SOP",
+  "applicationCategory": "Industrial Maintenance Utility",
+  "description": "Standard operating procedure for the preventive maintenance of split-system air conditioning units.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

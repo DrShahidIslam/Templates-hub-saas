@@ -1,7 +1,12 @@
 ---
 status: published
-title: Onboarding Checklist Bamboohr
+title: 'BambooHR New Hire Onboarding: Step-by-Step SOP Guide'
 publishedAt: '2026-05-10T18:48:00.935Z'
+description: >-
+  Master BambooHR onboarding with our expert SOP. Learn how to automate
+  workflows, manage employee data, and streamline your new hire integration
+  process.
+seo_optimized: true
 ---
 # Standard Operating Procedure: New Hire Onboarding via BambooHR
 
@@ -41,3 +46,52 @@ Yes. Use the "Onboarding Reports" section in BambooHR. You can pull a report on 
 
 **3. What should I do if a new hire is not receiving their system emails?**
 First, verify that the email address in their profile is correct. Next, check the "Email Logs" in the BambooHR settings menu to see if the email was sent, bounced, or blocked by the recipient's spam filter.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I initiate a new hire in BambooHR?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Convert the candidate from 'Applicant' to 'Employee' within the BambooHR ATS. This action triggers the employee profile creation and allows you to input specific compensation and reporting line details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can BambooHR automate document signing for new hires?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, use the 'Electronic Signature' feature in BambooHR to distribute tax forms, Employee Handbooks, and NDAs, ensuring all legal documentation is signed and stored securely."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best way to notify IT of a new hire's needs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Utilize BambooHR's task assignment functionality to create automated provisioning requests that notify IT teams regarding necessary hardware and security access requirements."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "BambooHR",
+  "applicationCategory": "HR Software",
+  "operatingSystem": "Web-based",
+  "description": "An HR software platform designed to manage employee records, onboarding workflows, benefits, and automated tasks for People Operations teams.",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "name": "BambooHR Onboarding SOP"
+  }
+}
+</script>

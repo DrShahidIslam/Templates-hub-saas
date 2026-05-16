@@ -1,8 +1,13 @@
 ---
-title: 'preventive maintenance checklist for overhead crane'
-status: 'published'
-slug: 'preventive-maintenance-checklist-for-overhead-crane'
+title: Overhead Crane Preventive Maintenance SOP | Safety Guide
+status: published
+slug: preventive-maintenance-checklist-for-overhead-crane
 publishedAt: '2026-05-11T11:56:43.239Z'
+description: >-
+  Follow this expert overhead crane preventive maintenance SOP to ensure
+  OSHA/ASME compliance, enhance safety, and extend equipment service life. Read
+  more.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Overhead Crane Preventive Maintenance
@@ -57,3 +62,54 @@ A: Not necessarily. ASME B30.2 provides specific criteria regarding the number o
 
 **Q: Can a non-certified operator perform these checks?**
 A: While operators should perform daily pre-shift checks, "preventive maintenance" tasks—specifically those involving electrical systems or mechanical repairs—must be performed by qualified, authorized maintenance personnel.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is Lockout/Tagout (LOTO) required for crane maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LOTO is mandatory to prevent accidental energization or movement of the crane while maintenance personnel are working on it, which is essential to avoid severe personnel injury."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should be inspected on an overhead crane hook?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Inspect the hook for throat opening distortion using a reference gauge, check for cracks, ensure freedom of rotation, and verify the safety latch is operational."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should overhead crane preventive maintenance be performed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preventive maintenance must be performed at specified regular intervals to ensure regulatory compliance and avoid catastrophic equipment failure."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Overhead Crane Preventive Maintenance SOP",
+  "applicationCategory": "Industrial Maintenance Software",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure for maintaining overhead bridge cranes in compliance with OSHA and ASME safety standards.",
+  "softwareVersion": "1.0",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

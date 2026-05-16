@@ -1,3 +1,12 @@
+---
+title: 'Certificate of Occupancy Inspection: Complete SOP Guide'
+description: >-
+  Master your Certificate of Occupancy inspection with this SOP guide. Ensure
+  compliance with life safety, fire, electrical, and ADA codes to avoid delays.
+status: published
+publishedAt: '2026-05-16T03:07:48.086Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Certificate of Occupancy (CO) Inspection
 
 This Standard Operating Procedure (SOP) serves as the definitive guide for facility managers, contractors, and property owners preparing for a Certificate of Occupancy (CO) inspection. The objective of this process is to ensure that all building systems, structural components, and safety features comply with local municipal codes and life-safety requirements. Securing a CO is the final milestone before a property can be legally occupied; failure to adhere to these standards will result in delays, additional permit fees, and deferred project completion.
@@ -47,3 +56,53 @@ No. Occupying a building without a valid Certificate of Occupancy is illegal and
 
 **3. Do I need to be present during the inspection?**
 Yes. It is highly recommended that the Project Manager or Site Superintendent accompanies the inspector. This allows you to clarify any questions, address minor concerns on the spot, and ensure the inspector has access to all secured areas of the property.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a Certificate of Occupancy (CO) inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A CO inspection is a final regulatory review confirming a building meets all municipal codes and life-safety requirements, allowing it to be legally occupied."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the common causes for CO inspection failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common failures include blocked egress paths, non-functional emergency lighting, unsealed utility penetrations in fire-rated walls, and missing GFCI protection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I prepare for a fire protection inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ensure fire sprinklers have 18 inches of clearance, fire alarm panels show no trouble lights, and all smoke detectors are tested and interconnected."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "CO Inspection Compliance Checklist",
+  "applicationCategory": "Productivity",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure for facility managers and contractors to achieve Certificate of Occupancy compliance.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

@@ -1,7 +1,12 @@
 ---
 status: published
-title: Onboarding Checklist Uconn
+title: 'UConn New Employee Onboarding SOP: HR & IT Guide'
 publishedAt: '2026-05-10T18:48:01.029Z'
+description: >-
+  Streamline the UConn onboarding process. Our SOP guide covers NetID
+  activation, technical provisioning, HR paperwork, and workspace setup for new
+  employees.
+seo_optimized: true
 ---
 # Standard Operating Procedure: University of Connecticut (UConn) New Employee Onboarding
 
@@ -48,3 +53,52 @@ A: Mandatory compliance training is tracked via HuskyLearn. New employees should
 
 **Q: What should I do if a new hire cannot access their UConn email?**
 A: First, ensure their NetID is active and password reset has been completed. If issues persist, contact the UConn University Information Technology Services (UITS) Help Center at 860-486-4357.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How far in advance should UConn onboarding be initiated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hiring managers and departmental administrators must initiate the onboarding workflow at least two weeks prior to the new employee’s start date."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the primary technical requirements for new UConn hires?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "New hires require NetID activation, Duo Two-Factor Authentication, hardware acquisition, software licensing, and access to departmental systems like KFS, HuskyBuy, and PeopleSoft."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the physical UConn ID card obtained?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "New employees must submit a digital photo to the One Card Office in advance to ensure their physical ID badge is ready for pickup on their first day."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "UConn Employee Onboarding Workflow",
+  "applicationCategory": "Educational Application",
+  "operatingSystem": "Web-based",
+  "provider": {
+    "@type": "Organization",
+    "name": "University of Connecticut"
+  },
+  "description": "An institutional standard operating procedure for managing new employee technical provisioning, HR compliance, and administrative onboarding at the University of Connecticut."
+}
+</script>

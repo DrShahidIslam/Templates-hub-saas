@@ -1,7 +1,12 @@
 ---
 status: published
-title: Onboarding Checklist Consumer Case Referrals Mas
+title: 'Consumer Case Referral SOP: Managed Access Services Guide'
 publishedAt: '2026-05-10T18:48:00.940Z'
+description: >-
+  Master the Managed Access Services (MAS) consumer case referral workflow.
+  Learn key steps for intake, eligibility verification, and seamless patient
+  enrollment.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Consumer Case Referral Onboarding (MAS)
 
@@ -41,3 +46,49 @@ A: Follow the "Uninsured Workflow." Immediately pivot the case to the PAP (Patie
 
 **Q: Is it acceptable to leave a voicemail for a consumer on the first attempt?**
 A: Yes, but you must strictly adhere to the "Minimum Necessary" standard. State your name, the name of your organization, and a secure call-back number. Do not disclose the specific drug name or diagnosis in the voicemail to protect consumer privacy.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of the MAS consumer referral SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The SOP ensures data integrity, maintains regulatory compliance, and provides a seamless, frictionless transition for consumers from referral to program enrollment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What steps are included in the intake and verification phase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Phase 1 includes confirming receipt via secure channels, checking for mandatory demographic and diagnosis data, verifying HIPAA authorization, and performing a duplicate CRM check."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is consumer eligibility determined in MAS?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Eligibility is determined by identifying insurance payers, conducting electronic benefit verification (eBV), auditing prior authorization requirements, and screening for financial assistance programs."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Managed Access Services (MAS) Platform",
+  "applicationCategory": "Healthcare Software",
+  "operatingSystem": "Web-based",
+  "description": "A workflow management system designed for consumer case referrals, eligibility verification, and patient support service enrollment.",
+  "featureList": "Referral intake, HIPAA compliance verification, Electronic Benefit Verification (eBV), Prior Authorization tracking, Patient assistance screening"
+}
+</script>

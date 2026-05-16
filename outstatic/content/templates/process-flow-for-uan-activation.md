@@ -1,3 +1,13 @@
+---
+title: 'How to Activate UAN Online: Official EPFO Step-by-Step Guide'
+description: >-
+  Learn how to activate your Universal Account Number (UAN) with our easy
+  step-by-step guide. Access your EPFO portal, link Aadhaar, and manage PF funds
+  today.
+status: published
+publishedAt: '2026-05-16T04:29:08.665Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Universal Account Number (UAN) Activation
 
 This Standard Operating Procedure (SOP) outlines the mandatory workflow for the successful activation of a Universal Account Number (UAN) via the Employees' Provident Fund Organization (EPFO) Unified Member Portal. Efficient UAN activation is critical for employees to gain access to their provident fund balances, manage KYC details, and initiate seamless withdrawal or transfer requests. Adherence to this protocol ensures data integrity, compliance with regulatory standards, and a frictionless experience for the end-user.
@@ -51,3 +61,52 @@ A: No. The UAN must be generated and enabled by the employer’s establishment b
 
 **Q: Is there a fee for activating the UAN?**
 A: No. The UAN activation process is a free service provided by the EPFO. Do not share your login credentials or pay any third-party "consultants" claiming to facilitate this process.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What documents do I need to activate my UAN?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need your 12-digit UAN, Member ID, Aadhaar number (linked to an active mobile number), and PAN card details for verification."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I activate my UAN online?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can activate your UAN by visiting the official EPFO Unified Member Portal and clicking the 'Activate UAN' link under the Important Links section."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens after I activate my UAN?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Once activated, you will receive an SMS with a default password, allowing you to log in to the portal to check PF balances, update KYC, and manage withdrawals."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "EPFO Unified Member Portal",
+  "applicationCategory": "FinanceApplication",
+  "operatingSystem": "Web Browser",
+  "description": "The official digital platform provided by the Employees' Provident Fund Organization for employees to manage UAN, KYC, and provident fund accounts.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Employees' Provident Fund Organization (EPFO)"
+  }
+}
+</script>
