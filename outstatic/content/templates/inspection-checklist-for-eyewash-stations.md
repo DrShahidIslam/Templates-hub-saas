@@ -1,3 +1,13 @@
+---
+title: 'Eyewash Station Inspection SOP: ANSI Z358.1 Compliance Guide'
+description: >-
+  Master eyewash station inspections with our expert SOP. Learn the essential
+  ANSI/ISEA Z358.1 checklist for weekly maintenance, testing, and safety
+  compliance.
+status: published
+publishedAt: '2026-05-17T02:59:40.888Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Eyewash Station Inspection
 
 ## Purpose and Scope
@@ -42,3 +52,53 @@ Immediately place an "Out of Service" tag on the unit, notify your supervisor, a
 
 **3. Does this inspection procedure apply to self-contained (portable) stations?**
 Yes. For self-contained units, the inspection must also include checking the fluid levels, ensuring the solution is within its expiration date, and verifying that the solution has been replaced according to the manufacturer’s schedule.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should emergency eyewash stations be inspected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to ANSI/ISEA Z358.1 standards, operational inspections must be performed on a weekly basis to ensure equipment is functional and sterile."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the required travel time to an eyewash station?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Emergency eyewash stations must be reachable within 10 seconds of travel time from the hazard, which is approximately 55 feet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is flushing the eyewash station for 3 minutes important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Running the unit for at least 3 minutes clears stagnant water from the lines, reduces the risk of bacterial contamination, and verifies proper flow performance."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Eyewash Station Inspection Compliance SOP",
+  "applicationCategory": "Industrial Safety Management",
+  "operatingSystem": "All",
+  "description": "Standard Operating Procedure for ensuring ANSI/ISEA Z358.1 compliance for emergency eyewash stations, covering maintenance, testing, and documentation protocols.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

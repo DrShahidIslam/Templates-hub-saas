@@ -1,8 +1,12 @@
 ---
-title: 'preventive maintenance building checklist'
-status: 'published'
-slug: 'preventive-maintenance-building-checklist'
+title: Preventive Building Maintenance SOP | Facility Checklist
+status: published
+slug: preventive-maintenance-building-checklist
 publishedAt: '2026-05-11T10:59:21.074Z'
+description: >-
+  Streamline your facility management with our comprehensive Preventive Building
+  Maintenance SOP. Expert guide for HVAC, MEP, and life safety inspections.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Preventive Building Maintenance
@@ -47,3 +51,49 @@ A: Immediate triage is required. If the issue poses a safety risk, isolate the a
 
 **Q: Should I keep maintenance records if the building is a small office?**
 A: Absolutely. Maintaining a thorough paper trail is critical for insurance claims, liability protection, and future resale value. Even a simple Excel spreadsheet tracking the "Date, Item, Action, and Technician" is sufficient for smaller properties.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should preventive building maintenance be performed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Core building maintenance should be conducted on a quarterly basis, with specific high-frequency tasks (like filter checks) performed monthly to ensure optimal performance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the critical components of a building envelope inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A thorough envelope inspection includes checking roofing systems for drainage issues, inspecting masonry facades for cracks, testing window seals, and clearing storm drains."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is thermal imaging important for electrical panel maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Thermal imaging is used to detect 'hot spots' caused by loose electrical connections, allowing facilities teams to prevent fire hazards and unplanned downtime."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Preventive Building Maintenance SOP",
+  "applicationCategory": "Facility Management Software",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure for recurring facility infrastructure inspection and asset lifecycle management.",
+  "featureList": "HVAC filter replacement, electrical thermal imaging, plumbing leak detection, fire safety compliance, building envelope inspections"
+}
+</script>

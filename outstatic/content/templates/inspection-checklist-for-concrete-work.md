@@ -1,8 +1,12 @@
 ---
-title: 'inspection checklist for concrete work'
-status: 'published'
-slug: 'inspection-checklist-for-concrete-work'
+title: 'Concrete Inspection SOP: Quality Assurance Guide'
+status: published
+slug: inspection-checklist-for-concrete-work
 publishedAt: '2026-05-11T09:35:29.125Z'
+description: >-
+  Follow our expert-led Concrete Inspection SOP to ensure structural integrity
+  and code compliance during pre-placement, pouring, and curing phases.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Concrete Inspection & Quality Assurance
@@ -45,3 +49,54 @@ If the slump is outside of the tolerance specified, do not adjust with water. Re
 
 **3. Why is my concrete surface "dusting" or shedding powder?**
 Dusting is usually caused by finishing the concrete while bleed water is present or by failing to cure the concrete properly. This results in a weak surface paste that turns to powder under foot traffic.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary purpose of a Concrete Inspection SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The SOP ensures structural integrity, durability, and compliance with engineering standards by establishing a rigorous inspection protocol for every phase of concrete work."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long can concrete stay in the truck before placement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard protocol typically requires concrete to be discharged within 90 minutes of the drum turning to maintain mix integrity and slump requirements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should be verified during pre-placement inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pre-placement inspections must verify subgrade compaction, formwork stability, rebar placement and clearance, and the secure installation of all embeds and conduits."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Concrete Quality Assurance Protocol",
+  "applicationCategory": "Construction Management Tool",
+  "operatingSystem": "All",
+  "description": "A standardized inspection and quality assurance SOP for structural concrete placement to prevent failure and ensure regulatory compliance.",
+  "softwareVersion": "1.0",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

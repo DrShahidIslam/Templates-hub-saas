@@ -1,8 +1,13 @@
 ---
-title: 'inspection form for uber pdf'
-status: 'published'
-slug: 'inspection-form-for-uber-pdf'
+title: 'Uber Vehicle Inspection SOP: Complete Compliance Guide'
+status: published
+slug: inspection-form-for-uber-pdf
 publishedAt: '2026-05-11T10:12:56.506Z'
+description: >-
+  Follow our expert Uber vehicle inspection SOP to ensure your car passes safety
+  requirements, avoids deactivation, and stays compliant with platform
+  standards.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Uber Vehicle Inspection Documentation
@@ -50,3 +55,53 @@ In most markets, Uber requires the inspection to be performed by a certified mec
 
 **3. What should I do if my inspection is rejected?**
 Review the rejection notice in the Uber app carefully; it usually highlights the specific field or component that was flagged. Correct the issue (e.g., replace a burnt-out bulb or get the mechanic to fix a clerical error on the form), then resubmit the updated PDF immediately.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the minimum tire tread depth for Uber vehicles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The minimum tread depth is generally 4/32”, though you should always verify the specific requirement for your local jurisdiction as regulations may vary."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I check during an Uber vehicle inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The inspection covers body integrity, glass visibility, all exterior lighting systems, tire tread, door functionality, seatbelt locking mechanisms, HVAC performance, and dashboard warning lights."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use an old inspection form for my Uber vehicle?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, you must use the current, Uber-approved version of the inspection form to ensure your documentation meets platform eligibility and regulatory safety standards."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Uber Vehicle Inspection SOP",
+  "applicationCategory": "Business SOP",
+  "operatingSystem": "All",
+  "description": "A standardized protocol for conducting and documenting Uber-compliant vehicle safety inspections to maintain platform eligibility.",
+  "softwareVersion": "1.0",
+  "offers": {
+    "@type": "Offer",
+    "category": "free"
+  }
+}
+</script>

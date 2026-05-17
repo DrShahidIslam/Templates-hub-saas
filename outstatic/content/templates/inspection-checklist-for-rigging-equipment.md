@@ -1,3 +1,13 @@
+---
+title: 'Rigging Inspection SOP: OSHA & ASME Compliance Guide'
+description: >-
+  Master rigging equipment inspection with our OSHA/ASME-compliant SOP. Learn to
+  identify defects in synthetic slings, wire rope, and hardware to ensure
+  safety.
+status: published
+publishedAt: '2026-05-17T03:00:56.620Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Rigging Equipment Inspection
 
 This Standard Operating Procedure (SOP) establishes the mandatory protocol for the pre-use and periodic inspection of rigging gear to ensure compliance with OSHA 1910.184 and ASME B30.9/B30.26 standards. The objective is to identify structural degradation, chemical damage, or mechanical wear before equipment failure occurs. All rigging equipment must be inspected by a "Designated Competent Person" prior to each shift and on a scheduled periodic basis (documented in writing). Equipment failing any of the following criteria must be immediately tagged "Out of Service" and removed from the operational area.
@@ -40,3 +50,60 @@ A: Not necessarily. Light surface dirt is acceptable, but if the dirt is mixed w
 
 **Q: Can I use an eye bolt that has been slightly bent?**
 A: Absolutely not. Any hardware that shows signs of deformation or distortion has been subjected to stress beyond its elastic limit. It is permanently weakened and poses a high risk of catastrophic failure under future loads. Replace it immediately.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is authorized to inspect rigging equipment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All rigging equipment must be inspected by a 'Designated Competent Person' prior to each shift and on a scheduled periodic basis."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should synthetic slings be removed from service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Remove synthetic slings if you identify excessive abrasion (over 10% thickness), transverse cuts, heat damage, chemical discoloration, or missing identification tags."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the criteria for rejecting wire rope slings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wire ropes must be removed if they exhibit 10 randomly distributed broken wires in one rope lay, 5 broken wires in one strand, or severe deformation like bird-caging or kinks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the acceptable wear limit for rigging hardware?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hardware, such as hooks and shackles, must be removed if deformation or throat/bow widening exceeds 5% of the original dimension."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Rigging Equipment Inspection SOP Tracker",
+  "applicationCategory": "Industrial Safety Management",
+  "description": "Standard Operating Procedure for the mandatory inspection of rigging equipment according to OSHA 1910.184 and ASME B30.9/B30.26 standards.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "category": "Documentation"
+  }
+}
+</script>

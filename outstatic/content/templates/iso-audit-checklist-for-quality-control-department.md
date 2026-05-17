@@ -1,3 +1,13 @@
+---
+title: 'ISO 9001:2015 Audit Preparation: Essential QC SOP Checklist'
+description: >-
+  Master your ISO 9001:2015 audit with our comprehensive QC preparation guide.
+  Streamline document management, equipment calibration, and product
+  traceability.
+status: published
+publishedAt: '2026-05-17T03:07:37.256Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: ISO Quality Control Audit Preparation
 
 This Standard Operating Procedure (SOP) outlines the mandatory protocols and documentation requirements for the Quality Control (QC) department to maintain compliance with ISO 9001:2015 standards. The purpose of this audit preparation is to ensure that all quality processes are documented, consistent, and evidence-based. Adherence to this checklist facilitates a seamless audit process, minimizes non-conformity risks, and demonstrates the organization’s commitment to continuous improvement and customer satisfaction.
@@ -41,3 +51,53 @@ A: This depends on your industry and local regulations, but ISO generally requir
 
 **Q: What should I do if an auditor finds a non-conformity?**
 A: Do not panic. Acknowledge the finding, accept the evidence provided by the auditor, and immediately open a CAPA record. Demonstrating that you have a process to address the finding is often more important than the finding itself.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What documents are required for an ISO 9001 audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key documents include a current Quality Manual, updated SOPs, document control logs, personnel training records, and current external standards like ASTM or ISO guidelines."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I manage equipment calibration for ISO compliance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintain a master list of all inspection and test equipment, ensure certificates are from ISO/IEC 17025 accredited labs, and strictly enforce calibration intervals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should be included in Non-Conforming Material Reports?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NCMRs must include documentation of the defect, segregation details, tagged status, and the final authorized disposition (rework, scrap, or use-as-is)."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "ISO Quality Control Audit Preparation SOP",
+  "applicationCategory": "Quality Management System",
+  "operatingSystem": "All",
+  "description": "A standardized protocol for QC departments to ensure ISO 9001:2015 compliance through documentation management and equipment validation.",
+  "softwareVersion": "1.0",
+  "offers": {
+    "@type": "Offer",
+    "category": "Documentation"
+  }
+}
+</script>

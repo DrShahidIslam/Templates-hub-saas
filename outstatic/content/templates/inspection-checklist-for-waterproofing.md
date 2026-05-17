@@ -1,3 +1,13 @@
+---
+title: 'Waterproofing Inspection SOP: Professional Quality Protocol'
+description: >-
+  Follow our expert waterproofing inspection SOP. Learn key steps for substrate
+  preparation, membrane application, and flood testing to ensure structural
+  integrity.
+status: published
+publishedAt: '2026-05-17T03:01:49.164Z'
+seo_optimized: true
+---
 # Standard Operating Procedure: Waterproofing Inspection Protocol
 
 This Standard Operating Procedure (SOP) outlines the mandatory inspection requirements for waterproofing applications to ensure structural integrity and compliance with building codes. Proper waterproofing is the primary defense against moisture infiltration, which can lead to structural decay, mold growth, and premature failure of finishes. This document provides a rigorous framework for site supervisors and quality control inspectors to verify substrate preparation, membrane application, and drainage systems prior to final closure or backfilling.
@@ -56,3 +66,53 @@ A: While highly recommended for all horizontal installations, it is mandatory fo
 
 **Q: How do I handle weather interruptions during the curing process?**
 A: If rain is imminent, stop application immediately. If a surface has been rained on during the initial set, it must be inspected for surface damage or dilution of the product; in most cases, the affected area will require complete removal and re-application.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of a waterproofing inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary goal is to ensure structural integrity and code compliance by verifying substrate preparation, membrane continuity, and drainage systems to prevent moisture infiltration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the standard slope requirement for balconies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proper drainage requires a minimum slope/fall of 1:80 toward drainage outlets to ensure water moves effectively away from the structure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is a flood test necessary in waterproofing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A flood test serves as the critical performance benchmark for horizontal waterproofing, confirming that the membrane and seals are watertight under pressure before backfilling or closure."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Waterproofing Inspection Protocol SOP",
+  "applicationCategory": "Construction Management",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure for site supervisors to ensure high-quality waterproofing application and structural protection.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

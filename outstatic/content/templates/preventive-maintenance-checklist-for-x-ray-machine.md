@@ -1,7 +1,12 @@
 ---
 status: published
-title: Preventive Maintenance Checklist For X Ray Machine
+title: 'X-Ray Preventive Maintenance SOP: Best Practices & Checklist'
 publishedAt: '2026-05-10T18:48:01.081Z'
+description: >-
+  Ensure diagnostic X-ray compliance and safety with our comprehensive
+  preventive maintenance SOP. Detailed protocols for mechanical, safety, and
+  image checks.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Preventive Maintenance for X-Ray Systems
 
@@ -48,3 +53,52 @@ A: Immediately stop all usage of the unit. Oil leaks from the tube housing indic
 
 **Q: Is it necessary to recalibrate if the machine passes all safety tests?**
 A: Yes. Calibration is about clinical performance. Even if the machine is "safe," if the kVp or mA settings are drifting, it can lead to poor diagnostic image quality or unnecessary radiation dose to the patient.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should preventive maintenance be performed on X-ray systems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preventive maintenance frequency should follow manufacturer specifications and local regulatory requirements (such as FDA/CDRH guidelines) to ensure safety and compliance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is authorized to perform X-ray maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All maintenance and calibration procedures must be performed exclusively by certified biomedical engineers or authorized service technicians."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the acceptable tolerance for collimator alignment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The deviation between the light field and the radiation field must not exceed 2% of the Source-to-Image Distance (SID)."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "X-Ray Preventive Maintenance SOP System",
+  "applicationCategory": "Medical Maintenance Software",
+  "operatingSystem": "Diagnostic Imaging Hardware",
+  "description": "A standardized protocol framework for conducting diagnostic X-ray system maintenance, including mechanical, safety, and performance evaluations.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Compliance Tool"
+  }
+}
+</script>

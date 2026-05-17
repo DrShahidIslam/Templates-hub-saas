@@ -1,7 +1,12 @@
 ---
 status: published
-title: Maintenance Checklist For Office
+title: 'Office Facility Maintenance SOP: Best Practices Guide'
 publishedAt: '2026-05-10T18:48:00.898Z'
+description: >-
+  Streamline your workplace operations with our comprehensive Office Facility
+  Maintenance SOP. Learn key protocols for HVAC, electrical, and structural
+  upkeep.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Office Facility Maintenance
 
@@ -53,3 +58,52 @@ A: If the issue involves specialized systems (e.g., electrical, plumbing, or maj
 
 **Q: Are there specific requirements for records keeping?**
 A: Yes. All maintenance logs, repair receipts, and safety inspection records should be kept on file for a minimum of three years for insurance and compliance auditing purposes.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should office HVAC filters be replaced?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "HVAC air filters should be inspected quarterly. If they appear clogged or dirty, they must be replaced immediately to maintain air quality and energy efficiency."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the protocol for emergency lighting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Emergency lighting and exit signs must be tested monthly to ensure they are functional and remain in compliance with mandatory fire safety codes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is regular office maintenance important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regular maintenance is essential to mitigate operational downtime, extend the lifespan of company assets, and ensure compliance with Occupational Health and Safety (OHS) standards."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Office Facility Maintenance SOP",
+  "applicationCategory": "BusinessApplication",
+  "description": "A standardized procedural document for managing office facility inspections, HVAC upkeep, electrical safety, and structural maintenance.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "category": "free"
+  }
+}
+</script>

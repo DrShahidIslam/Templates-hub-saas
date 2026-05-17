@@ -1,7 +1,11 @@
 ---
 status: published
-title: Example Onboarding Document
+title: 'New Hire Onboarding SOP: Best Practices & Checklist'
 publishedAt: '2026-05-10T18:48:00.857Z'
+description: >-
+  Optimize your recruitment process with this standard operating procedure for
+  new hire onboarding. Boost productivity and improve employee retention today.
+seo_optimized: true
 ---
 # Standard Operating Procedure: New Hire Onboarding Process
 
@@ -47,3 +51,52 @@ A: We recommend a brief 15-minute sync once a week for the first 90 days to trac
 
 **Q: Where can I find the latest version of the company policy handbook?**
 A: The most recent version of the handbook is always pinned to the top of the "Company Policies" folder in the shared internal knowledge base (Notion/Confluence).
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the primary goal of an onboarding SOP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary goal is to minimize time-to-productivity, ensure compliance with company policies, and provide a seamless integration for new hires into the company culture and infrastructure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should be included in pre-arrival preparation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pre-arrival steps include hardware provisioning, managing account access permissions for tools like Slack and Jira, workspace setup, and sending a welcome email with start-date details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a 'Culture Buddy' in the onboarding process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Culture Buddy is a peer mentor who is not on the new hire's direct reporting line. Their role is to help the new employee navigate the office environment and answer informal questions."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Onboarding Process SOP Manager",
+  "applicationCategory": "BusinessApplication",
+  "description": "A standardized framework for streamlining new hire integration, hardware provisioning, and team training workflows.",
+  "operatingSystem": "Web-based",
+  "offers": {
+    "@type": "Offer",
+    "category": "Documentation"
+  }
+}
+</script>

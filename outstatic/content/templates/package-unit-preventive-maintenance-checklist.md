@@ -1,8 +1,12 @@
 ---
-title: 'package unit preventive maintenance checklist'
-status: 'published'
-slug: 'package-unit-preventive-maintenance-checklist'
+title: 'Package Unit Preventive Maintenance SOP: Best Practices'
+status: published
+slug: package-unit-preventive-maintenance-checklist
 publishedAt: '2026-05-11T12:18:44.192Z'
+description: >-
+  Follow this professional SOP for commercial rooftop package unit maintenance
+  to boost efficiency, prevent downtime, and ensure safe HVAC operation.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Package Unit Preventive Maintenance
@@ -50,3 +54,53 @@ A: The most frequent cause is a dirty condenser coil. A restricted coil causes h
 
 **Q: Is it necessary to check the gas heat section during a cooling PM?**
 A: Yes. At minimum, perform a visual inspection of the heat exchanger for cracks and clean the burners. It is best practice to perform a full combustion analysis during every service visit to ensure safe operation.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the first step in package unit maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before starting any maintenance, you must perform a visual inspection and strictly adhere to Lockout/Tagout (LOTO) safety protocols by disconnecting the power source."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should you inspect HVAC electrical connections?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Electrical terminals should be inspected and tightened during every preventive maintenance visit, as thermal expansion and contraction can cause wiring to loosen over time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the proper way to clean condenser coils?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use low-pressure water or compressed air to remove debris, ensuring you always rinse or blow from the inside out to avoid driving dirt deeper into the coil fins."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Package Unit Preventive Maintenance SOP",
+  "applicationCategory": "Industrial Maintenance Utility",
+  "description": "A comprehensive Standard Operating Procedure for commercial rooftop HVAC units, covering safety, airside filtration, condenser systems, and electrical diagnostics.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

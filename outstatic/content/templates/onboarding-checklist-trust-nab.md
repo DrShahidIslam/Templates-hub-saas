@@ -1,7 +1,11 @@
 ---
 status: published
-title: Onboarding Checklist Trust Nab
+title: 'NAB Trust Onboarding Guide: AML & KYC Compliance SOP'
 publishedAt: '2026-05-10T18:48:01.028Z'
+description: >-
+  Streamline your NAB trust account onboarding with our expert SOP guide. Ensure
+  compliance with AML/KYC requirements and avoid documentation delays.
+seo_optimized: true
 ---
 # Standard Operating Procedure: Trust Onboarding Process (NAB)
 
@@ -45,3 +49,52 @@ A: Foreign Trustees are subject to additional KYC scrutiny. You will likely need
 
 **Q: How long does the onboarding process typically take?**
 A: Once all documentation is submitted in "Good Order," the approval process generally takes 5–10 business days. Delays often occur due to missing signatures or illegible scans of identity documents.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What documents are required for a NAB Trust account application?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need the original signed/stamped Trust Deed, any Deeds of Variation, an ASIC Company Extract (if a corporate trustee is involved), and proof of identity for all beneficial owners and stakeholders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How are beneficial owners identified for NAB trust onboarding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "NAB requires identification of all individuals holding a 25% or greater interest in the trust, as well as the Settlor and any Appointors, in compliance with AML/KYC regulations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the purpose of the Resolution of Trustees document?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Resolution of Trustees document formally authorizes the opening of bank accounts and designates specific authorized signatories to act on behalf of the trust."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "NAB Business Trust Account Portal",
+  "applicationCategory": "FinanceApplication",
+  "operatingSystem": "Web-based",
+  "description": "Standard Operating Procedure and portal documentation for onboarding Trust entities with National Australia Bank (NAB) ensuring AML and KYC compliance.",
+  "provider": {
+    "@type": "Organization",
+    "name": "National Australia Bank (NAB)"
+  }
+}
+</script>

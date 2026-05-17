@@ -1,8 +1,12 @@
 ---
-title: 'inspection sheet for vehicle'
-status: 'published'
-slug: 'inspection-sheet-for-vehicle'
+title: 'Vehicle Inspection Protocol: SOP for Fleet Safety & Compliance'
+status: published
+slug: inspection-sheet-for-vehicle
 publishedAt: '2026-05-11T10:16:36.740Z'
+description: >-
+  Follow our mandatory vehicle inspection protocol to ensure fleet safety, legal
+  compliance, and asset maintenance. Download the pre-trip and post-trip SOP.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Vehicle Inspection Protocol
@@ -52,3 +56,53 @@ A: Ideally, tire pressure should be checked before every shift. At a minimum, pr
 
 **Q: Am I legally responsible for the vehicle's condition?**
 A: Yes. As the operator, you are legally responsible for the safe condition of the vehicle while it is under your control. Failure to identify a known defect before operating a vehicle can lead to fines, loss of licensure, and personal liability in the event of an accident.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should vehicle inspections be performed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vehicle inspections must be performed twice daily: before the start of each shift (pre-trip) and immediately after the conclusion of each shift (post-trip)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I look for during a tire inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Check tire tread depth with a gauge, inspect sidewalls for bulges, cuts, or exposed cords, and ensure tire pressure matches the manufacturer’s recommended PSI found on the door jamb."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is the vehicle inspection protocol important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Strict adherence to the protocol ensures operational readiness, minimizes mechanical failures, maintains legal compliance, and documents vehicle condition to prevent liability disputes."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Fleet Vehicle Inspection Protocol SOP",
+  "applicationCategory": "Utility",
+  "operatingSystem": "All",
+  "description": "A comprehensive standard operating procedure for conducting mandatory pre-trip and post-trip vehicle safety inspections to maintain fleet assets.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

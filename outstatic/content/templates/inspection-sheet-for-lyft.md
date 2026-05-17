@@ -1,8 +1,12 @@
 ---
-title: 'inspection sheet for lyft'
-status: 'published'
-slug: 'inspection-sheet-for-lyft'
+title: 'Lyft Vehicle Inspection SOP: Safety & Maintenance Guide'
+status: published
+slug: inspection-sheet-for-lyft
 publishedAt: '2026-05-11T09:58:13.373Z'
+description: >-
+  Master the Lyft vehicle inspection process with our comprehensive SOP. Ensure
+  compliance, passenger safety, and high ratings with this daily checklist.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Vehicle Safety and Compliance Inspection
@@ -50,3 +54,52 @@ A: If a passenger identifies a safety concern, apologize, end the trip immediate
 
 **Q: Am I required to have a specific car model to pass inspection?**
 A: Yes, Lyft maintains a list of eligible vehicle years and models. Generally, vehicles must be newer (usually 15 years or newer, depending on the market) and must have four doors and seatbelts for at least five passengers. Always consult the "Vehicle Requirements" page in your driver portal.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I perform a Lyft vehicle inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drivers should perform a quick 'pre-trip' inspection daily and a 'comprehensive' inspection monthly to ensure all safety and mechanical systems are functioning."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the minimum tire tread depth for Lyft vehicles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your tires must meet legal requirements, which typically require a minimum tread depth of 2/32 inches."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which mechanical systems should be checked during the inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should inspect fluid levels (oil, coolant, brake, washer fluid) and verify that the brake pedal provides firm resistance and performs reliably."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Lyft",
+  "applicationCategory": "Transportation",
+  "operatingSystem": "iOS, Android",
+  "description": "A ride-sharing platform connecting drivers with passengers, requiring strict adherence to vehicle safety and maintenance standards.",
+  "softwareHelp": {
+    "@type": "CreativeWork",
+    "name": "Vehicle Safety and Compliance Inspection SOP"
+  }
+}
+</script>

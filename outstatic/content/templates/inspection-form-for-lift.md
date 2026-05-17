@@ -1,8 +1,13 @@
 ---
-title: 'inspection form for lift'
-status: 'published'
-slug: 'inspection-form-for-lift'
+title: 'Vertical Lift Inspection SOP: Essential Safety Guide'
+status: published
+slug: inspection-form-for-lift
 publishedAt: '2026-05-11T09:58:35.487Z'
+description: >-
+  Follow our expert SOP for vertical lift inspections. Learn the essential steps
+  for maintaining elevators, goods lifts, and platforms to ensure safety
+  compliance.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Vertical Lift Inspection
@@ -51,3 +56,53 @@ A: Immediately place the lift in "Out of Service" mode, post clear signage at al
 
 **Q: Should I grease the guide rails myself?**
 A: No. Lubrication of guide rails requires specific, manufacturer-approved lubricants. Incorrect grease can attract dust and debris, causing the safety brakes to fail during an emergency stop. Always leave lubrication to the certified service technician.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What PPE is required for vertical lift inspections?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Inspectors must wear a high-visibility vest, industrial safety boots, and a hard hat at all times during the inspection process."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should vertical lift safety systems be tested?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Routine safety inspections should be performed regularly according to facility maintenance schedules, or immediately if equipment displays signs of wear or failure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the acceptable leveling tolerance for a lift?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The lift should stop flush with the floor level, with a generally accepted operational tolerance of ±10mm."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Facility Maintenance Inspection SOP",
+  "applicationCategory": "Industrial Safety Management",
+  "description": "A standardized protocol for conducting mechanical and safety inspections on vertical lifting equipment including elevators and platforms.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

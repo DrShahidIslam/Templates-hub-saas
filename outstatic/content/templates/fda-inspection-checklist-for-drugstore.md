@@ -1,8 +1,12 @@
 ---
-title: 'fda inspection checklist for drugstore'
-status: 'published'
-slug: 'fda-inspection-checklist-for-drugstore'
+title: 'FDA Inspection Readiness SOP: Pharmacy Compliance Guide'
+status: published
+slug: fda-inspection-checklist-for-drugstore
 publishedAt: '2026-05-11T09:41:05.846Z'
+description: >-
+  Ensure your pharmacy stays FDA compliant. Access our comprehensive SOP for
+  drug storage, DSCSA tracking, documentation, and staff training requirements.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: FDA Inspection Readiness for Drugstores
@@ -49,3 +53,52 @@ Do not fabricate documents. Be honest, state that the document is not currently 
 
 **3. Am I required to sign the Form FDA-483 (Inspectional Observations)?**
 No, you are not legally required to sign the Form 483. Acknowledging receipt does not mean you agree with the findings. It is advisable to consult with legal counsel before signing any official government documentation provided during an inspection.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What temperature range must pharmacy refrigerators maintain for FDA compliance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For FDA compliance, pharmacy refrigerators must maintain a strict temperature range between 2°C and 8°C, with calibrated logs maintained at all times."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long must DSCSA transaction records be kept by a pharmacy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Under the Drug Supply Chain Security Act (DSCSA), pharmacies are required to maintain electronic records of product transaction history (TI, TS, TH) for a minimum of six years."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should expired medications be handled during an FDA inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expired medications must be logged, immediately removed from active inventory, and kept in a physically quarantined zone separate from saleable stock."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Pharmacy FDA Inspection Readiness SOP",
+  "applicationCategory": "Compliance Management Software",
+  "operatingSystem": "Web-based",
+  "description": "Standard Operating Procedure template for drugstores to maintain regulatory compliance with FDA storage, inventory, and personnel requirements.",
+  "offers": {
+    "@type": "Offer",
+    "category": "Compliance Documentation"
+  }
+}
+</script>

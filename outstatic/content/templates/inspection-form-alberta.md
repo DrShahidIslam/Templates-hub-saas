@@ -1,8 +1,12 @@
 ---
-title: 'inspection form alberta'
-status: 'published'
-slug: 'inspection-form-alberta'
+title: 'Alberta Regulatory Inspection SOP: Compliance Guide'
+status: published
+slug: inspection-form-alberta
 publishedAt: '2026-05-11T09:31:25.590Z'
+description: >-
+  Master Alberta regulatory compliance with our step-by-step SOP for OHS and
+  EPEA inspection workflows. Ensure due diligence and seamless audit readiness.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Alberta Regulatory Inspection Compliance
@@ -47,3 +51,49 @@ You are legally obligated under the Alberta OHS Act to issue a "Stop Work" direc
 
 **3. Are digital signatures legally binding for Alberta inspections?**
 Yes, provided the software used creates a secure audit trail that identifies the signatory and prevents unauthorized alteration of the document post-signature.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key requirements for Alberta regulatory inspection compliance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key requirements include verifying documentation against current OHS/EPEA codes, calibrating diagnostic equipment, performing a PPE audit, and conducting a systematic on-site hazard assessment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should non-conformances be handled during an inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non-conformances must be documented with objective descriptions, supported by photographic evidence, and addressed through a formal Corrective Action Plan (CAP)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is site identification critical in inspection documentation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Accurate site identification, including GPS coordinates or legal land descriptions, ensures legal traceability and auditability under Alberta provincial regulations."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Alberta Regulatory Inspection SOP Manager",
+  "applicationCategory": "Compliance Software",
+  "operatingSystem": "All",
+  "description": "A standardized procedural workflow tool designed to assist companies in meeting Alberta Occupational Health and Safety (OHS) and Environmental Protection and Enhancement Act (EPEA) compliance standards.",
+  "featureList": "Inspection form management, hazard assessment tracking, corrective action planning, and photographic evidence logging."
+}
+</script>

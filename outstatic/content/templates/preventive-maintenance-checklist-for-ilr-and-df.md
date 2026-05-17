@@ -1,8 +1,12 @@
 ---
-title: 'preventive maintenance checklist for ilr and df'
-status: 'published'
-slug: 'preventive-maintenance-checklist-for-ilr-and-df'
+title: ILR and Deep Freezer Preventive Maintenance SOP Guide
+status: published
+slug: preventive-maintenance-checklist-for-ilr-and-df
 publishedAt: '2026-05-11T11:33:01.076Z'
+description: >-
+  Follow our expert SOP for preventive maintenance of ILR and Deep Freezer units
+  to ensure vaccine safety, extend equipment lifespan, and prevent failures.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: Preventive Maintenance for ILR and DF Units
@@ -46,3 +50,53 @@ Immediately document the excursion in the cold chain incident log, notify your s
 
 **3. Why is it important to clean the condenser coils?**
 The condenser is responsible for dissipating heat. If it is covered in dust, the compressor must work significantly harder to keep the interior cold, which increases electricity consumption and leads to compressor burnout.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I clean the condenser coils on an ILR unit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Condenser coils should be cleaned regularly as part of your preventive maintenance schedule. Keeping them free of dust and debris is critical to preventing compressor failure and maintaining energy efficiency."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I test if my freezer door gasket is working correctly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the 'paper test': place a piece of paper in the door seal and close it. If the paper pulls out easily, the gasket is compromised and needs replacement to maintain internal temperatures."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the recommended clearance for ILR and Deep Freezer units?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You must maintain at least 15-20 cm of clearance between the unit and surrounding walls or equipment to ensure proper airflow and prevent overheating."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "ILR and Deep Freezer Maintenance Protocol",
+  "applicationCategory": "IndustrialMaintenance",
+  "description": "Standard Operating Procedure for the preventive maintenance, cleaning, and mechanical verification of medical-grade Ice-Lined Refrigerators and Deep Freezers.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>

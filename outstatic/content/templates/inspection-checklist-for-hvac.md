@@ -1,8 +1,12 @@
 ---
-title: 'inspection checklist for hvac'
-status: 'published'
-slug: 'inspection-checklist-for-hvac'
+title: 'HVAC Preventative Maintenance SOP: Technician Guide'
+status: published
+slug: inspection-checklist-for-hvac
 publishedAt: '2026-05-11T09:47:18.220Z'
+description: >-
+  Master HVAC preventative maintenance with our comprehensive SOP. Learn
+  essential inspection steps for condensers, air handlers, and safety protocols.
+seo_optimized: true
 ---
 
 # Standard Operating Procedure: HVAC Preventative Maintenance Inspection
@@ -52,3 +56,53 @@ A: Restricted airflow due to dirty filters or fouled evaporator coils is the mos
 
 **Q: If the Delta T (temperature difference) is outside the manufacturer's range, what is the first thing I should check?**
 A: Check the airflow first. A dirty filter or a dirty evaporator coil is the most common reason for an incorrect temperature differential; ensure the air side is clean before adjusting refrigerant charges.
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in an HVAC preventative maintenance inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A standard inspection covers safety protocols, exterior condenser unit cleaning, interior blower and evaporator coil assessments, filter replacement, and electrical component testing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should HVAC maintenance be performed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preventative maintenance should be performed regularly according to manufacturer specifications to extend equipment lifespan, improve indoor air quality, and optimize energy efficiency."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What safety precautions are required before an HVAC inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Technicians must follow lockout/tagout (LOTO) procedures, wear appropriate PPE, and review equipment maintenance history before accessing electrical components."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "HVAC Maintenance SOP Manager",
+  "applicationCategory": "Industrial Utility",
+  "description": "A comprehensive standard operating procedure for HVAC technicians to streamline preventative maintenance and inspection workflows.",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  }
+}
+</script>
